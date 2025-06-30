@@ -1,0 +1,24 @@
+Title: Fermi Surface Transforms at the Onset of the Pseudogap State in a Cuprate Superconductor
+Authors: 
+Year: N/A
+Paper ID: web_212419
+URL: https://nationalmaglab.org/user-facilities/dc-field/research/science-highlights/fermi-surface-transforms-pseudogap-state/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Fermi Surface Transformation at the Onset of the Pseudogap State in Cuprate Superconductors
+
+**Key Points:**
+- The Fermi surface in cuprate superconductors transforms at a critical carrier concentration corresponding to the onset of the pseudogap state, shifting from a single large pocket to four small pockets.
+- This transformation is linked to the emergence of magnetism, which appears at the onset of the pseudogap state and dramatically reduces the number of charge carriers.
+- The findings provide direct evidence that the critical point for the pseudogap is also associated with the onset of magnetism, offering important clues about the mechanism of high-temperature superconductivity.
+
+**Methods:** 
+- Angle dependent magnetoresistance (ADMR) measurements using the 45T hybrid magnet at the National MagLab to map Fermi surfaces inside and outside the pseudogap phase.
+
+**Authors:** 
+Y. Fang, G. Grissonnanche, A. Legros, S. Verret, F. Laliberté, C. Collignon, A. Ataei, M. Dion, J. Zhou, D. Graf, M.J. Lawler, P.A. Goddard, L. Taillefer, B.J. Ramshaw (Affiliations: Cornell University, Université de Sherbrooke, Université Paris-Saclay, University of Texas at Austin, National MagLab, University of Warwick, Canadian Institute for Advanced Research)
+
+**Summary:** 
+This study demonstrates that in high-temperature cuprate superconductors, the Fermi surface undergoes a significant transformation at the critical point marking the onset of the pseudogap state. Using high-field magnetoresistance measurements, researchers found that this transformation coincides with the emergence of magnetism, which restructures the Fermi surface and reduces charge carriers. These results provide direct evidence linking the pseudogap critical point to magnetism, advancing understanding of the interplay between magnetism and superconductivity in these materials.

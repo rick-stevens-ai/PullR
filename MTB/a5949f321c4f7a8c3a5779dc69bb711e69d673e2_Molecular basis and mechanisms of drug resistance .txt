@@ -1,0 +1,9 @@
+Title: Molecular basis and mechanisms of drug resistance in Mycobacterium tuberculosis: classical and new drugs.
+Authors: P. E. Almeida da Silva, J. Palomino
+Year: 2011
+Paper ID: a5949f321c4f7a8c3a5779dc69bb711e69d673e2
+URL: https://www.semanticscholar.org/paper/a5949f321c4f7a8c3a5779dc69bb711e69d673e2
+Venue: Journal of Antimicrobial Chemotherapy
+
+Abstract:
+Tuberculosis (TB) remains one of the leading public health problems worldwide. Declared as a global emergency in 1993 by the WHO, its control is hampered by the emergence of multidrug resistance (MDR), defined as resistance to at least rifampicin and isoniazid, two key drugs in the treatment of the disease. More recently, severe forms of drug resistance such as extensively drug-resistant (XDR) TB have been described. After the discovery of several drugs with anti-TB activity, multidrug therapy became fundamental for control of the disease. Major advances in molecular biology and the availability of new information generated after sequencing the genome of Mycobacterium tuberculosis increased our knowledge of the mechanisms of resistance to the main anti-TB drugs. Better knowledge of the mechanisms of drug resistance in TB and the molecular mechanisms involved will help us to improve current techniques for rapid detection and will also stimulate the exploration of new targets for drug activity and drug development. This article presents an updated review of the mechanisms and molecular basis of drug resistance in M. tuberculosis. It also comments on the several gaps in our current knowledge of the molecular mechanisms of drug resistance to the main classical and new anti-TB drugs and briefly discusses some implications of the development of drug resistance and fitness, transmission and pathogenicity of M. tuberculosis.

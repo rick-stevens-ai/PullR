@@ -1,0 +1,9 @@
+Title: Correlated topological mixed-valence insulators in moiré heterobilayers
+Authors: J. F. Mendez-Valderrama, Sunghoon Kim, Debanjan Chowdhury
+Year: 2024
+Paper ID: d7ac7b1871b36a2a143a42665c043e37041d73c4
+URL: https://www.semanticscholar.org/paper/d7ac7b1871b36a2a143a42665c043e37041d73c4
+Venue: Physical review B
+
+Abstract:
+Moir\'e transition metal dichalcogenide (TMD) materials provide an ideal playground for studying the combined interplay of strong interactions and band-topology over a range of electronic fillings. Here we investigate the panoply of interaction-induced electronic phases that arise at a total commensurate filling of $\nu_T=2$ in moir\'e TMD heterobilayers, focusing specifically on their renormalized band-topology. We carry out a comprehensive self-consistent parton mean-field analysis on an interacting mixed-valence Hamiltonian describing AB-stacked MoTe$_2$/WSe$_2$ to highlight different ingredients that arise due to"Mottness", band-flattening, an enhanced excitonic tendency, and band-inversion, leading to correlated topological semi-metals and insulators. We also propose a possible route towards realizing fractionalized insulators with emergent neutral fermionic excitations in this and other closely related platforms.

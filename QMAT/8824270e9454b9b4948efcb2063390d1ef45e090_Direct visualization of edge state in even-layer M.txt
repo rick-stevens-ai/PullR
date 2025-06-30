@@ -1,0 +1,9 @@
+Title: Direct visualization of edge state in even-layer MnBi2Te4 at zero magnetic field
+Authors: W. Lin, Yang Feng, Yongchao Wang, Zichen Lian, Hao Li et al. (and 8 more)
+Year: 2021
+Paper ID: 8824270e9454b9b4948efcb2063390d1ef45e090
+URL: https://www.semanticscholar.org/paper/8824270e9454b9b4948efcb2063390d1ef45e090
+Venue: Nature Communications
+
+Abstract:
+Being the first intrinsic antiferromagnetic (AFM) topological insulator (TI), MnBi2Te4 is argued to be a topological axion state in its even-layer form due to the antiparallel magnetization between the top and bottom layers. Here we combine both transport and scanning microwave impedance microscopy (sMIM) to investigate such axion state in atomically thin MnBi2Te4 with even-layer thickness at zero magnetic field. While transport measurements show a zero Hall plateau signaturing the axion state, sMIM uncovers an unexpected edge state raising questions regarding the nature of the “axion state”. Based on our model calculation, we propose that the edge state of even-layer MnBi2Te4 at zero field is derived from gapped helical edge states of the quantum spin Hall effect with time-reversal-symmetry breaking, when a crossover from a three-dimensional TI MnBi2Te4 to a two-dimensional TI occurs. Our finding thus signifies the richness of topological phases in MnB2Te4 that has yet to be fully explored.

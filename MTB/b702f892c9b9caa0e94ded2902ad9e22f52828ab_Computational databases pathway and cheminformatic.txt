@@ -1,0 +1,9 @@
+Title: Computational databases, pathway and cheminformatics tools for tuberculosis drug discovery.
+Authors: S. Ekins, Joel S. Freundlich, Inhee Choi, M. Sarker, C. Talcott
+Year: 2011
+Paper ID: b702f892c9b9caa0e94ded2902ad9e22f52828ab
+URL: https://www.semanticscholar.org/paper/b702f892c9b9caa0e94ded2902ad9e22f52828ab
+Venue: Trends in Microbiology
+
+Abstract:
+None

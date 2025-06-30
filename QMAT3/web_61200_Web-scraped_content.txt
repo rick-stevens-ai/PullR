@@ -1,0 +1,10 @@
+Title: Web-scraped content
+Authors: 
+Year: N/A
+Paper ID: web_61200
+URL: https://mediatum.ub.tum.de/doc/1070963/1070963.pdf
+Venue: Web Source
+Content Status: SHORT_ABSTRACT, WEB_SCRAPED
+
+Abstract:
+No abstract available

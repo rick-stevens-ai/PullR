@@ -1,0 +1,9 @@
+Title: Chemical space as a source for new drugs
+Authors: J. Reymond, R. V. Deursen, Lorenz C. Blum, Lars Ruddigkeit
+Year: 2010
+Paper ID: 43cccae2aa253dfcae3926cb30c6d32cc6ac3f9b
+URL: https://www.semanticscholar.org/paper/43cccae2aa253dfcae3926cb30c6d32cc6ac3f9b
+Venue: 
+
+Abstract:
+The chemical space is the ensemble of all possible molecules, which is believed to contain at least 1060 organic molecules below 500 Da of possible interest for drug discovery. This review summarizes the development of the chemical space concept from enumerating acyclic hydrocarbons in the 1800's to the recent assembly of the chemical universe database GDB. Chemical space travel algorithms can be used to explore defined regions of chemical space by generating focused virtual libraries. Maps of the chemical space are produced from property spaces visualized by principal component analysis or by self-organizing maps, and from structural analyses such as the scaffold-tree or the MQN-system. Virtual screening of virtual chemical space followed by synthesis and testing of the best hits leads to the discovery of new drug molecules.

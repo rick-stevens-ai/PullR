@@ -1,0 +1,9 @@
+Title: Topological quantum computing
+Authors: Fabian Hassler
+Year: 2024
+Paper ID: 93d0086ae1886862a0457ba6b10d11650fd6e79c
+URL: https://www.semanticscholar.org/paper/93d0086ae1886862a0457ba6b10d11650fd6e79c
+Venue: 
+
+Abstract:
+These lecture notes offer a pedagogical yet concise introduction to topological quantum computing. The material focuses on topological superconductors and Majorana qubits. It concludes with a discussion of more general braiding phenomena. In particular, the notes delve into the non-Abelian braiding statistics of Ising and Fibonacci anyons. Although not comprehensive, this set provides a solid entry point for students and researchers interested in the field.

@@ -1,0 +1,9 @@
+Title: Recognizing Pitfalls in Virtual Screening: A Critical Review
+Authors: T. Scior, A. Bender, G. Tresadern, J. Medina-Franco, K. Martínez-Mayorga et al. (and 3 more)
+Year: 2012
+Paper ID: 4717432b8075044fba082b312e0bd52ac0bb907e
+URL: https://www.semanticscholar.org/paper/4717432b8075044fba082b312e0bd52ac0bb907e
+Venue: Journal of Chemical Information and Modeling
+
+Abstract:
+The aim of virtual screening (VS) is to identify bioactive compounds through computational means, by employing knowledge about the protein target (structure-based VS) or known bioactive ligands (ligand-based VS). In VS, a large number of molecules are ranked according to their likelihood to be bioactive compounds, with the aim to enrich the top fraction of the resulting list (which can be tested in bioassays afterward). At its core, VS attempts to improve the odds of identifying bioactive molecules by maximizing the true positive rate, that is, by ranking the truly active molecules as high as possible (and, correspondingly, the truly inactive ones as low as possible). In choosing the right approach, the researcher is faced with many questions: where does the optimal balance between efficiency and accuracy lie when evaluating a particular algorithm; do some methods perform better than others and in what particular situations; and what do retrospective results tell us about the prospective utility of a particular method? Given the multitude of settings, parameters, and data sets the practitioner can choose from, there are many pitfalls that lurk along the way which might render VS less efficient or downright useless. This review attempts to catalogue published and unpublished problems, shortcomings, failures, and technical traps of VS methods with the aim to avoid pitfalls by making the user aware of them in the first place.

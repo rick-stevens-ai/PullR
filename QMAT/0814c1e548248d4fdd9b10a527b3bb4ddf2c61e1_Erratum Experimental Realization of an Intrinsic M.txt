@@ -1,0 +1,9 @@
+Title: Erratum: Experimental Realization of an Intrinsic Magnetic Topological Insulator [Chin. Phys. Lett. 36 (2019) 076801]
+Authors: Y. Gong 龚, J. Guo 郭, Jiaheng 佳恒 Li 李, Kejing 科静 Zhu 朱, Menghan 孟涵 Liao 廖 et al. (and 19 more)
+Year: 2019
+Paper ID: 0814c1e548248d4fdd9b10a527b3bb4ddf2c61e1
+URL: https://www.semanticscholar.org/paper/0814c1e548248d4fdd9b10a527b3bb4ddf2c61e1
+Venue: Chinese Physics Letters
+
+Abstract:
+Erratum: Experimental Realization of an Intrinsic Magnetic Topological Insulator [Chin. Phys. Lett. 36 (2019) 076801] Yan Gong(龚演), Jingwen Guo(郭景文), Jiaheng Li(李佳恒), Kejing Zhu(朱科静), Menghan Liao(廖孟涵), Xiaozhi Liu(刘效治), Qinghua Zhang(张庆华), Lin Gu(谷林), Lin Tang(唐林), Xiao Feng(冯硝), Ding Zhang(张定), Wei Li(李渭), Canli Song(宋灿立), Lili Wang(王立莉), Pu Yu(于浦), Xi Chen(陈曦), Yayu Wang(王亚愚), Hong Yao(姚宏), Wenhui Duan(段文晖), Yong Xu(徐勇)1,4,6** , Shou-Cheng Zhang(张首晟), Xucun Ma(马旭村), Qi-Kun Xue(薛其坤)1,3,4** , Ke He(何珂)1,3,4** State Key Laboratory of Low Dimensional Quantum Physics, Department of Physics, Tsinghua University, Beijing 100084 Beijing National Laboratory for Condensed Matter Physics, Institute of Physics, Chinese Academy of Sciences, Beijing 100190 Beijing Academy of Quantum Information Sciences, Beijing 100193 Collaborative Innovation Center of Quantum Matter, Beijing 100084 Institute for Advanced Study, Tsinghua University, Beijing 100084 RIKEN Center for Emergent Matter Science (CEMS), Wako, Saitama 351-0198, Japan Stanford Center for Topological Quantum Physics, Department of Physics, Stanford University, Stanford, California 94305-4045, USA

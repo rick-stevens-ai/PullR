@@ -1,0 +1,9 @@
+Title: Role of computer-aided drug design in modern drug discovery
+Authors: S. J. Macalino, Vijayakumar Gosu, Sunhye Hong, Sun Choi
+Year: 2015
+Paper ID: 64c5b567ab0c51bcc98c10e65365e051b03af13c
+URL: https://www.semanticscholar.org/paper/64c5b567ab0c51bcc98c10e65365e051b03af13c
+Venue: Archives of pharmacal research
+
+Abstract:
+None

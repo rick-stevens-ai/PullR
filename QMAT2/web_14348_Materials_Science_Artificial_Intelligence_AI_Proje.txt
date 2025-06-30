@@ -1,0 +1,10 @@
+Title: Materials Science Artificial Intelligence (AI) Project Supports Data Service Initiative
+Authors: 
+Year: N/A
+Paper ID: web_14348
+URL: https://www.globus.org/user-stories/materials-science-ai-project
+Venue: Web Source
+Content Status: SHORT_ABSTRACT
+
+Abstract:
+No abstract extracted from web page

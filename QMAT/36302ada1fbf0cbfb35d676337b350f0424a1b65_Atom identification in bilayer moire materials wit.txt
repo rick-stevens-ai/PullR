@@ -1,0 +1,9 @@
+Title: Atom identification in bilayer moire materials with Gomb-Net
+Authors: Austin Houston, Sumner B Harris, Hao Wang, Yu-Chuan Lin, D. Geohegan et al. (and 2 more)
+Year: 2025
+Paper ID: 36302ada1fbf0cbfb35d676337b350f0424a1b65
+URL: https://www.semanticscholar.org/paper/36302ada1fbf0cbfb35d676337b350f0424a1b65
+Venue: Nano letters (Print)
+
+Abstract:
+Moiré patterns in van der Waals bilayer materials complicate the analysis of atomic-resolution images, hindering the atomic-scale insight typically attainable with scanning transmission electron microscopy. Here, we report a method to detect the positions and identities of atoms in each of the individual layers that compose twisted bilayer heterostructures. We developed a deep learning model, Gomb-Net, which identifies the coordinates and atomic species in each layer, deconvoluting the moiré pattern. This enables layer-specific mapping of atomic positions and dopant distributions, unlike other commonly used segmentation models which struggle with moiré-induced complexity. Using this approach, we explored the Se atom substitutional site distribution in a twisted fractional Janus WS2-WS2(1-x)Se2x heterostructure and found that layer-specific implantation sites are unaffected by the moiré pattern's local energetic or electronic modulation. This advancement enables atom identification within material regimes where it was not possible before, opening new insights into previously inaccessible material physics.

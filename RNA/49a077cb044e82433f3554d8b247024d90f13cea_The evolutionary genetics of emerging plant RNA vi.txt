@@ -1,0 +1,9 @@
+Title: The evolutionary genetics of emerging plant RNA viruses.
+Authors: S. Elena, S. Bedhomme, P. Carrasco, J. Cuevas, F. de la Iglesia et al. (and 5 more)
+Year: 2011
+Paper ID: 49a077cb044e82433f3554d8b247024d90f13cea
+URL: https://www.semanticscholar.org/paper/49a077cb044e82433f3554d8b247024d90f13cea
+Venue: Molecular Plant-Microbe Interactions
+
+Abstract:
+Over the years, agriculture across the world has been compromised by a succession of devastating epidemics caused by new viruses that spilled over from reservoir species or by new variants of classic viruses that acquired new virulence factors or changed their epidemiological patterns. Viral emergence is usually associated with ecological change or with agronomical practices bringing together reservoirs and crop species. The complete picture is, however, much more complex, and results from an evolutionary process in which the main players are ecological factors, viruses' genetic plasticity, and host factors required for virus replication, all mixed with a good measure of stochasticity. The present review puts emergence of plant RNA viruses into the framework of evolutionary genetics, stressing that viral emergence begins with a stochastic process that involves the transmission of a preexisting viral strain into a new host species, followed by adaptation to the new host.

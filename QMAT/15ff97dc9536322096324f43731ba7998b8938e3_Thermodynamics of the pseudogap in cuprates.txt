@@ -1,0 +1,9 @@
+Title: Thermodynamics of the pseudogap in cuprates
+Authors: J. Tallon, J. Storey
+Year: 2022
+Paper ID: 15ff97dc9536322096324f43731ba7998b8938e3
+URL: https://www.semanticscholar.org/paper/15ff97dc9536322096324f43731ba7998b8938e3
+Venue: Frontiers of Physics
+
+Abstract:
+The key thermodynamic characteristics of the pseudogap state in cuprate superconductors are reviewed. These include YBa2Cu3O7−δ , Y0.8Ca0.2Ba2Cu3O7−δ , YBa2Cu4O8, Bi2Sr2CaCu2O8+δ , La2−x Sr x CuO4, and Tl2Ba2CuO4. The electronic specific heat was extracted using a differential technique, and the evolution of the specific-heat coefficient γ and electronic entropy S as a function of temperature, doping, and magnetic field reveals a canonical behavior summarized by the following. The normal-state gap which opens in the pseudogap domain apparently remains open to the highest temperatures investigated. The gap decreases in magnitude with increasing doping and closes abruptly at a critical doping of p ≈ 0.19 holes/Cu, independent of temperature. In this picture, the pseudogap is separated from the pseudogap-free region of the phase diagram by a vertical line similar to the vertical line separating the incoherent and coherent antinodal quasiparticle states found in ARPES. The important role of fluctuations is evident by a diverging enhancement of γ(T) on either side of T c, and this enables extraction of the mean-field transition temperature T c mf > T c , defining a crescent of parapairing above T c(p) which extends across the entire superconducting phase diagram and which is quite distinct from pseudogap phenomenology. The data are consistent with d-wave pairing and the BCS ratios are extracted, revealing canonical near-weak-coupling behavior across the over-doped region with a sudden suppression occurring at p ≈ 0.19 when the pseudogap sets in.

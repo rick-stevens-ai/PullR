@@ -1,0 +1,9 @@
+Title: Dynamical mean-field theory of strongly correlated fermion systems and the limit of infinite dimensions
+Authors: A. Georges, G. Kotliar, W. Krauth, M. Rozenberg
+Year: 1996
+Paper ID: 35bf930646eeaa1b979b1e452c9054e073e8a466
+URL: https://www.semanticscholar.org/paper/35bf930646eeaa1b979b1e452c9054e073e8a466
+Venue: 
+
+Abstract:
+We review the dynamical mean-field theory of strongly correlated electron systems which is based on a mapping of lattice models onto quantum impurity models subject to a self-consistency condition. This mapping is exact for models of correlated electrons in the limit of large lattice coordination (or infinite spatial dimensions). It extends the standard mean-field construction from classical statistical mechanics to quantum problems. We discuss the physical ideas underlying this theory and its mathematical derivation. Various analytic and numerical techniques that have been developed recently in order to analyze and solve the dynamical mean-field equations are reviewed and compared to each other. The method can be used for the determination of phase diagrams (by comparing the stability of various types of long-range order), and the calculation of thermodynamic properties, one-particle Green's functions, and response functions. We review in detail the recent progress in understanding the Hubbard model and the Mott metal-insulator transition within this approach, including some comparison to experiments on three-dimensional transition-metal oxides. We present an overview of the rapidly developing field of applications of this method to other systems. The present limitations of the approach, and possible extensions of the formalism are finally discussed. Computer programs for the numerical implementation of this method are also provided with this article.

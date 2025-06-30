@@ -1,0 +1,9 @@
+Title: Unconventional superconductivity with preformed pairs in twisted bilayer graphene
+Authors: S. F. Islam, A. Zyuzin, A. Zyuzin
+Year: 2022
+Paper ID: cc0c2f96c9af2d874a937037eca3356ee18ca0a3
+URL: https://www.semanticscholar.org/paper/cc0c2f96c9af2d874a937037eca3356ee18ca0a3
+Venue: Physical review B
+
+Abstract:
+We present a theory of superconductivity in magic-angle twisted bilayer graphene and analyze the superconducting phase diagram in presence of the magnetic field. Namely, we consider a model of a granular array hosting localized states, which are hybridized via the delocalized fermions in the inter-grain regions. We study a strong coupling situation when the interactions lead to an incoherent state with preformed Cooper pairs inside the grains. The Andreev scattering among different grains manifests itself through the global phase-coherent superconducting state at lower temperatures. We demonstrate that a new phase transition between the preformed Cooper pairing state and the Larkin-Ovchinnikov-Fulde-Ferrell state might be induced by the spin pair-breaking effect of in-plane magnetic field. The upper critical magnetic field is shown to be enhanced in the strong coupling case.

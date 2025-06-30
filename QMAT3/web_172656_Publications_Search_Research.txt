@@ -1,0 +1,31 @@
+Title: Publications Search – Research
+Authors: 
+Year: N/A
+Paper ID: web_172656
+URL: https://www.sandia.gov/research/publications/search/?format=abstract&authors%5B0%5D=terry-johnson&per-page=200
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Metal Hydride Compressor for High-Pressure (875 bar) Hydrogen Delivery
+
+
+Johnson, Terry A.; Mallow, Anne M.; Bowman, Robert C.; Smith, D.B.; Anovitz, Lawrence M.; Jensen, Craig M.            
+
+Metal hydride hydrogen compression utilizes a reversible heat-driven interaction of a hydride-forming metal alloy with hydrogen gas. This paper reports on the development of a laboratory scale two-stage Metal Hydride Compressor (MHC) system with a feed pressure of 150 bar delivering high purity H2 gas at outlet pressures up to 875 bar. Stage 1 and stage 2 AB 2 metal hydrides are identified based on experimental characterization of the pressure-composition-temperature (PCT) behavior of candidate materials. The selected metal hydrides are each combined with expanded natural graphite, increasing the thermal conductivity of the composites by an order of magnitude. These composites are integrated in two compressor beds with internal heat exchangers that alternate between hydrogenation and dehydrogenation cycles by thermally cycling between 20 C and 150 C. The prototype compressor achieved compression of hydrogen from 150 bar to 700 bar with an average flow rate of 33.6 g/hr .
+
+
+
+Hide Abstract
+
+More Details 
+
+
+
+TYPE
+SAND Report
+YEAR
+2022
+
+
+OSTIDOI

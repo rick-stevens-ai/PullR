@@ -1,0 +1,9 @@
+Title: Colloquium : Herbertsmithite and the search for the quantum spin liquid
+Authors: M. Norman
+Year: 2016
+Paper ID: 2cf0f8511bcf059303b371110f7f02811567a586
+URL: https://www.semanticscholar.org/paper/2cf0f8511bcf059303b371110f7f02811567a586
+Venue: 
+
+Abstract:
+Quantum spin liquids form a novel class of matter where, despite the existence of strong exchange interactions, spins do not order down to the lowest measured temperature. Typically, these occur in lattices that act to frustrate the appearance of magnetism. In two dimensions, the classic example is the kagome lattice composed of corner sharing triangles. There are a variety of minerals whose transition metal ions form such a lattice. Hence, a number of them have been studied and were then subsequently synthesized in order to obtain more pristine samples. Of particular note was the report in 2005 by Dan Nocera's group of the synthesis of herbertsmithite, composed of a lattice of copper ions sitting on a kagome lattice, which indeed does not order down to the lowest measured temperature despite the existence of a large exchange interaction of 17 meV. Over the past decade, this material has been extensively studied, yielding a number of intriguing surprises that have in turn motivated a resurgence of interest in the theoretical study of the spin $1/2$ Heisenberg model on a kagome lattice. This Colloquium reviews these developments and then discusses potential future directions, both experimental and theoretical, as well as the challenge of doping these materials with the hope that this could lead to the discovery of novel topological and superconducting phases.

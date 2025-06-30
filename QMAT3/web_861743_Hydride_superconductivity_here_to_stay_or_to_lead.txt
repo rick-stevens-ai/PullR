@@ -1,0 +1,12 @@
+Title: Hydride superconductivity: here to stay, or to lead astray and soon go away?
+Authors: 
+Year: N/A
+Paper ID: web_861743
+URL: https://arxiv.org/html/2501.01466v1
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract
+In a recent Comment stay , fifteen prominent leaders in the field of condensed matter physics declare that hydride superconductivity is real,
+and urge funding agencies to continue to support the field. I question the validity and constructiveness of their argument.

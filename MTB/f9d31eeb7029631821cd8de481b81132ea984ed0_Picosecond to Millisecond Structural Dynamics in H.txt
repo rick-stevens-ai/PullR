@@ -1,0 +1,9 @@
+Title: Picosecond to Millisecond Structural Dynamics in Human Ubiquitin.
+Authors: K. Lindorff-Larsen, P. Maragakis, S. Piana, D. Shaw
+Year: 2016
+Paper ID: f9d31eeb7029631821cd8de481b81132ea984ed0
+URL: https://www.semanticscholar.org/paper/f9d31eeb7029631821cd8de481b81132ea984ed0
+Venue: Journal of Physical Chemistry B
+
+Abstract:
+Human ubiquitin has been extensively characterized using a variety of experimental and computational methods and has become an important model for studying protein dynamics. Nevertheless, it has proven difficult to characterize the microsecond time scale dynamics of this protein with atomistic resolution. Here we use an unbiased computer simulation to describe the structural dynamics of ubiquitin on the picosecond to millisecond time scale. In the simulation, ubiquitin interconverts between a small number of distinct states on the microsecond to millisecond time scale. We find that the conformations visited by free ubiquitin in solution are very similar to those found various crystal structures of ubiquitin in complex with other proteins, a finding in line with previous experimental studies. We also observe weak but statistically significant correlated motions throughout the protein, including long-range concerted movement across the entire β sheet, consistent with recent experimental observations. We expect that the detailed atomistic description of ubiquitin dynamics provided by this unbiased simulation may be useful in interpreting current and future experiments on this protein.

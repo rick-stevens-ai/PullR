@@ -1,0 +1,30 @@
+Title: Higher-order topological insulators (Journal Article)
+Authors: 
+Year: N/A
+Paper ID: web_792390
+URL: https://www.osti.gov/pages/biblio/1499926
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Higher-order topological insulators
+
+**Key Points:**
+- The paper extends the concept of three-dimensional topological insulators to systems that lack gapless surface states but possess topologically protected gapless hinge states.
+- Two types of higher-order topological insulators are introduced: chiral (protected by time-reversal and fourfold rotation symmetry) and helical (protected by time-reversal and mirror symmetries), each with distinct topological invariants.
+- Materials such as SnTe and surface-modified Bi₂TeI, BiSe, and BiTe are identified as helical higher-order topological insulators, and an experimental setup is proposed to detect hinge states.
+
+**Methods:** Theoretical analysis of symmetry-protected topological phases, classification of topological invariants, and identification of candidate materials; experimental proposal for hinge state detection.
+
+**Authors:** Frank Schindler, Ashley M. Cook, Maia G. Vergniory, Zhijun Wang, Stuart S. P. Parkin, B. Andrei Bernevig, Titus Neupert
+
+**Publication Details:**  
+- Journal: Science Advances  
+- Volume: 4, Issue: 6  
+- Date: May 31, 2018  
+- DOI: https://doi.org/10.1126/sciadv.aat0346  
+- OSTI ID: 1499926  
+- Publisher: AAAS
+
+**Summary:**  
+This paper introduces and classifies higher-order topological insulators, a new class of materials that, unlike conventional topological insulators, do not have gapless surface states but instead exhibit robust gapless states along their hinges. The authors distinguish between chiral and helical higher-order topological insulators based on their symmetry protections and provide the corresponding topological invariants. They identify real material candidates for these phases and suggest experimental methods for observing the predicted hinge states, expanding the landscape of topological phases in condensed matter physics.

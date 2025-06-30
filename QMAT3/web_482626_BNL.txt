@@ -1,0 +1,29 @@
+Title: BNL
+Authors: 
+Year: N/A
+Paper ID: web_482626
+URL: https://www.bnl.gov/cmpmsd/aem/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Chiral Materials and Unconventional Superconductivity Research at Brookhaven National Laboratory (BNL)
+
+**Key Points:**
+- The group investigates the basic science of quantum materials, focusing on superconductors and topological materials, and develops their applications in energy and quantum information technology.
+- Research highlights include the discovery of the Chiral Magnetic Effect, light-induced control of Weyl nodes, and advances in superconducting and thermoelectric materials.
+- The group employs advanced experimental and theoretical techniques to explore quantum states, topological phase transitions, and the interplay between topology, magnetism, and superconductivity.
+
+**Methods:** 
+- Growth of single crystals and epitaxial films (including pulsed laser deposition)
+- Quantum transport measurements
+- Synchrotron-based and laser-based time- and angular-resolved photoemission spectroscopy
+- Optical/THz spectroscopy under high magnetic fields
+- Theoretical modeling using first-principles and effective Hamiltonian methods
+
+**Authors:** 
+- Group Leader: Qiang Li (liqiang@bnl.gov)
+- Additional contributors not specified
+
+**Summary:**  
+The Chiral Materials and Unconventional Superconductivity Group at Brookhaven National Laboratory conducts fundamental and applied research on quantum materials, particularly focusing on superconductors and topological phases. Their work encompasses experimental synthesis, advanced spectroscopy, and theoretical modeling to understand phenomena such as the chiral magnetic effect, quantum transport, and topological phase transitions. Supported by the U.S. Department of Energy, the group’s research advances both the fundamental understanding and technological applications of quantum materials in energy and quantum information science.

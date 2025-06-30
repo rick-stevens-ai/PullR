@@ -1,0 +1,9 @@
+Title: Higher-order topological insulators
+Authors: F. Schindler, A. Cook, M. Vergniory, Zhijun Wang, S. Parkin et al. (and 2 more)
+Year: 2017
+Paper ID: fd5f97f712d76cae8e4d99c225921d9557c3c4f9
+URL: https://www.semanticscholar.org/paper/fd5f97f712d76cae8e4d99c225921d9557c3c4f9
+Venue: Science Advances
+
+Abstract:
+A new class of materials that are insulating in the bulk and on surfaces but have conducting hinge channels is studied. Three-dimensional topological (crystalline) insulators are materials with an insulating bulk but conducting surface states that are topologically protected by time-reversal (or spatial) symmetries. We extend the notion of three-dimensional topological insulators to systems that host no gapless surface states but exhibit topologically protected gapless hinge states. Their topological character is protected by spatiotemporal symmetries of which we present two cases: (i) Chiral higher-order topological insulators protected by the combination of time-reversal and a fourfold rotation symmetry. Their hinge states are chiral modes, and the bulk topology is Z2-classified. (ii) Helical higher-order topological insulators protected by time-reversal and mirror symmetries. Their hinge states come in Kramers pairs, and the bulk topology is Z-classified. We provide the topological invariants for both cases. Furthermore, we show that SnTe as well as surface-modified Bi2TeI, BiSe, and BiTe are helical higher-order topological insulators and propose a realistic experimental setup to detect the hinge states.

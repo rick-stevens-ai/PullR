@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://permalink.lanl.gov/images/vendor/srorl/laravel-components/images/favicon.png" rel="shortcut icon" type="image/png"/>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <!-- CSRF Token -->
+  <meta name="csrf-token" content="ZsoZJ0ROf7YVUWWtvf5JUbIzxG7MfuCao1UzjyGF">
+  <title>Permalinks</title>
+  <!-- Scripts -->
+  <script crossorigin="anonymous" src="https://kit.fontawesome.com/fb5aeb9d7d.js"></script>
+  <script src="https://permalink.lanl.gov/js/app.js"></script>
+    <!-- Fonts -->
+  <link rel="dns-prefetch" href="//fonts.gstatic.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <!-- Styles -->
+    <link href="https://permalink.lanl.gov/css/app.css" rel="stylesheet">
+</head>
+<body>
+  <div class="main">
+    <a href="#content" class="sr-only sr-only-focusable">SKIP TO MAIN CONTENT</a>
+    <header class="header header-external">
+	<div class="container external">
+		<div class="quicklinks">
+			<ul class="nav justify-content-end d-none d-lg-flex">
+				<li class="nav-item">
+					<a href="https://lanl.jobs/" target="_blank" rel="noreferrer noopener" class="nav-link">
+						Careers
+					</a>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" data-display="static" data-flip="false" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="careers-dropdown">
+						News & Media
+						<i class="fas fa-chevron-down fa-xs ml-1" aria-hidden="true"></i>
+					</a>
+					<div class="dropdown-menu dropdown-menu-right" aria-labelledby="careers-dropdown">
+						<a href="https://discover.lanl.gov/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Discover
+						</a>
+						<a href="https://discover.lanl.gov/news/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							News Stories
+						</a>
+						<a href="https://discover.lanl.gov/podcasts/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Podcasts
+						</a>
+						<a href="https://discover.lanl.gov/publications/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Publications
+						</a>
+						<a href="https://lanl.photoshelter.com/galleries" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Gallery
+						</a>
+						<a href="https://discover.lanl.gov/videos/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Videos
+						</a>
+						<a href="https://discover.lanl.gov/news/media-contacts/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Media Contacts
+						</a>
+						<a href="https://discover.lanl.gov/in-the-news/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Media Coverage
+						</a>
+					</div>
+				</li>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" href="#" data-flip="false" data-display="static" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="quicklinks-dropdown">
+						Quick Links
+						<i class="fas fa-chevron-down fa-xs ml-1" aria-hidden="true"></i>
+					</a>
+					<div class="dropdown-menu dropdown-menu-right" aria-labelledby="quicklinks-dropdown">
+						<a href="https://about.lanl.gov/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							About
+						</a>
+						<a href="https://about.lanl.gov/visiting-lanl" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Badging
+						</a>
+						<a href="https://www.lanl.gov/business/procurement-opportunities.php" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Business
+						</a>
+						<a href="https://www.lanl.gov/resources/contacts.php" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Contacts
+						</a>
+						<a href="https://mission.lanl.gov/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Mission
+						</a>
+						<a href="https://www.lanl.gov/museum/index.php" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Museum
+						</a>
+						<a href="https://organizations.lanl.gov/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Organizations
+						</a>
+						<a href="https://www.lanl.gov/careers/employees-retirees/new-hires/index.php" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							New Hires
+						</a>
+						<a href="https://discover.lanl.gov/publications/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Publications
+						</a>
+						<a href="https://researchlibrary.lanl.gov/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Research Library
+						</a>
+						<a href="https://about.lanl.gov/visiting-lanl/" target="_blank" rel="noreferrer noopener" class="dropdown-item text-wrap">
+							Visiting LANL
+						</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<nav class="navbar navbar-expand-lg py-0">
+			<a href="https://permalink.lanl.gov" class="navbar-brand">
+				<img src="https://permalink.lanl.gov/images/RL_logo_White_Rev.svg" alt="Research Library">
+			</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#external-navbar-content" aria-controls="external-navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+				<svg xmlns="http://www.w3.org/2000/svg" width="24" height="22"><g data-name="Group 842" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"><path data-name="Path 866" d="M11 1h12"></path><path data-name="Path 867" d="M1 21h12"></path><path data-name="Path 868" d="M1 11h22"></path></g></svg>
+			</button>
+			<div class="collapse navbar-collapse" id="external-navbar-content">
+				<ul class="navbar-nav justify-content-between w-100">
+					<!-- Put your navigation header links in here -->
+				</ul>
+			</div>
+		</nav>
+	</div>
+</header>    <div id="content">
+      <div class="container">
+	<div class="row mb-5">
+		<div class="col-12">
+			<h1 class="text-center">LA-UR-24-20604 exists at <a href="https://www.osti.gov/" target="_blank">OSTI.GOV</a></h1>
+
+			<p class="text-center">You can view this report at: <a href="https://www.osti.gov/biblio/2282525">https://www.osti.gov/biblio/2282525</a></p>
+		</div>
+	</div>
+</div>
+    </div>
+  </div>
+  <footer class="footer footer-external mt-5">
+	<div class="container mt-4">
+		<div class="row justify-content-between">
+			<div class="col-8 col-sm-4 col-md-4 col-lg order-3 order-sm-first">
+				<ul class="list-unstyled mb-4">
+					<li class="pb-4">
+						<img alt="Los Alamos National Laboratory" class="img-fluid mb-1 mx-auto mw-80" src="https://permalink.lanl.gov/images/vendor/srorl/laravel-components/images/grlp-lanl-logo.svg" style="width: 200px">
+					</li>
+					<li class="d-none d-md-block">Los Alamos National Laboratory</li>
+					<li>P.O. Box 1663</li>
+					<li>Los Alamos, NM 87545</li>
+					<li>(505) 667-5061</li>
+				</ul>
+				<a class="d-inline-block mr-3 text-white" href="https://www.facebook.com/LosAlamosNationalLab">
+					<i class="fab fa-facebook-f"></i>
+				</a>
+				<a class="d-inline-block mr-3 text-white" href="https://twitter.com/LosAlamosNatLab">
+					<i class="fab fa-twitter"></i>
+				</a>
+				<a class="d-inline-block mr-3 text-white" href="https://www.linkedin.com/company/5327?trk=NUS_CMPY_FOL-co">
+					<i class="fab fa-linkedin-in"></i>
+				</a>
+				<a class="d-inline-block mr-3 text-white" href="https://www.youtube.com/user/LosAlamosNationalLab">
+					<i class="fab fa-youtube"></i>
+				</a>
+				<a class="d-inline-block mr-3 text-white" href="https://www.instagram.com/losalamosnatlab/">
+					<i class="fab fa-instagram"></i>
+				</a>
+			</div>
+			<div class="col-6 col-sm-4 col-md">
+				<ul class="list-unstyled">
+					<li class="footer-header">AT THE LAB</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/business/procurement-opportunities.php">Business Opportunities</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/careers/index.php">Jobs</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/org/index.php">Organizations</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/library/">Research Library</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/collaboration/user-facilities/index-old.php">User Facilities</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-6 col-sm-4 col-md">
+				<ul class="list-unstyled">
+					<li class="footer-header">INFORMATION</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/resources/emergency/index.php">Emergency, Fire</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/calendar/index.php">Events, Lectures</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/resources/ombuds/index.php">Ombuds</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/resources/index.php">Resources</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/environment/public-reading-room.php">Reading Room</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/museum/index.php">Science Museum</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-6 col-sm-4 col-md">
+				<ul class="list-unstyled">
+					<li class="footer-header">FOR EMPLOYEES</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://askit.lanl.gov/">AskIT</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://int.lanl.gov">LANLINSIDE</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://mymail.lanl.gov">MyMail</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://www.lanl.gov/careers/employees-retirees/new-hires/index.php">New Hire Process</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://portal.lanl.gov/">SSL Portal</a>
+					</li>
+					<li class="font-weight-light">
+						<a class="text-white text-nowrap" href="https://extrain.lanl.gov/">Training</a>
+					</li>
+				</ul>
+			</div>
+			<div class="mt-5 col-6 text-left text-nowrap d-sm-none">
+				<a class="text-white d-block d-sm-inline-block font-weight-light" href="https://www.lanl.gov/resources/contacts.php">Contact Us</a>
+				<span class="mx-3 d-none d-sm-inline-block">|</span>
+				<a class="text-white d-block d-sm-inline-block font-weight-light" href="https://www.lanl.gov/resources/web-policies/copyright-legal.php">Terms of Use/Privacy</a>
+				<span class="mx-3 d-none d-sm-inline-block">|</span>
+				<a class="text-white d-block d-sm-inline-block font-weight-light" href="http://www.lanl.gov/www-team/forms/wwwgen.php?view=exthome">Site Feedback</a>
+			</div>
+			<div class="col-4 col-sm-4 col-md-3 col-lg text-center mt-3 mt-lg-0 order-last">
+				<ul class="list-unstyled mb-4">
+					<li>
+						<img alt="Department of Energy" class="img-fluid mb-3 mx-auto mw-80" src="https://permalink.lanl.gov/images/vendor/srorl/laravel-components/images/grlp-doe-logo.svg">
+					</li>
+					<li>
+						<img alt="National Nuclear Security Administration" class="img-fluid mb-1 mt-3 mx-auto" src="https://permalink.lanl.gov/images/vendor/srorl/laravel-components/images/grlp-nnsa-logo.svg">
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="row mt-3 text-white d-none d-sm-block">
+			<div class="mt-5 col-12 text-center font-weight-light">
+				<a class="text-white d-block d-sm-inline-block" href="https://www.lanl.gov/resources/contacts.php">Contact Us</a>
+				<span class="mx-3 d-none d-sm-inline-block">|</span>
+				<a class="text-white d-block d-sm-inline-block" href="https://www.lanl.gov/resources/web-policies/copyright-legal.php">Terms of Use/Privacy</a>
+				<span class="mx-3 d-none d-sm-inline-block">|</span>
+				<a class="text-white d-block d-sm-inline-block" href="http://www.lanl.gov/www-team/forms/wwwgen.php?view=exthome">Site Feedback</a>
+			</div>
+		</div>
+		<div class="row mt-3 text-white">
+			<div class="col-12 text-md-center">
+				<small class="font-weight-light" style="font-size:14px;">Managed by <a class="text-white" href="https://www.triadns.org">Triad National Security, LLC</a> for the <a class="text-white" href="https://nnsa.energy.gov/">U.S. Dept. of Energy's NNSA</a> <a class="text-white" href="https://www.lanl.gov/resources/web-policies/copyright-legal.php">Copyright 2025 Triad National Security, LLC. All Rights Reserved.</a></small>
+			</div>
+		</div>
+	</div>
+</footer>  <script>
+    $(document).ready( function() {
+      $('[data-toggle="dropdown"]').dropdown();
+    } );
+  </script>
+  </body>
+</html>

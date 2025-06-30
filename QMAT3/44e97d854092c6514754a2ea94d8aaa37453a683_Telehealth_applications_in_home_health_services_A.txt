@@ -1,0 +1,12 @@
+Title: Telehealth applications in home health services: A bibliometric analysis
+Authors: Özden Güdük
+Year: 2025
+Paper ID: 44e97d854092c6514754a2ea94d8aaa37453a683
+URL: https://www.semanticscholar.org/paper/44e97d854092c6514754a2ea94d8aaa37453a683
+Venue: Turkish Journal of Family Practice
+
+Abstract:
+Background: In addition to being cost-effective, home health services are preferred for the patient. Recently, there have been developments integrating home health services with telehealth. This study aims to analyze published studies on telehealth applications in home health services using the bibliometric method.
+Methods: Data were obtained from the Web of Science Core Collection database on 10.08.2024. Year restrictions were not applied, and publications in English were selected. The search used the keywords ‘homecare’ OR ‘home healthcare’ OR ‘hospital in the home’ AND ‘telehealth’ OR ‘remote.’ VOSviewer and SciMAT software were used for the analysis. Publications were analyzed based on author, country, number of citations, keywords, index, year of publication, and research area. The period from 1985 to 2024 was divided into four periods, and strategic diagram analyses were performed.
+Results: A total of 3197 publications were identified. The top three countries with the highest number of publications are the USA, Australia, and England. The most frequently used keywords are ‘telehealth’, ‘telemedicine’, and ‘remote patient monitoring’. The theme was “homecare” in the first period. “diabetes care”, and “internet”, “aging people” were prominent in the second period, while “telehealth”, “dementia”, “wearable device”, and “palliative care” were significant in the third period. In the fourth period, the themes were “internet of things”, “elderly care”, “caregivers”, and “wearable devices”.
+Conclusion: Telehealth has started to be more widely used in home health services due to technological advancements. The increasing interest in following and treating individuals with chronic diseases and patients in need of palliative care at home is attributed to patient-centered service provision.

@@ -1,0 +1,16 @@
+Title: Bilingual online dictionaries and translation tools as a source of terminology: Insights for translation pedagogy
+Authors: Osuchowska Dorota
+Year: 2024
+Paper ID: 362e87db1800e2b2a1044b423674995bf5529348
+URL: https://www.semanticscholar.org/paper/362e87db1800e2b2a1044b423674995bf5529348
+Venue: Current Trends in Translation Teaching and Learning E
+
+Abstract:
+This study aimed to assess the reliability of online bilingual dictionaries for translating specialist terminology. The vocabulary for the test 
+was extracted from an official glossary of EU terminology and provided to a group of 36 English Philology students attending a basic-level 
+translation course. The students were asked to identify words for which they would need to use a dictionary. Additionally, they were interviewed to 
+determine their typical look-up strategies when confronted with unfamiliar words, collectively referred to as their standard dictionary behavior. 
+Then, these strategies were emulated during the test of the reference tools the students typically used. The research concludes that online reference 
+tools are not reliable sources for specialist terms. The results also indicate which reference skills should be introduced into the training program by 
+translation teachers, particularly those working with novice translators. 
+Keywords: Bilingual online dictionaries, comparative analysis, reliability assessment, search strategies, translation teaching

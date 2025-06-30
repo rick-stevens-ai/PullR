@@ -1,0 +1,9 @@
+Title: Recent progress in MnBi2nTe3n+1 intrinsic magnetic topological insulators: crystal growth, magnetism and chemical disorder
+Authors: Chaowei Hu, Tiema Qian, Ni Ni
+Year: 2023
+Paper ID: 88cb3cf6dcac36ed24a54a727c10855887071c69
+URL: https://www.semanticscholar.org/paper/88cb3cf6dcac36ed24a54a727c10855887071c69
+Venue: National Science Review
+
+Abstract:
+ABSTRACT The search for magnetic topological materials has been at the forefront of condensed matter research for their potential to host exotic states such as axion insulators, magnetic Weyl semimetals, Chern insulators, etc. To date, the MnBi2nTe3n+1 family is the only group of materials showcasing van der Waals-layered structures, intrinsic magnetism and non-trivial band topology without trivial bands at the Fermi level. The interplay between magnetism and band topology in this family has led to the proposal of various topological phenomena, including the quantum anomalous Hall effect, quantum spin Hall effect and quantum magnetoelectric effect. Among these, the quantum anomalous Hall effect has been experimentally observed at record-high temperatures, highlighting the unprecedented potential of this family of materials in fundamental science and technological innovation. In this paper, we provide a comprehensive review of the research progress in this intrinsic magnetic topological insulator family, with a focus on single-crystal growth, characterization of chemical disorder, manipulation of magnetism through chemical substitution and external pressure, and important questions that remain to be conclusively answered.

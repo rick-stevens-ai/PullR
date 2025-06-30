@@ -1,0 +1,9 @@
+Title: Insights into Current Limitations of Density Functional Theory
+Authors: A. Cohen, P. Mori-Sánchez, Weitao Yang
+Year: 2008
+Paper ID: d92fe87c520454e0743524a94eb81456602f9ba8
+URL: https://www.semanticscholar.org/paper/d92fe87c520454e0743524a94eb81456602f9ba8
+Venue: Science
+
+Abstract:
+None

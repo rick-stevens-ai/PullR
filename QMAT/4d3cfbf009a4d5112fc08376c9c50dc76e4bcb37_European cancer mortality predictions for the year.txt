@@ -1,0 +1,9 @@
+Title: European cancer mortality predictions for the year 2017, with focus on lung cancer
+Authors: M. Malvezzi, G. Carioli, P. Bertuccio, P. Boffetta, F. Levi et al. (and 2 more)
+Year: 2017
+Paper ID: 4d3cfbf009a4d5112fc08376c9c50dc76e4bcb37
+URL: https://www.semanticscholar.org/paper/4d3cfbf009a4d5112fc08376c9c50dc76e4bcb37
+Venue: Annals of Oncology
+
+Abstract:
+None

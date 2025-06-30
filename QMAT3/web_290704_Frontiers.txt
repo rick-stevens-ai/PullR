@@ -1,0 +1,28 @@
+Title: Frontiers
+Authors: 
+Year: N/A
+Paper ID: web_290704
+URL: https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2022.1030616/full
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Thermodynamics of the pseudogap in cuprate superconductors
+
+**Key Points:**
+- The pseudogap in cuprate superconductors is characterized by a suppression of electronic entropy and specific heat, indicating a partial gap in the electronic density of states that persists to high temperatures.
+- The pseudogap closes abruptly at a critical doping level of approximately p ≈ 0.19 holes/Cu, independent of temperature, and is distinct from superconducting and parapairing phenomena.
+- The research demonstrates that the pseudogap is not merely a spin phenomenon but a true gap in the quasiparticle spectrum, with its effects observable across various cuprate compounds.
+
+**Methods:** 
+- Differential specific heat measurements were used to isolate the electronic contribution from the total specific heat by comparing samples with Zn-substituted reference materials to suppress superconductivity.
+- Analysis of the temperature, doping, and magnetic field dependence of the specific heat coefficient (γ) and electronic entropy (S) across several cuprate systems.
+
+**Authors:** Jeffery L. Tallon, James G. Storey (Robinson Research Institute, Victoria University of Wellington, New Zealand)
+
+**Publication Details:** 
+- Published in Frontiers in Physics, Section: Condensed Matter Physics, Volume 10, 16 November 2022
+- DOI: https://doi.org/10.3389/fphy.2022.1030616
+
+**Summary:**  
+This review article examines the thermodynamic properties of the pseudogap state in various cuprate superconductors using differential specific heat measurements. The findings reveal that the pseudogap manifests as a persistent suppression of electronic entropy and specific heat, with the gap closing abruptly at a critical doping level, independent of temperature. The study clarifies the canonical thermodynamic behavior of the pseudogap and distinguishes it from superconducting and parapairing phenomena, providing key insights into the phase diagram and underlying physics of high-temperature superconductivity in cuprates.

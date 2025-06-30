@@ -1,0 +1,9 @@
+Title: Computational approach to understanding the mechanism of action of isoniazid, an anti-TB drug.
+Authors: Lingaraja Jena, Pranita J Waghmare, Supriya Kashikar, Satish Kumar, B. Harinath
+Year: 2014
+Paper ID: a2cb144a9c922bae4f5d04c81a8aa29617adb543
+URL: https://www.semanticscholar.org/paper/a2cb144a9c922bae4f5d04c81a8aa29617adb543
+Venue: International Journal of Mycobacteriology
+
+Abstract:
+None

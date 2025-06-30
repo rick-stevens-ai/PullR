@@ -1,0 +1,9 @@
+Title: Vector graphics extraction and analysis of electrical resistance data in Nature volume 586, pages 373-377 (2020)
+Authors: J. Hamlin
+Year: 2022
+Paper ID: 0421fa3505e8211dcf781a92d5d7837be7e79de7
+URL: https://www.semanticscholar.org/paper/0421fa3505e8211dcf781a92d5d7837be7e79de7
+Venue: 
+
+Abstract:
+In this paper, I present an analysis of the electrical resistance graphs in Nature volume 586, pages 373-377 (2020), which reported the discovery of room temperature superconductivity in a carbonaceous sulfur hydride and was subsequently retracted on September 26th, 2022. I show that, over a single temperature interval, the electrical resistance data can be decomposed into at least two signals of differing digital precision, thus raising questions concerning the methods used to obtain the published data. Since the raw data-files for the electrical resistance measurements have not been made available, in order to perform this analysis, I have developed a set of python scripts to extract the data-points with high precision from the internal structure of the vector graphics image files. I describe the data extraction method. Example code and the resulting electrical resistance vs temperature data-files are made available in public repositories.

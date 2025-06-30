@@ -1,0 +1,9 @@
+Title: Virtual Screening, pharmacophore development and structure based similarity search to identify inhibitors against IdeR, a transcription factor of Mycobacterium tuberculosis
+Authors: Akshay Rohilla, Garima Khare, A. Tyagi
+Year: 2017
+Paper ID: 7ed7687c5b6662d0b740b4032c834e44aa33e75e
+URL: https://www.semanticscholar.org/paper/7ed7687c5b6662d0b740b4032c834e44aa33e75e
+Venue: Scientific Reports
+
+Abstract:
+AbstractideR, an essential gene of Mycobacterium tuberculosis, is an attractive drug target as its conditional knockout displayed attenuated growth phenotype in vitro and in vivo. To the best of our knowledge, no inhibitors of IdeR are identified. We carried out virtual screening of NCI database against the IdeR DNA binding domain followed by inhibition studies using EMSA. Nine compounds exhibited potent inhibition with NSC 281033 (I-20) and NSC 12453 (I-42) exhibiting IC50 values of 2 µg/ml and 1 µg/ml, respectively. We then attempted to optimize the leads firstly by structure based similarity search resulting in a class of inhibitors based on I-42 containing benzene sulfonic acid, 4-hydroxy-3-[(2-hydroxy-1-naphthalenyl) azo] scaffold with 4 molecules exhibiting IC50 ≤ 10 µg/ml. Secondly, optimization included development of energy based pharmacophore and screening of ZINC database followed by docking studies, yielding a molecule with IC50 of 60 µg/ml. More importantly, a five-point pharmacophore model provided insight into the features essential for IdeR inhibition. Five molecules with promising IC50 values also inhibited M. tuberculosis growth in broth culture with MIC90 ranging from 17.5 µg/ml to 100 µg/ml and negligible cytotoxicity in various cell lines. We believe our work opens up avenues for further optimization studies.

@@ -1,0 +1,24 @@
+Title: Key Advance in Understanding ‘Pseudogap’ Phase in High-Tc Superconductors
+Authors: 
+Year: N/A
+Paper ID: web_618280
+URL: https://www.bnl.gov/newsroom/news.php?a=111155
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Pseudogap Phase in High-Temperature (High-Tc) Copper-Oxide Superconductors
+
+**Key Points:**
+- Scientists discovered a fundamental difference in electron behavior at two distinct oxygen-atom sites within each copper-oxide unit in the pseudogap phase, revealing a broken symmetry.
+- This asymmetry in electron tunneling may be key to understanding the pseudogap phase, which is believed to inhibit room-temperature superconductivity in copper-oxides.
+- The findings could lead to new approaches for overcoming barriers to practical, room-temperature superconducting materials.
+
+**Methods:** Spectroscopic imaging scanning tunneling microscopy; new theoretical approaches for interpreting electron behavior.
+
+**Authors:** Led by J.C. Séamus Davis (Brookhaven National Laboratory and Cornell University), with collaborators from Binghamton University, University of Tokyo, Advanced Institute of Science and Technology (Korea), RIKEN (Japan), and Japan’s Institute of Advanced Industrial Science and Technology. Theoretical work by Michael Lawler (Binghamton) and Eun-Ah Kim (Cornell).
+
+**Publication Details:** Published in Nature, July 15, 2010.
+
+**Summary:**  
+Researchers have identified a distinct asymmetry in electron behavior at different oxygen sites within copper-oxide superconductors in the pseudogap phase, using advanced scanning tunneling microscopy and theoretical modeling. This broken symmetry is a hallmark of the pseudogap phase, which is thought to prevent superconductivity at higher temperatures. The discovery provides a significant step toward understanding and potentially overcoming the pseudogap barrier, with the ultimate goal of achieving room-temperature superconductivity for transformative energy applications.

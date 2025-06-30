@@ -1,0 +1,22 @@
+Title: European cancer mortality predictions for the year 2014.
+Authors: M. Malvezzi, P. Bertuccio, F. Levi, C. Vecchia, E. Negri
+Year: 2014
+Paper ID: 20314cd4cd0e790378f8850f73e2aaefe9c38b15
+URL: https://www.semanticscholar.org/paper/20314cd4cd0e790378f8850f73e2aaefe9c38b15
+Venue: Annals of Oncology
+
+Abstract:
+BACKGROUND
+From most recent available data, we projected cancer mortality statistics for 2014, for the European Union (EU) and its six more populous countries. Specific attention was given to pancreatic cancer, the only major neoplasm showing unfavorable trends in both sexes.
+
+
+PATIENTS AND METHODS
+Population and death certification data from stomach, colorectum, pancreas, lung, breast, uterus, prostate, leukemias and total cancers were obtained from the World Health Organisation database and Eurostat. Figures were derived for the EU, France, Germany, Italy, Poland, Spain and the UK. Projected 2014 numbers of deaths by age group were obtained by linear regression on estimated numbers of deaths over the most recent time period identified by a joinpoint regression model.
+
+
+RESULTS
+In the EU in 2014, 1,323,600 deaths from cancer are predicted (742,500 men and 581,100 women), corresponding to standardized death rates of 138.1/100,000 men and 84.7/100,000 women, falling by 7% and 5%, respectively, since 2009. In men, predicted rates for the three major cancers (lung, colorectum and prostate cancer) are lower than in 2009, falling by 8%, 4% and 10%, respectively. In women, breast and colorectal cancers had favorable trends (-9% and -7%), but female lung cancer rates are predicted to rise 8%. Pancreatic cancer is the only neoplasm with a negative outlook in both sexes. Only in the young (25-49 years), EU trends become more favorable in men, while women keep registering slight predicted rises.
+
+
+CONCLUSIONS
+Cancer mortality predictions for 2014 confirm the overall favorable cancer mortality trend in the EU, translating to an overall 26% fall in men since its peak in 1988, and 20% in women, and the avoidance of over 250,000 deaths in 2014 compared with the peak rate. Notable exceptions are female lung cancer and pancreatic cancer in both sexes.

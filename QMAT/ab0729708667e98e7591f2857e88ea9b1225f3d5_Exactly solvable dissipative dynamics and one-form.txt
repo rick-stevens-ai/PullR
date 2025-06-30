@@ -1,0 +1,9 @@
+Title: Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems
+Authors: Lucas S'a, Benjamin B'eri
+Year: 2025
+Paper ID: ab0729708667e98e7591f2857e88ea9b1225f3d5
+URL: https://www.semanticscholar.org/paper/ab0729708667e98e7591f2857e88ea9b1225f3d5
+Venue: 
+
+Abstract:
+We study the dissipative dynamics of a class of interacting"gamma-matrix"spin models coupled to a Markovian environment. For spins on an arbitrary graph, we construct a Lindbladian that maps to a non-Hermitian model of free Majorana fermions hopping on the graph with a background classical $\mathbb{Z}_2$ gauge field. We show, analytically and numerically, that the steady states and relaxation dynamics are qualitatively independent of the choice of the underlying graph, in stark contrast to the Hamiltonian case. We also show that the exponentially many steady states provide a concrete example of mixed-state topological order, in the sense of strong-to-weak spontaneous symmetry breaking of a one-form symmetry. While encoding only classical information, the steady states still exhibit long-range quantum correlations. Afterward, we examine the relaxation processes toward the steady state by numerically computing decay rates, which we generically find to be finite, even in the dissipationless limit. We however identify symmetry sectors where fermion-parity conservation is enhanced to fermion-number conservation, where we can analytically bound the decay rates and prove that they vanish in the limits of both infinitely weak and infinitely strong dissipation. Finally, we show that while the choice of coherent dynamics is very flexible, exact solvability strongly constrains the allowed form of dissipation. Our work establishes an analytically tractable framework to explore nonequilibrium quantum phases of matter and the relaxation mechanisms toward them.

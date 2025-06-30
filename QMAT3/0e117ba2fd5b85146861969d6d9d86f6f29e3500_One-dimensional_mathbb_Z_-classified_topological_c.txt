@@ -1,0 +1,9 @@
+Title: One-dimensional $\mathbb{Z}$-classified topological crystalline insulator under space-time inversion symmetry
+Authors: Ling Lin, Yongguan Ke, Chaohong Lee
+Year: 2024
+Paper ID: 0e117ba2fd5b85146861969d6d9d86f6f29e3500
+URL: https://www.semanticscholar.org/paper/0e117ba2fd5b85146861969d6d9d86f6f29e3500
+Venue: 
+
+Abstract:
+We explore a large family of one-dimensional (1D) topological crystalline insulators (TCIs) classified by $\mathbb{Z}$ invariants under space-time inversion symmetry. This finding stands in marked contrast to the conventional classification of 1D band topology protected by inversion symmetry and characterized by $\mathbb{Z}_2$-quantized polarization (Berry-Zak phase). By considering the nontrivial relative polarization among sublattices (orbitals), we introduce the inversion winding number as a topological invariant for characterizing and categorizing band topology. The inversion winding number reliably captures a novel bulk-edge correspondence, where gapped edge states are related to the inversion winding number of the sandwiching bands. Leveraging real-space analysis, we discover disorder-induced topological Anderson insulators and propose to experimentally discern band topology through relative polarization of edge states or bulk states. Our comprehensive findings present a paradigmatic illustration for the ongoing investigation and classification of band topology in TCIs.

@@ -1,0 +1,22 @@
+Title: High-Pressure Hydrogen Materials Synthesis and Testing
+Authors: 
+Year: N/A
+Paper ID: web_919199
+URL: https://www.hymarc.org/capabilities/high-pressure-hydrogen-materials-synthesis-and-testing
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** High-Pressure Hydrogen Materials Synthesis and Testing
+
+**Key Points:**
+- High-pressure hydrogen environments are essential for synthesizing and testing advanced hydrogen storage materials, such as metal hydrides and sorbents, for fuel cell applications.
+- The HyMARC team operates state-of-the-art facilities capable of subjecting materials to pressures up to 100 MPa and temperatures from -78°C to 400°C, enabling studies of material stability, reversibility, and hydrogen reaction mechanisms.
+- Specialized testing includes sorbent stability under high-pressure gases, assessment of metal hydride reversibility, and isotope-exchange studies to investigate hydrogen dissociation and material properties.
+
+**Methods:** Experimental testing using high-pressure hydrogen systems, compatible with Sieverts and PCT equipment, and analytical techniques such as Synchrotron X-ray, neutron diffraction, FTIR, XRD, and NMR.
+
+**Authors:** J. L. White, N. A. Strange, J. D. Sugar, J. L. Snider, A. Schneermann, A. S. Lipton, M. F. Toney, M. D. Allendorf, V. Stavila, L. Klebanoff, R. Newhouse, S. J. Hwang, J. J. Zhang (from referenced publications).
+
+**Summary:**  
+This resource describes the HyMARC team's advanced capabilities for synthesizing and testing hydrogen storage materials under high-pressure hydrogen environments, crucial for fuel cell technology. The facility at Sandia National Laboratories enables comprehensive evaluation of material performance, stability, and reaction mechanisms using a range of experimental and analytical techniques. These capabilities support fundamental research into the physicochemical behavior of hydrogen storage materials, facilitating the development of next-generation hydrogen storage solutions.

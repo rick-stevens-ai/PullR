@@ -1,0 +1,31 @@
+Title: Unraveling the Complex, Intertwined Electron Phases in a Superconductor
+Authors: 
+Year: N/A
+Paper ID: web_619553
+URL: https://www.bnl.gov/newsroom/news.php?a=111783
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Electron Density Waves and Pseudogap Phase in High-Temperature Superconductors
+
+**Key Points:**
+- Researchers identified the atomic-scale origins and influences that produce the electron density wave in cuprate superconductors.
+- The study found a direct link between the electron density wave and the pseudogap phase, with the characteristic energy of the density wave matching the pseudogap energy.
+- The findings suggest that the pseudogap state is the "parent" of the density wave state, providing new insight into the mechanisms that may enable room-temperature superconductivity.
+
+**Methods:** 
+- The team used a novel sublattice imaging technique with a specialized scanning tunneling microscope (STM) to map the electronic structure at the atomic scale in different sublattices of the cuprate crystal.
+
+**Authors:** 
+- Lead scientist: Séamus Davis (Brookhaven National Laboratory and Cornell University)
+- Kazuhiro Fujita (Brookhaven National Laboratory)
+- Subir Sachdev (Harvard University)
+- Simon Billinge (Brookhaven/Columbia University School of Engineering)
+- Written by Laura Mgrdichian-West (article author)
+
+**Publication Details:** 
+- Published online October 26, 2015, in Nature Physics
+
+**Summary:**  
+A collaborative team led by Brookhaven National Laboratory and Cornell University has uncovered the atomic-scale origins of the electron density wave in high-temperature cuprate superconductors. Using advanced STM-based sublattice imaging, they demonstrated that the density wave's energy and momentum characteristics are intimately tied to the pseudogap phase, suggesting the pseudogap is the precursor to the density wave state. These findings advance the understanding of electronic order in cuprates and may inform future efforts to achieve room-temperature superconductivity.

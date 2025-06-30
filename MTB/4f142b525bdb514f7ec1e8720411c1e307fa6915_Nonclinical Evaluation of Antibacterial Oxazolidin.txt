@@ -1,0 +1,9 @@
+Title: Nonclinical Evaluation of Antibacterial Oxazolidinones Contezolid and Contezolid Acefosamil with Low Serotonergic Neurotoxicity.
+Authors: Wen Wang, Kate Voss, Jinqian Liu, M. Gordeev
+Year: 2021
+Paper ID: 4f142b525bdb514f7ec1e8720411c1e307fa6915
+URL: https://www.semanticscholar.org/paper/4f142b525bdb514f7ec1e8720411c1e307fa6915
+Venue: Chemical Research in Toxicology
+
+Abstract:
+Linezolid, the principal oxazolidinone antibiotic for therapy of Gram-positive infections, is limited by its myelosuppression and monoamine oxidase (MAO) inhibition, with the latter manifested as serotonergic neurotoxicity. The oral oxazolidinone contezolid and its injectable prodrug contezolid acefosamil are developed to overcome the above limitations. Serotonergic profiles for contezolid in vitro and for orally administered contezolid acefosamil in rodents are reported. Contezolid exhibited 2- and 148-fold reduction over linezolid reversible inhibition of MAO-A and MAO-B human enzyme isoforms. In the mouse head-twitch model, contezolid acefosamil was devoid of neurotoxicity at supratherapeutic oral doses of 40, 80, and 120 mg/kg. In the rat tyramine challenge model, no significant increase in arterial blood pressure was observed for contezolid acefosamil up to 120 mg/kg oral dosing. In these tests, the comparator linezolid has elicited serotonergic responses. Thus, contezolid and contezolid acefosamil exhibited an attenuated propensity to induce MAO-related serotonergic neurotoxicity. The data support a continued clinical evaluation of these agents, with potential to expand oxazolidinone therapies to patient populations on concurrent selective serotonin reuptake inhibitor medications or where MAO inhibitors are contraindicated.

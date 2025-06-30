@@ -1,0 +1,9 @@
+Title: Correlated electronic states in multilayer moire superlattice of transition metal dichalcogenides
+Authors: Yongtao Cui
+Year: 2025
+Paper ID: 8a80dbd620ab8b82347bb45314cfbca5823de931
+URL: https://www.semanticscholar.org/paper/8a80dbd620ab8b82347bb45314cfbca5823de931
+Venue: 2D Photonic Materials and Devices VIII
+
+Abstract:
+None

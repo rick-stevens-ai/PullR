@@ -1,0 +1,11 @@
+Title: Pursuing the high-temperature quantum anomalous Hall effect in 
+MnBi2Te4/Sb2Te3
+ heterostructures
+Authors: S. Qi, Ruiling Gao, Maozhi Chang, Yulei Han, Z. Qiao
+Year: 2019
+Paper ID: baa9e7227131181dea21f65ad351cf32480c1d70
+URL: https://www.semanticscholar.org/paper/baa9e7227131181dea21f65ad351cf32480c1d70
+Venue: Physical review B
+
+Abstract:
+Quantum anomalous Hall effect (QAHE) has been experimentally realized in magnetically doped topological insulators or intrinsic magnetic topological insulator ${\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}$ by applying an external magnetic field. However, either the low observation temperature or the unexpected external magnetic field (tuning all ${\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}$ layers to be ferromagnetic) still hinders further application of QAHE. Here, we theoretically demonstrate that proper stacking of ${\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}$ and ${\mathrm{Sb}}_{2}{\mathrm{Te}}_{3}$ layers is able to produce intrinsically ferromagnetic van der Waals heterostructures to realize the high-temperature QAHE. We find that interlayer ferromagnetic transition can happen at ${T}_{C}=42\phantom{\rule{0.16em}{0ex}}\mathrm{K}$ when a five-quintuple-layer ${\mathrm{Sb}}_{2}{\mathrm{Te}}_{3}$ topological insulator is inserted into two septuple-layer ${\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}$ with interlayer antiferromagnetic coupling. Band structure and topological property calculations show that ${\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}/{\mathrm{Sb}}_{2}{\mathrm{Te}}_{3}/{\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}$ heterostructure exhibits a topologically nontrivial band gap around 26 meV, that hosts a QAHE with a Chern number of $\mathcal{C}=1$. In addition, our proposed materials system should be considered as an ideal platform to explore high-temperature QAHE due to the fact of natural charge compensation, originating from the intrinsic $n$-type defects in ${\mathrm{MnBi}}_{2}{\mathrm{Te}}_{4}$ and $p$-type defects in ${\mathrm{Sb}}_{2}{\mathrm{Te}}_{3}$.

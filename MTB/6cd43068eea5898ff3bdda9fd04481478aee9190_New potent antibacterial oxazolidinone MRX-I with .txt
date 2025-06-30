@@ -1,0 +1,9 @@
+Title: New potent antibacterial oxazolidinone (MRX-I) with an improved class safety profile.
+Authors: M. Gordeev, Zhengyu Yuan
+Year: 2014
+Paper ID: 6cd43068eea5898ff3bdda9fd04481478aee9190
+URL: https://www.semanticscholar.org/paper/6cd43068eea5898ff3bdda9fd04481478aee9190
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+Oxazolidinones comprise an important class of antibacterial protein synthesis inhibitors. Myelosuppression and monoamine oxidase inhibition (MAOI) are key independent causes for limiting adverse effects in therapy with the sole approved drug of this class, linezolid. This annotation describes a novel oxazolidinone agent, (S)-5-((isoxazol-3-ylamino)methyl)-3-(2,3,5-trifluoro-4-(4-oxo-3,4-dihydropyridin-1(2H)-yl)phenyl)oxazolidin-2-one (MRX-I), distinguished by its high activity against Gram-positive pathogens coupled with markedly reduced potential for myelosuppression and MAOI. The medical need, medicinal chemistry rationale, preclinical data, and phase I clinical trial summary for this new agent are reviewed herein.

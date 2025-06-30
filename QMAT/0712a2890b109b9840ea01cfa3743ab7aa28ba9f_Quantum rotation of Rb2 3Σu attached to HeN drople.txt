@@ -1,0 +1,9 @@
+Title: Quantum rotation of Rb2 (3Σu+) attached to HeN droplets: a path-integral Monte Carlo study
+Authors: R. Rodríguez-Cantano, R. Pérez de Tudela, D. López-Durán, T. González-Lezana, F. Gianturco et al. (and 2 more)
+Year: 2013
+Paper ID: 0712a2890b109b9840ea01cfa3743ab7aa28ba9f
+URL: https://www.semanticscholar.org/paper/0712a2890b109b9840ea01cfa3743ab7aa28ba9f
+Venue: 
+
+Abstract:
+None

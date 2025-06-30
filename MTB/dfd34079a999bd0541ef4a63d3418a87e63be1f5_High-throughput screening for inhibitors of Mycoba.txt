@@ -1,0 +1,9 @@
+Title: High-throughput screening for inhibitors of Mycobacterium tuberculosis H37Rv.
+Authors: S. Ananthan, Ellen R. Faaleolea, Robert C. Goldman, J. Hobrath, C. Kwong et al. (and 11 more)
+Year: 2009
+Paper ID: dfd34079a999bd0541ef4a63d3418a87e63be1f5
+URL: https://www.semanticscholar.org/paper/dfd34079a999bd0541ef4a63d3418a87e63be1f5
+Venue: Tuberculosis
+
+Abstract:
+None

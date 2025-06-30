@@ -1,0 +1,21 @@
+Title: 2D Materials
+Authors: 
+Year: N/A
+Paper ID: web_974554
+URL: https://foundry.lbl.gov/tag/2d-materials/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** 2D Materials
+
+**Key Points:** 
+- The page appears to aggregate content related to 2D materials, likely including research updates, news, or publications.
+- Dates listed (March 2022, October 2020, etc.) suggest a timeline or archive of posts or research milestones.
+
+**Methods:** Not specified
+
+**Authors:** Not specified
+
+**Summary:**  
+This webpage serves as a tag archive for "2D Materials" on the Foundry website, likely collecting articles, research updates, or news items related to two-dimensional materials. The listed dates indicate a history of posts or research activities, but no specific findings, methods, or authors are provided in the scraped content.

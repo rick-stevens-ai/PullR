@@ -1,0 +1,9 @@
+Title: Viroids: survivors from the RNA world?
+Authors: R. Flores, S. Gago-Zachert, P. Serra, R. Sanjuán, S. Elena
+Year: 2014
+Paper ID: b8bac82a2ac5f0966d50def331d587aea22a1856
+URL: https://www.semanticscholar.org/paper/b8bac82a2ac5f0966d50def331d587aea22a1856
+Venue: Annual Review of Microbiology
+
+Abstract:
+Because RNA can be a carrier of genetic information and a biocatalyst, there is a consensus that it emerged before DNA and proteins, which eventually assumed these roles and relegated RNA to intermediate functions. If such a scenario--the so-called RNA world--existed, we might hope to find its relics in our present world. The properties of viroids that make them candidates for being survivors of the RNA world include those expected for primitive RNA replicons: (a) small size imposed by error-prone replication, (b) high G + C content to increase replication fidelity, (c) circular structure for assuring complete replication without genomic tags, (d) structural periodicity for modular assembly into enlarged genomes, (e) lack of protein-coding ability consistent with a ribosome-free habitat, and (f) replication mediated in some by ribozymes, the fingerprint of the RNA world. With the advent of DNA and proteins, those protoviroids lost some abilities and became the plant parasites we now know.

@@ -1,0 +1,10 @@
+Title: BNL
+Authors: 
+Year: N/A
+Paper ID: web_932197
+URL: https://www.bnl.gov/cmpmsd/
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Studying basic, theoretical and applied aspects of materials, their utilization, and their electronic, physical, mechanical, and chemical properties in relation to their structure

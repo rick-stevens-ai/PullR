@@ -1,0 +1,9 @@
+Title: New technologies in computer-aided drug design: Toward target identification and new chemical entity discovery
+Authors: Yun Tang, Weiliang Zhu, Kaixian Chen, Hualiang Jiang
+Year: 2006
+Paper ID: f619a7ed2bfac3bdd47c464ddfb92a69a0b96412
+URL: https://www.semanticscholar.org/paper/f619a7ed2bfac3bdd47c464ddfb92a69a0b96412
+Venue: Drug Discovery Today: Technologies
+
+Abstract:
+None

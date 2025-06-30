@@ -1,0 +1,11 @@
+Title: High-temperature superconductivity in 
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:msub><mml:mi>Li</mml:mi><mml:mn>2</mml:mn></mml:msub><mml:msub><mml:mi>AuH</mml:mi><mml:mn>6</mml:mn></mml:msub></mml:mrow></mml:math>
+ mediated by strong electron-phonon coupling under amb
+Authors: Zhenfeng Ouyang, Bo-Wen Yao, Xiao-Qi Han, Peng-Jie Guo, Ze-Feng Gao et al. (and 1 more)
+Year: 2025
+Paper ID: bc175cb221993febef2a1da673430ba52a6312d0
+URL: https://www.semanticscholar.org/paper/bc175cb221993febef2a1da673430ba52a6312d0
+Venue: Physical review B
+
+Abstract:
+We used our developed AI search engine~(InvDesFlow) to perform extensive investigations regarding ambient stable superconducting hydrides. A cubic structure Li$_2$AuH$_6$ with Au-H octahedral motifs is identified to be a candidate. After performing thermodynamical analysis, we provide a feasible route to experimentally synthesize this material via the known LiAu and LiH compounds under ambient pressure. The further first-principles calculations suggest that Li$_2$AuH$_6$ shows a high superconducting transition temperature ($T_c$) $\sim$ 140 K under ambient pressure. The H-1$s$ electrons strongly couple with phonon modes of vibrations of Au-H octahedrons as well as vibrations of Li atoms, where the latter is not taken seriously in other previously similar cases. Hence, different from previous claims of searching metallic covalent bonds to find high-$T_c$ superconductors, we emphasize here the importance of those phonon modes with strong electron-phonon coupling (EPC). And we suggest that one can intercalate atoms into binary or ternary hydrides to introduce more potential phonon modes with strong EPC, which is an effective approach to find high-$T_c$ superconductors within multicomponent compounds.

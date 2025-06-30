@@ -1,0 +1,24 @@
+Title: Pseudogap and Superconducting Gap
+Authors: 
+Year: N/A
+Paper ID: web_947609
+URL: https://www-ssrl.slac.stanford.edu/research/pseudogap_summary.html
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Pseudogap and Superconducting Gap in High-Temperature Superconductors
+
+**Key Points:**
+- Discovery of two distinct energy gaps (pseudogap and superconducting gap) coexisting in high-temperature superconductors, with opposite doping dependence.
+- The pseudogap state likely competes with, rather than precedes, superconductivity in underdoped samples.
+- Weakened superconductivity in underdoped regimes is due to both loss of phase coherence and reduced electron pairing amplitude from competing states.
+
+**Methods:** Angle-resolved photoemission spectroscopy (ARPES) on Bi₂Sr₂Ca₁₋ₓYₓCu₂O₈₊δ (Bi2212) with improved crystal quality and advanced instrumentation.
+
+**Authors:** Kiyohisa Tanaka, W. S. Lee, D. H. Lu, A. Fujimori, T. Fujii, Risdiana, I. Terasaki, D. J. Scalapino, T. P. Devereaux, Z. Hussain, Z.-X. Shen
+
+**Publication Details:** Science, Vol. 314, p. 1910 (2006); Summary written by Alison Drain, SLAC Communication Office
+
+**Summary:**  
+Researchers at Stanford University, led by Professor Zhi-Xun Shen, used advanced ARPES techniques to reveal the coexistence of two distinct energy gaps in the electronic structure of underdoped cuprate superconductors. Their findings resolve previous contradictions in experimental results and suggest that the pseudogap competes with superconductivity, impacting both phase coherence and electron pairing. These insights have significant implications for understanding the mechanism of high-temperature superconductivity and may guide the development of a microscopic theory for the phenomenon.

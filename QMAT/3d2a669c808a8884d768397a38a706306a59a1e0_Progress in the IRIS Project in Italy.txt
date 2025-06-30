@@ -1,0 +1,9 @@
+Title: Progress in the IRIS Project in Italy
+Authors: L. Rossi, P. Campana, B. Di Girolamo, Marta Della Torre, Pasquale Arpaia et al. (and 60 more)
+Year: 2025
+Paper ID: 3d2a669c808a8884d768397a38a706306a59a1e0
+URL: https://www.semanticscholar.org/paper/3d2a669c808a8884d768397a38a706306a59a1e0
+Venue: IEEE transactions on applied superconductivity
+
+Abstract:
+In the frame of the EU Next Generation Europe program, the Italian Minister of University and Research has approved the IRIS project (Innovative Research Infrastructure for applied Superconductivity). IRIS will be active in six poles. The six poles are spread all over Italy: Milano, hub of the infrastructure; Genova, Frascati, Napoli, Salerno, and Lecce. The scope of IRIS is to provide an infrastructure to accompany the development of applied superconductivity for basic research like accelerators. It also aims at developing societal applications of superconductivity, especially in the fields of sustainability and medicine. The new facility will support basic research on magnetism and superconducting materials, wires, tapes and large current cable tests; superconducting magnet construction with advanced instrumentation, superconducting magnet, and power transmission line tests. The program, which represents an investment of about €60 million, has passed halfway of its three-year life; once finished will be followed by at least 10 years of infrastructure exploitation. The IRIS construction program also includes two demonstrators: a 10 T dipole HTS magnet to be operated at 10–20 K and an electric superconducting transmission line capable of 1 GW (40kA–25 kV) of about 130 m long.

@@ -1,0 +1,9 @@
+Title: What has virtual screening ever done for drug discovery?
+Authors: D. E. Clark
+Year: 2008
+Paper ID: ece8d9314cac29067f7db548bc34969b7f076108
+URL: https://www.semanticscholar.org/paper/ece8d9314cac29067f7db548bc34969b7f076108
+Venue: Expert Opinion on Drug Discovery
+
+Abstract:
+None

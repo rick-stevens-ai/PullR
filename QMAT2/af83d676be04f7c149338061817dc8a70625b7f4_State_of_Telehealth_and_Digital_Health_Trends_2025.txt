@@ -1,0 +1,28 @@
+Title: State of Telehealth and Digital Health Trends 2025
+Authors: Lyle Berkowitz, MD, Shayan Vyas, MD, MBA
+Year: 2025
+Paper ID: af83d676be04f7c149338061817dc8a70625b7f4
+URL: https://www.semanticscholar.org/paper/af83d676be04f7c149338061817dc8a70625b7f4
+Venue: Telehealth and Medicine Today
+
+Abstract:
+Join Telehealth and Medicine Today (THMT) editors for this face paced conversation. Hear two frontline early adopter clinicians discuss real world experiences and opinions about AI, improving patient care and operational efficiency within the healthcare sector. Questions asked during the conversation include:  
+ 
+What’s AI powered virtual care for the consumer and physician end user? 
+What are new features in automation to adopt and ease workflow stress and efficiency 
+What the impact on the administration and revenue cycle? 
+How do we automate simple tasks to reduce duplicative efforts? 
+How do we get data and patients in front of clinicians faster? 
+What’s the trust level using AI for clinicians today vs. next year? 
+How good is early detection and vital signs with AI? 
+ 
+Hot topics and trends include: 
+ 
+Automation of dictation 
+Commodity products, pricing, scale, and differentiation 
+Unlimited access to agentic agents 
+Ambient AI, AI and radiology, homecare, wearables, RPM and virtualists, 
+Access and effectiveness - and does telehealth save money? 
+Getting companies and clinicians to share and publish their frontline research and outcomes 
+ 
+The program ends with advice to students and researchers on whether, and how, AI will affect them.

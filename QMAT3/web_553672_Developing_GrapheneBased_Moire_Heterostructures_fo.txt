@@ -1,0 +1,12 @@
+Title: Developing Graphene‐Based Moiré Heterostructures for Twistronics
+Authors: 
+Year: N/A
+Paper ID: web_553672
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8728823/
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Abstract
+Graphene‐based moiré heterostructures are strongly correlated materials, and they are considered to be an effective platform to investigate the challenges of condensed matter physics. This is due to the distinct electronic properties that are unique to moiré superlattices and peculiar band structures. The increasing research on strongly correlated physics via graphene‐based moiré heterostructures, especially unconventional superconductors, greatly promotes the development of condensed matter physics. Herein, the preparation methods of graphene‐based moiré heterostructures on both in situ growth and assembling monolayer 2D materials are discussed. Methods to improve the quality of graphene and optimize the transfer process are presented to mitigate the limitations of low‐quality graphene and damage caused by the transfer process during the fabrication of graphene‐based moiré heterostructures. Then, the topological properties in various graphene‐based moiré heterostructures are reviewed. Furthermore, recent advances regarding the factors that influence physical performances via a changing twist angle, the exertion of strain, and regulation of the dielectric environment are presented. Moreover, various unique physical properties in graphene‐based moiré heterostructures are demonstrated. Finally, the challenges faced during the preparation and characterization of graphene‐based moiré heterostructures are discussed. An outlook for the further development of moiré heterostructures is also presented.
+Keywords: correlated physical performances, graphene‐based moiré heterostructures, topological properties, twist angles, twistronics

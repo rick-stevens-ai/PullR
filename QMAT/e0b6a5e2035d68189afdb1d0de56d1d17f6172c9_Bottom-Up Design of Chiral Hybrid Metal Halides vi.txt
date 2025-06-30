@@ -1,0 +1,9 @@
+Title: Bottom-Up Design of Chiral Hybrid Metal Halides via Exogenous Chiral-Center Graft Strategy.
+Authors: Huan Ye, Peng Wang, Yifei Wang, Qianwen Guan, Ruiqing Li et al. (and 6 more)
+Year: 2025
+Paper ID: e0b6a5e2035d68189afdb1d0de56d1d17f6172c9
+URL: https://www.semanticscholar.org/paper/e0b6a5e2035d68189afdb1d0de56d1d17f6172c9
+Venue: Small
+
+Abstract:
+Chiral hybrid metal halides (CHMs) have emerged as promising platforms for developing spin-related condensed matter physics, owing to their inherent chirality and excellent semiconducting features. However, the current exploration for new CHMs is mainly restrained by the requirement of organic amines with inner chiral centers, which constrains the precise customization of organic parts and impedes their further development in subdivision fields of chiral science. Here, by applying an exogenous chirality graft strategy through the stereo retentive SN2 reaction between homochiral epoxy chloropropane and achiral amines, a series of CHMs is successfully bottom-up designed. All the CHMs obtained from the strategy crystalize in the chiral space group and exhibit significant chiral characters including chiroptical activity and secondary harmonic generation. Additionally, the introduction of the exogenous chiral centers promotes the materials exhibit inherent chiral semiconductor features, which enables them to own the capability to intertangle with light with different states of helicity, provoking them potential in the application of circularly polarized light emission and detection. This work provides a new routine to design and synthesize CHMs conveniently and robustly, which may boost further investigation of chiral sciences.

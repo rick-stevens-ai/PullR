@@ -1,0 +1,9 @@
+Title: Integrating structure-based and ligand-based approaches for computational drug design.
+Authors: Gregory L. Wilson, M. Lill
+Year: 2011
+Paper ID: d242c3189e6564433f0d235c4ff9f21b1d07fb79
+URL: https://www.semanticscholar.org/paper/d242c3189e6564433f0d235c4ff9f21b1d07fb79
+Venue: Future Medicinal Chemistry
+
+Abstract:
+Methods utilized in computer-aided drug design can be classified into two major categories: structure based and ligand based, using information on the structure of the protein or on the biological and physicochemical properties of bound ligands, respectively. In recent years there has been a trend towards integrating these two methods in order to enhance the reliability and efficiency of computer-aided drug-design approaches by combining information from both the ligand and the protein. This trend resulted in a variety of methods that include: pseudoreceptor methods, pharmacophore methods, fingerprint methods and approaches integrating docking with similarity-based methods. In this article, we will describe the concepts behind each method and selected applications.

@@ -1,0 +1,9 @@
+Title: Structure-based drug design to augment hit discovery.
+Authors: S. Kalyaanamoorthy, Yi-Ping Phoebe Chen
+Year: 2011
+Paper ID: 97da9198627fcf84e2ec09247d0c206f4710f659
+URL: https://www.semanticscholar.org/paper/97da9198627fcf84e2ec09247d0c206f4710f659
+Venue: Drug Discovery Today
+
+Abstract:
+None

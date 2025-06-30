@@ -1,0 +1,9 @@
+Title: PocketQuery: protein–protein interaction inhibitor starting points from protein–protein interaction structure
+Authors: D. Koes, C. Camacho
+Year: 2012
+Paper ID: e2ef151be8dbb061d441b094c54abb69f43d1566
+URL: https://www.semanticscholar.org/paper/e2ef151be8dbb061d441b094c54abb69f43d1566
+Venue: Nucleic Acids Res.
+
+Abstract:
+PocketQuery (http://pocketquery.csb.pitt.edu) is a web interface for exploring the properties of protein–protein interaction (PPI) interfaces with a focus on the discovery of promising starting points for small-molecule design. PocketQuery rapidly focuses attention on the key interacting residues of an interaction using a ‘druggability’ score that provides an estimate of how likely the chemical mimicry of a cluster of interface residues would result in a small-molecule inhibitor of an interaction. These residue clusters are chemical starting points that can be seamlessly exported to a pharmacophore-based drug discovery workflow. PocketQuery is updated on a weekly basis to contain all applicable PPI structures deposited in the Protein Data Bank and allows users to upload their own custom structures for analysis.

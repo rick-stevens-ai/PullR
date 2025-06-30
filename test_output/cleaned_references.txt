@@ -1,0 +1,11 @@
+1. Here are the cleaned and normalized academic references:
+2. Smith, J. Testing URL Detection. (2023). https://arxiv.org/abs/2301.00001
+3. Johnson, A. Machine Learning Paper. (doi: 10.1038/s41586-022-12345-6)
+4. Brown, C., et al. Standard Academic Paper. Journal of Science, 15(3), 123-145. (2022).
+5. However, to better follow standard formatting guidelines, reference 1 and 2 could be revised as:
+6. Smith, J. Testing URL Detection. (2023). Available at https://arxiv.org/abs/2301.00001.
+7. Johnson, A. Machine Learning Paper. doi: 10.1038/s41586-022-12345-6. (2022).
+8. But to exactly match common citation styles and assuming a specific style isn't requested:
+9. Smith, J. (2023). Testing URL Detection. Available at: https://arxiv.org/abs/2301.00001.
+10. Johnson, A. (2022). Machine Learning Paper. doi: 10.1038/s41586-022-12345-6.
+11. Brown, C., et al. (2022). Standard Academic Paper. Journal of Science, 15(3), 123-145.

@@ -1,0 +1,12 @@
+Title: A Simplified Criterea-Based Martix for Weighting Project Activities and Phases
+Authors: Hamid Ragab Orban
+Year: 2025
+Paper ID: 7aa02cdd6f42d9a231b9d8c67add1563d61dd013
+URL: https://www.semanticscholar.org/paper/7aa02cdd6f42d9a231b9d8c67add1563d61dd013
+Venue: International Journal of Project Management
+
+Abstract:
+Purpose: The purpose of the current paper is to set the elements of an objective matrix that could be easily used by project teams to assign weights to the different phases and activities of a project with minimal individual variance between the evaluators. 
+Materials and Methods: In the recent study, a field research approach was followed. Six evaluators were first asked to subjectively assign weights to six activities of a project. Later the evaluators were asked to answer ten predefined closed questions which covered the financial, resources, time and dependency on activities and technology as well as the prerequisites of the project activity. The results of the answers were used to assign weights to the activities by calculating the percent of the YES answers from the total number of the questions answered. Statistical analysis was performed to check whether the use of predefined criteria significantly affects the weights of the project activities and phases compared to the subjective weighting approach. 
+Findings: The higher standard deviation of the subjective evaluation activities dataset in comparison to the criterial-based evaluation dataset indicates the variability between the evaluators. In practical terms, this means that the criteria-based evaluation provides more consistent evaluation results by the different evaluators. This has been further proved by the statistically significant t-test results of activity ONE and activity TWO despite the none-significant results of activities THREE to FIVE. 
+Unique Contribution to Theory, Practice and Policy: The findings of the current study showed the significance of the use of a predefined criteria in assigning weights to a project activities and phases. The author strongly recommends the adoption of the set criteria by the project teams for weighting project phases. The inclusion of these criteria in the commonly used project management software will indeed improve the project management process.

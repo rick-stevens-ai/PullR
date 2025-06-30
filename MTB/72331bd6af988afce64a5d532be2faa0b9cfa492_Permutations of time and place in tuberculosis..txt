@@ -1,0 +1,9 @@
+Title: Permutations of time and place in tuberculosis.
+Authors: P. Elkington, J. Friedland
+Year: 2015
+Paper ID: 72331bd6af988afce64a5d532be2faa0b9cfa492
+URL: https://www.semanticscholar.org/paper/72331bd6af988afce64a5d532be2faa0b9cfa492
+Venue: Lancet. Infectious Diseases (Print)
+
+Abstract:
+None

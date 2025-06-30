@@ -1,0 +1,27 @@
+Title: DOE National Quantum Information Science Research Centers
+Authors: 
+Year: N/A
+Paper ID: web_762789
+URL: https://nqisrc.org/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** U.S. Department of Energy National Quantum Information Science Research Centers (NQISRCs)
+
+**Key Points:**
+- The five DOE National Quantum Information Science Research Centers are advancing quantum computing, communication, sensing, and materials, with broad impacts across science, energy, security, medicine, finance, and logistics.
+- Each center is a collaborative effort involving over 1,500 experts from 115+ institutions, focusing on complementary approaches to tackle major challenges in quantum information science.
+- Notable scientific highlights include advances in qubit fabrication, quantum materials, quantum processors, and validation of electronic structure models.
+
+**Methods:** Collaborative, multidisciplinary research involving national laboratories, universities, and industry partners; approaches include co-design, advanced fabrication, electron microscopy, first-principles calculations, and experimental testbeds.
+
+**Authors:** Directors and lead institutions for each center are mentioned:
+- Andrew Houck (C2QA, Brookhaven National Laboratory)
+- David Awschalom (Q-NEXT, Argonne National Laboratory)
+- Travis Humble (Quantum Science Center, Oak Ridge National Laboratory)
+- Bert De Jong (Quantum Systems Accelerator, Lawrence Berkeley National Laboratory)
+- Anna Grassellino (Superconducting Quantum Materials & Systems Center, Fermi National Accelerator Laboratory)
+
+**Summary:**  
+The DOE National Quantum Information Science Research Centers, established in 2020, comprise five major centers led by national laboratories and involving a vast network of collaborators from academia, industry, and government. These centers focus on overcoming key challenges in quantum computing, communication, sensing, and materials through innovative research and technology development. Their work includes breakthroughs in qubit performance, quantum materials, and quantum processors, as well as workforce development and technology transfer to industry, positioning the U.S. as a leader in quantum information science.

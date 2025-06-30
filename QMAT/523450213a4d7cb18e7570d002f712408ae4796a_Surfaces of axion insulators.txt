@@ -1,0 +1,9 @@
+Title: Surfaces of axion insulators
+Authors: N. Varnava, D. Vanderbilt
+Year: 2018
+Paper ID: 523450213a4d7cb18e7570d002f712408ae4796a
+URL: https://www.semanticscholar.org/paper/523450213a4d7cb18e7570d002f712408ae4796a
+Venue: Physical review B
+
+Abstract:
+Axion insulators are magnetic topological insulators in which the nontrivial ${\mathbb{Z}}_{2}$ index is protected by inversion symmetry instead of time-reversal symmetry. The naturally gapped surfaces of axion insulators give rise to a half-quantized surface anomalous Hall conductivity (AHC), but the sign of the surface AHC cannot be determined from topological arguments. In this paper, we consider topological phenomena at the surface of an axion insulator. To be explicit, we construct a minimal tight-binding model on the pyrochlore lattice and investigate the all-in-all-out (AIAO) and ferromagnetic (FM) spin configurations. We also implement a recently proposed approach for calculating the surface AHC directly, which allows us to explore how the interplay between surface termination and magnetic ordering determines the sign of the half-quantized surface AHC. In the case of AIAO ordering, we show that it is possible to construct a topological state with no protected metallic states on boundaries of any dimension (surfaces, hinges, or corners), although chiral hinge modes do occur for many surface configurations. In the FM case, rotation of the magnetization by an external field offers promising means of control of chiral hinge modes, which can also appear on surface steps or where bulk domain walls emerge at the surface.

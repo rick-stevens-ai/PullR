@@ -1,0 +1,9 @@
+Title: Recent Success Stories Leading to Commercializable Bioactive Compounds with the Aid of Traditional QSAR Procedures
+Authors: T. Fujita
+Year: 1997
+Paper ID: b57a72b058b4f9a88068ed9bd66f1ae3d668ce3e
+URL: https://www.semanticscholar.org/paper/b57a72b058b4f9a88068ed9bd66f1ae3d668ce3e
+Venue: 
+
+Abstract:
+New successful applications of the Hansch-type traditional QSAR to key steps in designing novel bioactive compounds are reviewed. Studies for a benzhydrylbenzylpiperazine antimigraine agent (lomerizine), azole-type agricultural fungicides (metconazole and ipconazole), and a biphenylyloxobutanoic acid antiinflammatory agent (flobufen) were taken as the examples. Structural optimizations were nicely made by using the QSAR information sometimes along with findings obtained from 3D molecular modelling studies and/or hypotheses proposed for metabolic fates. The two azole fungicides were launched in 1994. The antimigraine and antiinflammatory agents are expected to be commercialized soon.

@@ -1,0 +1,28 @@
+Title: Moiré Patterns Open Up More Possibilities for Quantum Information
+Authors: 
+Year: N/A
+Paper ID: web_225169
+URL: https://www.nist.gov/quantum-information-science/moire-patterns-open-more-possibilities-quantum-information
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Moiré Patterns in Atomically Thin Materials for Quantum Information Applications
+
+**Key Points:**
+- NIST researchers demonstrated that moiré patterns can be engineered in atomically thin crystalline semiconductor materials, affecting their optical properties.
+- These moiré patterns create a tunable array of quantum dots, which can serve as a platform for storing, encoding, and transmitting quantum information.
+- The properties of the quantum dots, including their spacing and light polarization, can be precisely controlled by adjusting the rotational twist angle between the stacked layers.
+
+**Methods:** Experimental deposition and stacking of atomically thin semiconductor layers; optical property characterization; collaborative research.
+
+**Authors:** K. Tran, G. Moody, F. Wu, X. Lu, J. Choi, K. Kim, A. Rai, D.A. Sanchez, J. Quan, A. Singh, J. Embley, A. Zepeda, M. Campbell, T. Autry, T. Taniguchi, K. Watanabe, N. Lu, S.K. Banerjee, K.L. Silverman, S. Kim, E. Tutuc, L. Yang, A.H. MacDonald, and X. Li.
+
+**Publication Details:**  
+- Title: Evidence for Moiré Excitons in Van der Waals Heterostructures  
+- Journal: Nature  
+- Advance Online Publication: February 25, 2019  
+- DOI: 10.1038/s41586-019-0975-z
+
+**Summary:**  
+Researchers at NIST and collaborating institutions have shown that stacking atomically thin semiconductor layers can produce moiré patterns, which in turn create a controllable array of quantum dots with unique optical properties. By adjusting the twist angle between the layers, the quantum dot array can be tuned for potential applications in quantum information science, such as encoding and transmitting quantum information. This work opens new avenues for scalable and tunable quantum devices at the nanoscale.

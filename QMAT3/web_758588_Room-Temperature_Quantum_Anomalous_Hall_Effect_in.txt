@@ -1,0 +1,12 @@
+Title: Room-Temperature Quantum Anomalous Hall Effect in Terbium monohalide
+Authors: 
+Year: N/A
+Paper ID: web_758588
+URL: https://arxiv.org/html/2501.09970v1
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract
+Following the successful experimental realization of the long-sought Quantum anomalous Hall (QAH) effect in thin films of chromium-doped (Bi,Sb)2Te3, enhancing the work temperature of QAH effect has emerged as a significant and challenging task in condensed matter physics. In this work, we demonstrate monolayer TbCl as a promising candidate to realize the room temperature QAH effect. Based on density functional theory + HSE hybrid functional, we identify the topological properties with Hall conductivity G=−e2/h𝐺superscript𝑒2ℎG=-e^{2}/hitalic_G = - italic_e start_POSTSUPERSCRIPT 2 end_POSTSUPERSCRIPT / italic_h per layer in three-dimensional ferromagnetic insulator TbCl, which is weakly staked by the QAH layers. The monolayer TbCl inherits the magnetic and topological properties, and exhibits the QAH effect corresponding to the Chern number C𝐶Citalic_C=-1. The topological band gap is significantly large and reaches 42.8 meV, which is beyond room temperatue.
+Meanwhile, the magnetic study finds that the extended 5d𝑑ditalic_d electrons contribute to the magnetic momentum of Tb and lead to sizable exchange and superexchange interactions, resulting in a high Curie temperature Tcsubscript𝑇𝑐T_{c}italic_T start_POSTSUBSCRIPT italic_c end_POSTSUBSCRIPT∼similar-to\sim∼457K. All these features demonstrate that monolayer TbCl will provide an ideal platform to realize the room temperature QAH effect.

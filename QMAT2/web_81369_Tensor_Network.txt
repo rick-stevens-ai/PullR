@@ -1,0 +1,10 @@
+Title: Tensor Network
+Authors: 
+Year: N/A
+Paper ID: web_81369
+URL: https://tensornetwork.org/reviews_resources.html
+Venue: Web Source
+Content Status: SHORT_ABSTRACT
+
+Abstract:
+No abstract extracted from web page

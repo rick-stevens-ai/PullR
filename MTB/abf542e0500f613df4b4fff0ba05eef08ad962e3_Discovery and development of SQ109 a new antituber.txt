@@ -1,0 +1,9 @@
+Title: Discovery and development of SQ109: a new antitubercular drug with a novel mechanism of action.
+Authors: K. Sacksteder, M. Protopopova, C. Barry, K. Andries, C. Nacy
+Year: 2012
+Paper ID: abf542e0500f613df4b4fff0ba05eef08ad962e3
+URL: https://www.semanticscholar.org/paper/abf542e0500f613df4b4fff0ba05eef08ad962e3
+Venue: Future Microbiology
+
+Abstract:
+Existing drugs have limited efficacy against the rising threat of drug-resistant TB, have significant side effects, and must be given in combinations of four to six drugs for at least 6 months for drug-sensitive TB and up to 24 months for drug-resistant TB. The long treatment duration has led to increased patient noncompliance with therapy. This, in turn, drives the development of additional drug resistance in a spiral that has resulted in some forms of TB being currently untreatable by existing drugs. New antitubercular drugs in development, particularly those with mechanisms of action that are different from existing first- and second-line TB drugs, are anticipated to be effective against both drug-sensitive and drug-resistant TB. SQ109 is a new TB drug candidate with a novel mechanism of action that was safe and well tolerated in Phase I and early Phase II clinical trials. We describe herein the identification, development and characterization of SQ109 as a promising new antitubercular drug.

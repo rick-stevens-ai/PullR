@@ -1,0 +1,9 @@
+Title: Room Temperature Superconductivity: the Roles of Theory and Materials Design
+Authors: W. Pickett
+Year: 2022
+Paper ID: 1015117718cd388c589f911f98b8deb88fcd9483
+URL: https://www.semanticscholar.org/paper/1015117718cd388c589f911f98b8deb88fcd9483
+Venue: 
+
+Abstract:
+For half a century after the discovery of superconductivity, materials exploration for better superconductors proceeded without knowledge of the underlying mechanism. The 1957 BCS theory cleared that up: the superconducting state occurs due to pairing of electrons over the Fermi surface. Over the following half century higher critical temperature T$_c$ was achieved only serendipitously as new materials were synthesized. Meanwhile the formal theory of phonon-coupled superconductivity at the material-dependent level became highly developed: given a known compound, its value of T$_c$, the superconducting gap function, and several other properties of the superconducting state became available independent of further experimental input. More recently, density functional theory based computational materials design has progressed to a predictive level -- new materials can be predicted on the basis of various numerical algorithms. Taken together, these capabilities enable theoretical prediction of new superconductors. Here the process that resulted in three new highest temperature superconductors, predicted numerically, confirmed experimentally -- SH$_3$, LaH$_{10}$, and YH$_9$ -- is recounted. These hydrides have T$_c$ in the 200-280K range at megabar pressures, and here the development will be chronicled. Current activities and challenges are discussed, together with Regularities in compressed hydrides that can guide further exploration.

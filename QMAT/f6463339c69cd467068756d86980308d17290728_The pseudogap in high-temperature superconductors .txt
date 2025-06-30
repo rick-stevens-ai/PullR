@@ -1,0 +1,9 @@
+Title: The pseudogap in high-temperature superconductors: an experimental survey
+Authors: T. Timusk, B. Statt
+Year: 1999
+Paper ID: f6463339c69cd467068756d86980308d17290728
+URL: https://www.semanticscholar.org/paper/f6463339c69cd467068756d86980308d17290728
+Venue: 
+
+Abstract:
+We present an experimental review of the nature of the pseudogap in the cuprate superconductors. Evidence from various experimental techniques points to a common phenomenology. The pseudogap is seen in all high-temperature superconductors and there is general agreement on the temperature and doping range where it exists. It is also becoming clear that the superconducting gap emerges from the normal state pseudogap. The d-wave nature of the order parameter holds for both the superconducting gap and the pseudogap. Although an extensive body of evidence is reviewed, a consensus on the origin of the pseudogap is as lacking as it is for the mechanism underlying high-temperature superconductivity.

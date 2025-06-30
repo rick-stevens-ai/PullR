@@ -1,0 +1,9 @@
+Title: Pseudogap phase of cuprate superconductors confined by Fermi surface topology
+Authors: N. Doiron-Leyraud, O. Cyr-Choiniere, S. Badoux, A. Ataei, C. Collignon et al. (and 15 more)
+Year: 2017
+Paper ID: 5e5569f5bccd77ac208b09962a0f7f42275d77e8
+URL: https://www.semanticscholar.org/paper/5e5569f5bccd77ac208b09962a0f7f42275d77e8
+Venue: Nature Communications
+
+Abstract:
+The properties of cuprate high-temperature superconductors are largely shaped by competing phases whose nature is often a mystery. Chiefly among them is the pseudogap phase, which sets in at a doping p* that is material-dependent. What determines p* is currently an open question. Here we show that the pseudogap cannot open on an electron-like Fermi surface, and can only exist below the doping pFS at which the large Fermi surface goes from hole-like to electron-like, so that p* ≤ pFS. We derive this result from high-magnetic-field transport measurements in La1.6−xNd0.4SrxCuO4 under pressure, which reveal a large and unexpected shift of p* with pressure, driven by a corresponding shift in pFS. This necessary condition for pseudogap formation, imposed by details of the Fermi surface, is a strong constraint for theories of the pseudogap phase. Our finding that p* can be tuned with a modest pressure opens a new route for experimental studies of the pseudogap. High-temperature superconductors exhibit pseudogap behaviour that remains of unknown origin, despite many years of intensive study. Here the authors study the onset of the pseudogap under pressure, providing evidence that it requires a hole-like Fermi surface and constraining future theoretical developments.

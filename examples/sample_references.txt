@@ -1,0 +1,26 @@
+# Sample Academic References for Testing PullR
+# Each line should contain one complete academic reference
+
+Attention Is All You Need. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Advances in neural information processing systems, 30.
+
+BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). arXiv preprint arXiv:1810.04805.
+
+Language Models are Few-Shot Learners. Brown, T., Mann, B., Ryder, N., Subbiah, M., Kaplan, J. D., Dhariwal, P., ... & Amodei, D. (2020). Advances in neural information processing systems, 33, 1877-1901.
+
+Deep Learning. Goodfellow, I., Bengio, Y., & Courville, A. (2016). MIT press.
+
+ImageNet Classification with Deep Convolutional Neural Networks. Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). Communications of the ACM, 60(6), 84-90.
+
+Generative Adversarial Networks. Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2014). Advances in neural information processing systems, 27.
+
+Adam: A Method for Stochastic Optimization. Kingma, D. P., & Ba, J. (2014). arXiv preprint arXiv:1412.6980.
+
+Dropout: A Simple Way to Prevent Neural Networks from Overfitting. Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I., & Salakhutdinov, R. (2014). The journal of machine learning research, 15(1), 1929-1958.
+
+# References with URLs (for testing web scraping)
+https://arxiv.org/abs/1706.03762
+
+https://doi.org/10.18653/v1/N16-1030
+
+# Example of a reference with varied formatting
+LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "Deep learning." nature 521.7553 (2015): 436-444.

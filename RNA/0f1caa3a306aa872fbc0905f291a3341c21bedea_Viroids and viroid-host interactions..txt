@@ -1,0 +1,9 @@
+Title: Viroids and viroid-host interactions.
+Authors: R. Flores, C. Hernández, Á. E. Martínez de Alba, J. Daròs, F. Serio
+Year: 2005
+Paper ID: 0f1caa3a306aa872fbc0905f291a3341c21bedea
+URL: https://www.semanticscholar.org/paper/0f1caa3a306aa872fbc0905f291a3341c21bedea
+Venue: Annual Review of Phytopathology
+
+Abstract:
+Although they induce symptoms in plants similar to those accompanying virus infections, viroids have unique structural, functional, and evolutionary characteristics. They are composed of a small, nonprotein-coding, single-stranded, circular RNA, with autonomous replication. Viroid species are clustered into the families Pospiviroidae and Avsunviroidae, whose members replicate (and accumulate) in the nucleus and chloroplast, respectively. Viroids replicate in three steps through an RNA-based rolling-circle mechanism: synthesis of longer-than-unit strands catalyzed by host RNA polymerases; processing to unit-length, which in the family Avsunviroidae is mediated by hammerhead ribozymes; and circularization. Within the initially infected cells, viroid RNA must move to its replication organelle, with the resulting progeny then invading adjacent cells through plasmodesmata and reaching distal parts via the vasculature. To carry out these movements, viroids must interact with host factors. The mature viroid RNA could be the primary pathogenic effector or, alternatively, viroids could exert their pathogenic effects via RNA silencing.

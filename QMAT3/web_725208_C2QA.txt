@@ -1,0 +1,22 @@
+Title: C2QA
+Authors: 
+Year: N/A
+Paper ID: web_725208
+URL: https://www.bnl.gov/quantumcenter/QIS-centers.php
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** National Quantum Information Science (QIS) Research Centers, with a focus on the Co-design Center for Quantum Advantage (C2QA)
+
+**Key Points:**
+- The C2QA aims to overcome the limitations of current noisy intermediate scale quantum (NISQ) computer systems to achieve quantum advantage in scientific computations, particularly in high-energy, nuclear, chemical, and condensed matter physics.
+- The center’s five-year goal is to deliver a tenfold improvement in software optimization, materials and device properties, and quantum error correction, resulting in a combined 1,000-fold improvement in computation metrics.
+- The National QIS Centers, including C2QA, are part of a coordinated federal effort under the National Quantum Initiative to advance quantum information science for national security, economic competitiveness, and scientific leadership.
+
+**Methods:** Collaborative, multi-institutional research integrating software, materials science, device engineering, and quantum error correction; co-design approach to optimize across the quantum computing stack.
+
+**Authors:** Not specified (institutional initiative led by the U.S. Department of Energy's Office of Science and partner institutions).
+
+**Summary:**  
+The Co-design Center for Quantum Advantage (C2QA) is one of several National Quantum Information Science Research Centers established under the U.S. National Quantum Initiative. C2QA’s mission is to address the challenges of current quantum computing systems by integrating advances in software, materials, and error correction to achieve significant improvements in quantum computational capabilities. The center operates through a collaborative, multi-disciplinary approach, aiming to accelerate the development and deployment of quantum technologies for scientific and national applications.

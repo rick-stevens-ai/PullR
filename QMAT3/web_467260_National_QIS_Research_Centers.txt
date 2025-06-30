@@ -1,0 +1,27 @@
+Title: National QIS Research Centers
+Authors: 
+Year: N/A
+Paper ID: web_467260
+URL: https://science.osti.gov/Initiatives/QIS/QIS-Centers
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** National Quantum Information Science (QIS) Research Centers
+
+**Key Points:**
+- The National QIS Research Centers are large-scale, collaborative initiatives aimed at advancing quantum information science with significant national impact on security, economic competitiveness, and scientific leadership.
+- Five centers—Q-NEXT, C2QA, SQMS, QSA, and QSC—focus on different aspects of quantum science, including quantum interconnects, quantum computing, superconducting materials, quantum algorithms, and topological quantum computing.
+- The centers emphasize interdisciplinary collaboration, technology transfer, workforce development, and partnerships with industry to accelerate quantum technology innovation and commercialization.
+
+**Methods:** Collaborative, multi-institutional research teams spanning scientific and engineering disciplines; integration of research, technology development, and workforce training.
+
+**Authors:** Directors and lead institutions for each center:
+- Q-NEXT: David Awschalom, Argonne National Laboratory
+- C2QA: Andrew Houck, Brookhaven National Laboratory
+- SQMS: Anna Grassellino, Fermi National Accelerator Laboratory
+- QSA: Bert de Jong, Lawrence Berkeley National Laboratory
+- QSC: Travis Humble, Oak Ridge National Laboratory
+
+**Summary:**  
+The National QIS Research Centers, established by the U.S. Department of Energy, represent a coordinated national effort to advance quantum information science through five specialized centers. Each center brings together multidisciplinary teams from multiple institutions to address key challenges in quantum technology, from quantum computing and materials to sensing and algorithm development. The centers also focus on building a skilled quantum workforce and fostering industry partnerships to ensure the rapid translation of scientific advances into practical applications, thereby maintaining U.S. leadership in quantum science and technology.

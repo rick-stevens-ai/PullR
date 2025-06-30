@@ -1,0 +1,9 @@
+Title: ARPES on high-temperature superconductors: Simplicity vs. complexity (Review Article)
+Authors: A. Kordyuk, S. Borisenko
+Year: 2006
+Paper ID: ca3af856a9f58a3ef7949a33c6ae04ee2e322f75
+URL: https://www.semanticscholar.org/paper/ca3af856a9f58a3ef7949a33c6ae04ee2e322f75
+Venue: 
+
+Abstract:
+A notable role in understanding of the microscopic electronic properties of high-temperature superconductors (HTSC) belongs to angle-resolved photoemission spectroscopy (ARPES). This technique supplies a direct window into the reciprocal space of solids: the momentum-energy space where quasiparticles (electrons dressed in clouds of interactions) dwell. Any interaction in the electronic system, e.g., superconducting pairing, leads to modification of the quasiparticle spectrum—to redistribution of the spectral weight over the momentum-energy space probed by ARPES. Continued development of the technique had the effect that the picture seen through the ARPES window became clearer and sharper until the complexity of the electronic band structure of the cuprates had been resolved. Now, in the doping range optimal for superconductivity, the cuprates much resemble a normal metal with well-predicted electronic structure, though with rather strong electron-electron interaction. This principal disentanglement of the...

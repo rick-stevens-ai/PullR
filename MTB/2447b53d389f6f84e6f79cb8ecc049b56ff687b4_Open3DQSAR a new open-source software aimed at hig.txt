@@ -1,0 +1,9 @@
+Title: Open3DQSAR: a new open-source software aimed at high-throughput chemometric analysis of molecular interaction fields
+Authors: P. Tosco, T. Balle
+Year: 2011
+Paper ID: 2447b53d389f6f84e6f79cb8ecc049b56ff687b4
+URL: https://www.semanticscholar.org/paper/2447b53d389f6f84e6f79cb8ecc049b56ff687b4
+Venue: Journal of Molecular Modeling
+
+Abstract:
+None

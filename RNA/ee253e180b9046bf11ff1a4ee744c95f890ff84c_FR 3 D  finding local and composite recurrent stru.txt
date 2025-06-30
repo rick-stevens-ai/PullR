@@ -1,0 +1,9 @@
+Title: FR 3 D : finding local and composite recurrent structural motifs in RNA 3 D structures
+Authors: Michael Sarver
+Year: 2010
+Paper ID: ee253e180b9046bf11ff1a4ee744c95f890ff84c
+URL: https://www.semanticscholar.org/paper/ee253e180b9046bf11ff1a4ee744c95f890ff84c
+Venue: 
+
+Abstract:
+None

@@ -1,0 +1,9 @@
+Title: In Vitro and In Vivo Activities of Contezolid (MRX-I) against Mycobacterium tuberculosis
+Authors: C. Shoen, M. Destefano, B. Hafkin, M. Cynamon
+Year: 2018
+Paper ID: 7860bf35275588da5259e938f8488feb3539d563
+URL: https://www.semanticscholar.org/paper/7860bf35275588da5259e938f8488feb3539d563
+Venue: Antimicrobial Agents and Chemotherapy
+
+Abstract:
+ABSTRACT The in vitro activity of contezolid (MRX-I) against clinical isolates of Mycobacterium tuberculosis was evaluated using a microtiter broth dilution assay. MRX-I was as effective as linezolid (LZD) in vitro. MRX-I and LZD were subsequently studied in BALB/c mice infected intranasally with M. tuberculosis Erdman. MRX-I and LZD at 100 mg/kg significantly reduced the bacterial load in lungs compared to the untreated early and late controls.

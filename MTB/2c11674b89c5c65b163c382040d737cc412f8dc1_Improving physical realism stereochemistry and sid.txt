@@ -1,0 +1,9 @@
+Title: Improving physical realism, stereochemistry, and side‐chain accuracy in homology modeling: Four approaches that performed well in CASP8
+Authors: E. Krieger, K. Joo, Jinwoo Lee, Joo-Ho Lee, Srivatsan Raman et al. (and 4 more)
+Year: 2009
+Paper ID: 2c11674b89c5c65b163c382040d737cc412f8dc1
+URL: https://www.semanticscholar.org/paper/2c11674b89c5c65b163c382040d737cc412f8dc1
+Venue: Proteins: Structure, Function, and Bioinformatics
+
+Abstract:
+None

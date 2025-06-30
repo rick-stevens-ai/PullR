@@ -1,0 +1,9 @@
+Title: Exploring the substrate selectivity of human sEH and M. tuberculosis EHB using QM/MM
+Authors: S. Rabi, Anand H G Patel, Steven K. Burger, T. Verstraelen, P. Ayers
+Year: 2017
+Paper ID: d3363b3e84cb7a4ba0a44160333b24b73cdf0b6a
+URL: https://www.semanticscholar.org/paper/d3363b3e84cb7a4ba0a44160333b24b73cdf0b6a
+Venue: Structural Chemistry
+
+Abstract:
+None

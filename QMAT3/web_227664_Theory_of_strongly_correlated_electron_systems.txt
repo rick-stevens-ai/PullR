@@ -1,0 +1,30 @@
+Title: Theory of strongly correlated electron systems
+Authors: 
+Year: N/A
+Paper ID: web_227664
+URL: https://www.lboro.ac.uk/departments/physics/research/research-themes/condensed-matter-and-materials-physics/theoryofstronglycorrelatedelectronsystems/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Theory of Strongly Correlated Electron Systems
+
+**Key Points:**
+- The research aims to fundamentally understand novel collective phases of matter—such as high-temperature superconductivity and quantum spin liquids—using modern analytical and computational quantum many-body methods.
+- Key areas of focus include quantum criticality, Fermi-surface topological transitions, strongly correlated magnets and spin liquids, and unconventional/high-temperature superconductivity.
+- The group combines analytic field-theory, ab-initio numerical methods, and close experimental collaboration to model and predict new quantum materials and explain experimental phenomena.
+
+**Methods:** 
+- Many-body analytic field-theory approaches
+- Ab-initio numerical methods
+- Large-scale computational modeling
+- Collaboration with experimental groups and international partners
+
+**Authors:**
+- Prof. Joseph Betouras
+- Prof. Feo Kusmartsev
+- Dr. Ioannis Rousochatzakis
+- Additional collaborators listed in referenced papers
+
+**Summary:**
+This research theme at Loughborough University investigates the fundamental physics of strongly correlated electron systems, targeting phenomena such as quantum criticality, topological Fermi surface transitions, quantum spin liquids, and unconventional superconductivity. The group employs a blend of theoretical and computational techniques, supported by experimental collaborations, to uncover the principles governing these complex systems and to guide the discovery and understanding of new quantum materials. Their work addresses longstanding experimental puzzles and aims to enable technological breakthroughs in quantum materials and devices.

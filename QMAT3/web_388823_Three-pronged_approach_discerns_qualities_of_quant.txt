@@ -1,0 +1,30 @@
+Title: Three-pronged approach discerns qualities of quantum spin liquids
+Authors: 
+Year: N/A
+Paper ID: web_388823
+URL: https://www.ornl.gov/news/three-pronged-approach-discerns-qualities-quantum-spin-liquids
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Quantum Spin Liquids (QSLs) and their characterization in KYbSe2
+
+**Key Points:**
+- Researchers confirmed quantum spin liquid (QSL) behavior in the material KYbSe2, a delafossite with a triangular lattice structure, using a combination of theoretical, experimental, and computational methods.
+- The study established a new protocol for identifying QSL candidates, observing quantum entanglement, exotic quasiparticles, and exchange interactions, and demonstrated that KYbSe2 is close to the quantum critical point for QSL behavior.
+- The findings have implications for the development of quantum technologies, including quantum computing and superconductors, and provide a roadmap for identifying and modifying materials to achieve true QSL states.
+
+**Methods:** 
+- Combined theoretical modeling, neutron scattering experiments (using Cold Neutron Chopper Spectrometer and Wide-Angular-Range Chopper Spectrometer at ORNL), and computational simulations (at LBNL and NERSC).
+- Application of entanglement witnesses (one-tangle, two-tangle, quantum Fisher information) to distinguish quantum from classical phenomena.
+
+**Authors:** 
+- Lead author: Allen Scheie (Los Alamos National Laboratory)
+- Other researchers: Jie Xing, Joe Paddison, Douglas L Abernathy, Daniel M Pajerowski, David S Parker, Alan Tennant
+- Contributing institutions: Oak Ridge National Laboratory (ORNL), Lawrence Berkeley National Laboratory, Los Alamos National Laboratory, SLAC National Accelerator Laboratory, University of Tennessee Knoxville, University of Missouri, University of Minnesota, Stanford University, Rosario Physics Institute
+
+**Publication Details:** 
+- Published in Nature Physics, November 16, 2023
+
+**Summary:**  
+A multi-institutional team led by the Quantum Science Center at ORNL has used a three-pronged approach—combining theory, experiment, and computation—to confirm quantum spin liquid behavior in the material KYbSe2. Their work, published in Nature Physics, demonstrates that KYbSe2 exhibits key QSL characteristics and is near the quantum critical point, offering a new protocol for identifying and engineering QSL materials. These advances are significant for the future of quantum technologies, as understanding and controlling QSLs could lead to breakthroughs in quantum computing and superconductivity.

@@ -1,0 +1,10 @@
+Title: Web-scraped content
+Authors: 
+Year: N/A
+Paper ID: web_452513
+URL: https://physics.aps.org/articles/pdf/10.1103/Physics.13.s119
+Venue: Web Source
+Content Status: SHORT_ABSTRACT, WEB_SCRAPED
+
+Abstract:
+No abstract available

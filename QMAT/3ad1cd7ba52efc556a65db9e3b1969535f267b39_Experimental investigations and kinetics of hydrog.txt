@@ -1,0 +1,9 @@
+Title: Experimental investigations and kinetics of hydrogen oxidation by oxygen in the media of carbon dioxide under elevated pressure at fiber-glass Pt/Pd catalysts
+Authors: A. Zagoruiko, S. Lopatin, P. Mikenin, A. Elyshev
+Year: 2022
+Paper ID: 3ad1cd7ba52efc556a65db9e3b1969535f267b39
+URL: https://www.semanticscholar.org/paper/3ad1cd7ba52efc556a65db9e3b1969535f267b39
+Venue: Kataliz v promyshlennosti
+
+Abstract:
+The study is dedicated to the performance of glass-fiber catalysts (GFCs) in the practically important reaction of hydrogen oxidation by oxygen in the media of carbon dioxide at elevated pressures. The samples of the catalysts were synthesized using Pt and Pd as active metals and thermostable high-silica glass-fiber textiles both unpromoted and promoted by Zr. The used catalyst preparation methods include surface thermal synthesis and leaching/impregnation approaches. All three tested samples showed approximately equal activity, but the preference was given to Pt-based GFC synthesized by means of surface thermal synthesis method because it uses the much cheaper and widely available glass-fiber textile instead of rare and expensive Zr-promoted materials. Resource testing of this catalyst for more than 200 hours demonstrated its high stability. The reaction rate may be described by kinetic equation corresponding to mass-action law with linear dependence upon the reaction pressure. The studied GFC may be arranged into structured cartridges with low pressure drop and highly intensive heat and mass transfer under the commercial process conditions, so its further practical application looks promising.

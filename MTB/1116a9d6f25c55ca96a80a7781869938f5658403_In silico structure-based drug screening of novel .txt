@@ -1,0 +1,9 @@
+Title: In silico structure-based drug screening of novel antimycobacterial pharmacophores by DOCK-GOLD tandem screening
+Authors: Junichi Taira, Takashi Ito, H. Nakatani, Tomohiro Umei, H. Baba et al. (and 5 more)
+Year: 2017
+Paper ID: 1116a9d6f25c55ca96a80a7781869938f5658403
+URL: https://www.semanticscholar.org/paper/1116a9d6f25c55ca96a80a7781869938f5658403
+Venue: International Journal of Mycobacteriology
+
+Abstract:
+Background: Enzymes responsible for cell wall development in Mycobacterium tuberculosis are considered as potential targets of anti-tuberculosis (TB) agents. Mycobacterial cyclopropane mycolic acid synthase 1 (CmaA1) is essential for mycobacterial survival because of its critical role in synthesizing mycolic acids. Materials and Methods: We screened compounds that were capable of interacting with the mycobacterial CmaA1 active site using a virtual compound library with an in silico structure-based drug screening (SBDS). Following the selection of such compounds, their antimycobacterial activity was examined. Results: With the in silico SBDS, for which we also used DOCK-GOLD programs and screening methods that utilized the structural similarity between the selected active compounds, we identified two compounds with potent inhibitory effects on mycobacterial growth. The antimycobacterial effect of the compounds was comparable to that of isoniazid, which is used as a first-line anti-TB drug. Conclusion: The compounds identified through SBDS were expected to be a novel class of anti-TB pharmacophores.

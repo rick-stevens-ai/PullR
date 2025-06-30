@@ -1,0 +1,9 @@
+Title: Lead optimization of a novel series of imidazo[1,2-a]pyridine amides leading to a clinical candidate (Q203) as a multi- and extensively-drug-resistant anti-tuberculosis agent.
+Authors: Sunhee Kang, Ryangyeo Kim, M. Seo, Saeyeon Lee, Y. M. Kim et al. (and 15 more)
+Year: 2014
+Paper ID: 874045a2d6a3730aa3b87549c3071ba39360e745
+URL: https://www.semanticscholar.org/paper/874045a2d6a3730aa3b87549c3071ba39360e745
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+A critical unmet clinical need to combat the global tuberculosis epidemic is the development of potent agents capable of reducing the time of multi-drug-resistant (MDR) and extensively-drug-resistant (XDR) tuberculosis therapy. In this paper, we report on the optimization of imidazo[1,2-a]pyridine amide (IPA) lead compound 1, which led to the design and synthesis of Q203 (50). We found that the amide linker with IPA core is very important for activity against Mycobacterium tuberculosis H37Rv. Linearity and lipophilicity of the amine part in the IPA series play a critical role in improving in vitro and in vivo efficacy and pharmacokinetic profile. The optimized IPAs 49 and 50 showed not only excellent oral bioavailability (80.2% and 90.7%, respectively) with high exposure of the area under curve (AUC) but also displayed significant colony-forming unit (CFU) reduction (1.52 and 3.13 log10 reduction at 10 mg/kg dosing level, respectively) in mouse lung.

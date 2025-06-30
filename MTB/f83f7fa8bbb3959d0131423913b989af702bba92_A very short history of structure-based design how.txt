@@ -1,0 +1,9 @@
+Title: A very short history of structure-based design: how did we get here and where do we need to go?
+Authors: Jeffrey M. Blaney
+Year: 2011
+Paper ID: f83f7fa8bbb3959d0131423913b989af702bba92
+URL: https://www.semanticscholar.org/paper/f83f7fa8bbb3959d0131423913b989af702bba92
+Venue: Journal of Computer-Aided Molecular Design
+
+Abstract:
+None

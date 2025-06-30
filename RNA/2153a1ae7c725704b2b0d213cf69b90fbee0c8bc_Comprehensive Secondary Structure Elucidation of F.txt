@@ -1,0 +1,9 @@
+Title: Comprehensive Secondary Structure Elucidation of Four Genera of the Family Pospiviroidae
+Authors: T. Giguère, Charith Raj Adkar-Purushothama, J. Perreault
+Year: 2014
+Paper ID: 2153a1ae7c725704b2b0d213cf69b90fbee0c8bc
+URL: https://www.semanticscholar.org/paper/2153a1ae7c725704b2b0d213cf69b90fbee0c8bc
+Venue: PLoS ONE
+
+Abstract:
+Viroids are small, circular, single stranded RNA molecules that infect plants. Since they are non-coding, their structures play a critical role in their life cycles. To date, little effort has been spend on elucidating viroid structures in solution due to both the experimental difficulties and the time-consuming nature of the methodologies implicated. Recently, the technique of high-throughput selective 2′-hydroxyl acylation analyzed by primer extension (SHAPE) was adapted for the probing of the members of family Avsunviroidae, all of whom replicate in the chloroplast and demonstrate ribozyme activity. In the present work, twelve viroid species belonging to four different genera of the family Pospiviroidae, whose members are characterized by the presence of a central conserved region (CCR) and who replicate in nucleus of the host, were probed. Given that the structures of five distinct viroid species from the family Pospiviroidae have been previously reported, an overview of the different structural characteristics for all genera and the beginning of a manual classification of the different viroids based on their structural features are presented here.

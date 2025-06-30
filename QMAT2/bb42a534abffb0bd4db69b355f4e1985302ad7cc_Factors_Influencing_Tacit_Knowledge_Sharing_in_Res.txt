@@ -1,0 +1,9 @@
+Title: Factors Influencing Tacit Knowledge Sharing in Research Groups in Higher Education Institutions
+Authors: Regycleia B. C. Alves, P. Pinheiro
+Year: 2022
+Paper ID: bb42a534abffb0bd4db69b355f4e1985302ad7cc
+URL: https://www.semanticscholar.org/paper/bb42a534abffb0bd4db69b355f4e1985302ad7cc
+Venue: Administrative Sciences
+
+Abstract:
+Higher education institutions (HEIs) create, disseminate, and share knowledge through relationships involving people, processes, and technologies. Tacit knowledge is difficult to formalize and depends on social context. Its sharing is influenced by individual, organizational, and structural factors, and the knowledge management strategy. The literature suggests that this topic is quite relevant and that there is an evident lack of empirical studies investigating the tacit knowledge sharing in higher education institutions (HEIs). In this context, the main objective of this article is to identify the factors that influence the sharing of tacit knowledge in research groups in higher education institutions (HEIs). Data were collected at a Brazilian public higher education institution with a questionnaire applied to research faculty members. The sample was composed of 255 respondents. The data collected enabled the analysis of a structural equation model. The results reveal that individual, organizational structure, and knowledge management strategy factors are determinants for sharing tacit knowledge in the institution’s research groups.

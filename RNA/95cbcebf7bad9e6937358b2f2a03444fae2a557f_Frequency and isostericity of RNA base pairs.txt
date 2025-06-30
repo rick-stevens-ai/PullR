@@ -1,0 +1,9 @@
+Title: Frequency and isostericity of RNA base pairs
+Authors: Jesse Stombaugh, Craig L. Zirbel, E. Westhof, N. Leontis
+Year: 2009
+Paper ID: 95cbcebf7bad9e6937358b2f2a03444fae2a557f
+URL: https://www.semanticscholar.org/paper/95cbcebf7bad9e6937358b2f2a03444fae2a557f
+Venue: Nucleic Acids Research
+
+Abstract:
+Most of the hairpin, internal and junction loops that appear single-stranded in standard RNA secondary structures form recurrent 3D motifs, where non-Watson–Crick base pairs play a central role. Non-Watson–Crick base pairs also play crucial roles in tertiary contacts in structured RNA molecules. We previously classified RNA base pairs geometrically so as to group together those base pairs that are structurally similar (isosteric) and therefore able to substitute for each other by mutation without disrupting the 3D structure. Here, we introduce a quantitative measure of base pair isostericity, the IsoDiscrepancy Index (IDI), to more accurately determine which base pair substitutions can potentially occur in conserved motifs. We extract and classify base pairs from a reduced-redundancy set of RNA 3D structures from the Protein Data Bank (PDB) and calculate centroids (exemplars) for each base combination and geometric base pair type (family). We use the exemplars and IDI values to update our online Basepair Catalog and the Isostericity Matrices (IM) for each base pair family. From the database of base pairs observed in 3D structures we derive base pair occurrence frequencies for each of the 12 geometric base pair families. In order to improve the statistics from the 3D structures, we also derive base pair occurrence frequencies from rRNA sequence alignments.

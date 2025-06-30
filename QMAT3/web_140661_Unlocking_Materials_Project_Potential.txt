@@ -1,0 +1,29 @@
+Title: Unlocking Materials Project Potential
+Authors: 
+Year: N/A
+Paper ID: web_140661
+URL: https://www.numberanalytics.com/blog/ultimate-guide-materials-project-computational-materials-science
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** The Materials Project and Computational Materials Science
+
+**Key Points:**
+- The Materials Project is a leading online platform providing open-access computational data and tools for materials science research, enabling accelerated materials discovery and design.
+- The platform utilizes density functional theory (DFT) and other computational methods to predict and analyze properties such as thermodynamic stability, electronic structure, and mechanical properties.
+- The Materials Project supports community engagement, integration with machine learning and AI, and has contributed to significant advances in materials research, including the discovery of new battery and CO₂ capture materials.
+
+**Methods:** 
+- Computational materials science approaches, primarily density functional theory (DFT), high-throughput ab initio computations, and integration with machine learning algorithms.
+
+**Authors:** 
+- Sarah Lee (blog author); original platform developed by researchers at Lawrence Berkeley National Laboratory and MIT. Key cited works by A. Jain et al. and G. Hautier et al.
+
+**Publication Details:** 
+- Blog post published June 11, 2025, on Number Analytics. Key references:  
+  - Jain, A., et al. (2013). APL Materials, 1(1), 011002.  
+  - Hautier, G., et al. (2014). Chemistry of Materials, 26(11), 3495-3504.
+
+**Summary:**  
+This comprehensive guide introduces the Materials Project, an open-source online platform that has transformed computational materials science by providing extensive databases and tools for predicting and analyzing material properties. The platform leverages advanced computational methods, including DFT and machine learning, to accelerate the discovery and design of new materials for applications such as energy storage and catalysis. The guide details how to access and use the platform, highlights its significance in modern research, and discusses its ongoing development, community contributions, and impact on scientific advancements.

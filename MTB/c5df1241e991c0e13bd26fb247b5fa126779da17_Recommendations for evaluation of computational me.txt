@@ -1,0 +1,9 @@
+Title: Recommendations for evaluation of computational methods
+Authors: Ajay N. Jain, A. Nicholls
+Year: 2008
+Paper ID: c5df1241e991c0e13bd26fb247b5fa126779da17
+URL: https://www.semanticscholar.org/paper/c5df1241e991c0e13bd26fb247b5fa126779da17
+Venue: J. Comput. Aided Mol. Des.
+
+Abstract:
+The field of computational chemistry, particularly as applied to drug design, has become increasingly important in terms of the practical application of predictive modeling to pharmaceutical research and development. Tools for exploiting protein structures or sets of ligands known to bind particular targets can be used for binding-mode prediction, virtual screening, and prediction of activity. A serious weakness within the field is a lack of standards with respect to quantitative evaluation of methods, data set preparation, and data set sharing. Our goal should be to report new methods or comparative evaluations of methods in a manner that supports decision making for practical applications. Here we propose a modest beginning, with recommendations for requirements on statistical reporting, requirements for data sharing, and best practices for benchmark preparation and usage.

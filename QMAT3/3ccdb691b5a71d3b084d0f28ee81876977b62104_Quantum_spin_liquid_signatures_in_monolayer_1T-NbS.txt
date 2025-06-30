@@ -1,0 +1,9 @@
+Title: Quantum spin liquid signatures in monolayer 1T-NbSe2
+Authors: Quanzhen Zhang, Wen-Yu He, Yu Zhang, Yao Chen, Liangguang Jia et al. (and 8 more)
+Year: 2024
+Paper ID: 3ccdb691b5a71d3b084d0f28ee81876977b62104
+URL: https://www.semanticscholar.org/paper/3ccdb691b5a71d3b084d0f28ee81876977b62104
+Venue: Nature Communications
+
+Abstract:
+Quantum spin liquids (QSLs) are in a quantum disordered state that is highly entangled and has fractional excitations. As a highly sought-after state of matter, QSLs were predicted to host spinon excitations and to arise in frustrated spin systems with large quantum fluctuations. Here we report on the experimental observation and theoretical modeling of QSL signatures in monolayer 1T-NbSe2, which is a newly emerging two-dimensional material that exhibits both charge-density-wave (CDW) and correlated insulating behaviors. By using scanning tunneling microscopy and spectroscopy (STM/STS), we confirm the presence of spin fluctuations in monolayer 1T-NbSe2 by observing the Kondo resonance as monolayer 1T-NbSe2 interacts with metallic monolayer 1H-NbSe2. Subsequent STM/STS imaging of monolayer 1T-NbSe2 at the Hubbard band energy further reveals a long-wavelength charge modulation, in agreement with the spinon modulation expected for QSLs. By depositing manganese-phthalocyanine (MnPc) molecules with spin S = 3/2 onto monolayer 1T-NbSe2, new STS resonance peaks emerge at the Hubbard band edges of monolayer 1T-NbSe2. This observation is consistent with the spinon Kondo effect induced by a S = 3/2 magnetic impurity embedded in a QSL. Taken together, these experimental observations indicate that monolayer 1T-NbSe2 is a new promising QSL material.

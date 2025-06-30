@@ -1,0 +1,9 @@
+Title: Mapping the unconventional orbital texture in topological crystalline insulators
+Authors: I. Zeljkovic, Y. Okada, Cheng-Yi Huang, R. Sankar, D. Walkup et al. (and 9 more)
+Year: 2013
+Paper ID: e9fe235bb0ec23821af95f7fede4232d12efe0bc
+URL: https://www.semanticscholar.org/paper/e9fe235bb0ec23821af95f7fede4232d12efe0bc
+Venue: Nature Physics
+
+Abstract:
+In crystalline topological insulators, the combination of an insulating bulk with conducting surface states is due to particular crystal symmetry. The associated Dirac cones—linear crossings in the electronic band structure—exhibit non-trivial orbital textures that have now been probed by means of scanning tunnelling spectroscopy. The newly discovered topological crystalline insulators feature a complex band structure involving multiple Dirac cones1,2,3,4,5,6, and are potentially highly tunable by external electric field, temperature or strain. Theoretically, it has been predicted that the various Dirac cones, which are offset in energy and momentum, might harbour vastly different orbital character7. However, their orbital texture, which is of immense importance in determining a variety of a material’s properties8,9,10 remains elusive. Here, we unveil the orbital texture of Pb1−xSnxSe, a prototypical topological crystalline insulator. By using Fourier-transform scanning tunnelling spectroscopy we measure the interference patterns produced by the scattering of surface-state electrons. We discover that the intensity and energy dependences of the Fourier transforms show distinct characteristics, which can be directly attributed to orbital effects. Our experiments reveal a complex band topology involving two Lifshitz transitions11 and establish the orbital nature of the Dirac bands, which could provide an alternative pathway towards future quantum applications.

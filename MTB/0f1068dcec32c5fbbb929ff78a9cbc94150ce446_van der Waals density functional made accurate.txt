@@ -1,0 +1,9 @@
+Title: van der Waals density functional made accurate
+Authors: I. Hamada
+Year: 2014
+Paper ID: 0f1068dcec32c5fbbb929ff78a9cbc94150ce446
+URL: https://www.semanticscholar.org/paper/0f1068dcec32c5fbbb929ff78a9cbc94150ce446
+Venue: 
+
+Abstract:
+I propose a van der Waals density functional (vdW-DF) that improves upon the description of energetics and geometries of molecules, solids, and adsorption systems over the original vdW-DF. The functional is based on the nonlocal correlation for the second version of the vdW-DF [Lee et al., Phys. Rev. B 82, 081101(R) (2010)] and an exchange functional that recovers the second-order gradient expansion approximation in the slowly varying limit, while reproducing the large density gradient behavior proposed by Becke [J. Chem. Phys. 85, 7184 (1986)]. A systematic assessment of the proposed functional is presented, which demonstrates the applicability of the proposed vdW-DF to a wide range of systems.

@@ -1,0 +1,27 @@
+Title: Twistronics lights up with moiré exciton experiments – Physics World
+Authors: 
+Year: N/A
+Paper ID: web_372403
+URL: https://physicsworld.com/a/twistronics-lights-up-with-moire-exciton-experiments/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Moiré Excitons and Twistronics in 2D Materials
+
+**Key Points:**
+- Experimental evidence has been reported for interlayer excitons trapped in moiré potential fields in twisted bilayers of transition metal dichalcogenides (TMDs).
+- The findings demonstrate the feasibility of engineering artificial excitonic crystals using van der Waals heterostructures, with implications for nanophotonics and quantum information applications.
+- The research reveals how twist angle, doping, and magnetic fields can be used to control and identify moiré excitons, providing a platform for exploring new quantum states of matter.
+
+**Methods:** 
+- Experimental studies involving photoluminescence spectroscopy, magneto-optical spectroscopy, and electrical doping of twisted TMD heterobilayers (e.g., MoSe₂/WSe₂, WSe₂/WS₂), with precise control of twist angles and encapsulation in hexagonal boron nitride.
+
+**Authors:** 
+- Xiaodong Xu (University of Washington), Fengcheng Wu (Argonne National Laboratory), Xiaoqin Li (University of Texas at Austin), Feng Wang (University of California, Berkeley), Wang Yao and Hongyi Yu (University of Hong Kong), with additional collaborators from Oakridge National Laboratory (Jiaqiang Yan, David Mandrus). Reported by Anna Demming.
+
+**Publication Details:** 
+- Published in Physics World (27 Feb 2019). Original research papers in Nature: DOI: 10.1038/s41586-019-0975-z; 10.1038/s41586-019-0976-y; 10.1038/s41586-019-0957-1.
+
+**Summary:** 
+This article reports on a series of landmark experiments demonstrating the existence of moiré excitons—bound electron-hole pairs trapped by the periodic potential arising from twisted bilayers of 2D TMD materials. By carefully controlling the twist angle, excitation power, and sample quality, researchers observed quantized excitonic states and their tunability via electric and magnetic fields. These results open new avenues for engineering artificial quantum materials and exploring exotic excitonic phenomena with potential applications in nanophotonics and quantum information science.

@@ -1,0 +1,9 @@
+Title: Targeting Mycobacterium Tuberculosis Enoyl‐Acyl Carrier Protein Reductase Using Computational Tools for Identification of Potential Inhibitor and their Biological Activity
+Authors: J. Kuldeep, S. Sharma, Tanuj Sharma, B. Singh, M. Siddiqi
+Year: 2020
+Paper ID: 5ecb031e8493cd7753334310dfab61599867785f
+URL: https://www.semanticscholar.org/paper/5ecb031e8493cd7753334310dfab61599867785f
+Venue: Molecular Informatics
+
+Abstract:
+Enoyl‐acyl carrier protein reductase (InhA) of type II fatty acid synthase system is involved in the synthesis of mycolic acids which is a major component of the bacterial cell wall. Since they are the key enzymes playing a very significant role in the FASII pathway of the bacterium. In this study, we have developed a workflow for identification of InhA inhibitors by utilizing in silico virtual screening approaches based on various machine learning algorithms followed by pharmacophore based virtual screening. The hits screened from the models were further subjected to molecular docking. Further, based on the XP docking score best twenty compounds were subjected to molecular dynamics study. Finally, nine compounds were shortlisted on the basis of best stable ligand RMSD, c‐alpha RMSD, and RMSF plot for biological evaluation studies. Experimental validation of the shortlisted compounds identified one compound JFD01724 having potent inhibitory activity and was able to inhibit the growth of mycobacterium tuberculosis. Further medicinal chemistry efforts may help to improve the inhibitory potency of the identified compound.

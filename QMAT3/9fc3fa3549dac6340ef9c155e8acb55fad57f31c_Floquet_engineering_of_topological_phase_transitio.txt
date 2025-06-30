@@ -1,0 +1,11 @@
+Title: Floquet engineering of topological phase transitions in a quantum spin Hall 
+<mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML"><mml:mrow><mml:mi>α</mml:mi><mml:mtext>−</mml:mtext><mml:msub><mml:mi>T</mml:mi><mml:mn>3</mml:mn></mml:msub></mml:mrow></mml:math>
+ system
+Authors: Kok Wai Lee, Mateo Jalen Andrew Calderon, Xiang-Long Yu, Ching Hua Lee, Yee Sin Ang et al. (and 1 more)
+Year: 2024
+Paper ID: 9fc3fa3549dac6340ef9c155e8acb55fad57f31c
+URL: https://www.semanticscholar.org/paper/9fc3fa3549dac6340ef9c155e8acb55fad57f31c
+Venue: Physical review B
+
+Abstract:
+Floquet engineering of topological phase transitions driven by a high-frequency time-periodic field is a promising approach to realizing new topological phases of matter distinct from static states. Here, we theoretically investigate Floquet engineering topological phase transitions in the quantum spin Hall $\alpha$-$T_{3}$ system driven by an off-resonant circularly polarized light. In addition to the quantum spin (anomalous) Hall insulator phase with multiple helical (chiral) edge states, spin-polarized topological metallic phases are observed, where the bulk topological band gap of one spin sub-band overlaps with the other gapless spin sub-band. Moreover, with a staggered potential, the topological invariants of the system depend on whether the middle band is occupied because of the breaking of symmetry with respect to the center of energy-momentum plane. Our work highlights the significance of Floquet engineering in realizing new topological phases in $\alpha$-$T_{3}$ lattices.

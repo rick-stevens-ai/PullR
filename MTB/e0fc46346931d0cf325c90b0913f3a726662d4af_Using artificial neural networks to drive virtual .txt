@@ -1,0 +1,9 @@
+Title: Using artificial neural networks to drive virtual screening of combinatorial libraries
+Authors: V. Lobanov
+Year: 2004
+Paper ID: e0fc46346931d0cf325c90b0913f3a726662d4af
+URL: https://www.semanticscholar.org/paper/e0fc46346931d0cf325c90b0913f3a726662d4af
+Venue: 
+
+Abstract:
+None

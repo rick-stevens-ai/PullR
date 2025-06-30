@@ -1,0 +1,9 @@
+Title: Diagnostics for tuberculosis: what test developers want to know
+Authors: M. Pai
+Year: 2013
+Paper ID: d788c655d1f8e6960ec45709f340cbf54ef0dce5
+URL: https://www.semanticscholar.org/paper/d788c655d1f8e6960ec45709f340cbf54ef0dce5
+Venue: Expert Review of Molecular Diagnostics
+
+Abstract:
+None

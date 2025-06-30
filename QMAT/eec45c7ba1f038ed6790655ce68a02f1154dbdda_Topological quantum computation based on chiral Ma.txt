@@ -1,0 +1,9 @@
+Title: Topological quantum computation based on chiral Majorana fermions
+Authors: Biao Lian, Xiao-Qi Sun, Abolhassan Vaezi, X. Qi, Shoucheng Zhang
+Year: 2017
+Paper ID: eec45c7ba1f038ed6790655ce68a02f1154dbdda
+URL: https://www.semanticscholar.org/paper/eec45c7ba1f038ed6790655ce68a02f1154dbdda
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+
+Abstract:
+Significance We propose a platform of quantum computation using the chiral Majorana fermions on the edges of topological materials. The quantum gates are naturally accomplished by the propagation of chiral Majorana fermions. If realized, its computation speed can be 103 faster than the currently existing quantum computation schemes. The chiral Majorana fermion is a massless self-conjugate fermion which can arise as the edge state of certain 2D topological matters. It has been theoretically predicted and experimentally observed in a hybrid device of a quantum anomalous Hall insulator and a conventional superconductor. Its closely related cousin, the Majorana zero mode in the bulk of the corresponding topological matter, is known to be applicable in topological quantum computations. Here we show that the propagation of chiral Majorana fermions leads to the same unitary transformation as that in the braiding of Majorana zero modes and propose a platform to perform quantum computation with chiral Majorana fermions. A Corbino ring junction of the hybrid device can use quantum coherent chiral Majorana fermions to implement the Hadamard gate and the phase gate, and the junction conductance yields a natural readout for the qubit state.

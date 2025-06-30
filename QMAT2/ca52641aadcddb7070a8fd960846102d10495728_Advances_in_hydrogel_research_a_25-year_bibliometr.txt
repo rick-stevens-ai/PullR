@@ -1,0 +1,9 @@
+Title: Advances in hydrogel research: a 25-year bibliometric overview
+Authors: Dongbin Zhang, Mengru Qiu, Yu Tian, Shuo Zhang, Fan Wu
+Year: 2025
+Paper ID: ca52641aadcddb7070a8fd960846102d10495728
+URL: https://www.semanticscholar.org/paper/ca52641aadcddb7070a8fd960846102d10495728
+Venue: Journal of materials science. Materials in medicine
+
+Abstract:
+This study presents a comprehensive bibliometric analysis of hydrogel research from 2000 to 2025, examining 101,291 publications from the OpenAlex database to highlight the field’s evolution, trends, and impact, providing a better landscape of the field. The analysis demonstrates significant growth in the research output, from ~350 publications in 2000 to nearly 11,000 in 2024, with 37% being open access. Publication patterns demonstrate Physical Sciences leading with about 50,000 publications, followed by Life Sciences (~30,000) and Health Sciences (~21,000). The citation analysis emphasizes that 20% of all citations result from the top 1% of papers, demonstrating the concentration of the research impact. The study identifies key research hubs, with China as a leader in the publication (27,931 publications), while the United States maintains the highest citation impact (>1 million citations). Network analysis reveals increasingly complicated international collaborations, particularly between the United States and China. Topic modeling using Latent Dirichlet Allocation identifies 17 distinct research themes, emphasizing the field’s diversification from fundamental material features to advanced applications in the tissue engineering, drug delivery, and regenerative medicine. This analysis provides valuable insights into the dynamic landscape of hydrogel research, highlighting opportunities for future innovation and collaboration. Graphical Abstract

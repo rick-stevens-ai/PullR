@@ -1,0 +1,27 @@
+Title: Evidence for unconventional superconductivity in twisted bilayer graphene (Journal Article)
+Authors: 
+Year: N/A
+Paper ID: web_702301
+URL: https://www.osti.gov/pages/biblio/1842831
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Unconventional superconductivity in twisted bilayer graphene (MATBG)
+
+**Key Points:**
+- Experimental evidence indicates that superconductivity in magic-angle twisted bilayer graphene (MATBG) is unconventional and not described by the standard Bardeen–Cooper–Schrieffer (BCS) theory.
+- Tunneling spectra below the superconducting transition temperature are inconsistent with conventional s-wave superconductors and instead suggest a nodal, anisotropic pairing mechanism.
+- The persistence of a tunneling gap even when superconductivity is suppressed, and its absence when MATBG is aligned with hexagonal boron nitride, further supports a non-BCS mechanism.
+
+**Methods:** 
+- Combined tunneling and Andreev reflection spectroscopy using a scanning tunneling microscope to probe the superconducting properties of MATBG.
+
+**Authors:** 
+- Myungchul Oh, Kevin P. Nuckolls, Dillon Wong, Ryan L. Lee, Xiaomeng Liu, Kenji Watanabe, Takashi Taniguchi, Ali Yazdani
+
+**Publication Details:** 
+- Published in Nature (London), Volume 600, Issue 7888, October 19, 2021. DOI: 10.1038/s41586-021-04121-x
+
+**Summary:**  
+This study presents experimental signatures of unconventional superconductivity in magic-angle twisted bilayer graphene (MATBG), challenging the conventional BCS framework. Using tunneling and Andreev reflection spectroscopy, the authors find evidence for a nodal, anisotropic pairing mechanism and a pseudogap phase, with key features absent when MATBG is aligned with hexagonal boron nitride. These results provide strong evidence for a non-BCS mechanism underlying superconductivity in MATBG.

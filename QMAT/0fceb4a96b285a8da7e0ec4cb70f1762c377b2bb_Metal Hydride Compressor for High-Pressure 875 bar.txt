@@ -1,0 +1,9 @@
+Title: Metal Hydride Compressor for High-Pressure (875 bar) Hydrogen Delivery.
+Authors: Terry A. Johnson
+Year: 2018
+Paper ID: 0fceb4a96b285a8da7e0ec4cb70f1762c377b2bb
+URL: https://www.semanticscholar.org/paper/0fceb4a96b285a8da7e0ec4cb70f1762c377b2bb
+Venue: 
+
+Abstract:
+None

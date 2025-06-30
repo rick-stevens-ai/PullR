@@ -1,0 +1,9 @@
+Title: New active leads for tuberculosis booster drugs by structure-based drug discovery.
+Authors: N. Tatum, J. Liebeschuetz, J. Cole, Rosangela Frita, Adrien Herledan et al. (and 3 more)
+Year: 2017
+Paper ID: f0176d82b95b09d8b1f1bd79b6d850667c38d3db
+URL: https://www.semanticscholar.org/paper/f0176d82b95b09d8b1f1bd79b6d850667c38d3db
+Venue: Organic and biomolecular chemistry
+
+Abstract:
+The transcriptional repressor EthR from Mycobacterium tuberculosis, a member of the TetR family of prokaryotic homo-dimeric transcription factors, controls the expression of the mycobacterial mono-oxygenase EthA. EthA is responsible for the bio-activation of the second-line tuberculosis pro-drug ethionamide, and consequently EthR inhibitors boost drug efficacy. Here, we present a comprehensive in silico structure-based screening protocol that led to the identification of a number of novel scaffolds of EthR inhibitors in subsequent biophysical screening by thermal shift assay. Growth inhibition assays demonstrated that five of the twenty biophysical hits were capable of boosting ethionamide activity in vitro, with the best novel scaffold displaying an EC50 of 34 μM. In addition, the co-crystal structures of EthR with four new ligands at resolution ranging from 2.1 to 1.4 Å confirm the binding and inactivation mode, and will enable future lead development.

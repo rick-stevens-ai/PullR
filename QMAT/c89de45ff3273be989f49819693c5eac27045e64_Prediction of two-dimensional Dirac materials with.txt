@@ -1,0 +1,9 @@
+Title: Prediction of two-dimensional Dirac materials with the intrinsic magnetism, quantum anomalous Hall effect and high Curie temperature
+Authors: Xuming Wu, Chunhua Tian, lanhua zhong, Jun Quan, Jie Yang et al. (and 2 more)
+Year: 2024
+Paper ID: c89de45ff3273be989f49819693c5eac27045e64
+URL: https://www.semanticscholar.org/paper/c89de45ff3273be989f49819693c5eac27045e64
+Venue: Journal of Materials Chemistry C
+
+Abstract:
+Intrinsic functionality of two-dimensional (2D) materials is crucial for both fundamental studies and practical applications in information processing and storage. In particular, 2D ferromagnet has emerged as a major research...

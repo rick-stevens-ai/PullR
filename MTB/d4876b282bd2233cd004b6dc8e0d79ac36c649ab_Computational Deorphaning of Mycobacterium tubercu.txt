@@ -1,0 +1,9 @@
+Title: Computational Deorphaning of Mycobacterium tuberculosis Targets
+Authors: L. Y. Bishi, S. Vedithi, T. Blundell, Grace Mugumbate
+Year: 2019
+Paper ID: d4876b282bd2233cd004b6dc8e0d79ac36c649ab
+URL: https://www.semanticscholar.org/paper/d4876b282bd2233cd004b6dc8e0d79ac36c649ab
+Venue: Drug Discovery and Development - New Advances
+
+Abstract:
+Tuberculosis (TB) continues to be a major health hazard worldwide due to the resurgence of drug discovery strains of Mycobacterium tuberculosis ( Mtb ) and co-infection. For decades drug discovery has concentrated on identifying ligands for ~10 Mtb targets, hence most of the identified essential proteins are not utilised in TB chemotherapy. Here computational techniques were used to identify ligands for the orphan Mtb proteins. These range from ligand-based and structure-based virtual screening modelling the proteome of the bacterium. Identification of ligands for most of the Mtb proteins will provide novel TB drugs and targets and hence address drug resistance, toxicity and the duration of TB treatment.

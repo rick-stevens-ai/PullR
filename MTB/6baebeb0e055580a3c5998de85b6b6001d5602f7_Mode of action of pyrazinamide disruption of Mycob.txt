@@ -1,0 +1,9 @@
+Title: Mode of action of pyrazinamide: disruption of Mycobacterium tuberculosis membrane transport and energetics by pyrazinoic acid.
+Authors: Ying Zhang, M. Wade, A. Scorpio, Hao Zhang, Zhonghe Sun
+Year: 2003
+Paper ID: 6baebeb0e055580a3c5998de85b6b6001d5602f7
+URL: https://www.semanticscholar.org/paper/6baebeb0e055580a3c5998de85b6b6001d5602f7
+Venue: Journal of Antimicrobial Chemotherapy
+
+Abstract:
+Pyrazinamide is an important sterilizing drug that shortens tuberculosis (TB) therapy. However, the mechanism of action of pyrazinamide is poorly understood because of its unusual properties. Here we show that pyrazinoic acid, the active moiety of pyrazinamide, disrupted membrane energetics and inhibited membrane transport function in Mycobacterium tuberculosis. The preferential activity of pyrazinamide against old non-replicating bacilli correlated with their low membrane potential and the disruption of membrane potential by pyrazinoic acid and acid pH. Inhibitors of membrane energetics increased the antituberculous activity of pyrazinamide. These findings shed new light on the mode of action of pyrazinamide and may help in the design of new drugs that shorten therapy.

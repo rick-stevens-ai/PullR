@@ -1,0 +1,9 @@
+Title: A Hall Microscope for Investigating High-Temperature Superconductors
+Authors: Kh. R. Rostami
+Year: 2019
+Paper ID: 55f3cb93d6d155350a6a30768e7cd469b8b68512
+URL: https://www.semanticscholar.org/paper/55f3cb93d6d155350a6a30768e7cd469b8b68512
+Venue: Instruments and experimental techniques (New York)
+
+Abstract:
+None

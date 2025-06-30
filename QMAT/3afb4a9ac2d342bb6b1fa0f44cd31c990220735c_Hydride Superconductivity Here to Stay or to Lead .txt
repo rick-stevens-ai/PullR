@@ -1,0 +1,10 @@
+Title: Hydride Superconductivity: Here to Stay, or to Lead Astray and Some Day Go Away?
+Authors: J. E. Hirsch
+Year: 2024
+Paper ID: 3afb4a9ac2d342bb6b1fa0f44cd31c990220735c
+URL: https://www.semanticscholar.org/paper/3afb4a9ac2d342bb6b1fa0f44cd31c990220735c
+Venue: Journal of Superconductivity and Novel Magnetism
+
+Abstract:
+
+ In a recent paper (Boebinger et al. Nat. Rev. Phys. 7, 2 2025; 2024), fifteen prominent leaders in the field of condensed matter physics declare that hydride superconductivity is real, and urge funding agencies to continue to support the field. I question the validity and constructiveness of their argument.

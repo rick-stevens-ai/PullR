@@ -1,0 +1,9 @@
+Title: Structure-Based Drug Design for Tuberculosis: Challenges Still Ahead
+Authors: E. Bruch, S. Petrella, M. Bellinzoni
+Year: 2020
+Paper ID: 13bbd74cf9b11ae5eb75870a48f88d5aee837264
+URL: https://www.semanticscholar.org/paper/13bbd74cf9b11ae5eb75870a48f88d5aee837264
+Venue: Applied Sciences
+
+Abstract:
+Structure-based and computer-aided drug design approaches are commonly considered to have been successful in the fields of cancer and antiviral drug discovery but not as much for antibacterial drug development. The search for novel anti-tuberculosis agents is indeed an emblematic example of this trend. Although huge efforts, by consortiums and groups worldwide, dramatically increased the structural coverage of the Mycobacterium tuberculosis proteome, the vast majority of candidate drugs included in clinical trials during the last decade were issued from phenotypic screenings on whole mycobacterial cells. We developed here three selected case studies, i.e., the serine/threonine (Ser/Thr) kinases—protein kinase (Pkn) B and PknG, considered as very promising targets for a long time, and the DNA gyrase of M. tuberculosis, a well-known, pharmacologically validated target. We illustrated some of the challenges that rational, target-based drug discovery programs in tuberculosis (TB) still have to face, and, finally, discussed the perspectives opened by the recent, methodological developments in structural biology and integrative techniques.

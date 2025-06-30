@@ -1,0 +1,28 @@
+Title: Intrinsic magnetic topological materials
+Authors: 
+Year: N/A
+Paper ID: web_126529
+URL: https://journal.hep.com.cn/fop/EN/10.1007/s11467-022-1250-6
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Intrinsic Magnetic Topological Materials
+
+**Key Points:**
+1. The article reviews recent progress in the study of intrinsic magnetic topological materials, including magnetic topological insulators, magnetic topological metals, and magnetic Weyl semimetals.
+2. It highlights characteristic band features such as the magnetic gap in topological surface states, gapped Dirac cones induced by magnetization, Weyl nodal points/lines, and Fermi arcs, as well as the resulting exotic transport phenomena.
+3. The review concludes with perspectives on future experimental explorations, especially those involving the incorporation of additional orders into intrinsic magnetic topological materials.
+
+**Methods:** Literature review and topical synthesis of recent research (Topical Review).
+
+**Authors:** Yuan Wang, Fayuan Zhang, Meng Zeng, Hongyi Sun, Zhanyang Hao, Yongqing Cai, Hongtao Rong, Chengcheng Zhang, Cai Liu, Xiaoming Ma, Le Wang, Shu Guo, Junhao Lin, Qihang Liu, Chang Liu, Chaoyu Chen
+
+**Publication Details:**  
+- Journal: Frontiers of Physics (Front. Phys.)  
+- Volume 18, Issue 2, Article 21304  
+- Published: April 15, 2023  
+- DOI: 10.1007/s11467-022-1250-6
+
+**Summary:**  
+This topical review provides an overview of intrinsic magnetic topological materials, focusing on their unique electronic structures and the interplay between topological order and magnetism. The authors discuss various classes of these materials, their characteristic band features, and the novel transport responses that arise from their topological and magnetic properties. The review also outlines future directions for experimental research, particularly the exploration of new physical phenomena by integrating other types of order into these systems.

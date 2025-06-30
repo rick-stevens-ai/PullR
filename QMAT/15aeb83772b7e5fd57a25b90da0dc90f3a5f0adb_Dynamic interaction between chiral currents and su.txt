@@ -1,0 +1,9 @@
+Title: Dynamic interaction between chiral currents and surface waves in topological superfluids: a pathway to detect Majorana fermions?
+Authors: S. Forstner, H. Choi, G. I. Harris, A. Sawadsky, W. P. Bowen et al. (and 1 more)
+Year: 2024
+Paper ID: 15aeb83772b7e5fd57a25b90da0dc90f3a5f0adb
+URL: https://www.semanticscholar.org/paper/15aeb83772b7e5fd57a25b90da0dc90f3a5f0adb
+Venue: 
+
+Abstract:
+Despite extensive experimental efforts over the past two decades, the quest for Majorana fermions in superconductors remains inconclusive. We propose an experimental method that can conclusively confirm, or rule out, the existence of these quasiparticles: Firstly, we shift focus from superconductors, whose very topological nature is disputed, to the unambiguous topological superfluid $^3$He. Secondly, we identify the interaction between surface waves and the chiral Majorana current in the bulk of a topological superfluid of varying density. The proposed experiment provides a path towards the detection of the Majorana fermion, an 80-year-old theoretical prediction. It is realistically achievable based on the advent of microscopic superfluid resonators coupled to optical cavities. The proposal may open the door to experiments ranging from simulations of exotic cosmological particles to topological acoustics and fault tolerant quantum computing.

@@ -1,0 +1,9 @@
+Title: Enhancement of temperature of the quantum anomalous Hall effect in two-dimensional germanene/magnetic-semiconductor heterostructures
+Authors: Qing-Han Yang, Jia-Wen Li, Xin-Wei Yi, Xiang Li, J. You et al. (and 2 more)
+Year: 2025
+Paper ID: e25a3fcaa8febe6d060c8dcf53aebab0a95859ea
+URL: https://www.semanticscholar.org/paper/e25a3fcaa8febe6d060c8dcf53aebab0a95859ea
+Venue: Physical review B
+
+Abstract:
+Quantum anomalous Hall effect (QAHE) is significant for future low-power electronics devices, where a main challenge is realizing QAHE at high temperatures. In this work, based on experimentally reported two-dimensional (2D) germanene and magnetic semiconductors Cr$_2$Ge$_2$Te$_6$ and Cr$_2$Si$_2$Te$_6$, and the first principle calculations, germanene/magnetic semiconductor heterostructures are investigated. Topologically nontrivial edge states and quantized anomalous Hall conductance are demonstrated. It is shown that the QAHE temperature can be enhanced to approximately 62 K in germanene/monolayer (ML) Cr$_2$Ge$_2$Te$_6$ with 2.1\% tensile strain, 64 K in germanene/bilayer (BL) Cr$_2$Ge$_2$Te$_6$ with 1.4\% tensile strain, and 50 K in germanene/ML Cr$_2$Si$_2$Te$_6$ with 1.3\% tensile strain. With increasing tensile strain of these heterostructures, the band gap decreases and the Curie temperature rises, and the highest temperature of QAHE is obtained. Since these 2D materials were discovered in recent experiments, our results provide promising materials for achieving high-temperature QAHE.

@@ -1,0 +1,9 @@
+Title: Pharmer: Efficient and Exact Pharmacophore Search
+Authors: D. Koes, C. Camacho
+Year: 2011
+Paper ID: 44e546f7a694250c035e2916d17debb16e2c7ae6
+URL: https://www.semanticscholar.org/paper/44e546f7a694250c035e2916d17debb16e2c7ae6
+Venue: Journal of Chemical Information and Modeling
+
+Abstract:
+Pharmacophore search is a key component of many drug discovery efforts. Pharmer is a new computational approach to pharmacophore search that scales with the breadth and complexity of the query, not the size of the compound library being screened. Two novel methods for organizing pharmacophore data, the Pharmer KDB-tree and Bloom fingerprints, enable Pharmer to perform an exact pharmacophore search of almost two million structures in less than a minute. In general, Pharmer is more than an order of magnitude faster than existing technologies. The complete source code is available under an open-source license at http://pharmer.sourceforge.net .

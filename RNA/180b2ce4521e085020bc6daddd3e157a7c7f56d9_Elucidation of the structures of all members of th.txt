@@ -1,0 +1,9 @@
+Title: Elucidation of the structures of all members of the Avsunviroidae family.
+Authors: T. Giguère, C. R. Adkar-Purushothama, F. Bolduc, J. Perreault
+Year: 2014
+Paper ID: 180b2ce4521e085020bc6daddd3e157a7c7f56d9
+URL: https://www.semanticscholar.org/paper/180b2ce4521e085020bc6daddd3e157a7c7f56d9
+Venue: Molecular plant pathology
+
+Abstract:
+Viroids are small single-stranded RNA pathogens which cause significant damage to plants. As their nucleic acids do not encode for any proteins, they are dependant solely on their structure for their propagation. The elucidation of the secondary structures of viroids has been limited because of the exhaustive and time consuming nature of classic approaches. Here, the method of high-throughput selective 2'-hydroxyl acylation analysed by primer extension (hSHAPE) has been adapted to probe the viroid structure. The data obtained using this method were then used as input for computer-assisted structure prediction using RNA structure software in order to determine the secondary structures of the RNA strands of both (+) and (–) polarities of all Avsunviroidae members, one of the two families of viroids. The resolution of the structures of all of the members of the family provides a global view of the complexity of these RNAs. The structural differences between the two polarities, and any plausible tertiary interactions, were also analysed. Interestingly, the structures of the (+) and (–) strands were found to be different for each viroid species. The structures of the recently isolated grapevine hammerhead viroid-like RNA strands were also solved. This species shares several structural features with the Avsunviroidae family, although its infectious potential remains to be determined.To our knowledge, this article represents the first report of the structural elucidation of a complete family of viroids.

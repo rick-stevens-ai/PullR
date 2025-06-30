@@ -1,0 +1,27 @@
+Title: Native defects in antiferromagnetic topological insulator MnBi2Te4
+Authors: 
+Year: N/A
+Paper ID: web_587993
+URL: https://www.ornl.gov/publication/native-defects-antiferromagnetic-topological-insulator-mnbi2te4
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Native defects in antiferromagnetic topological insulator MnBi₂Te₄
+
+**Key Points:**
+- Two native antisite defects, Mn_Bi and Bi_Te, are clearly visualized in MnBi₂Te₄ using scanning tunneling microscopy.
+- Mn_Bi defects suppress the density of states at the conduction band edge, and Bi_Mn antisites create localized states below the Fermi energy.
+- The random distribution of these antisites leads to spatial fluctuations in the local density of states near the Fermi level.
+
+**Methods:** Scanning tunneling microscopy and spectroscopy, supported by density functional theory calculations.
+
+**Authors:** Zengle Huang, Maohua Du, Jiaqiang Yan, Weida Wu
+
+**Publication Details:**  
+- Journal: Physical Review Materials  
+- Volume 4, Issue 12, Page 121202  
+- Publication Date: December 2020
+
+**Summary:**  
+This study investigates native defects in the antiferromagnetic topological insulator MnBi₂Te₄ using scanning tunneling microscopy and spectroscopy. The researchers identify and characterize Mn_Bi and Bi_Te antisite defects, revealing their impact on the local electronic structure, particularly near the Fermi level. Density functional theory calculations support the experimental findings, highlighting how these defects contribute to spatial fluctuations in the material's electronic properties.

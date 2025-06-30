@@ -1,0 +1,9 @@
+Title: Hierarchical virtual screening for the discovery of new molecular scaffolds in antibacterial hit identification
+Authors: P. Ballester, M. Mangold, Nigel I. Howard, R. M. Robinson, C. Abell et al. (and 2 more)
+Year: 2012
+Paper ID: e1ac756cdc4e941f093bf680bf9f96d3e25fb625
+URL: https://www.semanticscholar.org/paper/e1ac756cdc4e941f093bf680bf9f96d3e25fb625
+Venue: Journal of the Royal Society Interface
+
+Abstract:
+One of the initial steps of modern drug discovery is the identification of small organic molecules able to inhibit a target macromolecule of therapeutic interest. A small proportion of these hits are further developed into lead compounds, which in turn may ultimately lead to a marketed drug. A commonly used screening protocol used for this task is high-throughput screening (HTS). However, the performance of HTS against antibacterial targets has generally been unsatisfactory, with high costs and low rates of hit identification. Here, we present a novel computational methodology that is able to identify a high proportion of structurally diverse inhibitors by searching unusually large molecular databases in a time-, cost- and resource-efficient manner. This virtual screening methodology was tested prospectively on two versions of an antibacterial target (type II dehydroquinase from Mycobacterium tuberculosis and Streptomyces coelicolor), for which HTS has not provided satisfactory results and consequently practically all known inhibitors are derivatives of the same core scaffold. Overall, our protocols identified 100 new inhibitors, with calculated Ki ranging from 4 to 250 μM (confirmed hit rates are 60% and 62% against each version of the target). Most importantly, over 50 new active molecular scaffolds were discovered that underscore the benefits that a wide application of prospectively validated in silico screening tools is likely to bring to antibacterial hit identification.

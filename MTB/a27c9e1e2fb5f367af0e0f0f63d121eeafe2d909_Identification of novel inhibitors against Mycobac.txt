@@ -1,0 +1,9 @@
+Title: Identification of novel inhibitors against Mycobacterium tuberculosis L-alanine dehydrogenase (MTB-AlaDH) through structure-based virtual screening.
+Authors: Shalini Saxena, P. Devi, V. Soni, P. Yogeeswari, D. Sriram
+Year: 2014
+Paper ID: a27c9e1e2fb5f367af0e0f0f63d121eeafe2d909
+URL: https://www.semanticscholar.org/paper/a27c9e1e2fb5f367af0e0f0f63d121eeafe2d909
+Venue: Journal of Molecular Graphics and Modelling
+
+Abstract:
+None

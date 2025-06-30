@@ -1,0 +1,9 @@
+Title: Unified characterization for higher-order topological phase transitions
+Authors: Wei-dong Jia, Xiaoxia Zhou, Lin Zhang, Long Zhang, Xiong-Jun Liu
+Year: 2022
+Paper ID: 3d6e5f660e567e7a71da6fcf2ff9a4eba98febd4
+URL: https://www.semanticscholar.org/paper/3d6e5f660e567e7a71da6fcf2ff9a4eba98febd4
+Venue: Physical Review Research
+
+Abstract:
+Higher-order topological phase transitions (HOTPTs) are associated with closing either the bulk energy gap (type-I) or boundary energy gap (type-II) without changing symmetry, and conventionally the both transitions are captured in real space and characterized separately. Here we propose a momentum-space topological characterization of the HOTPTs, which unifies the both types of topological transitions and enables a precise detection by quench dynamics. Our unified characterization is based on a novel correspondence between the mass domain walls on real-space boundaries and the higher-order band-inversion surfaces (BIS) which are characteristic interfaces in the momentum subspace. The topological transitions occur when momentum-space topological nodes, dubbed higher-order topological charges, cross the higher-order BISs after proper projection. Particularly, the bulk (boundary) gap closes when all (part of) topological charges cross the BISs, characterizing the type-I (type-II) HOTPTs. These distinct dynamical behaviours of higher-order topological charges can be feasibly measured from quench dynamics driven with control in experiments. Our work opens an avenue to characterize and detect the two types of HOTPTs within a unified framework, and shall advance the research in both theory and experiment.

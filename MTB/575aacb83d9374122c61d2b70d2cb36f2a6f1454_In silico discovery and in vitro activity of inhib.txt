@@ -1,0 +1,9 @@
+Title: In silico discovery and in vitro activity of inhibitors against Mycobacterium tuberculosis 7,8-diaminopelargonic acid synthase (Mtb BioA)
+Authors: J. Billones, M. Carrillo, Voltaire G. Organo, J. B. Sy, N. A. B. Clavio et al. (and 5 more)
+Year: 2017
+Paper ID: 575aacb83d9374122c61d2b70d2cb36f2a6f1454
+URL: https://www.semanticscholar.org/paper/575aacb83d9374122c61d2b70d2cb36f2a6f1454
+Venue: Drug Design, Development and Therapy
+
+Abstract:
+Computer-aided drug discovery and development approaches such as virtual screening, molecular docking, and in silico drug property calculations have been utilized in this effort to discover new lead compounds against tuberculosis. The enzyme 7,8-diaminopelargonic acid aminotransferase (BioA) in Mycobacterium tuberculosis (Mtb), primarily involved in the lipid biosynthesis pathway, was chosen as the drug target due to the fact that humans are not capable of synthesizing biotin endogenously. The computational screening of 4.5 million compounds from the Enamine REAL database has ultimately yielded 45 high-scoring, high-affinity compounds with desirable in silico absorption, distribution, metabolism, excretion, and toxicity properties. Seventeen of the 45 compounds were subjected to bioactivity validation using the resazurin microtiter assay. Among the 4 actives, compound 7 ((Z)-N-(2-isopropoxyphenyl)-2-oxo-2-((3-(trifluoromethyl)cyclohexyl)amino)acetimidic acid) displayed inhibitory activity up to 83% at 10 μg/mL concentration against the growth of the Mtb H37Ra strain.

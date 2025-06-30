@@ -1,0 +1,32 @@
+Title: New quasiparticle discovered in moiré patterns
+Authors: 
+Year: N/A
+Paper ID: web_545870
+URL: https://physics.berkeley.edu/news/new-quasiparticle-discovered-moir%C3%A9-patterns
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Discovery of a New Quasiparticle (Intralayer Charge-Transfer Exciton) in Moiré Patterns of 2D Materials
+
+**Key Points:**
+- Scientists have discovered a novel exciton, termed an "intralayer charge-transfer exciton," in moiré superlattices formed by stacking two atomically thin layers of transition metal dichalcogenides.
+- This exciton exhibits unique properties not present in individual layers and could advance the development of new optical sensors and optoelectronic devices.
+- The research overcame significant computational challenges by developing a new theoretical technique (PUMP method) and leveraging supercomputing resources.
+
+**Methods:** 
+- Ab initio (first-principles) calculations using the GW plus Bethe–Salpeter equation (GW-BSE) approach.
+- Development of the pristine unit-cell matrix projection (PUMP) method to reduce computational complexity.
+- Experimental verification through optical measurements (light reflection analysis).
+
+**Authors:** 
+- Steven G. Louie (corresponding author, UC Berkeley & Lawrence Berkeley National Laboratory)
+- Mit Naik (UC Berkeley & LBNL)
+- Emma C. Regan, Zuocheng Zhang, Professor Feng Wang (UC Berkeley)
+- Felipe Jornada (Stanford University & SLAC National Accelerator Laboratory)
+
+**Publication Details:** 
+- Published in Nature, August 2022
+
+**Summary:**  
+Researchers at UC Berkeley and collaborators have discovered a new type of exciton—an intralayer charge-transfer exciton—in moiré superlattices of transition metal dichalcogenides. Using advanced ab initio computational methods and experimental optical measurements, they identified this quasiparticle, which arises uniquely from the moiré pattern and not from individual layers. The discovery, enabled by novel computational techniques and supercomputing resources, opens new avenues for engineering materials with tailored optical and electronic properties, with potential applications in next-generation sensors and optoelectronic devices.

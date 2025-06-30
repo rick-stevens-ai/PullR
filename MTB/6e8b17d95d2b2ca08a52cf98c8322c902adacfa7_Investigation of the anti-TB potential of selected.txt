@@ -1,0 +1,9 @@
+Title: Investigation of the anti-TB potential of selected propolis constituents using a molecular docking approach
+Authors: Mohammad Tuhin Ali, N. Blicharska, Jamil A. Shilpi, V. Seidel
+Year: 2018
+Paper ID: 6e8b17d95d2b2ca08a52cf98c8322c902adacfa7
+URL: https://www.semanticscholar.org/paper/6e8b17d95d2b2ca08a52cf98c8322c902adacfa7
+Venue: Scientific Reports
+
+Abstract:
+Human tuberculosis (TB), caused by Mycobacterium tuberculosis, is the leading bacterial killer disease worldwide and new anti-TB drugs are urgently needed. Natural remedies have long played an important role in medicine and continue to provide some inspiring templates for drug design. Propolis, a substance naturally-produced by bees upon collection of plant resins, is used in folk medicine for its beneficial anti-TB activity. In this study, we used a molecular docking approach to investigate the interactions between selected propolis constituents and four ‘druggable’ proteins involved in vital physiological functions in M. tuberculosis, namely MtPanK, MtDprE1, MtPknB and MtKasA. The docking score for ligands towards each protein was calculated to estimate the binding free energy, with the best docking score (lowest energy value) indicating the highest predicted ligand/protein affinity. Specific interactions were also explored to understand the nature of intermolecular bonds between the most active ligands and the protein binding site residues. The lignan (+)-sesamin displayed the best docking score towards MtDprE1 (−10.7 kcal/mol) while the prenylated flavonoid isonymphaeol D docked strongly with MtKasA (−9.7 kcal/mol). Both compounds showed docking scores superior to the control inhibitors and represent potentially interesting scaffolds for further in vitro biological evaluation and anti-TB drug design.

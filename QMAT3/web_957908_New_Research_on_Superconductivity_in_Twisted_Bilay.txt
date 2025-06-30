@@ -1,0 +1,27 @@
+Title: New Research on Superconductivity in Twisted Bilayer Graphene
+Authors: 
+Year: N/A
+Paper ID: web_957908
+URL: https://nationalmaglab.org/news-events/news/superconductivity-in-twisted-bilayer-graphene/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Superconductivity in Magic-Angle Twisted Bilayer Graphene
+
+**Key Points:**
+- Researchers have provided the first direct evidence of the nature of superconductivity in magic-angle twisted bilayer graphene (TBLG).
+- By manipulating the Coulomb repulsion between electrons using a Bernal bilayer, the team demonstrated that increasing electron repulsion lowers the superconducting transition temperature, contrary to some theoretical predictions.
+- The findings offer strong constraints for future theories on the superconducting phase in TBLG and represent a significant step forward in understanding unconventional superconductivity.
+
+**Methods:** 
+- Experimental approach combining device fabrication (hybrid double layer with magic-angle TBLG and Bernal bilayer graphene) and manipulation of electronic states via electric fields, supported by theoretical collaboration.
+
+**Authors:** 
+- Leo Li (Brown University), Oskar Vafek (Florida State University), Xiaoxue Liu (postdoctoral researcher, Brown University); story by Kristen Coyne.
+
+**Publication Details:** 
+- Published March 23, 2021; research appeared in Science; conducted at the National High Magnetic Field Laboratory.
+
+**Summary:**  
+This research presents the first direct experimental evidence clarifying the nature of superconductivity in magic-angle twisted bilayer graphene. By using a novel device structure that allows manipulation of electron repulsion, the team showed that increased Coulomb repulsion lowers the superconducting transition temperature, providing new insights into the mechanisms behind superconductivity in this material. The collaborative effort between theorists and experimentalists sets a new benchmark for future studies and theoretical models of unconventional superconductivity in graphene-based systems.

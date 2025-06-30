@@ -1,0 +1,9 @@
+Title: Experimental Observation of Higher-Order Topological Anderson Insulators.
+Authors: Weixuan Zhang, Deyuan Zou, Qingsong Pei, Wenjing He, Jiacheng Bao et al. (and 2 more)
+Year: 2020
+Paper ID: a5bc68d6d8d507dfdf9faf2ade76961cfda06a57
+URL: https://www.semanticscholar.org/paper/a5bc68d6d8d507dfdf9faf2ade76961cfda06a57
+Venue: Physical Review Letters
+
+Abstract:
+Recently, a new family of symmetry-protected higher-order topological insulators has been proposed and was shown to host lower-dimensional boundary states. However, with the existence of the strong disorder in the bulk, the crystal symmetry is broken, and the associated corner states are disappeared. It is well known that the emergence of robust edge states and quantized transport can be induced by adding sufficient disorders into a topologically trivial insulator, that is the so-called topological Anderson insulator. The question is whether disorders can also cause the higher-order topological phase. This is not known so far, because interactions between disorders and the higher-order topological phases are completely different from those with the first-order topological system. Here, we demonstrate theoretically that the disorder-induced higher-order topological corner state and quantized fraction corner charge can appear in a modified Haldane model. In experiments, we construct the classical analog of such higher-order topological Anderson insulators using electric circuits and observe the disorder-induced corner state through the voltage measurement. Our work defies the conventional view that the disorder is detrimental to the higher-order topological phase, and offers a feasible platform to investigate the interaction between disorders and higher-order topological phases.

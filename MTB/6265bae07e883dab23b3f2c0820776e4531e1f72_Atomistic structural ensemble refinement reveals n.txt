@@ -1,0 +1,9 @@
+Title: Atomistic structural ensemble refinement reveals non-native structure stabilizes a sub-millisecond folding intermediate of CheY
+Authors: Jade Shi, R. P. Nobrega, Christian Schwantes, Sagar V. Kathuria, O. Bilsel et al. (and 3 more)
+Year: 2017
+Paper ID: 6265bae07e883dab23b3f2c0820776e4531e1f72
+URL: https://www.semanticscholar.org/paper/6265bae07e883dab23b3f2c0820776e4531e1f72
+Venue: Scientific Reports
+
+Abstract:
+The dynamics of globular proteins can be described in terms of transitions between a folded native state and less-populated intermediates, or excited states, which can play critical roles in both protein folding and function. Excited states are by definition transient species, and therefore are difficult to characterize using current experimental techniques. Here, we report an atomistic model of the excited state ensemble of a stabilized mutant of an extensively studied flavodoxin fold protein CheY. We employed a hybrid simulation and experimental approach in which an aggregate 42 milliseconds of all-atom molecular dynamics were used as an informative prior for the structure of the excited state ensemble. This prior was then refined against small-angle X-ray scattering (SAXS) data employing an established method (EROS). The most striking feature of the resulting excited state ensemble was an unstructured N-terminus stabilized by non-native contacts in a conformation that is topologically simpler than the native state. Using these results, we then predict incisive single molecule FRET experiments as a means of model validation. This study demonstrates the paradigm of uniting simulation and experiment in a statistical model to study the structure of protein excited states and rationally design validating experiments.

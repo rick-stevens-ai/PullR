@@ -1,0 +1,9 @@
+Title: Mutation in pncA is a major mechanism of pyrazinamide resistance in Mycobacterium tuberculosis.
+Authors: K. Hirano, Mitsuyoshi Takahashi, Y. Kazumi, Y. Fukasawa, Chiyoji Abe
+Year: 1997
+Paper ID: 4e4f33767ecdd18831a52e0b2858820dfe34e99f
+URL: https://www.semanticscholar.org/paper/4e4f33767ecdd18831a52e0b2858820dfe34e99f
+Venue: Tubercle and Lung Disease
+
+Abstract:
+None

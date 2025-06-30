@@ -1,0 +1,9 @@
+Title: Density-functional thermochemistry. III. The role of exact exchange
+Authors: A. Becke
+Year: 1993
+Paper ID: 0db0ed4a3df187f422a4c0f1469791a8bfff557b
+URL: https://www.semanticscholar.org/paper/0db0ed4a3df187f422a4c0f1469791a8bfff557b
+Venue: 
+
+Abstract:
+Despite the remarkable thermochemical accuracy of Kohn–Sham density‐functional theories with gradient corrections for exchange‐correlation [see, for example, A. D. Becke, J. Chem. Phys. 96, 2155 (1992)], we believe that further improvements are unlikely unless exact‐exchange information is considered. Arguments to support this view are presented, and a semiempirical exchange‐correlation functional containing local‐spin‐density, gradient, and exact‐exchange terms is tested on 56 atomization energies, 42 ionization potentials, 8 proton affinities, and 10 total atomic energies of first‐ and second‐row systems. This functional performs significantly better than previous functionals with gradient corrections only, and fits experimental atomization energies with an impressively small average absolute deviation of 2.4 kcal/mol.

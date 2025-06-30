@@ -1,0 +1,9 @@
+Title: Observation of a Higher‐Order End Topological Insulator in a Real Projective Lattice
+Authors: Ce Shang, Shuo Liu, Caigui Jiang, Ruiwen Shao, Xiaoning Zang et al. (and 5 more)
+Year: 2024
+Paper ID: c36b95c7a7c6e6007a5c7681e9840d0cd51058cf
+URL: https://www.semanticscholar.org/paper/c36b95c7a7c6e6007a5c7681e9840d0cd51058cf
+Venue: Advancement of science
+
+Abstract:
+The modern theory of quantized polarization has recently extended from 1D dipole moment to multipole moment, leading to the development from conventional topological insulators (TIs) to higher‐order TIs, i.e., from the bulk polarization as primary topological index, to the fractional corner charge as secondary topological index. The authors here extend this development by theoretically discovering a higher‐order end TI (HOETI) in a real projective lattice and experimentally verifying the prediction using topolectric circuits. A HOETI realizes a dipole‐symmetry‐protected phase in a higher‐dimensional space (conventionally in one dimension), which manifests as 0D topologically protected end states and a fractional end charge. The discovered bulk‐end correspondence reveals that the fractional end charge, which is proportional to the bulk topological invariant, can serve as a generic bulk probe of higher‐order topology. The authors identify the HOETI experimentally by the presence of localized end states and a fractional end charge. The results demonstrate the existence of fractional charges in non‐Euclidean manifolds and open new avenues for understanding the interplay between topological obstructions in real and momentum space.

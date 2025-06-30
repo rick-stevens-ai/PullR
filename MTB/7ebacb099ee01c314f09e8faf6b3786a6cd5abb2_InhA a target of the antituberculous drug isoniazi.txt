@@ -1,0 +1,9 @@
+Title: InhA, a target of the antituberculous drug isoniazid, is involved in a mycobacterial fatty acid elongation system, FAS-II.
+Authors: H. Marrakchi, G. Lanéelle, A. Quémard
+Year: 2000
+Paper ID: 7ebacb099ee01c314f09e8faf6b3786a6cd5abb2
+URL: https://www.semanticscholar.org/paper/7ebacb099ee01c314f09e8faf6b3786a6cd5abb2
+Venue: Microbiology
+
+Abstract:
+Most drug-resistant clinical isolates of the tubercle bacillus are resistant to isoniazid, a first-line antituberculous drug. This antibiotic was shown to act on Mycobacterium tuberculosis by inhibiting a 2-trans-enoyl-acyl carrier protein reductase, called InhA. However, the exact role played by InhA in mycobacteria remained unclear. A mycobacterial enzyme fraction containing InhA was isolated. It displays a long-chain fatty acid elongation activity with the characteristic properties described for the FAS-II (fatty acid synthetase II) system. Inhibition of this activity by InhA inhibitors, namely isoniazid, hexadecynoyl-CoA or octadecynoyl-CoA, showed that InhA belongs to the FAS-II system. Moreover, the InhA inhibitors also blocked the biosynthesis of mycolic acids, which are major lipids of the mycobacterial envelope. The data strongly suggest that isoniazid acts on the mycobacterial cell wall by preventing the FAS-II system from producing long-chain fatty acid precursors for mycolic acid biosynthesis.

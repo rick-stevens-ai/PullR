@@ -1,0 +1,9 @@
+Title: A Deep-Learning Approach toward Rational Molecular Docking Protocol Selection
+Authors: José Jiménez-Luna, Alberto Cuzzolin, G. Bolcato, M. Sturlese, S. Moro
+Year: 2020
+Paper ID: ebdf2e8de7ddeda007a92f85e9c7416988f42f70
+URL: https://www.semanticscholar.org/paper/ebdf2e8de7ddeda007a92f85e9c7416988f42f70
+Venue: Molecules
+
+Abstract:
+While a plethora of different protein–ligand docking protocols have been developed over the past twenty years, their performances greatly depend on the provided input protein–ligand pair. In this study, we developed a machine-learning model that uses a combination of convolutional and fully connected neural networks for the task of predicting the performance of several popular docking protocols given a protein structure and a small compound. We also rigorously evaluated the performance of our model using a widely available database of protein–ligand complexes and different types of data splits. We further open-source all code related to this study so that potential users can make informed selections on which protocol is best suited for their particular protein–ligand pair.

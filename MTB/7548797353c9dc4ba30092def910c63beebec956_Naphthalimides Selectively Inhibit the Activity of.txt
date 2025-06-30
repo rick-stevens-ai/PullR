@@ -1,0 +1,9 @@
+Title: Naphthalimides Selectively Inhibit the Activity of Bacterial, Replicative DNA Ligases and Display Bactericidal Effects against Tubercle Bacilli
+Authors: M. Korycka-Machala, Marcin Nowosielski, A. Kuron, S. Rykowski, A. Olejniczak et al. (and 2 more)
+Year: 2017
+Paper ID: 7548797353c9dc4ba30092def910c63beebec956
+URL: https://www.semanticscholar.org/paper/7548797353c9dc4ba30092def910c63beebec956
+Venue: Molecules
+
+Abstract:
+The DNA ligases, enzymes that seal breaks in the backbones of DNA, are essential for all organisms, however bacterial ligases essential for DNA replication use β-nicotinamide adenine dinucleotide as their co-factor, whereas those that are essential in eukaryotes and viruses use adenosine-5′-triphosphate. This fact leads to the conclusion that NAD+-dependent DNA ligases in bacteria could be targeted by their co-factor specific inhibitors. The development of novel alternative medical strategies, including new drugs, are a top priority focus areas for tuberculosis research due to an increase in the number of multi-drug resistant as well as totally drug resistant tubercle bacilli strains. Here, through the use of a virtual high-throughput screen and manual inspection of the top 200 records, 23 compounds were selected for in vitro studies. The selected compounds were evaluated in respect to their Mycobacterium tuberculosis NAD+ DNA ligase inhibitory effect by a newly developed assay based on Genetic Analyzer 3500 Sequencer. The most effective agents (e.g., pinafide, mitonafide) inhibited the activity of M. tuberculosis NAD+-dependent DNA ligase A at concentrations of 50 µM. At the same time, the ATP-dependent (phage) DNA LigT4 was unaffected by the agents at concentrations up to 2 mM. The selected compounds appeared to also be active against actively growing tubercle bacilli in concentrations as low as 15 µM.

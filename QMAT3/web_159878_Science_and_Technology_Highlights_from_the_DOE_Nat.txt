@@ -1,0 +1,40 @@
+Title: Science and Technology Highlights from the DOE National Laboratories
+Authors: 
+Year: N/A
+Paper ID: web_159878
+URL: https://web.ornl.gov/info/news/pulse/archive_issues/pulse_v224_06.htm
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Science and Technology Highlights from the DOE National Laboratories
+
+**Key Points:**
+1. Brookhaven Lab research reveals the origin of the "pseudogap" in high-temperature superconductors, showing it results from electron pairing above the superconducting transition temperature.
+2. Jefferson Lab scientists have produced the most precise picture of the pion, providing new insights into the strong force and the role of the quark-gluon sea.
+3. Idaho National Laboratory developed an explosives detection system for military bases, while Pacific Northwest National Laboratory advanced techniques for uranium detection in soil and real-time radioactive waste analysis.
+4. Ames Laboratory's Robert Angelici is recognized for pioneering research in transition metal chemistry and will receive a major ACS award.
+5. NETL is developing MFOAM, next-generation multiphase flow simulation software to improve modeling of fossil fuel reactors.
+
+**Methods:** 
+- Experimental physics (superconductivity, particle physics)
+- Advanced spectroscopy (cryogenic fluorescence, Raman spectroscopy)
+- Engineering and software development (explosives detection, multiphase flow modeling)
+- Inorganic chemistry research
+
+**Authors:** 
+- Karen McNulty Walsh (Brookhaven Lab)
+- Kandice Carter (Jefferson Lab)
+- Ethan Huffman (Idaho National Laboratory)
+- Bill Cannon (Pacific Northwest National Laboratory)
+- Geoff Harvey (Pacific Northwest National Laboratory)
+- Robert Angelici (Ames Laboratory)
+- NETL MFOAM research group
+- Additional contributors from Oak Ridge National Laboratory, Fluent Inc., and Aeolus Research
+
+**Publication Details:** 
+- DOE Pulse, Issue 224, December 11, 2006
+- Published by the U.S. Department of Energy (DOE) Office of Science
+
+**Summary:**  
+This issue of DOE Pulse highlights recent scientific and technological advances from U.S. Department of Energy national laboratories. Featured research includes resolving the pseudogap mystery in high-temperature superconductors, new insights into the pion's structure, innovations in explosives detection and radioactive waste monitoring, and the development of advanced simulation software for fossil fuel reactors. The issue also spotlights Robert Angelici's influential work in inorganic chemistry and his upcoming ACS award. These achievements demonstrate the breadth of cutting-edge research conducted across DOE labs, spanning physics, chemistry, engineering, and computational science.

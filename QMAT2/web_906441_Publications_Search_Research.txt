@@ -1,0 +1,10 @@
+Title: Publications Search – Research
+Authors: 
+Year: N/A
+Paper ID: web_906441
+URL: https://www.sandia.gov/research/publications/search/?format=abstract&authors%5B0%5D=terry-johnson&per-page=200
+Venue: Web Source
+Content Status: SHORT_ABSTRACT
+
+Abstract:
+No abstract extracted from web page

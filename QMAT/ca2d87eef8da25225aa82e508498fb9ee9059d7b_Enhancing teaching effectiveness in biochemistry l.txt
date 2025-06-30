@@ -1,0 +1,9 @@
+Title: Enhancing teaching effectiveness in biochemistry labs: Author reflections and improvement strategies
+Authors: M. Costabile, B. Simpson, Jasmina Turkanovic, Bernard P Hughes
+Year: 2024
+Paper ID: ca2d87eef8da25225aa82e508498fb9ee9059d7b
+URL: https://www.semanticscholar.org/paper/ca2d87eef8da25225aa82e508498fb9ee9059d7b
+Venue: Biochemistry and Molecular Biology Education
+
+Abstract:
+This article details the outcome of a joint reflective approach undertaken by the authors to identify common difficulties experienced by 2nd‐year undergraduate Biochemistry students in laboratory classes. Difficulties experienced in laboratories can affect the development of hand skills, an understanding of how to correctly operate laboratory equipment and the linkage between didactic content and their experimental demonstration. These difficulties covered were identified based on their common appearance across multiple cohorts and are grouped into five broad areas. The context of the laboratory exercises is detailed and the common difficulties experienced by students are outlined. The potential causes of these difficulties are then discussed along with the approaches and strategies that were implemented to help resolve future occurrences. The approach and resources developed to address these difficulties may help other Biochemistry educators who are facing similar experiences with their undergraduate students.

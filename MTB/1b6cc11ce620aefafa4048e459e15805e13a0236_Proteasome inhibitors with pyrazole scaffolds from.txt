@@ -1,0 +1,9 @@
+Title: Proteasome inhibitors with pyrazole scaffolds from structure-based virtual screening.
+Authors: Zachary C. Miller, Keun-Sik Kim, Do-Min Lee, V. Kasam, Si Eun Baek et al. (and 13 more)
+Year: 2015
+Paper ID: 1b6cc11ce620aefafa4048e459e15805e13a0236
+URL: https://www.semanticscholar.org/paper/1b6cc11ce620aefafa4048e459e15805e13a0236
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+We performed a virtual screen of ∼340 000 small molecules against the active site of proteasomes followed by in vitro assays and subsequent optimization, yielding a proteasome inhibitor with pyrazole scaffold. The pyrazole-scaffold compound displayed excellent metabolic stability and was highly effective in suppressing solid tumor growth in vivo. Furthermore, the effectiveness of this compound was not negatively impacted by resistance to bortezomib or carfilzomib.

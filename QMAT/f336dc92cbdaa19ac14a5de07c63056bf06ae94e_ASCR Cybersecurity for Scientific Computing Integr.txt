@@ -1,0 +1,9 @@
+Title: ASCR Cybersecurity for Scientific Computing Integrity - Research Pathways and Ideas Workshop: DOE Workshop Report
+Authors: Sean Peisert
+Year: 2015
+Paper ID: f336dc92cbdaa19ac14a5de07c63056bf06ae94e
+URL: https://www.semanticscholar.org/paper/f336dc92cbdaa19ac14a5de07c63056bf06ae94e
+Venue: 
+
+Abstract:
+None

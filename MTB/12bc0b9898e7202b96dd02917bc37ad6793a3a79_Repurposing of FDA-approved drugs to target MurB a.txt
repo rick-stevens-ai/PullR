@@ -1,0 +1,9 @@
+Title: Repurposing of FDA-approved drugs to target MurB and MurE enzymes in Mycobacterium tuberculosis
+Authors: J. Rani, Y. Silla, Kasmika Borah, S. Ramachandran, U. Bajpai
+Year: 2020
+Paper ID: 12bc0b9898e7202b96dd02917bc37ad6793a3a79
+URL: https://www.semanticscholar.org/paper/12bc0b9898e7202b96dd02917bc37ad6793a3a79
+Venue: Journal of Biomolecular Structure and Dynamics
+
+Abstract:
+Abstract Tuberculosis (TB), caused by Mycobacterium tuberculosis (Mtb) is one amongst the top 10 causes of death worldwide. The growing rise in antibiotic resistance compounded with slow and expensive drug discovery has further aggravated the situation. ‘Drug repurposing’ is a promising approach where known drugs are examined for a new indication. In the present study, we have attempted to identify drugs that could target MurB and MurE enzymes involved in the muramic acid synthesis pathway (Mur Pathway) in Mtb. FDA-approved drugs from two repositories i.e. Drug Bank (1932 drugs) and e-LEA3D (1852 drugs) were screened against these proteins. Several criteria were applied to study the protein-drug interactions and the consensus drugs were further studied by molecular dynamics (MD) simulation. Our study found Sulfadoxine (–7.3 kcal/mol) and Pyrimethamine (–7.8 kcal/mol) to show stable interaction with MurB while Lifitegrast (–10.5 kcal/mol) and Sildenafil (–9.1 kcal/mol) showed most reliable interaction with MurE. Furthermore, binding free energy (ΔGbind), RMSD and RMSF data and the number of hydrogen bonds corroborated the stability of interactions and hence these drugs for repurposing should be explored further. Communicated by Ramaswamy H. Sarma

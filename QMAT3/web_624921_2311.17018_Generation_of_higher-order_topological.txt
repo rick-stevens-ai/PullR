@@ -1,0 +1,10 @@
+Title: [2311.17018] Generation of higher-order topological insulators using periodic driving
+Authors: 
+Year: N/A
+Paper ID: web_624921
+URL: https://arxiv.org/abs/2311.17018
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract:Topological insulators~(TIs) are a new class of materials that resemble ordinary band insulators in terms of a bulk band gap but exhibit protected metallic states on their boundaries. In this modern direction, higher-order TIs~(HOTIs) are a new class of TIs in dimensions $d>1$. These HOTIs possess $(d - 1)$-dimensional boundaries that, unlike those of conventional TIs, do not conduct via gapless states but are themselves TIs. Precisely, an $n^{\rm th}$ order $d$-dimensional higher-order topological insulator is characterized by the presence of boundary modes that reside on its $d_c=(d-n)$-dimensional boundary. For instance, a three-dimensional second (third) order TI hosts gapless (localized) modes on the hinges (corners), characterized by $d_c = 1 (0)$. Similarly, a second-order TI in two dimensions only has localized corner states ($d_c = 0$). These higher-order phases are protected by various crystalline as well as discrete symmetries. The non-equilibrium tunability of the topological phase has been a major academic challenge where periodic Floquet drive provides us golden opportunity to overcome that barrier. Here, we discuss different periodic driving protocols to generate Floquet higher-order TIs while starting from a non-topological or first-order topological phase. Furthermore, we emphasize that one can generate the dynamical anomalous $\pi$-modes along with the concomitant $0$-modes. The former can be realized only in a dynamical setup. We exemplify the Floquet higher-order topological modes in two and three dimensions in a systematic way. Especially, in two dimensions, we demonstrate a Floquet second-order TI hosting $0$- and $\pi$ corner modes. Whereas a three-dimensional Floquet second-order TI and Floquet third-order TI manifest one- and zero-dimensional hinge and corner modes, respectively.

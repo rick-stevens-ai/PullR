@@ -1,0 +1,9 @@
+Title: Dual targeting approach for Mycobacterium tuberculosis drug discovery: insights from DFT calculations and molecular dynamics simulations
+Authors: Murtala A. Ejalonibu, Ahmed A. Elrashedy, Monsurat M. Lawal, M. Soliman, Sphelele C. Sosibo et al. (and 2 more)
+Year: 2019
+Paper ID: 9d915375d61570360848ae145e8706e9a0362ac6
+URL: https://www.semanticscholar.org/paper/9d915375d61570360848ae145e8706e9a0362ac6
+Venue: Structural Chemistry
+
+Abstract:
+None

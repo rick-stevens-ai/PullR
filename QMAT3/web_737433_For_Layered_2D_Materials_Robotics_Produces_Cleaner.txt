@@ -1,0 +1,10 @@
+Title: For Layered 2D Materials, Robotics Produces Cleaner Interfaces Between Stacked Sheets
+Authors: 
+Year: N/A
+Paper ID: web_737433
+URL: https://www.energy.gov/science/bes/articles/layered-2d-materials-robotics-produces-cleaner-interfaces-between-stacked
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Robotic stacking of 2D layers provides the atomically clean interfaces critical for high performance assembled materials.

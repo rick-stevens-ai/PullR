@@ -1,0 +1,9 @@
+Title: Eminuscent phase in frustrated magnets: a challenge to quantum spin liquids
+Authors: S. Syzranov, A. P. Ramirez
+Year: 2021
+Paper ID: 57802c6a01f24ace2675cbee44102a76934a0939
+URL: https://www.semanticscholar.org/paper/57802c6a01f24ace2675cbee44102a76934a0939
+Venue: Nature Communications
+
+Abstract:
+A geometrically frustrated (GF) magnet consists of localised magnetic moments, spins, whose orientation cannot be arranged to simultaneously minimise their interaction energies. Such materials may host novel fascinating phases of matter, such as fluid-like states called quantum spin-liquids. GF magnets have, like all solid-state systems, randomly located impurities whose magnetic moments may “freeze” at low temperatures, making the system enter a spin-glass state. We analyse the available data for spin-glass transitions in GF materials and find a surprising trend: the glass-transition temperature grows with decreasing impurity concentration and reaches a finite value in the impurity-free limit at a previously unidentified, “hidden”, energy scale. We propose a scenario in which the interplay of interactions and entropy leads to a crossover in the permeability of the medium that assists glass freezing at low temperatures. This low-temperature, “eminuscent”, phase may obscure or even destroy the widely-sought spin-liquid states in rather clean systems. A spin-glass forms in frustrated magnetic systems when at low temperatures impurity sites “freeze” into a random spin configuration. Here, by looking back at previous experimental results, Syzranov and Ramirez show that the glass-transition temperature grows with decreasing impurity concentration.

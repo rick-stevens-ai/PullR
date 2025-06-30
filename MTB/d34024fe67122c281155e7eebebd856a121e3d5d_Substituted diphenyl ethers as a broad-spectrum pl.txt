@@ -1,0 +1,22 @@
+Title: Substituted diphenyl ethers as a broad-spectrum platform for the development of chemotherapeutics for the treatment of tularaemia.
+Authors: K. England, Christopher W. am Ende, Hao Lu, Todd J. Sullivan, N. Marlenee et al. (and 5 more)
+Year: 2009
+Paper ID: d34024fe67122c281155e7eebebd856a121e3d5d
+URL: https://www.semanticscholar.org/paper/d34024fe67122c281155e7eebebd856a121e3d5d
+Venue: Journal of Antimicrobial Chemotherapy
+
+Abstract:
+OBJECTIVES
+The National Institute of Allergy and Infectious Disease classifies Francisella tularensis as a Category A priority pathogen. Despite the availability of drugs for treating tularaemia, the mortality in naturally acquired cases can still approach 30%. In addition, the usefulness of existing drugs for treatment in response to exposure or for prophylaxis is limited because of toxicity and delivery concerns. The aim of this study was to assess the efficacy of the lead alkyl-substituted diphenyl ether, SBPT04, in the F. tularensis murine model of infection.
+
+
+METHODS
+SBPT04 was delivered by intraperitoneal (ip) and oral (po) routes, and mice were monitored for morbidity, mortality and relapse of disease. Pharmacokinetic studies were performed to evaluate bioavailability. Phase I and Phase II metabolism of SBPT04 was assessed in mouse and human microsomes.
+
+
+RESULTS
+SBPT04, a potent inhibitor of the enoyl-ACP reductase enzyme ftuFabI, has efficacy against F. tularensis in the murine model of infection when delivered by both ip and po routes. SBPT04 delivered ip cleared infection by day 4 of treatment, and SBPT04 delivered po resulted in delayed dissemination. Importantly, SBPT04 delivered ip or po demonstrated efficacy with no signs of relapse of disease. Pharmacokinetic studies show increased serum concentrations following ip delivery compared with po delivery, which correlates with the observed survival rate of 100%.
+
+
+CONCLUSIONS
+In addition to being a potent lead, this work substantiates substituted diphenyl ethers as a platform for the development of novel broad-spectrum chemotherapeutics to other bacterial agents in addition to F. tularensis.

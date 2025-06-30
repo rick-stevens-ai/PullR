@@ -1,0 +1,9 @@
+Title: Clustered regularly interspaced short palindromic repeats (CRISPRs): the hallmark of an ingenious antiviral defense mechanism in prokaryotes
+Authors: Sinan Al-Attar, E. Westra, J. van der Oost, Stan J. J. Brouns
+Year: 2011
+Paper ID: ae2d718a2b49f1f432c0924b067b04d9dbbf1908
+URL: https://www.semanticscholar.org/paper/ae2d718a2b49f1f432c0924b067b04d9dbbf1908
+Venue: Biological chemistry
+
+Abstract:
+None

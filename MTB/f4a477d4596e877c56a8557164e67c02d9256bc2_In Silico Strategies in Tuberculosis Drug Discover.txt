@@ -1,0 +1,9 @@
+Title: In Silico Strategies in Tuberculosis Drug Discovery
+Authors: S. J. Macalino, J. Billones, Voltaire G. Organo, M. Carrillo
+Year: 2020
+Paper ID: f4a477d4596e877c56a8557164e67c02d9256bc2
+URL: https://www.semanticscholar.org/paper/f4a477d4596e877c56a8557164e67c02d9256bc2
+Venue: Molecules
+
+Abstract:
+Tuberculosis (TB) remains a serious threat to global public health, responsible for an estimated 1.5 million mortalities in 2018. While there are available therapeutics for this infection, slow-acting drugs, poor patient compliance, drug toxicity, and drug resistance require the discovery of novel TB drugs. Discovering new and more potent antibiotics that target novel TB protein targets is an attractive strategy towards controlling the global TB epidemic. In silico strategies can be applied at multiple stages of the drug discovery paradigm to expedite the identification of novel anti-TB therapeutics. In this paper, we discuss the current TB treatment, emergence of drug resistance, and the effective application of computational tools to the different stages of TB drug discovery when combined with traditional biochemical methods. We will also highlight the strengths and points of improvement in in silico TB drug discovery research, as well as possible future perspectives in this field.

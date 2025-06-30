@@ -1,0 +1,9 @@
+Title: Discovery of Novel MDR-Mycobacterium tuberculosis Inhibitor by New FRIGATE Computational Screen
+Authors: C. Scheich, Zoltan Szabadka, B. Vértessy, V. Pütter, V. Grolmusz et al. (and 1 more)
+Year: 2011
+Paper ID: 77f33d0cb12085d978bd5b91fe63d8847499e7a2
+URL: https://www.semanticscholar.org/paper/77f33d0cb12085d978bd5b91fe63d8847499e7a2
+Venue: PLoS ONE
+
+Abstract:
+With 1.6 million casualties annually and 2 billion people being infected, tuberculosis is still one of the most pressing healthcare challenges. Here we report on the new computational docking algorithm FRIGATE which unites continuous local optimization techniques (conjugate gradient method) with an inherently discrete computational approach in forcefield computation, resulting in equal or better scoring accuracies than several benchmark docking programs. By utilizing FRIGATE for a virtual screen of the ZINC library against the Mycobacterium tuberculosis (Mtb) enzyme antigen 85C, we identified novel small molecule inhibitors of multiple drug-resistant Mtb, which bind in vitro to the catalytic site of antigen 85C.

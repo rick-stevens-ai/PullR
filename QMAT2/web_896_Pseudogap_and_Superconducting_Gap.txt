@@ -1,0 +1,10 @@
+Title: Pseudogap and Superconducting Gap
+Authors: 
+Year: N/A
+Paper ID: web_896
+URL: https://www-ssrl.slac.stanford.edu/research/pseudogap_summary.html
+Venue: Web Source
+Content Status: SHORT_ABSTRACT
+
+Abstract:
+No abstract extracted from web page

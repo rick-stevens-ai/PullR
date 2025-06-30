@@ -1,0 +1,10 @@
+Title: [2111.12223] Developments in the Tensor Network -- from Statistical Mechanics to Quantum Entanglement
+Authors: 
+Year: N/A
+Paper ID: web_84062
+URL: https://arxiv.org/abs/2111.12223
+Venue: Web Source
+Content Status: EXTERNAL_URL
+
+Abstract:
+Abstract:Tensor networks (TNs) have become one of the most essential building blocks for various fields of theoretical physics such as condensed matter theory, statistical mechanics, quantum information, and quantum gravity. This review provides a unified description of a series of developments in the TN from the statistical mechanics side. In particular, we begin with the variational principle for the transfer matrix of the 2D Ising model, which naturally leads us to the matrix product state (MPS) and the corner transfer matrix (CTM). We then explain how the CTM can be evolved to such MPS-based approaches as density matrix renormalization group (DMRG) and infinite time-evolved block decimation. We also elucidate that the finite-size DMRG played an intrinsic role for incorporating various quantum information concepts in subsequent developments in the TN. After surveying higher-dimensional generalizations like tensor product states or projected entangled pair states, we describe tensor renormalization groups (TRGs), which are a fusion of TNs and Kadanoff-Wilson type real-space renormalization groups, focusing on their fixed point structures. We then discuss how the difficulty in TRGs for critical systems can be overcome in the tensor network renormalization and the multi-scale entanglement renormalization ansatz.

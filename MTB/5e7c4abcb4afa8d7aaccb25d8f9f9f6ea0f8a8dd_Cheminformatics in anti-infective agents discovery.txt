@@ -1,0 +1,9 @@
+Title: Cheminformatics in anti-infective agents discovery.
+Authors: S. Sardari, M. Dezfulian
+Year: 2007
+Paper ID: 5e7c4abcb4afa8d7aaccb25d8f9f9f6ea0f8a8dd
+URL: https://www.semanticscholar.org/paper/5e7c4abcb4afa8d7aaccb25d8f9f9f6ea0f8a8dd
+Venue: Mini-Reviews in Medical Chemistry
+
+Abstract:
+The existing chemical data such as those created by high throughput screening (HTS), structure-activity relationship (SAR) studies are converted into information as a result of storage and registration. Accessibility, manipulation, and data mining of such information make up the knowledge for drug development. Cheminformatics, exploiting the combination of chemical structural knowledge, biological screening, and data mining approaches is used to guide drug discovery and development and would assist by integrating complex series of rational selection of designed compounds with drug-like properties, building smarter focused libraries. This paper presents cheminformatics approaches and tools for designing and data mining of chemical databases and information. Many examples of success in lead identification and optimization in the area of anti-infective therapy have been discussed.

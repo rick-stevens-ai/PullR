@@ -1,0 +1,9 @@
+Title: Experimental identification of quantum spin liquids
+Authors: J. Wen, Shun-li Yu, Shiyan Li, Weiqiang Yu, Jian-xin Li
+Year: 2019
+Paper ID: 45e6e9bbba94756d65140e57da17c730490797d3
+URL: https://www.semanticscholar.org/paper/45e6e9bbba94756d65140e57da17c730490797d3
+Venue: npj Quantum Materials
+
+Abstract:
+In condensed matter physics there is a novel phase termed ‘quantum spin liquid’, in which strong quantum fluctuations prevent long-range magnetic order from being estab lished, and so electron spins do not form an ordered pattern but remain liquid-like even at absolute zero temperature. Such a phase is not involved in any spontaneous symmetry breaking and local order parameter, and to understand it is beyond conventional phase transition theory. Due to the rich physics and exotic properties of quantum spin liquids, such as long-range entanglement and fractional quantum excitations, which are believed to hold great potential for quantum communication and computation, they have been intensively studied since the concept was proposed in 1973 by P.W. Anderson. Currently, experimental identification of a quantum spin liquid remains a great challenge. Here, we highlight some interesting experimental progress that has been made recently. We also discuss outstanding issues and raise questions that we consider to be important for future research.

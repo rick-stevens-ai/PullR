@@ -1,0 +1,9 @@
+Title: Fundamentals of Symmetry and Topology: Applications to Materials Science and Condensed Matter Physics
+Authors: Mengdi Yin, Jing Zhang, D. Vvedensky
+Year: 2025
+Paper ID: 579d8226fe332608078a78a7b8c01a05098c2a0f
+URL: https://www.semanticscholar.org/paper/579d8226fe332608078a78a7b8c01a05098c2a0f
+Venue: Symmetry
+
+Abstract:
+We review the connections between condensed matter physics, symmetry, and topology. Physics goes back to at least the time of Galileo, but condensed matter physics, or solid-state physics, is a much newer, emerging only as a separate subject in the 1940s. The subject of symmetry, which is the mathematics of groups and representations, only came to the fore with the advent of quantum mechanics. Early applications to crystalline solids include Bloch’s theorem, the symmetry of electronic and phononic energy bands, and selection rules. Topology, on the other hand, did not exist as a mathematical subject before the twentieth century, but has had a profound influence on physics in general, and on condensed matter physics in particular. The quantum Hall effect is recognized as the first solid-state topological phenomenon and, along with the Berry phase, led to the development of topological materials. This, in turn, led to the topological description of energy bands and to the development of topological quantum chemistry and the energy band representation. Topology has also led to the description of martensitic transformations and the shape memory effect in terms of topological transformations. Apart from a concise statement of martensitic transformations, topology provides a fast-screening method for the discovery of new shape-memory materials. We review these phenomena, providing background material in topology and differential geometry to enable the reader to understand applications to topological materials and to materials physics.

@@ -1,0 +1,24 @@
+Title: Materials for raising the temperature of the quantized anomalous Hall and magnetoelectric effects
+Authors: 
+Year: N/A
+Paper ID: web_7412
+URL: https://mappingignorance.org/2017/07/13/materials-raising-temperature-quantized-anomalous-hall-magnetoelectric-effects/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Materials for Raising the Temperature of Quantized Anomalous Hall and Magnetoelectric Effects
+
+**Key Points:**
+- The quantum anomalous Hall (QAH) and topological magnetoelectric effects are promising for low-power electronics and novel quantum phenomena but are currently only observable at extremely low temperatures due to material limitations.
+- Researchers propose a new material platform using magnetic extensions of topological insulator surfaces, specifically combining tetradymite-type nonmagnetic semiconductors (e.g., Bi₂Te₃, Sb₂Te₃) with magnetic insulators like MnBi₂Te₄, to achieve these effects at higher temperatures.
+- The approach avoids common issues such as dopant distribution and disorder by using stoichiometric magnetic compounds and is based on first-principles (ab initio) calculations.
+
+**Methods:** First-principles (ab initio) band structure calculations; theoretical modeling of layered material systems.
+
+**Authors:** M. M. Otrokov, T. V. Menshchikova, M. G. Vergniory, I. P. Rusinov, A. Yu Vyazovskaya, Yu M. Koroteev, G. Bihlmayer, A. Ernst, P. M. Echenique, A. Arnau, E. V. Chulkov (original research); summarized by César Tomé López.
+
+**Publication Details:** Original research published in 2D Materials, 2017, Volume 4, Article 025082, doi: 10.1088/2053-1583/aa6bec; summary published on Mapping Ignorance, July 13, 2017.
+
+**Summary:**  
+This article discusses recent advances in materials science aimed at increasing the operational temperature of the quantized anomalous Hall and topological magnetoelectric effects, which are crucial for next-generation low-power electronics and quantum technologies. By theoretically designing layered systems that combine nonmagnetic topological insulators with magnetic insulators of similar structure and composition, researchers have proposed a method to break time-reversal symmetry and realize these effects at higher temperatures. The approach, validated by ab initio calculations, offers a promising route to overcoming current material limitations and enabling practical applications of these quantum phenomena.

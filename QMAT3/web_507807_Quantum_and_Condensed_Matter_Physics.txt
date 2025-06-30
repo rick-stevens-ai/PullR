@@ -1,0 +1,10 @@
+Title: Quantum and Condensed Matter Physics
+Authors: 
+Year: N/A
+Paper ID: web_507807
+URL: https://www.lanl.gov/engage/organizations/aldsct/theoretical/pcmcs
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Leading research in condensed matter, statistical mechanics, AMO physics, and quantum physicsWe conduct basic and applied research in correlated electrons, nonequilibrium statistical mechanics and the foundations of quantum mechanicsOur group provides theory, simulation, and computational capabilities impacting Los Alamos National Laboratory programs in materials physics, nanotechnology, AMO physics, quantum information science and technology, energy security, global security, and weapons physics.

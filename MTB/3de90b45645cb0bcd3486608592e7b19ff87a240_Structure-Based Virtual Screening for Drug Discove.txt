@@ -1,0 +1,9 @@
+Title: Structure-Based Virtual Screening for Drug Discovery: a Problem-Centric Review
+Authors: Tiejun Cheng, Qingliang Li, Zhigang Zhou, Yanli Wang, S. Bryant
+Year: 2012
+Paper ID: 3de90b45645cb0bcd3486608592e7b19ff87a240
+URL: https://www.semanticscholar.org/paper/3de90b45645cb0bcd3486608592e7b19ff87a240
+Venue: AAPS Journal
+
+Abstract:
+Structure-based virtual screening (SBVS) has been widely applied in early-stage drug discovery. From a problem-centric perspective, we reviewed the recent advances and applications in SBVS with a special focus on docking-based virtual screening. We emphasized the researchers’ practical efforts in real projects by understanding the ligand-target binding interactions as a premise. We also highlighted the recent progress in developing target-biased scoring functions by optimizing current generic scoring functions toward certain target classes, as well as in developing novel ones by means of machine learning techniques.

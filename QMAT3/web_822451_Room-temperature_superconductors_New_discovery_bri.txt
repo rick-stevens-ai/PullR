@@ -1,0 +1,27 @@
+Title: Room-temperature superconductors: New discovery brings science closer to the dream
+Authors: 
+Year: N/A
+Paper ID: web_822451
+URL: https://www.techexplorist.com/room-temperature-superconductors/97766/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Room-temperature superconductors and the fundamental limits of superconductivity
+
+**Key Points:**
+- Researchers have linked the maximum temperature for superconductivity to fundamental physical constants (electron mass, electron charge, Planck constant), suggesting room-temperature superconductivity is theoretically possible.
+- The study establishes that these constants set an upper limit for superconducting temperatures between hundreds and a thousand Kelvin, which includes room temperature.
+- The findings encourage continued research and innovation, as they show that fundamental physics does not preclude the development of practical, room-temperature superconductors.
+
+**Methods:** Theoretical analysis relating superconducting temperature limits to fundamental physical constants; findings validated by an independent study.
+
+**Authors:** Kostya Trachenko, Bartomeu Monserrat, Michael Hutcheon, Chris J Pickard
+
+**Publication Details:**  
+- Journal: Journal of Physics: Condensed Matter  
+- DOI: 10.1088/1361-648X/adbc39  
+- Date: 11 March 2025
+
+**Summary:**  
+A research team led by Professor Kostya Trachenko has demonstrated that the upper temperature limit for superconductivity is determined by fundamental constants of nature, such as electron mass and charge and the Planck constant. Their analysis shows that these constants allow for the possibility of room-temperature superconductivity, keeping the dream of practical, widespread applications alive. The results, published in the Journal of Physics: Condensed Matter, provide new motivation for scientists and engineers to pursue breakthroughs in this transformative field.

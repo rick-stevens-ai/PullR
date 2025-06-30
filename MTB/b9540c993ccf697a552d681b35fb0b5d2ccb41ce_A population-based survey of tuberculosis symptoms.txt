@@ -1,0 +1,9 @@
+Title: A population-based survey of tuberculosis symptoms: how atypical are atypical presentations?
+Authors: L. Miller, S. Asch, E. Yu, L. Knowles, L. Gelberg et al. (and 1 more)
+Year: 2000
+Paper ID: b9540c993ccf697a552d681b35fb0b5d2ccb41ce
+URL: https://www.semanticscholar.org/paper/b9540c993ccf697a552d681b35fb0b5d2ccb41ce
+Venue: Clinical Infectious Diseases
+
+Abstract:
+There is scant information on tuberculosis symptoms from a population-based perspective. We prospectively identified 526 tuberculosis cases reported in Los Angeles County over a 6-month period. Of 313 persons who completed our questionnaire, 72.7% had cough, 48.2% for >2 weeks, and 52.3% had fever, 29.4% for >2 weeks. Among those with pulmonary disease, only 52.4% had cough for >2 weeks. In a multivariate model, persons with significant symptoms typical of tuberculosis disease (defined as cough or fever for >2 weeks, weight loss, or hemoptysis) were associated with lack of medical insurance, negative tuberculin skin test, diagnosis during a process other than screening, and non-Asian race. In summary, classic symptoms of prolonged cough and fever are insensitive predictors of tuberculosis. Our data suggest that Asians may need to be added to the list of persons who present with tuberculosis atypically. We believe that the Infectious Diseases Society of America guidelines for community-acquired pneumonia should emphasize demographic features in addition to clinical symptoms when suggesting which patients require evaluation for Mycobacterium tuberculosis.

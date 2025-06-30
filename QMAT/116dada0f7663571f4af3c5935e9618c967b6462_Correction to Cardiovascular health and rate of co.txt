@@ -1,0 +1,21 @@
+Title: Correction to "Cardiovascular health and rate of cognitive decline in preclinical dementia: A 12-year population-based study" by Speh et al. (2024).
+Authors: 
+Year: 2025
+Paper ID: 116dada0f7663571f4af3c5935e9618c967b6462
+URL: https://www.semanticscholar.org/paper/116dada0f7663571f4af3c5935e9618c967b6462
+Venue: Neuropsychology
+
+Abstract:
+Reports an error in "Cardiovascular health and rate of cognitive decline in preclinical dementia: A 12-year population-based study" by Andreja Speh, Nicola Maria Payton, Milica G. Kramberger, Giulia Grande, Chengxuan Qiu, Bengt Winblad, Laura Fratiglioni, Lars Bäckman and Erika J. Laukka (Neuropsychology, 2024[Mar], Vol 38[3], 211-222). the following funding acknowledgment was missing from the author's note: "The authors acknowledge financial support from the Slovenian Research Agency (Research Core Funding No. P5-0110)." (The following abstract of the original article appeared in record 2024-52081-001.) Objective: We investigated whether vascular risk factors (VRFs), assessed with Life's Simple 7 (LS7), are associated with the rate of cognitive decline in the years preceding a dementia diagnosis.
+
+
+METHOD
+This study included 1,449 stroke-free participants aged ≥60 years from the Swedish National Study on Aging and Care in Kungsholmen, who underwent repeated neuropsychological testing (episodic memory, semantic memory, verbal fluency, perceptual speed) across 12 years. The LS7 score, assessed at baseline, included smoking, diet, physical activity, body mass index, plasma glucose, total cholesterol, and blood pressure. Preclinical dementia was defined as being dementia-free at baseline and diagnosed with dementia during follow-up. Level and change in cognitive performance as a function of LS7 category (poor vs. intermediate to optimal) and future dementia status were estimated using linear mixed-effect models.
+
+
+RESULTS
+Participants who later developed dementia had, on average, a poorer LS7 score compared to those who remained dementia-free. For individuals aged 60-72 years, poor diet was associated with accelerated decline in perceptual speed (β = -0.05, 95% CI [-0.08, -0.02]), and a poor glucose score was associated with faster rates of verbal fluency (β = -0.019, 95% CI [-0.09, -0.01]) and global cognitive (β = -0.028, 95% CI [-0.06, 0.00]) decline in the preclinical dementia group.
+
+
+CONCLUSIONS
+VRFs exacerbate rate of cognitive decline in the years preceding a dementia diagnosis. This effect was most pronounced in young-old age and primarily driven by diet and glucose. The effect of VRFs may be especially detrimental for cognitive decline trajectories of individuals with impending dementia. (PsycInfo Database Record (c) 2025 APA, all rights reserved).

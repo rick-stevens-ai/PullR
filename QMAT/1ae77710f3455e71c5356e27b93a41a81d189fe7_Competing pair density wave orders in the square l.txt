@@ -1,0 +1,9 @@
+Title: Competing pair density wave orders in the square lattice $t$-$J$ model
+Authors: Wayne Zheng, Zheng-Yuan Yue, Jian-Hao Zhang, Zheng-Cheng Gu
+Year: 2024
+Paper ID: 1ae77710f3455e71c5356e27b93a41a81d189fe7
+URL: https://www.semanticscholar.org/paper/1ae77710f3455e71c5356e27b93a41a81d189fe7
+Venue: 
+
+Abstract:
+Over the last two decades, the competing orders in high-$T_{c}$ cuprates have been intensely studied, such as pseudogap phase, charge density waves (CDW), and pair density waves (PDW), which are thought to play a crucial role in high-temperature superconductivity. Using the $t$-$J$ model on a square lattice as the simplest model for high-$T_{c}$ cuprates, we employed the fermionic tensor product state (fTPS) method for numerical investigations. Our study revealed new types of PDW states alongside the well-known $d$-wave state and the recently discovered fluctuating PDW state within the low-energy subspace of the $t$-$J$ model. We believe that the competition among these states in the underdoped region suggests the potential existence of a fluctuating quantum liquid of PDW states, providing direct evidence for the pseudogap phase's"cheap vortex"scenario. Furthermore, we discuss the potential experimental implication of our discovery.

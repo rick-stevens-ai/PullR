@@ -1,0 +1,9 @@
+Title: Conformational energy penalties of protein-bound ligands
+Authors: Jonas Boström, P. Norrby, T. Liljefors
+Year: 1998
+Paper ID: aa569654d8819c7e4d179f065375e6cae105af0d
+URL: https://www.semanticscholar.org/paper/aa569654d8819c7e4d179f065375e6cae105af0d
+Venue: J. Comput. Aided Mol. Des.
+
+Abstract:
+None

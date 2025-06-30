@@ -1,0 +1,24 @@
+Title: Direct Evidence of Pseudogap Competing with Superconductivity
+Authors: 
+Year: N/A
+Paper ID: web_179993
+URL: https://www.innovations-report.com/engineering/materials-sciences/first-direct-evidence-that-a-mysterious-phase-of-matter-competes-with-high-temperature-superconductivity/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Competition between the pseudogap phase and high-temperature superconductivity
+
+**Key Points:**
+- The study provides the first direct evidence that the pseudogap phase competes with and suppresses high-temperature superconductivity by depleting electrons needed for superconducting pairing.
+- This competition limits the operating temperatures of superconductors, hindering their practical applications.
+- The findings open new avenues for theoretical modeling and further research into the nature and origin of the pseudogap.
+
+**Methods:** Angle-resolved photoemission spectroscopy (ARPES) was used to analyze electron behavior in copper oxide superconductors across a range of temperatures and conditions.
+
+**Authors:** Lead author Makoto Hashimoto (SLAC), senior author Zhi-Xun Shen (SLAC and Stanford), co-author Thomas Devereaux (Stanford and SLAC), with contributions from researchers at Stanford University, SLAC National Accelerator Laboratory, Lawrence Berkeley National Laboratory, Osaka University, National Institute of Advanced Industrial Science and Technology (Japan), Japan Atomic Energy Agency, Tokyo Institute of Technology, University of Tokyo, and Cornell University.
+
+**Publication Details:** Published in Nature Materials; research supported by the U.S. Department of Energy Office of Science.
+
+**Summary:**  
+This study, led by researchers at Stanford University and SLAC National Accelerator Laboratory, presents the first direct evidence that the pseudogap phase in copper oxide materials competes with and suppresses high-temperature superconductivity. Using angle-resolved photoemission spectroscopy (ARPES), the team demonstrated that the pseudogap depletes electrons that would otherwise form superconducting pairs, thus limiting the efficiency and operating temperature of superconductors. The results clarify a longstanding debate in the field and suggest new directions for theoretical and experimental research aimed at overcoming this limitation.

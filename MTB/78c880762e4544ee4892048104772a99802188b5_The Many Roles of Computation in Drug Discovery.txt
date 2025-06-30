@@ -1,0 +1,9 @@
+Title: The Many Roles of Computation in Drug Discovery
+Authors: W. L. Jorgensen
+Year: 2004
+Paper ID: 78c880762e4544ee4892048104772a99802188b5
+URL: https://www.semanticscholar.org/paper/78c880762e4544ee4892048104772a99802188b5
+Venue: Science
+
+Abstract:
+None

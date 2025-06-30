@@ -1,0 +1,9 @@
+Title: In silico methods to address polypharmacology: current status, applications and future perspectives.
+Authors: A. Lavecchia, Carmen Cerchia
+Year: 2016
+Paper ID: 3a0d1cb9ff222a48235a4c1ebb9cf6cf52ed6ba3
+URL: https://www.semanticscholar.org/paper/3a0d1cb9ff222a48235a4c1ebb9cf6cf52ed6ba3
+Venue: Drug Discovery Today
+
+Abstract:
+None

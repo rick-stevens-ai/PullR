@@ -1,0 +1,9 @@
+Title: Tetrandrine reverses drug resistance in isoniazid and ethambutol dual drug-resistant Mycobacterium tuberculosis clinical isolates
+Authors: Zhe Zhang, Jie Yan, Kaijin Xu, Zhong-kang Ji, Lanjuan Li
+Year: 2015
+Paper ID: 00043c988aa987b931d2ff46ddb35e268efffe4a
+URL: https://www.semanticscholar.org/paper/00043c988aa987b931d2ff46ddb35e268efffe4a
+Venue: BMC Infectious Diseases
+
+Abstract:
+BackgroundTetrandrine is a natural chemical product purified from fourstamen stephania root which recently has been shown to act similarly as synthesized drug efflux pump inhibitor verapamil. The aim of the study is to examine whether tetrandrine could potentiate anti-tubercular drugs to which Mycobacterium tuberculosis (MTB) has turned resistant via efflux mechanisms.MethodsWe screened 200 MTB clinical isolates using drug sensitivity test to look for those who have turned resistant to the drugs most probably due to efflux mechanisms. We found 29 isoniazid (INH) and ethambutol (EMB) - dual resistant (IEDR) strains. Then we tested if treatment with tetrandrine or verapamil could reverse drug resistance to INH and/or EMB in IEDR isolates.ResultsThere is a parallel resistance among EMB- and INH-resistant strains in the tested clinical isolates. Among INH-resistant strains, 65% was also EMB-resistant. This suggests an involvement of efflux mechanisms which can lead to dual drug resistance in IEDR clinical isolates. Similar to a synthesized efflux pump inhibitor verapamil, tetrandrine treatment together with INH or EMB brought down the MICs from the clinical level of drug resistance to the sensitive range of both drugs. The effective rate reached 82% among IEDR clinical isolates.ConclusionsCombinational application of tetrandrine with INH or EMB increased drug efficacy. Drugs like tetrandrine may help to reduce drug dosage thus alleviate side effects.

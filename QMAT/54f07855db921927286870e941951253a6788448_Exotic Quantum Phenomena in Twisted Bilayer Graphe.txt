@@ -1,0 +1,9 @@
+Title: Exotic Quantum Phenomena in Twisted Bilayer Graphene
+Authors: Giovanna Feraco, Wissem Boubaker, Petra Rudolf, Antonija Grubivsi'c-vCabo
+Year: 2024
+Paper ID: 54f07855db921927286870e941951253a6788448
+URL: https://www.semanticscholar.org/paper/54f07855db921927286870e941951253a6788448
+Venue: 
+
+Abstract:
+Bilayer graphene twisted at the angle of about 1.1{\deg} better known as magic angle, exhibits ultra-flat moir\'e superlattice bands that are a source of highly-tunable, exotic quantum phenomena. Such phenomena, like superconductivity, correlated Mott-like insulating states and orbital ferromagnetism are driven by strong-correlation physics that defies classical theories. The inadequacy of such classical models and the lack of theoretical understanding of the recently observed exotic phenomena calls for revisiting the theory behind the material system and associating it with the observed behaviour. This article reviews the physics behind twisted bilayer graphene, focusing primarily on moir\'e physics and the importance of electronic (flat) band structure. In addition, this paper provides a brief overview of the emerging phenomena of correlated insulating states, superconductivity and orbital ferromagnetism. Finally, the most recent developments in controlling the interaction-driven states and tuning the electronic interactions are presented.

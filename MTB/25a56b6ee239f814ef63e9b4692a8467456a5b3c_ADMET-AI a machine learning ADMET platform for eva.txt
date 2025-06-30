@@ -1,0 +1,9 @@
+Title: ADMET-AI: a machine learning ADMET platform for evaluation of large-scale chemical libraries
+Authors: Kyle Swanson, Parker Walther, Jeremy Leitz, S. Mukherjee, Joseph C. Wu et al. (and 2 more)
+Year: 2024
+Paper ID: 25a56b6ee239f814ef63e9b4692a8467456a5b3c
+URL: https://www.semanticscholar.org/paper/25a56b6ee239f814ef63e9b4692a8467456a5b3c
+Venue: Bioinform.
+
+Abstract:
+Abstract Motivation The emergence of large chemical repositories and combinatorial chemical spaces, coupled with high-throughput docking and generative AI, have greatly expanded the chemical diversity of small molecules for drug discovery. Selecting compounds for experimental validation requires filtering these molecules based on favourable druglike properties, such as Absorption, Distribution, Metabolism, Excretion, and Toxicity (ADMET). Results We developed ADMET-AI, a machine learning platform that provides fast and accurate ADMET predictions both as a website and as a Python package. ADMET-AI has the highest average rank on the TDC ADMET Leaderboard, and it is currently the fastest web-based ADMET predictor, with a 45% reduction in time compared to the next fastest public ADMET web server. ADMET-AI can also be run locally with predictions for one million molecules taking just 3.1 h. Availability and implementation The ADMET-AI platform is freely available both as a web server at admet.ai.greenstonebio.com and as an open-source Python package for local batch prediction at github.com/swansonk14/admet_ai (also archived on Zenodo at doi.org/10.5281/zenodo.10372930). All data and models are archived on Zenodo at doi.org/10.5281/zenodo.10372418.

@@ -1,0 +1,22 @@
+Title: Materials Theory
+Authors: 
+Year: N/A
+Paper ID: web_454703
+URL: https://www.ornl.gov/group/materials-theory
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Theoretical and Computational Materials Science (Materials Theory)
+
+**Key Points:**
+- The group advances understanding and prediction of properties in energy-relevant materials, especially those with complex or emergent functionalities (e.g., quantum, magnetic, topological, and strongly correlated materials).
+- Research focuses on both fundamental and applied aspects, using first principles calculations, analytic approaches, and high-performance computing to design and discover new materials.
+- Collaborative efforts span multiple divisions and facilities, with notable work in quantum materials, high-temperature superconductors, entropy stabilized oxides, and topological materials.
+
+**Methods:** First principles calculations, Quantum Monte Carlo, analytic/model Hamiltonian approaches, high-performance computing
+
+**Authors:** Group Leader: David S. Parker; other contributors referenced in cited works (e.g., S. Mukhopadhyay, Y. Zhang, K. Pitike, S. Okamoto, D. Parker, L. Yin, J. Ahn, G.B. Halasz, N. Mohanta)
+
+**Summary:**  
+The Materials Theory group at Oak Ridge National Laboratory (ORNL) develops and applies advanced theoretical and computational methods to understand and predict the properties of energy-relevant materials, with a focus on quantum, magnetic, topological, and strongly correlated systems. Their research combines first principles calculations, analytic modeling, and high-performance computing to both describe known materials and discover new ones with novel functionalities. Collaborative and interdisciplinary, the group supports Department of Energy missions by laying the groundwork for new energy technologies and advancing fundamental materials science.

@@ -1,0 +1,9 @@
+Title: Superconductivity in Twisted WSe_{2} from Topology-Induced Quantum Fluctuations.
+Authors: Fang Xie, Lei Chen, Shouvik Sur, Yuan Fang, Jennifer Cano et al. (and 1 more)
+Year: 2024
+Paper ID: cfc2f2ff29d27ff289f4cf235c1ccba96e633d6c
+URL: https://www.semanticscholar.org/paper/cfc2f2ff29d27ff289f4cf235c1ccba96e633d6c
+Venue: Physical Review Letters
+
+Abstract:
+Recently, superconductivity has been observed in twisted WSe_{2} moiré structures (Xia et al., Nature (London) 637, 833 (2025)NATUAS0028-083610.1038/s41586-024-08116-2; Guo et al., Nature (London) 637, 839 (2025)NATUAS0028-083610.1038/s41586-024-08381-1). Its transition temperature is high, reaching a few percent of the Fermi temperature scale. Here, we advance a mechanism for superconductivity based on the notion that electronic topology enables quantum fluctuations in a suitable regime of intermediate correlations. In this regime, the Coulomb interaction requires that an active topological flat band and nearby wider bands are considered together. Compact molecular orbitals arise, which give rise to quantum fluctuations through topology-dictated hybridization with the other molecular orbitals. The hybridization competes with the active flat band's natural tendency toward static electronic ordering, thereby weakening the latter; we link this effect with certain salient observations by experiments. Furthermore, the competition yields a quantum critical regime where quasiparticles are lost. The corresponding quantum critical fluctuations drive superconductivity. Broader implications and new connections among correlated materials platforms are discussed.

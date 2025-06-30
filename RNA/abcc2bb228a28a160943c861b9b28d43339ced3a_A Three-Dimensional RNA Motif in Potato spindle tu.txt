@@ -1,0 +1,9 @@
+Title: A Three-Dimensional RNA Motif in Potato spindle tuber viroid Mediates Trafficking from Palisade Mesophyll to Spongy Mesophyll in Nicotiana benthamiana[W]
+Authors: R. Takeda, Anton I. Petrov, N. Leontis, B. Ding
+Year: 2011
+Paper ID: abcc2bb228a28a160943c861b9b28d43339ced3a
+URL: https://www.semanticscholar.org/paper/abcc2bb228a28a160943c861b9b28d43339ced3a
+Venue: The Plant Cell
+
+Abstract:
+None

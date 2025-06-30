@@ -1,0 +1,9 @@
+Title: A Riboswitch Regulates RNA Dimerization and Packaging in Human Immunodeficiency Virus Type 1 Virions
+Authors: Marcel Ooms, H. Huthoff, R. Russell, C. Liang, B. Berkhout
+Year: 2004
+Paper ID: 3fb73c7dd63d9b4ebdaa2c7aa7fd7b73746f4370
+URL: https://www.semanticscholar.org/paper/3fb73c7dd63d9b4ebdaa2c7aa7fd7b73746f4370
+Venue: Journal of Virology
+
+Abstract:
+None

@@ -1,0 +1,22 @@
+Title: Quantum Materials – Accelerator Technology & Applied Physics Division
+Authors: 
+Year: N/A
+Paper ID: web_30848
+URL: https://atap.lbl.gov/research/scientific-programs-and-centers/quantum-materials/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Quantum Materials in Condensed Matter Physics
+
+**Key Points:**
+- The program focuses on understanding and controlling interacting orders in quantum materials, which exhibit complex phenomena due to quantum effects.
+- Research targets include non-locality and coherence in magnetic quantum materials, as well as superconductivity and intertwined phases in strongly correlated systems.
+- These studies aim to advance knowledge relevant to energy, transportation, medical, and information technologies.
+
+**Methods:** Not specified (general mention of studies and characterization of quantum materials)
+
+**Authors:** Not specified
+
+**Summary:**  
+The Quantum Materials program at the Accelerator Technology & Applied Physics Division investigates the complex behaviors of condensed matter systems governed by quantum interactions. By exploring non-locality, coherence, superconductivity, and intertwined phases in quantum materials, the program seeks to uncover new physical phenomena and deepen understanding of phase transitions and electronic orders. This research has broad implications for technological advancements in multiple sectors.

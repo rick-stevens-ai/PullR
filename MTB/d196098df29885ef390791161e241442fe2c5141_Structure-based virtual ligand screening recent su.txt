@@ -1,0 +1,9 @@
+Title: Structure-based virtual ligand screening: recent success stories.
+Authors: B. Villoutreix, R. Eudes, M. Miteva
+Year: 2009
+Paper ID: d196098df29885ef390791161e241442fe2c5141
+URL: https://www.semanticscholar.org/paper/d196098df29885ef390791161e241442fe2c5141
+Venue: Combinatorial chemistry & high throughput screening
+
+Abstract:
+Today, computational methods are commonly used in all areas of health science research. Among these methods, virtual ligand screening has become an established technique for hit discovery and optimization. In this review, we first introduce structure-based virtual ligand screening and briefly comment on compound collections and target preparations. We also provide the readers with a list of resources, from chemoinformatics packages to compound collections, which could be helpful to implement a structure-based virtual screening platform. Then we discuss seventeen recent success stories obtained with various receptor-based in silico methods, performed on experimental structures (X-ray crystallography, 12 cases) or homology models (5 cases) and concerning different target classes, from the design of catalytic site inhibitors to drug-like compounds impeding macromolecular interactions. In light of these results, some suggestions are made about areas that present opportunities for improvements.

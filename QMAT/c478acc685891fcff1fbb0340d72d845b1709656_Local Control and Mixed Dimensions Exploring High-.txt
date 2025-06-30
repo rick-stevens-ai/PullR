@@ -1,0 +1,18 @@
+Title: Local Control and Mixed Dimensions: Exploring High-Temperature Superconductivity in Optical Lattices
+Authors: Henning Schlömer, Hannah Lange, Titus Franz, Thomas Chalopin, Petar Bojovi'c et al. (and 5 more)
+Year: 2024
+Paper ID: c478acc685891fcff1fbb0340d72d845b1709656
+URL: https://www.semanticscholar.org/paper/c478acc685891fcff1fbb0340d72d845b1709656
+Venue: PRX Quantum
+
+Abstract:
+The simulation of high-temperature superconducting materials by implementing strongly correlated fermionic models in optical lattices is one of the major objectives in the field of analog quantum simulation. Here we show that local control and optical bilayer capabilities combined with spatially resolved measurements create a versatile toolbox to study fundamental properties of both nickelate and cuprate high-temperature superconductors. On the one hand, we present a scheme to implement a mixed-dimensional (mixD) bilayer model that has been proposed to capture the essential pairing physics of pressurized bilayer nickelates. This allows for the long-sought realization of a state with long-range superconducting order in current lattice quantum simulation machines. In particular, we show how coherent pairing correlations can be accessed in a partially particle-hole transformed and rotated basis. On the other hand, we demonstrate that control of local gates enables the observation of d-wave pairing order in the two-dimensional (single-layer) repulsive Fermi-Hubbard model through the simulation of a system with attractive interactions. Lastly, we introduce a scheme to measure momentum-resolved dopant densities, providing access to observables complementary to solid-state experiments—which is of particular interest for future studies of the enigmatic pseudogap phase appearing in cuprates.
+ 
+ 
+ 
+ 
+ Published by the American Physical Society
+ 2024
+ 
+ 
+

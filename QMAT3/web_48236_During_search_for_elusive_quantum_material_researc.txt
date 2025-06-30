@@ -1,0 +1,22 @@
+Title: During search for elusive quantum material, researchers accidentally uncover new magnetic phenomenon
+Authors: 
+Year: N/A
+Paper ID: web_48236
+URL: https://hub.jhu.edu/2020/08/04/tyrel-mcqueen-quantum-anomalous-anomalous-hall-effect/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Discovery of the "anomalous anomalous Hall effect" in quantum materials
+
+**Key Points:**
+- Researchers accidentally discovered a new magnetic phenomenon, dubbed the "anomalous anomalous Hall effect," in the material KV₃Sb₅ while searching for a quantum spin liquid.
+- This effect occurs in a non-magnetic material that produces a powerful Hall effect, suggesting the material's particles "remember" previous magnetic states, leading to unusual electronic behavior.
+- The discovery could lead to the development of new sensors and electronic devices due to its unique electronic properties.
+
+**Methods:** Experimental investigation of the material KV₃Sb₅, including material synthesis, measurement, and characterization, followed by collaborative data analysis.
+
+**Authors:** Tyrel M. McQueen (Johns Hopkins University), Jennifer Morey, Brenden Ortiz, Mazhar Ali, and an international team (including members from the Max Planck Institute of Microstructure Physics).
+
+**Summary:**  
+While attempting to create a quantum spin liquid, researchers led by Tyrel M. McQueen at Johns Hopkins University discovered a new magnetic phenomenon in the material KV₃Sb₅, which they named the "anomalous anomalous Hall effect." This effect, observed in a non-magnetic material, challenges conventional understanding by showing a strong Hall effect typically associated with magnetism. The finding, published in Science Advances, opens new avenues for material science and potential applications in sensor technology.

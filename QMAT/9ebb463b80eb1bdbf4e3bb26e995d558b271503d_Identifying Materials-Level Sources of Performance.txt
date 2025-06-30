@@ -1,0 +1,9 @@
+Title: Identifying Materials-Level Sources of Performance Variation in Superconducting Transmon Qubits
+Authors: Akshay A. Murthy, M. Bal, Michael J. Bedzyk, Hilal Cansizoglu, Randall K. Chan et al. (and 44 more)
+Year: 2025
+Paper ID: 9ebb463b80eb1bdbf4e3bb26e995d558b271503d
+URL: https://www.semanticscholar.org/paper/9ebb463b80eb1bdbf4e3bb26e995d558b271503d
+Venue: 
+
+Abstract:
+The Superconducting Materials and Systems (SQMS) Center, a DOE National Quantum Information Science Research Center, has conducted a comprehensive and coordinated study using superconducting transmon qubit chips with known performance metrics to identify the underlying materials-level sources of device-to-device performance variation. Following qubit coherence measurements, these qubits of varying base superconducting metals and substrates have been examined with various nondestructive and invasive material characterization techniques at Northwestern University, Ames National Laboratory, and Fermilab as part of a blind study. We find trends in variations of the depth of the etched substrate trench, the thickness of the surface oxide, and the geometry of the sidewall, which when combined, lead to correlations with the T$_1$ lifetime across different devices. In addition, we provide a list of features that varied from device to device, for which the impact on performance requires further studies. Finally, we identify two low-temperature characterization techniques that may potentially serve as proxy tools for qubit measurements. These insights provide materials-oriented solutions to not only reduce performance variations across neighboring devices, but also to engineer and fabricate devices with optimal geometries to achieve performance metrics beyond the state-of-the-art values.

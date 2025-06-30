@@ -1,0 +1,26 @@
+Title: Baby Steps Towards Ambient-Pressure High-Temperature Superconductors
+Authors: 
+Year: N/A
+Paper ID: web_434343
+URL: https://www.securities.io/baby-steps-towards-ambient-pressure-high-temperature-superconductors/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Advances Toward Ambient-Pressure High-Temperature Superconductors
+
+**Key Points:**
+- Traditional superconductors require either extremely low temperatures or high pressures, limiting their practical applications.
+- Researchers have developed a pressure-quench protocol (PQP) that stabilizes pressure-induced superconducting phases of Bi0.5Sb1.5Te3 (BST) at ambient pressure, potentially paving the way for more practical superconducting materials.
+- This method could lead to the discovery and design of new superconductors that operate at higher temperatures and under normal conditions, improving the feasibility of technologies like zero-loss power lines and quantum computers.
+
+**Methods:** 
+- Experimental study using high-pressure techniques (up to ~50 GPa) and a pressure-quench protocol to stabilize superconducting phases of BST at ambient pressure.
+- Characterization of electric and magnetic properties using a Magnetization Property Measurement System (MPMS).
+
+**Authors:** 
+- Pr. Liangzi Deng, Pr. Paul Chu, and collaborators from the University of Houston, University at Buffalo, University of Illinois, National Sun Yat-Sen University (Taiwan), and Intellectual Venture.
+- Study reference: Deng, B. et al., (2025), published in Proceedings of the National Academy of Sciences (PNAS).
+
+**Summary:**  
+This article discusses recent breakthroughs in the quest for ambient-pressure, high-temperature superconductors. Researchers have successfully stabilized superconducting phases of Bi0.5Sb1.5Te3 at room pressure using a pressure-quench protocol, overcoming a major barrier to practical applications. While these materials are not yet room-temperature superconductors, the approach opens new avenues for developing superconductors that operate under more accessible conditions, with significant implications for energy, transportation, and quantum computing technologies.

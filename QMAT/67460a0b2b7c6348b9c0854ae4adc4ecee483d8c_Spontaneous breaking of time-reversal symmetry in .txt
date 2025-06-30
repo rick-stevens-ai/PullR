@@ -1,0 +1,9 @@
+Title: Spontaneous breaking of time-reversal symmetry in the pseudogap state of a high-Tc superconductor
+Authors: A. Kaminski, A. Kaminski, S. Rosenkranz, S. Rosenkranz, H. Fretwell et al. (and 9 more)
+Year: 2002
+Paper ID: 67460a0b2b7c6348b9c0854ae4adc4ecee483d8c
+URL: https://www.semanticscholar.org/paper/67460a0b2b7c6348b9c0854ae4adc4ecee483d8c
+Venue: Nature
+
+Abstract:
+A change in ‘symmetry’ is often observed when matter undergoes a phase transition—the symmetry is said to be spontaneously broken. The transition made by underdoped high-transition-temperature (high-Tc) superconductors is unusual, in that it is not a mean-field transition as seen in other superconductors. Rather, there is a region in the phase diagram above the superconducting transition temperature Tc (where phase coherence and superconductivity begin) but below a characteristic temperature T* where a ‘pseudogap’ appears in the spectrum of electronic excitations. It is therefore important to establish if T* is just a cross-over temperature arising from fluctuations in the order parameter that will establish superconductivity at Tc (refs 3, 4), or if it marks a phase transition where symmetry is spontaneously broken. Here we report that, for a material in the pseudogap state, left-circularly polarized photons give a different photocurrent from right-circularly polarized photons. This shows that time-reversal symmetry is spontaneously broken below T*, which therefore corresponds to a phase transition.

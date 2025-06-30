@@ -1,0 +1,9 @@
+Title: Scale-invariant quantum anomalous Hall effect in magnetic topological insulators beyond the two-dimensional limit.
+Authors: X. Kou, Shi Guo, Yabin Fan, L. Pan, M. Lang et al. (and 10 more)
+Year: 2014
+Paper ID: ab564d321d8a64cc959de95962cfe6f7a5e7b9d2
+URL: https://www.semanticscholar.org/paper/ab564d321d8a64cc959de95962cfe6f7a5e7b9d2
+Venue: Physical Review Letters
+
+Abstract:
+We investigate the quantum anomalous Hall effect (QAHE) and related chiral transport in the millimeter-size (Cr(0.12)Bi(0.26)Sb(0.62))₂Te₃ films. With high sample quality and robust magnetism at low temperatures, the quantized Hall conductance of e²/h is found to persist even when the film thickness is beyond the two-dimensional (2D) hybridization limit. Meanwhile, the Chern insulator-featured chiral edge conduction is manifested by the nonlocal transport measurements. In contrast to the 2D hybridized thin film, an additional weakly field-dependent longitudinal resistance is observed in the ten-quintuple-layer film, suggesting the influence of the film thickness on the dissipative edge channel in the QAHE regime. The extension of the QAHE into the three-dimensional thickness region addresses the universality of this quantum transport phenomenon and motivates the exploration of new QAHE phases with tunable Chern numbers. In addition, the observation of scale-invariant dissipationless chiral propagation on a macroscopic scale makes a major stride towards ideal low-power interconnect applications.

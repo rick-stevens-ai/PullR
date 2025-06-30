@@ -1,0 +1,9 @@
+Title: Measurements of Correlated Insulator Gaps in a Transition-Metal Dichalcogenide Moiré Superlattice.
+Authors: Xiong Huang, Qiran Wu, Dongxue Chen, Zhen Lian, Mina Rashetnia et al. (and 6 more)
+Year: 2023
+Paper ID: 84b977d9f1b87e6e748217a5d3afe6bef2eb9653
+URL: https://www.semanticscholar.org/paper/84b977d9f1b87e6e748217a5d3afe6bef2eb9653
+Venue: Nano letters (Print)
+
+Abstract:
+Moiré superlattices of transitional-metal dichalcogenides exhibit strong electron-electron interaction that has led to experimental observations of Mott insulators and generalized Wigner crystals. In this Letter, we report direct measurements of the thermodynamic gaps of these correlated insulating states in a dual-gate WS2/WSe2 moiré bilayer. We employ microwave impedance microscopy to probe the electronic features in both the graphene top gate and the moiré bilayer, from which we extract the doping dependence of the chemical potential of the moiré bilayer and the energy gaps for various correlated insulating states utilizing the Landau quantization of graphene. These energy gaps vary across different locations on the samples but are relatively insensitive to the application of an external electric field or magnetic field to the WS2/WSe2 moiré bilayer.

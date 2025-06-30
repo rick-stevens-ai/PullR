@@ -1,0 +1,9 @@
+Title: Magic, symmetry, and twisted matter
+Authors: A. Yazdani
+Year: 2021
+Paper ID: 13581f5fb7b4d2a05ba3b86b32d79dbf8d7a6cb2
+URL: https://www.semanticscholar.org/paper/13581f5fb7b4d2a05ba3b86b32d79dbf8d7a6cb2
+Venue: Science
+
+Abstract:
+Alternating magic-angle twist induces unconventional superconductivity The discovery in 2018 of superconductivity when two layers of graphene are stacked on top of each other at a “magic angle” has opened a new paradigm for studying electronic phenomena (1). Now, a pair of studies, one on page 1133 of this issue by Hao et al. (2) and the other by Park et al. (3), take the twisting magic trick one step further. More robust and tunable superconductivity was realized in three-layer stacks of graphene arranged at an alternating magic twist angle that is a factor of greater than the magic angle for bilayers. The authors also present evidence that superconductivity in twisted graphene is not caused by the conventional weak-coupling Bardeen-Cooper-Schrieffer (BCS) electron-pairing mechanism. The mechanism of pairing remains unknown, but the experiments suggest that the electrons form tightly bound pairs at temperatures above those at which superconductivity is macroscopically detected.

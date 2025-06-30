@@ -1,0 +1,9 @@
+Title: A single nucleotide substitution converts potato spindle tuber viroid (PSTVd) from a noninfectious to an infectious RNA for nicotiana tabacum.
+Authors: M. Wassenegger, R. Spieker, Sabine Thalmeir, F. Gast, Leonhard Riedel et al. (and 1 more)
+Year: 1996
+Paper ID: feefa122534d954685a2cf898d7e23aac077c1e3
+URL: https://www.semanticscholar.org/paper/feefa122534d954685a2cf898d7e23aac077c1e3
+Venue: Virology
+
+Abstract:
+Mechanical inoculation of Nicotiana tabacum with the PSTVd isolate KF 440-2 from the host plant tomato resulted in the de novo emergence, replication, and accumulation of a new "tobacco variant," designated PSTVd NT. It produces no symptoms in tobacco but, like PSTV KF 440-2, severe ones in tomato. The sequence analysis of PSTVd NT revealed a single nucleotide substitution from C-->U at position 259. Autonomous viroid replication was also induced in tobacco by genomic integration of oligomeric cDNA copies of PSTVd KF 440-2. Although these cDNAs contained the original tomato-specific C259, the circular PSTVd RNA subsequently accumulating in tobacco also exhibited the C259-->U259 substitution. In the secondary structure of PSTVd, nucleotide 259 is part of an internal loop analogous to loop E of eukaryotic 5S rRNA and presumed to be the only bulged extrahelical nucleotide of this loop. The C259 in PSTVd KF 440-2 and in practically all other isolates and the U259 in PSTVd NT of the loop E-like structure might be involved in protein binding and in viroid processing. The new variant PSTVd NT is genetically stable in both tobacco and tomato.

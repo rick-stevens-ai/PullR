@@ -1,0 +1,9 @@
+Title: Successful applications of computer aided drug discovery: moving drugs from concept to the clinic.
+Authors: T. Talele, Santosh A. Khedkar, A. C. Rigby
+Year: 2010
+Paper ID: 6718d683573865987a631299ae55b1f77748fc5a
+URL: https://www.semanticscholar.org/paper/6718d683573865987a631299ae55b1f77748fc5a
+Venue: Current Topics in Medicinal Chemistry
+
+Abstract:
+Drug discovery and development is an interdisciplinary, expensive and time-consuming process. Scientific advancements during the past two decades have changed the way pharmaceutical research generate novel bioactive molecules. Advances in computational techniques and in parallel hardware support have enabled in silico methods, and in particular structure-based drug design method, to speed up new target selection through the identification of hits to the optimization of lead compounds in the drug discovery process. This review is focused on the clinical status of experimental drugs that were discovered and/or optimized using computer-aided drug design. We have provided a historical account detailing the development of 12 small molecules (Captopril, Dorzolamide, Saquinavir, Zanamivir, Oseltamivir, Aliskiren, Boceprevir, Nolatrexed, TMI-005, LY-517717, Rupintrivir and NVP-AUY922) that are in clinical trial or have become approved for therapeutic use.

@@ -1,0 +1,27 @@
+Title: DOE National QIS Research Centers
+Authors: 
+Year: N/A
+Paper ID: web_899498
+URL: https://q-next.org/doe-national-qis-research-centers/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** U.S. Department of Energy National Quantum Information Science (QIS) Research Centers
+
+**Key Points:**
+- The DOE National QIS Research Centers represent the first large-scale, cross-disciplinary effort in quantum information science, aiming to advance national security, economic competitiveness, and scientific leadership.
+- Five centers—Q-NEXT, Co-design Center for Quantum Advantage (C2QA), Quantum Science Center (QSC), Quantum Systems Accelerator (QSA), and Superconducting Quantum Materials and Systems Center (SQMS)—focus on different aspects of quantum technology, from quantum computing and communication to materials and workforce development.
+- Each center is led by a DOE national laboratory and integrates collaborative teams from national labs, universities, and industry to accelerate research, technology transfer, and workforce training.
+
+**Methods:** Collaborative, multi-institutional research integrating science and technology innovation chains; specific approaches include development of quantum materials, devices, algorithms, and testbeds, as well as workforce training and technology transfer.
+
+**Authors:** Directors and lead institutions are specified for each center:
+- C2QA: Andrew Houck, Brookhaven National Laboratory
+- Q-NEXT: David Awschalom, Argonne National Laboratory
+- QSC: Travis Humble, Oak Ridge National Laboratory
+- QSA: Irfan Siddiqi, Lawrence Berkeley National Laboratory
+- SQMS: Anna Grassellino, Fermi National Accelerator Laboratory
+
+**Summary:**  
+The DOE National Quantum Information Science Research Centers are a network of five major research hubs established to drive advancements in quantum information science across the United States. Each center, led by a national laboratory and involving partnerships with academia and industry, targets specific challenges in quantum computing, communication, materials, and workforce development. Their collective mission is to accelerate quantum technology innovation, facilitate technology transfer, and ensure U.S. leadership in the emerging quantum economy.

@@ -1,0 +1,9 @@
+Title: Intrinsic magnetic topological insulators of the MnBi2Te4 family
+Authors: A. Vyazovskaya, M. Bosnar, E. Chulkov, M. Otrokov
+Year: 2025
+Paper ID: e3552c3a4e47a71a7d1d9c10834b1850481438b3
+URL: https://www.semanticscholar.org/paper/e3552c3a4e47a71a7d1d9c10834b1850481438b3
+Venue: Communications Materials
+
+Abstract:
+This short review appears on the occasion of the fifth anniversary of discovery of intrinsic magnetic topological insulators (MTIs) of the MnBi${}_2$Te${}_4$ family, which have attracted a great deal of attention recently. This family of materials has been discovered in attempts to increase the observation temperature of the quantum anomalous Hall effect as well as to facilitate the eventual realization of the topological magnetoelectric effect. Therefore, we first briefly introduce these effects, then describe the experimental state-of-the-art in the MTIs field just prior to MnBi${}_2$Te${}_4$ appearance, after which we discuss the basic properties of this material and its family. Finally, we overview the exciting progress made during five years of intense research in this field.

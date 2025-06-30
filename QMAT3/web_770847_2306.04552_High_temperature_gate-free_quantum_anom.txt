@@ -1,0 +1,10 @@
+Title: [2306.04552] High temperature, gate-free quantum anomalous Hall effect with an active capping layer
+Authors: 
+Year: N/A
+Paper ID: web_770847
+URL: https://arxiv.org/abs/2306.04552
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract:Quantum anomalous Hall effect (QAHE) was discovered a decade ago, but is still not utilized beyond a handful of research groups, due to numerous limitations such as extremely low temperature, electric field-effect gating requirement, small sample sizes and environmental aging effect. Here, we present a robust platform that provides effective solutions to these problems. Specifically, on this platform, we observe QAH signatures at record high temperatures, with the Hall conductance of 1.00 e2/h at 2.0 K, 0.98 e2/h at 4.2 K, and 0.92 e2/h at 10 K, on centimeter-scale substrates, without electric-field-effect gating. The key ingredient is an active CrOx capping layer, which substantially boosts the ferromagnetism while suppressing environmental degradation. With this development, QAHE will now be accessible to much broader applications than before.

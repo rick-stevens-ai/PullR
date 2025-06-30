@@ -1,0 +1,9 @@
+Title: Updating the Checklist for Artificial Intelligence in Medical Imaging (CLAIM) for reporting AI research
+Authors: Ali S. Tejani, M. Klontzas, Anthony A Gatti, John Mongan, Linda Moy et al. (and 2 more)
+Year: 2023
+Paper ID: 96fe238568d192a30dc7ddd528ea35b23ab1bf70
+URL: https://www.semanticscholar.org/paper/96fe238568d192a30dc7ddd528ea35b23ab1bf70
+Venue: Nature Machine Intelligence
+
+Abstract:
+None

@@ -1,0 +1,9 @@
+Title: High-precision realization of robust quantum anomalous Hall state in a hard ferromagnetic topological insulator.
+Authors: Cui-Zu Chang, Weiwei Zhao, Duk Y. Kim, Haijun Zhang, B. Assaf et al. (and 5 more)
+Year: 2014
+Paper ID: db048efa6e6de8af43548e52ff1c8c897c1547f1
+URL: https://www.semanticscholar.org/paper/db048efa6e6de8af43548e52ff1c8c897c1547f1
+Venue: Nature Materials
+
+Abstract:
+The discovery of the quantum Hall (QH) effect led to the realization of a topological electronic state with dissipationless currents circulating in one direction along the edge of a two-dimensional electron layer under a strong magnetic field. The quantum anomalous Hall (QAH) effect shares a similar physical phenomenon to that of the QH effect, whereas its physical origin relies on the intrinsic spin-orbit coupling and ferromagnetism. Here, we report the experimental observation of the QAH state in V-doped (Bi,Sb)2Te3 films with the zero-field longitudinal resistance down to 0.00013 ± 0.00007h/e(2) (~3.35 ± 1.76 Ω), Hall conductance reaching 0.9998 ± 0.0006e(2)/h and the Hall angle becoming as high as 89.993° ± 0.004° at T = 25 mK. A further advantage of this system comes from the fact that it is a hard ferromagnet with a large coercive field (Hc > 1.0 T) and a relative high Curie temperature. This realization of a robust QAH state in hard ferromagnetic topological insulators (FMTIs) is a major step towards dissipationless electronic applications in the absence of external fields.

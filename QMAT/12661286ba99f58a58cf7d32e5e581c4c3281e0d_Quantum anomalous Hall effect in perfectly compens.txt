@@ -1,0 +1,9 @@
+Title: Quantum anomalous Hall effect in perfectly compensated collinear antiferromagnetic thin films
+Authors: C. Lei, T. V. Trevisan, O. Heinonen, R. McQueeney, A. Macdonald
+Year: 2021
+Paper ID: 12661286ba99f58a58cf7d32e5e581c4c3281e0d
+URL: https://www.semanticscholar.org/paper/12661286ba99f58a58cf7d32e5e581c4c3281e0d
+Venue: Physical review B
+
+Abstract:
+We show that the quantum anomalous Hall effect almost always occurs in magnetic topological insulator thin films whenever the top and bottom surface layer magnetizations are parallel, independent of the interior layer magnetization configuration. Using this criteria we identify structures that have a quantum anomalous Hall effect even though they have collinear magnetic structures with no net magnetization, and discuss strategies for realizing these interesting magnetic states experimentally.

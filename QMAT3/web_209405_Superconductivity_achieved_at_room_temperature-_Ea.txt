@@ -1,0 +1,24 @@
+Title: Superconductivity achieved at room temperature- Earth.com
+Authors: 
+Year: N/A
+Paper ID: web_209405
+URL: https://www.earth.com/news/superconductivity-achieved-at-room-temperature-with-new-materials/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Room-Temperature Superconductivity in Nickelate Materials
+
+**Key Points:**
+- Researchers have achieved superconductivity in nickelate materials at low temperatures without the need for high-pressure equipment, using thin-film growth and special substrates to apply sideways pressure.
+- This method allows for more practical and detailed studies of superconductivity, potentially paving the way for more accessible and efficient superconductors for applications in power grids and quantum technologies.
+- Challenges remain in optimizing film quality and scaling up production, but the findings represent a significant step toward realizing high-temperature superconductors that operate under manageable conditions.
+
+**Methods:** Thin-film growth of nickelates on special substrates to apply lateral strain; use of X-ray scattering and other analytical techniques to study atomic structure and oxygen content.
+
+**Authors:** Harold Hwang (Stanford Institute for Materials and Energy Sciences, SIMES), colleagues at the Department of Energy’s SLAC National Accelerator Laboratory; article by Jordan Joseph (Earth.com staff writer).
+
+**Publication Details:** Published in the journal Nature; article date: 02-18-2025, Earth.com.
+
+**Summary:**  
+A collaborative team led by Harold Hwang has demonstrated superconductivity in nickelate thin films at low temperatures without the need for high-pressure apparatus, instead using substrates that apply sideways strain. This innovation enables more detailed study and practical application of superconductors, with the potential to revolutionize power transmission and quantum devices. While further optimization and scaling are needed, the research marks a significant advance in the pursuit of high-temperature superconductivity under accessible conditions.

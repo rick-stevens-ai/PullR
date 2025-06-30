@@ -1,0 +1,24 @@
+Title: Physics Underlying High-Temperature Superconductivity
+Authors: 
+Year: N/A
+Paper ID: web_448444
+URL: https://www2.lbl.gov/Science-Articles/Archive/super-mechanism.html
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Physics Underlying High-Temperature Superconductivity
+
+**Key Points:**
+- First-ever scanning tunneling microscope (STM) images of a high-Tc superconductor (BSCCO) doped with a single zinc impurity atom reveal a cross-shaped "quasi-particle" cloud, providing direct evidence of d-wave symmetry in these materials.
+- The findings support theoretical models that high-Tc superconductivity is mediated by magnetic spin fluctuations rather than phonon interactions, and also reveal unexpected phenomena, suggesting the need for new theoretical models.
+- The research demonstrates the power of STM to probe atomic-scale phenomena in complex superconducting materials and opens new avenues for studying and engineering exotic materials.
+
+**Methods:** 
+- Experimental study using a custom-built low-temperature STM to image and perform tunneling spectroscopy on BSCCO crystals doped with single zinc impurity atoms.
+
+**Authors:** 
+- Sťamus Davis (Berkeley Lab/UC Berkeley), Shuheng Pan (now at Boston University), Eric Hudson (now at NIST), Kristine Lang (UC Berkeley), Hiroshi Eisaki and Shin-ichio Uchida (University of Tokyo).
+
+**Summary:**  
+A collaborative team from Berkeley Lab, UC Berkeley, and the University of Tokyo used a custom scanning tunneling microscope to obtain the first real-space images of quasi-particle clouds around single zinc impurity atoms in a high-temperature superconductor (BSCCO). Their observations confirm d-wave symmetry and magnetic spin fluctuation mechanisms in high-Tc superconductivity, while also revealing unexpected features that challenge existing theories. This work demonstrates the capability of STM to probe superconductivity at the atomic scale, advancing the understanding necessary for the development of new, higher-temperature superconducting materials.

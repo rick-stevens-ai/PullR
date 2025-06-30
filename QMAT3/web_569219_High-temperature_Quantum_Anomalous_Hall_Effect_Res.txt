@@ -1,0 +1,10 @@
+Title: High-temperature Quantum Anomalous Hall Effect Research Articles
+Authors: 
+Year: N/A
+Paper ID: web_569219
+URL: https://discovery.researcher.life/topic/high-temperature-quantum-anomalous-hall-effect/22285367?page=1&topic_name=High-Temperature%20Quantum%20Anomalous%20Hall%20Effect
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Septuple XBi2Te4 (X=Ge, Sn, Pb) intercalated MnBi2Te4 for realizing interlayer ferromagnetism and quantum anomalous hall effect

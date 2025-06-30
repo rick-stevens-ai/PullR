@@ -1,0 +1,9 @@
+Title: Identification of druggable genome in staphylococcus aureus multidrug resistant strain
+Authors: Maria Batool, Sangdun Choi
+Year: 2017
+Paper ID: d0ab0595f65faaaca9ab8687bd542dce4e262bda
+URL: https://www.semanticscholar.org/paper/d0ab0595f65faaaca9ab8687bd542dce4e262bda
+Venue: 2017 IEEE Life Sciences Conference (LSC)
+
+Abstract:
+None

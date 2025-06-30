@@ -1,0 +1,29 @@
+Title: Abstract 2289: DDX41 - more than meets the eye?
+Authors: Jaclyn Zamzow, Jenna M Gedminas, Moon Ley Tung
+Year: 2025
+Paper ID: 6323c3f6abbe9bd1de0ee7c68c4acd5d9a0cd8f1
+URL: https://www.semanticscholar.org/paper/6323c3f6abbe9bd1de0ee7c68c4acd5d9a0cd8f1
+Venue: Cancer Research
+
+Abstract:
+
+ 
+ 
+ Germline variants in the DDX41 gene (OMIM: 608170) have been mainly associated with late onset myelodysplastic syndrome (MDA) and acute myeloid leukemia (AML). Based on a study of healthy adults within the UK Biobank sample, approximately 1 in 430 adults carry a germline pathogenic variant in DDX41. The odds ratio of these individuals developing MDS/ AML is between 7.5 t0 15.1 compared to individuals without any germline pathogenic variants in DDX41. Although some of the reported individuals diagnosed with DDX41-related hematological malignancies had received chemotherapy or radiation therapy for solid tumors prior to their diagnosis of MDS/AML, there has been no systematic analysis of DDX41 as a tumor suppressor gene in childhood cancers. We describe a novel finding of a germline, likely pathogenic variant in the DDX41 gene in a 2-year-old male who was diagnosed with a Stage 1, group 1, very low risk embryonal rhabdomyosarcoma of the oral commissure.
+ 
+ 
+ 
+ A 2-year-old, previously healthy male was found to have a growth in the right oral commissure at around 20 months of age. Excisional biopsy of this exophytic mass returned as an embryonal rhabdomyosarcoma on pathology. As part of the Children’s Oncology Group evaluation, he underwent a paired tumor-germline genomic testing which detected a heterozygous, likely pathogenic DDX41 variant (NM_016222.4: c.771del, p. Tyr259MetfsTer45). Tumor allele fraction was at 46% and the germline allele frequency was at 47%. He was subsequently referred to the Division of Medical Genetics and Genomics for further evaluation and post-test genetic counseling. Physical examination was unremarkable with no dysmorphic features except for two hyperpigmented nevus on his left shin and lower back. Birth and developmental history were normal. Interestingly, family history revealed that the proband’s father had a personal history of a left parotid acinar cell carcinoma which was diagnosed at the age of 11. He underwent surgical resection but relapsed at the age of 27 and received surgery and consolidative radiotherapy. There was a history of a paternal great uncle diagnosed with leukemia in his sixties.
+ 
+ 
+ 
+ Targeted parental testing for this DDX41 variant was completed and revealed that this was a de novo variant in the proband. In view of the absence of evidence of presence of DDX41 germline variants in childhood cancers, we searched the St Jude Cloud PeCan database and found 33 reports of embryonal rhabdomyosarcoma but no evidence of either somatic or germline DDX41 variants described.
+ 
+ 
+ 
+ This is the first description of a pediatric patient with a de novo germline, heterozygous, likely pathogenic variant in DDX41 and presents with a non-hematological malignancy. Increased access to paired tumor-germline genetic testing will likely uncover more patients with an underlying germline DDX41 variant and will help decode the underlying pathology and risks of development of both solid and hematological malignancies.
+ 
+ 
+ 
+ Jaclyn Zamzow, Jenna Gedminas, Moon Ley Tung. {DDX41 - more than meets the eye [abstract]. In: Proceedings of the American Association for Cancer Research Annual Meeting 2025; Part 1 (Regular Abstracts); 2025 Apr 25-30; Chicago, IL. Philadelphia (PA): AACR; Cancer Res 2025;85(8_Suppl_1):Abstract nr 2289.
+

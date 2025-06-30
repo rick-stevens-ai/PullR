@@ -1,0 +1,9 @@
+Title: Continuous Time Quantum Monte Carlo in Combination with Machine Learning on the Hubbard Model
+Authors: Hunpyo Lee
+Year: 2019
+Paper ID: e63f2178922871640e4b070e9a04ca7cc7332c96
+URL: https://www.semanticscholar.org/paper/e63f2178922871640e4b070e9a04ca7cc7332c96
+Venue: Journal of the Korean Physical Society
+
+Abstract:
+The acceleration of exact continuous time quantum Monte Carlo (CTQMC) approaches in multi-site or multi-orbital systems is extremely interesting work, because these approaches are very time-consuming in terms of numerical computation and might account for the nature of exotic behaviors such as high-temperature superconductivity and Mott insulator behavior observed in the strongly correlated materials. We extend the recently developed interaction-expansion CTQMC method in combination with a machine learning (CTQMC+ML) approach for the single-site and single-orbital systems to multi-site and multi-orbital ones. This method can be applied to explore the nonlocal correlation effects in lattice models and to study the electronic structure of real materials via an ab-initio density functional theory plus dynamical mean field theory approach. We find that our CTQMC+ML method for multi-site (and multi-orbital) systems accurately predicts the impurity Green’s function with less computational time than the CTQMC approaches, as in the case of the single-site and single-orbital version.

@@ -1,0 +1,36 @@
+Title: Correlations in moiré heterostructures
+Authors: 
+Year: N/A
+Paper ID: web_176484
+URL: https://purl.stanford.edu/cs071hw8313
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Correlations in moiré heterostructures, specifically in graphene-based van der Waals superlattices
+
+**Key Points:**
+- Moiré superlattices, such as twisted bilayer graphene (tBLG) and ABC-trilayer graphene aligned with hBN (ABC-TLG/hBN), exhibit flat electronic bands that enable the study of strongly correlated electronic phases, including superconductivity, correlated insulators, and ferromagnetism.
+- Experimental evidence shows tunable superconductivity and robust ferromagnetic hysteresis in ABC-TLG/hBN, with transitions between superconducting, insulating, and metallic phases controlled by displacement fields and carrier density.
+- The work reports signatures of Chern insulating states and fractional quantum anomalous Hall insulators, with the ground states in these systems highly sensitive to experimental parameters.
+
+**Methods:** 
+- Transport measurements (including low-field and scanning gate techniques) in highly aligned graphene/hBN heterostructures.
+- Use of absorptive pinhole collimators to probe electronic states.
+- Ballistic Monte Carlo simulations and numerical bandstructure calculations.
+- Experimental tuning of vertical displacement fields and carrier densities.
+
+**Authors:** 
+- Author: Aaron Layne Sharpe
+- Degree supervisor: David Goldhaber-Gordon
+- Thesis advisors: David Goldhaber-Gordon, Marc A. Kastner, Steven Kivelson
+- Degree committee members: Marc A. Kastner, Steven Kivelson
+
+**Publication Details:** 
+- Ph.D. Thesis, Stanford University, Department of Applied Physics, 2020
+- Copyright © 2020 by Aaron Layne Sharpe
+- Available as an electronic resource
+- Licensed under Creative Commons Attribution Share Alike 3.0 Unported (CC BY-SA)
+
+**Summary:**  
+This Ph.D. thesis investigates the emergence of correlated electronic phases in moiré heterostructures, focusing on graphene-based superlattices such as tBLG and ABC-TLG/hBN. Using advanced transport measurements and theoretical modeling, the work demonstrates tunable superconductivity, robust ferromagnetism, and evidence for Chern insulating states in these systems. The findings highlight the rich phase diagram and sensitivity of ground states in moiré superlattices, offering new avenues for exploring strongly correlated physics in two-dimensional materials.

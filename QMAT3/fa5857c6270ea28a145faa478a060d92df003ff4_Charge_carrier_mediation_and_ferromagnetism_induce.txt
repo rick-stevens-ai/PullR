@@ -1,0 +1,9 @@
+Title: Charge carrier mediation and ferromagnetism induced in MnBi6Te10 magnetic topological insulators by antimony doping
+Authors: Hangkai Xie, F. Fei, Fenzhen Fang, Bo Chen, Jing-Kun Guo et al. (and 9 more)
+Year: 2021
+Paper ID: fa5857c6270ea28a145faa478a060d92df003ff4
+URL: https://www.semanticscholar.org/paper/fa5857c6270ea28a145faa478a060d92df003ff4
+Venue: Journal of Physics D: Applied Physics
+
+Abstract:
+A new kind of intrinsic magnetic topological insulator (MTI) MnBi2Te4 family has shed light on the observation of novel topological quantum effects such as the quantum anomalous Hall effect (QAHE). However, strong anti-ferromagnetic (AFM) coupling and high carrier concentration in the bulk hinder practical applications. In closely related materials MnBi4Te7 and MnBi6Te10, the interlayer magnetic coupling is greatly suppressed by Bi2Te3 layer intercalation. However, AFM is still the ground state in these compounds. Here, by magnetic and transport measurements, we demonstrate that a Sb substitutional dopant plays a dual role in MnBi6Te10, which can not only adjust the charge carrier type and concentration, but also induces the solid into a ferromagnetic (FM) ground state. The AFM ground state region, which is also close to the charge neutral point, can be found in the phase diagram of Mn(Sb x Bi1−x )6Te10 when x ∼ 0.25. An intrinsic FM-MTI candidate is thus demonstrated, which may take us a step closer to realizing a high-quality and high-temperature QAHE and related topological quantum effects in the future.

@@ -1,0 +1,30 @@
+Title: Correlated electronic states in multilayer moire superlattice of transition metal dichalcogenides
+Authors: 
+Year: N/A
+Paper ID: web_191797
+URL: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13368/PC1336807/Correlated-electronic-states-in-multilayer-moire-superlattice-of-transition-metal/10.1117/12.3048019.full
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Correlated electronic states in multilayer moiré superlattices of transition metal dichalcogenides (TMDs)
+
+**Key Points:**
+- Moiré superlattices formed by stacking 2D TMD materials at small twist angles enable the exploration of novel correlated electronic states.
+- Microwave Impedance Microscopy (MIM) is used as a nanoscale probe to study and characterize these correlated states and their conductivity responses.
+- The research demonstrates that TMD moiré systems are promising platforms for investigating correlation-enabled electronic phases and highlights the effectiveness of MIM in probing emergent quantum phenomena.
+
+**Methods:** Spatially resolved electrical probes, specifically Microwave Impedance Microscopy (MIM), are employed to study the electronic states in TMD moiré superlattices. Various experimental "tuning knobs" are used to manipulate and characterize the correlated states.
+
+**Authors:** Yong-Tao Cui (University of California, Riverside, United States)
+
+**Publication Details:** 
+- Proceedings Volume: PC13368, 2D Photonic Materials and Devices VIII
+- Paper Number: PC1336807
+- Date: 19 March 2025
+- Conference: OPTO 2025, San Francisco, California, United States
+- Publisher: Society of Photo-Optical Instrumentation Engineers (SPIE)
+- DOI: https://doi.org/10.1117/12.3048019
+
+**Summary:**  
+This work investigates correlated electronic states in multilayer moiré superlattices of transition metal dichalcogenides using Microwave Impedance Microscopy (MIM). By applying various experimental controls, the study probes the conductivity and nature of these emergent states, demonstrating the rich physics accessible in TMD moiré systems and the utility of MIM as a quantum probe. The findings position TMD moiré superlattices as valuable platforms for exploring new correlation-enabled electronic phases in two-dimensional quantum materials.

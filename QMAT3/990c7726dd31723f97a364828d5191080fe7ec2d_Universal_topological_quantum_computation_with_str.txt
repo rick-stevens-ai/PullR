@@ -1,0 +1,9 @@
+Title: Universal topological quantum computation with strongly correlated Majorana edge modes
+Authors: Ye-Min Zhan, Yuge Chen, Bin Chen, Ziqiang Wang, Yue Yu et al. (and 1 more)
+Year: 2020
+Paper ID: 990c7726dd31723f97a364828d5191080fe7ec2d
+URL: https://www.semanticscholar.org/paper/990c7726dd31723f97a364828d5191080fe7ec2d
+Venue: New Journal of Physics
+
+Abstract:
+Majorana-based quantum gates are not complete for performing universal topological quantum computation while Fibonacci-based gates are difficult to be realized electronically and hardly coincide with the conventional quantum circuit models. In reference Hu and Kane (2018 Phys. Rev. Lett. 120 066801), it has been shown that a strongly correlated Majorana edge mode in a chiral topological superconductor can be decomposed into a Fibonacci anyon τ and a thermal operator anyon ɛ in the tricritical Ising model. The deconfinement of τ and ɛ via the interaction between the fermion modes yields the anyon collisions and gives the braiding of either τ or ɛ. With these braidings, the complete members of a set of universal gates, the Pauli gates, the Hadamard gate and extra phase gates for one-qubit as well as controlled-NOT (CNOT) gate for two-qubits, are topologically assembled. Encoding quantum information and reading out the computation results can be carried out through electric signals. With the sparse-dense mixed encodings, we set up the quantum circuit where the CNOT gate turns out to be a probabilistic gate and design the corresponding devices with thin films of the chiral topological superconductor. As an example of the universal topological quantum computing, we show the application to Shor’s integer factorization algorithm.

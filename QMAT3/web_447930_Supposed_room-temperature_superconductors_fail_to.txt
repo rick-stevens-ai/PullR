@@ -1,0 +1,30 @@
+Title: Supposed room-temperature superconductors fail to convince critics : Revista Pesquisa Fapesp
+Authors: 
+Year: N/A
+Paper ID: web_447930
+URL: https://revistapesquisa.fapesp.br/en/supposed-room-temperature-superconductors-fail-to-convince-critics/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Room-Temperature Superconductors and Scientific Controversy
+
+**Key Points:**
+1. Recent claims of achieving room-temperature superconductivity, particularly by Ranga Dias's team at the University of Rochester, have not been independently verified and face significant skepticism.
+2. Computational studies, including one led by Brazilian and European researchers, found no evidence that the LuNH compound (lutetium, nitrogen, hydrogen) could be a room-temperature superconductor as claimed.
+3. Previous high-profile papers by Dias's group have been retracted due to concerns over data integrity, further fueling doubts about the validity of these claims.
+
+**Methods:** 
+- Experimental synthesis and measurement (as claimed by Dias's team)
+- Computational modeling and simulation (as conducted by Eleno, Ferreira, and collaborators using AI and machine learning to predict material properties)
+
+**Authors:** 
+- Ranga Dias (University of Rochester)
+- Ashkan Salamat (University of Nevada)
+- Luiz Eleno (University of São Paulo, EEL-USP)
+- Pedro Ferreira (PhD student, EEL-USP)
+- Christoph Heil (Technical University of Graz)
+- Additional collaborators from Sapienza University (Italy), University of Cambridge (UK), and Technical University of Graz (Austria)
+
+**Summary:**  
+This article discusses the ongoing controversy surrounding recent claims of room-temperature superconductivity, particularly those made by Ranga Dias's group regarding a lutetium-nitrogen-hydrogen (LuNH) compound. Despite the potential revolutionary impact of such a discovery, no independent laboratory has been able to reproduce the results, and computational studies have found no theoretical basis for the claim. Previous related publications by Dias's team have been retracted due to data concerns, casting further doubt on the validity of these findings and highlighting the need for rigorous verification in the search for high-temperature superconductors.

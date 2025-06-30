@@ -1,0 +1,10 @@
+Title: Web-scraped content
+Authors: 
+Year: N/A
+Paper ID: web_47300
+URL: https://next-gen.materialsproject.org/about
+Venue: Web Source
+Content Status: SHORT_ABSTRACT, WEB_SCRAPED
+
+Abstract:
+No abstract available

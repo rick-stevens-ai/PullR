@@ -1,0 +1,9 @@
+Title: Mechanism of action of and resistance to quinolones
+Authors: A. Fàbrega, S. Madurga, E. Giralt, J. Vila
+Year: 2008
+Paper ID: 55a14411dbfc45ba3bae7be3854473b7c888e88d
+URL: https://www.semanticscholar.org/paper/55a14411dbfc45ba3bae7be3854473b7c888e88d
+Venue: Microbial Biotechnology
+
+Abstract:
+Fluoroquinolones are an important class of wide‐spectrum antibacterial agents. The first quinolone described was nalidixic acid, which showed a narrow spectrum of activity. The evolution of quinolones to more potent molecules was based on changes at positions 1, 6, 7 and 8 of the chemical structure of nalidixic acid. Quinolones inhibit DNA gyrase and topoisomerase IV activities, two enzymes essential for bacteria viability. The acquisition of quinolone resistance is frequently related to (i) chromosomal mutations such as those in the genes encoding the A and B subunits of the protein targets (gyrA, gyrB, parC and parE), or mutations causing reduced drug accumulation, either by a decreased uptake or by an increased efflux, and (ii) quinolone resistance genes associated with plasmids have been also described, i.e. the qnr gene that encodes a pentapeptide, which blocks the action of quinolones on the DNA gyrase and topoisomerase IV; the aac(6′)‐Ib‐cr gene that encodes an acetylase that modifies the amino group of the piperazin ring of the fluoroquinolones and efflux pump encoded by the qepA gene that decreases intracellular drug levels. These plasmid‐mediated mechanisms of resistance confer low levels of resistance but provide a favourable background in which selection of additional chromosomally encoded quinolone resistance mechanisms can occur.

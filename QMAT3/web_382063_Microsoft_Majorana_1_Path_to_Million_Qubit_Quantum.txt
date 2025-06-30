@@ -1,0 +1,28 @@
+Title: Microsoft Majorana 1 Path to Million Qubit Quantum Computers, Classical Encryption has ZERO SAFETY, Quantum Cryptography Blog
+Authors: 
+Year: N/A
+Paper ID: web_382063
+URL: https://www.qnulabs.com/blog/microsoft-majorana-1-path-to-million-qubit-quantum-computers-classical-encryption-has-zero-safety
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Advances in Quantum Computing: Microsoft’s Majorana-Based Approach and Implications for Classical Encryption
+
+**Key Points:**
+- Microsoft has announced a breakthrough in quantum computing with the development of a "topoconductor," enabling stable, scalable qubits using Majorana Zero Modes (MZMs), potentially allowing for millions of qubits on a palm-sized chip.
+- This innovation simplifies quantum error correction through digital control, making large-scale, reliable quantum computers feasible and accelerating the timeline for commercial quantum computers.
+- The imminent arrival of powerful quantum computers poses a significant threat to classical encryption, necessitating a rapid transition to quantum-safe cryptography.
+
+**Methods:** 
+- Microsoft’s approach involves creating topological superconducting nanowires using indium arsenide and aluminum, cooled to near absolute zero and manipulated with magnetic fields to generate Majorana Zero Modes.
+- Quantum information is stored in the parity of MZMs, and digital control of quantum dots enables simplified, robust error correction.
+
+**Authors:** 
+- Dilip Singh (CTO, QNu Labs) is credited as the blog author.
+
+**Publication Details:** 
+- Published on the QNu Labs blog, February 21, 2025.
+
+**Summary:**  
+This blog post discusses Microsoft’s recent breakthrough in quantum computing, introducing a new material ("topoconductor") that enables the creation of stable, digitally controlled qubits using Majorana Zero Modes. This approach promises scalable, reliable quantum computers with millions of qubits, potentially available commercially within the next few years. The article highlights the urgent need for organizations to transition to quantum-safe cryptography, as classical encryption will soon be vulnerable to quantum attacks.

@@ -1,0 +1,22 @@
+Title: BNL
+Authors: 
+Year: N/A
+Paper ID: web_574473
+URL: https://www.bnl.gov/cmpmsd/cmth/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Theoretical Condensed Matter Physics at Brookhaven National Laboratory (BNL)
+
+**Key Points:**
+- The Condensed Matter Theory Group at BNL conducts research on topics such as high-temperature superconductivity, low-dimensional transport, magnetism, non-equilibrium physics, and quantum information.
+- The group develops computational methods (e.g., tensor networks, machine learning) and collaborates closely with experimental groups and facilities.
+- Recent publications include studies on topological phase transitions, Kondo lattices, machine learning for impurity spectral functions, and emergent spinon behavior in complex materials.
+
+**Methods:** Theoretical and computational physics approaches, including first-principles computations, tensor network methods (DMRG, NRG, PEPS), Wannier function-based methods, and machine learning techniques.
+
+**Authors:** Group leaders and contributors include Weiguo Yin, Alexei Tsvelik, N. Aryal, X. Jin, Q. Li, P. Coleman, A. Panigrahi, E. J. Sturm, M. R. Carbone, D. Lu, A. Weichselbaum, R. M. Konik, Y. Shen, J. Sears, G. Fabbris, and others (as listed in publications).
+
+**Summary:**  
+The Condensed Matter Theory Group at Brookhaven National Laboratory focuses on fundamental theoretical research in condensed matter physics, with emphasis on strongly correlated systems, superconductivity, low-dimensional phenomena, and quantum information science. The group employs advanced computational and theoretical methods, often in collaboration with experimentalists, to explore and predict novel material behaviors. Recent work includes breakthroughs in understanding topological phases, unconventional superconductivity, and the application of machine learning to quantum materials.

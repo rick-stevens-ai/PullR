@@ -1,0 +1,9 @@
+Title: Quantum anomalous Hall effect for metrology
+Authors: Nathaniel J. Huáng, Jessica L. Boland, K. Fijalkowski, Charles Gould, T. Hesjedal et al. (and 3 more)
+Year: 2025
+Paper ID: 724e03f998669c84edcfb6b79936ce204f939ac4
+URL: https://www.semanticscholar.org/paper/724e03f998669c84edcfb6b79936ce204f939ac4
+Venue: Applied Physics Letters
+
+Abstract:
+The quantum anomalous Hall effect (QAHE) in magnetic topological insulators offers great potential to revolutionize quantum electrical metrology by establishing primary resistance standards operating at zero external magnetic field and realizing a universal “quantum electrical metrology toolbox” that can perform quantum resistance, voltage, and current metrology in a single instrument. To realize such promise, significant progress is still required to address materials and metrological challenges—among which, one main challenge is to make the bulk of the topological insulator sufficiently insulating to improve the robustness of resistance quantization. In this Perspective, we present an overview of the QAHE; discuss the aspects of topological material growth and characterization; and present a path toward a QAHE resistance standard realized in magnetically doped (Bi,Sb)2Te3 systems. We also present guidelines and methodologies for QAHE resistance metrology, its main limitations and challenges, as well as modern strategies to overcome them.

@@ -1,0 +1,22 @@
+Title: Light-Induced Superconductivity: New Advances Under Pressure
+Authors: 
+Year: N/A
+Paper ID: web_589233
+URL: https://www.innovations-report.com/science-tech/physics-and-astronomy/light-induced-superconductivity-under-high-pressure/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Light-Induced Superconductivity in K3C60 Under High Pressure
+
+**Key Points:**
+- Intense laser pulses can induce a transient superconducting state in K3C60 at temperatures much higher than its equilibrium critical temperature, potentially up to room temperature.
+- Applying external pressure to K3C60 while photo-excited reveals that the light-induced state behaves differently from conventional metals and is consistent with a transient superconducting phase.
+- The combination of optical excitation and external stimuli (like pressure) opens new avenues for controlling and understanding high-temperature superconductivity in complex materials.
+
+**Methods:** Experimental investigation using intense laser pulses to photo-excite K3C60 under varying pressures (up to 2.5 GPa) applied via a diamond anvil cell; monitoring photo-conductivity and superconducting properties.
+
+**Authors:** Prof. A. Cavalleri’s group (including A. Cantaluppi, M. Buzzi, and colleagues) at the Max Planck Institute for the Structure and Dynamics of Matter (MPSD), Hamburg; in collaboration with the University of Parma and ELETTRA Synchrotron Facility, Trieste, Italy.
+
+**Summary:**  
+Researchers at the Max Planck Institute for the Structure and Dynamics of Matter have demonstrated that intense laser pulses can induce a transient superconducting state in the organic molecular solid K3C60 at temperatures far above its equilibrium critical temperature, potentially reaching room temperature. By systematically applying external pressure during photo-excitation, they found that the light-induced state exhibits superconducting-like behavior distinct from conventional metals, providing strong evidence for a transient superconducting phase. This novel approach, combining optical and external stimuli, advances the understanding and potential control of high-temperature superconductivity in complex materials.

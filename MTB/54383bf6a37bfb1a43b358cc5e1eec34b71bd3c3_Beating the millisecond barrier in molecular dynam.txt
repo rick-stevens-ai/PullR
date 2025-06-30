@@ -1,0 +1,9 @@
+Title: Beating the millisecond barrier in molecular dynamics simulations.
+Authors: F. Noé
+Year: 2015
+Paper ID: 54383bf6a37bfb1a43b358cc5e1eec34b71bd3c3
+URL: https://www.semanticscholar.org/paper/54383bf6a37bfb1a43b358cc5e1eec34b71bd3c3
+Venue: Biophysical Journal
+
+Abstract:
+None

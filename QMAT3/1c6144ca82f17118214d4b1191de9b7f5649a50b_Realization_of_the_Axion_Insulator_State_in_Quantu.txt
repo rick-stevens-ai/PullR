@@ -1,0 +1,9 @@
+Title: Realization of the Axion Insulator State in Quantum Anomalous Hall Sandwich Heterostructures.
+Authors: Di Xiao, Jue Jiang, Jaeho Shin, Wenbo Wang, Fei Wang et al. (and 6 more)
+Year: 2017
+Paper ID: 1c6144ca82f17118214d4b1191de9b7f5649a50b
+URL: https://www.semanticscholar.org/paper/1c6144ca82f17118214d4b1191de9b7f5649a50b
+Venue: Physical Review Letters
+
+Abstract:
+The "magnetoelectric effect" arises from the coupling between magnetic and electric properties in materials. The Z_{2} invariant of topological insulators (TIs) leads to a quantized version of this phenomenon, known as the topological magnetoelectric (TME) effect. This effect can be realized in a new topological phase called an "axion insulator" whose surface states are all gapped but the interior still obeys time reversal symmetry. We demonstrate such a phase using electrical transport measurements in a quantum anomalous Hall (QAH) sandwich heterostructure, in which two compositionally different magnetic TI layers are separated by an undoped TI layer. Magnetic force microscopy images of the same sample reveal sequential magnetization reversals of the top and bottom layers at different coercive fields, a consequence of the weak interlayer exchange coupling due to the spacer. When the magnetization is antiparallel, both the Hall resistance and Hall conductance show zero plateaus, accompanied by a large longitudinal resistance and vanishing longitudinal conductance, indicating the realization of an axion insulator state. Our findings thus show evidence for a phase of matter distinct from the established QAH state and provide a promising platform for the realization of the TME effect.

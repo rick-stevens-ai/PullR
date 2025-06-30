@@ -1,0 +1,22 @@
+Title: Superconducting Magnet Program – Accelerator Technology & Applied Physics Division
+Authors: 
+Year: N/A
+Paper ID: web_28
+URL: https://atap.lbl.gov/research/scientific-programs-and-centers/superconducting-magnet-program/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Superconducting Magnet Program for Particle Accelerators and Fusion Energy
+
+**Key Points:**
+- The Superconducting Magnet Program (SMP) at LBNL develops advanced superconducting magnet technology for particle accelerators, fusion energy, and other applications.
+- SMP leads the US Magnet Development Program (USMDP), contributes to the LHC luminosity upgrade, and supports the development and industrialization of high-performance superconductors.
+- The program emphasizes high-risk/high-reward R&D, including high-field magnet concepts, high-temperature superconductors, advanced modeling, diagnostics, and industry collaboration.
+
+**Methods:** Research and development (R&D) in superconducting magnet technology, collaboration with national labs and industry, advanced modeling and diagnostics, and conductor procurement and testing.
+
+**Authors:** Not specified (Program is part of the Accelerator Technology & Applied Physics Division at Lawrence Berkeley National Laboratory)
+
+**Summary:**  
+The Superconducting Magnet Program (SMP) at LBNL pioneers the development and application of advanced superconducting magnets for particle accelerators, fusion energy, and related fields. As the lead institution for the US Magnet Development Program, SMP drives innovation in high-field and high-temperature superconducting magnets, supports major projects like the LHC upgrade, and manages industry partnerships for conductor development. The program’s research underpins advances in high-energy physics, fusion energy, and a variety of scientific and industrial applications.

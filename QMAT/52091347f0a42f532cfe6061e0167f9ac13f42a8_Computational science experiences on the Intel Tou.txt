@@ -1,0 +1,9 @@
+Title: Computational science experiences on the Intel Touchstone DELTA supercomputer
+Authors: R. Stevens
+Year: 1992
+Paper ID: 52091347f0a42f532cfe6061e0167f9ac13f42a8
+URL: https://www.semanticscholar.org/paper/52091347f0a42f532cfe6061e0167f9ac13f42a8
+Venue: Digest of Papers COMPCON Spring 1992
+
+Abstract:
+None

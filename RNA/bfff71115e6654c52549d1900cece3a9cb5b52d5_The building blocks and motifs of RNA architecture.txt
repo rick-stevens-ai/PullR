@@ -1,0 +1,9 @@
+Title: The building blocks and motifs of RNA architecture.
+Authors: N. Leontis, A. Lescoute, E. Westhof
+Year: 2006
+Paper ID: bfff71115e6654c52549d1900cece3a9cb5b52d5
+URL: https://www.semanticscholar.org/paper/bfff71115e6654c52549d1900cece3a9cb5b52d5
+Venue: Current Opinion in Structural Biology
+
+Abstract:
+None

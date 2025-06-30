@@ -1,0 +1,9 @@
+Title: A Novel Search Engine for Virtual Screening of Very Large Databases
+Authors: D. Vidal, M. Thormann, M. Pons
+Year: 2006
+Paper ID: dd3bba9efa07d36ded0ebbccb12b388cc645b4c0
+URL: https://www.semanticscholar.org/paper/dd3bba9efa07d36ded0ebbccb12b388cc645b4c0
+Venue: Journal of Chemical Information and Modeling
+
+Abstract:
+Virtual screening of large chemical databases using the structure of the receptor can be computationally very demanding. We present a novel strategy that combines exhaustive similarity searches directly in SMILES format with the docking of flexible ligands, whose 3D structure is generated on the fly from the SMILES representation. Our strategy makes use of the recently developed LINGO tools to extract implicit chemical information from SMILES strings and integrates LINGO similarities into a pseudo-evolutionary algorithm. The algorithm represents a combination of a fast target-independent similarity method with a slower but information richer target-focused method. A virtual search of FactorXa ligands provided 62% of the potential hits after docking only 6.5% of a database of nearly 1 million molecules. The set of solutions showed good diversity, indicating that the method shows good scaffold hopping capabilities.

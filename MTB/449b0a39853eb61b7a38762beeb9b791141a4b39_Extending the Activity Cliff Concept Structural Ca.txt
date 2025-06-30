@@ -1,0 +1,9 @@
+Title: Extending the Activity Cliff Concept: Structural Categorization of Activity Cliffs and Systematic Identification of Different Types of Cliffs in the ChEMBL Database
+Authors: Ye Hu, J. Bajorath
+Year: 2012
+Paper ID: 449b0a39853eb61b7a38762beeb9b791141a4b39
+URL: https://www.semanticscholar.org/paper/449b0a39853eb61b7a38762beeb9b791141a4b39
+Venue: Journal of Chemical Information and Modeling
+
+Abstract:
+Activity cliffs are generally understood as pairs or groups of similar compounds with large differences in potency. The study of activity cliffs is of high interest for the characterization of activity landscapes of compound data sets and the identification of SAR determinants, given the "small chemical change(s)-large potency effect" phenotype of cliffs. Herein, we introduce a new structural classification scheme for activity cliffs and introduce new cliff types. Activity cliffs are divided into five different classes dependent on whether the participating compounds are only distinguished by chirality, topology, R-group sets, core structures (scaffolds), or core structures and R-group topology. All cliff types are frequently detected in the ChEMBL database. R-group cliffs occur with higher propensity than other cliff types, as one might expect. However, many scaffold and R-group cliffs are not identified on the basis of whole-molecule similarity calculations, although they are often chemically intuitive. This makes the activity cliff classification attractive for medicinal chemistry analysis, independent of similarity calculations. Assignment of activity cliffs on the basis of well-defined structural criteria complements and further extends current approaches to identify and represent cliffs.

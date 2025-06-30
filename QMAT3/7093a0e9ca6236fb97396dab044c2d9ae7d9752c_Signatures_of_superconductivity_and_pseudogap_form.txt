@@ -1,0 +1,9 @@
+Title: Signatures of superconductivity and pseudogap formation in nonequilibrium nodal quasiparticles revealed by ultrafast angle-resolved photoemission
+Authors: Wen-tao Zhang, C. Smallwood, C. Jozwiak, T. Miller, Y. Yoshida et al. (and 3 more)
+Year: 2013
+Paper ID: 7093a0e9ca6236fb97396dab044c2d9ae7d9752c
+URL: https://www.semanticscholar.org/paper/7093a0e9ca6236fb97396dab044c2d9ae7d9752c
+Venue: 
+
+Abstract:
+We use time- and angle-resolved photoemission to measure the nodal non-equilibrium electronic states in various dopings of Bi$_2$Sr$_2$CaCu$_2$O$_{8+\delta}$. We find that the initial pump-induced transient signal of these ungapped states is strongly affected by the onset of the superconducting gap at $T_c$, superconducting pairing fluctuations at $T_p$, and the pseudogap at $T^*$. Moreover, $T_p$ marks a suggestive threshold in the fluence-dependent transient signal, with the appearance of a critical fluence below $T_p$ that corresponds to the energy required to break apart all Cooper pairs. These results challenge the notion of a nodal-antinodal dichotomy in cuprate superconductors by establishing a new link between nodal quasiparticles and the cuprate phase diagram.

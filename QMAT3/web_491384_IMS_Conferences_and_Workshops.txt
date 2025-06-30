@@ -1,0 +1,10 @@
+Title: IMS Conferences and Workshops
+Authors: 
+Year: N/A
+Paper ID: web_491384
+URL: https://www.lanl.gov/engage/collaboration/nsec/institute-for-materials-science/conferences-and-workshops
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Conferences and WorkshopsThe Institute for Materials Science hosts workshops and conferences to support the implementation of the Laboratory's materials strategy and promotes a strong sense of community among the Laboratory's materials researchers.

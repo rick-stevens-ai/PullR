@@ -1,0 +1,9 @@
+Title: Molecular docking, molecular dynamics and MM/PBSA studies of FDA approved drugs for protein kinase a of Mycobacterium tuberculosis; application insights of drug repurposing
+Authors: Shobana Sundar, Lokesh Thangamani, G. Manivel, Praveen Kumar, Shanmughavel Piramanayagam
+Year: 2019
+Paper ID: ca2d82f86f452c87320c489986dac7971505a749
+URL: https://www.semanticscholar.org/paper/ca2d82f86f452c87320c489986dac7971505a749
+Venue: Informatics in Medicine Unlocked
+
+Abstract:
+None

@@ -1,0 +1,9 @@
+Title: Machine Learning Assisted Prediction of Cathode Materials for Zn‐Ion Batteries
+Authors: Linming Zhou, A. Yao, Yongjun Wu, Z. Hu, Yuhui Huang et al. (and 1 more)
+Year: 2021
+Paper ID: 9a9e6cb9875933de82bcb20273369574480ac8df
+URL: https://www.semanticscholar.org/paper/9a9e6cb9875933de82bcb20273369574480ac8df
+Venue: Advanced Theory and Simulations
+
+Abstract:
+Rechargeable Zn batteries with aqueous electrolytes have been considered as promising alternative energy storage technology, with various advantages such as low cost, high volumetric capacity, environmentally friendly, and high safety. However, a lack of reliable cathode materials has largely pledged their applications. Herein, a machine learning (ML)‐based approach to predict cathodes with high capacity (>100 mAh g−1) and high voltage (>0.5 V) is developed. Over ≈130 000 inorganic materials from the materials project database are screened and the crystal graph convolutional neural network based ML approach is applied with data from the AFLOW database, the combination of these two gives rise to ≈80 predicted cathode materials. Among them, ≈10 cathode materials have been experimentally discovered previously, which agrees remarkably well with experimental measurements, while ≈70 new promising candidates have been predicted for further experimental validations. The authors hope this study could spur further interests in ML‐based advanced theoretical tools for battery materials discovery.

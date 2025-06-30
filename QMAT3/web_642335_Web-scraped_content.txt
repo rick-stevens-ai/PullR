@@ -1,0 +1,10 @@
+Title: Web-scraped content
+Authors: 
+Year: N/A
+Paper ID: web_642335
+URL: https://www.cond-mat.de/events/correl11/manuscripts/vollhardt.pdf
+Venue: Web Source
+Content Status: SHORT_ABSTRACT, WEB_SCRAPED
+
+Abstract:
+No abstract available

@@ -1,0 +1,9 @@
+Title: Designing active template molecules by combining computational de novo design and human chemist's expertise.
+Authors: Eric-Wubbo Lameijer, R. A. Tromp, Ronald F Spanjersberg, J. Brussee, A. IJzerman
+Year: 2007
+Paper ID: a5730acc6f51c25d42a3b03ee259a76a69c2e9a1
+URL: https://www.semanticscholar.org/paper/a5730acc6f51c25d42a3b03ee259a76a69c2e9a1
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+We used a new software tool for de novo design, the "Molecule Evoluator", to generate a number of small molecules. Explicit constraints were a relatively low molecular weight and otherwise limited functionality, for example, low numbers of hydrogen bond donors and acceptors, one or two aromatic rings, and a small number of rotatable bonds. In this way, we obtained a collection of scaffold- or templatelike molecules rather than fully "decorated" ones. We asked medicinal chemists to evaluate the suggested molecules for ease of synthesis and overall appeal, allowing them to make structural changes to the molecules for these reasons. On the basis of their recommendations, we synthesized eight molecules with an unprecedented (not patented) yet simple structure, which were subsequently tested in a screen of 83 drug targets, mostly G protein-coupled receptors. Four compounds showed affinity for biogenic amine targets (receptor, ion channel, and transport protein), reflecting the training of the medicinal chemists involved. Apparently the generation of leadlike solutions helped the medicinal chemists to select good starting points for future lead optimization, away from existing compound libraries.

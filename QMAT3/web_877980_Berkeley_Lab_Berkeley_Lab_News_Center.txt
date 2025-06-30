@@ -1,0 +1,34 @@
+Title: Berkeley Lab – Berkeley Lab News Center
+Authors: 
+Year: N/A
+Paper ID: web_877980
+URL: https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Mobility of Interlayer Excitons in Moiré Potentials and the Role of Phasons at Low Temperatures
+
+**Key Points:**
+- Researchers discovered that phasons, a type of low-temperature quasiparticle, enable interlayer excitons to move within moiré potentials even at temperatures near absolute zero, when motion is typically expected to cease.
+- This finding advances foundational materials science and has potential implications for improving the stability of quantum technologies, such as quantum computing qubits, by mitigating decoherence.
+- The motion of excitons within the moiré potential is angle- and temperature-dependent, and the moiré potential itself is dynamic rather than stationary as previously thought.
+
+**Methods:** 
+- Experimental characterization of 2D transition metal dichalcogenide (TMD) materials using ultrafast lasers and optical spectroscopy at cryogenic temperatures.
+- Automated measurements of exciton motion (luminescence spectra, imaging, lifetime data).
+- Theoretical simulations of moiré potentials by collaborators at Imperial College London.
+
+**Authors:** 
+- Antonio Rossi (lead researcher, former postdoctoral scholar at Berkeley Lab, now at Center of Nanotechnology Innovation at NEST, Italy)
+- Alex Weber-Bargioni (Molecular Foundry staff scientist)
+- Archana Raja (Molecular Foundry staff scientist)
+- Jonas Zipfel (postdoctoral researcher in Raja’s group)
+- Johannes Lischner and Indrajit Maity (Imperial College London)
+
+**Publication Details:** 
+- Published in ACS Nano
+- Research conducted at the Molecular Foundry, Lawrence Berkeley National Laboratory (Berkeley Lab), supported by the DOE Office of Science
+
+**Summary:**  
+A team at Berkeley Lab’s Molecular Foundry has revealed that interlayer excitons in stacked 2D semiconductor materials can move within moiré potentials at extremely low temperatures, a phenomenon enabled by phason quasiparticles. Contrary to previous assumptions that moiré potentials are stationary and excitons become trapped, the study shows these potentials are dynamic, allowing for unexpected mobility. This discovery not only deepens understanding of quantum materials but also suggests new strategies for enhancing the stability of quantum information systems by controlling decoherence.

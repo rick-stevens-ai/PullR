@@ -1,0 +1,9 @@
+Title: Automated classification of RNA 3D motifs and the RNA 3D Motif Atlas
+Authors: Anton I. Petrov, Craig L. Zirbel, N. Leontis
+Year: 2013
+Paper ID: fd43c194ce47c6942ae2291d32cf6c68ec877734
+URL: https://www.semanticscholar.org/paper/fd43c194ce47c6942ae2291d32cf6c68ec877734
+Venue: RNA: A publication of the RNA Society
+
+Abstract:
+Modular RNA 3D motifs are the building blocks of complex RNA molecules and RNA-based nanomachines, such as the ribosome and the spliceosome. We have created the RNA 3D Motif Atlas, the first comprehensive and regularly updated catalog of RNA hairpin and internal loop motif instances based on a nonredundant set of PDB structures (http://rna.bgsu.edu/motifs). The Motif Atlas provides an interactive user interface for exploring motif diversity and tools for programmatic data access. The potential applications of the Motif Atlas include predicting RNA 3D structures from sequence, designing new RNA nanostructures, and developing new methods for finding RNA 3D motifs in genomic sequences.

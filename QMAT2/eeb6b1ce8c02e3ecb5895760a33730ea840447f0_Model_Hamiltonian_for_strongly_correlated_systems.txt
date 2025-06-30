@@ -1,0 +1,9 @@
+Title: Model Hamiltonian for strongly correlated systems: Systematic, self-consistent, and unique construction
+Authors: R. Requist, E. Gross
+Year: 2018
+Paper ID: eeb6b1ce8c02e3ecb5895760a33730ea840447f0
+URL: https://www.semanticscholar.org/paper/eeb6b1ce8c02e3ecb5895760a33730ea840447f0
+Venue: Physical review B
+
+Abstract:
+An interacting lattice model describing the subspace spanned by a set of strongly-correlated bands is rigorously coupled to density functional theory to enable ab initio calculations of geometric and topological material properties. The strongly-correlated subspace is identified from the occupation number band structure as opposed to a mean-field energy band structure. The self-consistent solution of the many-body model Hamiltonian and a generalized Kohn-Sham equation exactly incorporates momentum-dependent and crystal-symmetric correlations into electronic structure calculations in a way that does not rely on a separation of energy scales. Calculations for a multiorbital Hubbard model demonstrate that the theory accurately reproduces the many-body polarization.

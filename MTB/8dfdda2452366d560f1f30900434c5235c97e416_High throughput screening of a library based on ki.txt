@@ -1,0 +1,9 @@
+Title: High throughput screening of a library based on kinase inhibitor scaffolds against Mycobacterium tuberculosis H37Rv.
+Authors: Robert C. Reynolds, S. Ananthan, Ellen R. Faaleolea, J. Hobrath, C. Kwong et al. (and 7 more)
+Year: 2012
+Paper ID: 8dfdda2452366d560f1f30900434c5235c97e416
+URL: https://www.semanticscholar.org/paper/8dfdda2452366d560f1f30900434c5235c97e416
+Venue: Tuberculosis
+
+Abstract:
+None

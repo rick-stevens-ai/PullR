@@ -1,0 +1,9 @@
+Title: The Annotation of RNA Motifs
+Authors: N. Leontis, E. Westhof
+Year: 2002
+Paper ID: 2370a7a4b3b98472e8bfe4c808c8e329acaa4a32
+URL: https://www.semanticscholar.org/paper/2370a7a4b3b98472e8bfe4c808c8e329acaa4a32
+Venue: Comparative and Functional Genomics
+
+Abstract:
+The recent deluge of new RNA structures, including complete atomic-resolution views of both subunits of the ribosome, has on the one hand literally overwhelmed our individual abilities to comprehend the diversity of RNA structure, and on the other hand presented us with new opportunities for comprehensive use of RNA sequences for comparative genetic, evolutionary and phylogenetic studies. Two concepts are key to understanding RNA structure: hierarchical organization of global structure and isostericity of local interactions. Global structure changes extremely slowly, as it relies on conserved long-range tertiary interactions. Tertiary RNA–RNA and quaternary RNA–protein interactions are mediated by RNA motifs, defined as recurrent and ordered arrays of non-Watson–Crick base-pairs. A single RNA motif comprises a family of sequences, all of which can fold into the same three-dimensional structure and can mediate the same interaction(s). The chemistry and geometry of base pairing constrain the evolution of motifs in such a way that random mutations that occur within motifs are accepted or rejected insofar as they can mediate a similar ordered array of interactions. The steps involved in the analysis and annotation of RNA motifs in 3D structures are: (a) decomposition of each motif into non-Watson–Crick base-pairs; (b) geometric classification of each basepair; (c) identification of isosteric substitutions for each basepair by comparison to isostericity matrices; (d) alignment of homologous sequences using the isostericity matrices to identify corresponding positions in the crystal structure; (e) acceptance or rejection of the null hypothesis that the motif is conserved.

@@ -1,0 +1,11 @@
+Title: Exploring Intrinsic Magnetic Topological Insulators: The Case of EuIn2As2
+Authors: 
+Year: N/A
+Paper ID: web_82019
+URL: https://arxiv.org/html/2401.11386v3
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract
+In this paper, ultrafast optical spectroscopy was employed to elucidate the intricate topological features of EuIn2As2, a promising candidate for a magnetic topological crystalline axion insulator. Our investigation has revealed the exceptional sensitivity of the ultrafast carrier dynamics to the antiferromagnetic phase transition (TNsubscript𝑇𝑁T_{N}italic_T start_POSTSUBSCRIPT italic_N end_POSTSUBSCRIPT ≈\approx≈ 16 K). Below TNsubscript𝑇𝑁T_{N}italic_T start_POSTSUBSCRIPT italic_N end_POSTSUBSCRIPT, two distinct, extremely low-energy collective modes, ω1subscript𝜔1\omega_{1}italic_ω start_POSTSUBSCRIPT 1 end_POSTSUBSCRIPT and ω2subscript𝜔2\omega_{2}italic_ω start_POSTSUBSCRIPT 2 end_POSTSUBSCRIPT, with frequencies of ∼similar-to\sim∼9.9 and 21.6 GHz at T𝑇Titalic_T = 4 K, respectively, were observed, exhibiting strong temperature dependence. The higher-frequency mode is a magnon, and the lower-frequency mode, whose origin is currently uncertain, cannot be attributed to a coherent acoustic phonon. Additionally, high-fluence photoexcitation suggests the possibility of light-induced nonthermal phase transitions, such as the disruption of antiferromagnetic order. These findings provide insights into the interplay between topology and magnetism in EuIn2As2, making it a promising candidate for applications in quantum information and spintronics.

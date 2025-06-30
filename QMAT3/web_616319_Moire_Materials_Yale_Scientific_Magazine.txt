@@ -1,0 +1,22 @@
+Title: Moiré Materials – Yale Scientific Magazine
+Authors: 
+Year: N/A
+Paper ID: web_616319
+URL: https://www.yalescientific.org/2024/01/moire-materials/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Moiré Materials and Their Tunable Optical/Electronic Properties
+
+**Key Points:**
+- Researchers at Yale, led by Fengnian Xia, developed a new method to fabricate moiré materials by stacking hexagonal atomic layers with different lattice constants, rather than relying on rotational alignment ("twistronics").
+- The resulting materials have tunable moiré patterns, allowing precise control over their optical and electronic properties, which could enable advanced optical sensors and deep sensing technologies.
+- The fabrication approach may be applicable to other material systems, potentially leading to new functionalities in semiconductor devices.
+
+**Methods:** Chemical vapor deposition to grow layered hexagonal lattices with varying atomic spacing; experimental tuning of material composition; application of deep learning algorithms for data analysis.
+
+**Authors:** Fengnian Xia (lead researcher), Matthieu Fortin-Deschênes (first author), Yale research group.
+
+**Summary:**  
+This article discusses a breakthrough in the fabrication of moiré materials by a Yale research team led by Fengnian Xia. By stacking hexagonal atomic layers with different lattice constants, rather than rotating identical layers, the team achieved tunable moiré patterns with customizable physical properties. These materials interact strongly with light and could revolutionize optical sensing by enabling the extraction of complex information from light using deep learning. The method is versatile and may be extended to other material systems, opening new avenues for advanced semiconductor technologies.

@@ -1,0 +1,9 @@
+Title: Quantum Geometric Engineering of Dual Hall Effects in 2D Antiferromagnetic Bilayers via Interlayer Magnetic Coupling.
+Authors: Zhen-Wu Sun, Tao Wang, Hao Jin, Xinru Li, Yadong Wei et al. (and 1 more)
+Year: 2025
+Paper ID: 508ec9e0b30b0fd72664ce6c1a31e0454c847822
+URL: https://www.semanticscholar.org/paper/508ec9e0b30b0fd72664ce6c1a31e0454c847822
+Venue: Advancement of science
+
+Abstract:
+The interplay between quantum geometry and magnetic order offers a novel strategy for designing next-generation nanodevices. Here, it is demonstrated that interlayer magnetic coupling in two-dimensional (2D) CoPSe3 bilayers enables precise control over quantum geometric mechanisms, unlocking dual intrinsic Hall effects. The first-principles calculations reveal that the altermagnetic (AM) phase exhibits a giant anisotropic anomalous Hall effect (AHE) (σxy ≈46 S cm-1) driven by Berry curvature localized at generic k-points, while the P T $\mathcal{P}\mathcal{T}$ -symmetric antiferromagnetic (AFM) phase hosts an intrinsic second-order nonlinear anomalous Hall effect (NAHE) (χxyy ≈ 160 µS V-1) originating from quantum metric accumulation at high-symmetry k-points. By tuning interlayer magnetic couplings, reversible switching between these phases is achieved, leveraging their distinct band structures and symmetry constraints. The Néel-vector-dependent AHE in the AM phase and the symmetry-protected NAHE in the AFM phase highlight quantum geometry as a versatile tool for manipulating transport properties. This work establishes 2D antiferromagnets as a promising platform for multifunctional device architectures, bridging linear and nonlinear magnetoelectric responses through tailored quantum geometric engineering.

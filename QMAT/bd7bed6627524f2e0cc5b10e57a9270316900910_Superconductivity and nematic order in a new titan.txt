@@ -1,0 +1,9 @@
+Title: Superconductivity and nematic order in a new titanium-based kagome metal CsTi3Bi5 without charge density wave order
+Authors: Haitao Yang, Yu-xiang Ye, Zhen Zhao, Jiali Liu, Xin-Wei Yi et al. (and 16 more)
+Year: 2022
+Paper ID: bd7bed6627524f2e0cc5b10e57a9270316900910
+URL: https://www.semanticscholar.org/paper/bd7bed6627524f2e0cc5b10e57a9270316900910
+Venue: Nature Communications
+
+Abstract:
+The cascade of correlated topological quantum states in the newly discovered vanadium-based kagome superconductors, AV3Sb5 (A = K, Rb, and Cs), with a Z2 topological band structure has sparked immense interest. Here, we report the discovery of superconductivity and electronic nematic order in high-quality single-crystals of a new titanium-based kagome metal, CsTi3Bi5, that preserves the translation symmetry, in stark contrast to the charge density wave superconductor AV3Sb5. Transport and magnetic susceptibility measurements show superconductivity with an onset superconducting transition temperature Tc of approximately 4.8 K. Using the scanning tunneling microscopy/spectroscopy and Josephson scanning tunneling spectroscopy, we demonstrate that the single crystals of CsTi3Bi5 exhibit two distinct superconducting gaps. Furthermore, the superconducting gaps break the six-fold crystal rotational symmetry down to two-fold. At low energies, we find that the quasiparticle interference patterns exhibit rotational-symmetry-breaking C2 patterns, revealing a nematic ordered normal state with the same nematic direction as in the superconducting state. Our findings uncover a novel superconducting state in CsTi3Bi5 and provide new insights for the intrinsic electron liquid crystal phases in kagome superconductors.

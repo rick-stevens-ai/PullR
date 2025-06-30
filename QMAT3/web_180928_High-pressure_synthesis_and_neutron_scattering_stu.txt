@@ -1,0 +1,30 @@
+Title: High-pressure synthesis and neutron scattering study of tantalum hydride and a tantalum polymorph with A15-type structure
+Authors: 
+Year: N/A
+Paper ID: web_180928
+URL: https://www.ornl.gov/publication/high-pressure-synthesis-and-neutron-scattering-study-tantalum-hydride-and-tantalum
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:**  
+High-pressure synthesis and structural study of tantalum hydride and a tantalum A15-type polymorph
+
+**Key Points:**  
+- A unique tantalum hydride with an A15-type crystal structure was synthesized under high hydrogen pressure (9 GPa) and characterized in a metastable state.
+- Hydrogen atoms in the hydride occupy specific Wyckoff sites, and their distribution changes upon annealing; hydrogen desorption occurs in two distinct steps.
+- No superconductivity was observed in either the hydride or the hydrogen-free A15-type tantalum polymorph down to 1.5 K.
+
+**Methods:**  
+High-pressure synthesis using toroid-type chambers, hot extraction, powder x-ray diffraction, neutron diffraction, and inelastic neutron scattering.
+
+**Authors:**  
+Michael Kuzovnikov, Thomas Hansen, Alexander Ivanov, Alexander I. Kolesnikov, V. Kulakov, S. Savvin, M. Tkacz
+
+**Publication Details:**  
+Journal: Physical Review B  
+Volume: 110, Issue: 18, Page: 184113  
+Publication Date: November 2024
+
+**Summary:**  
+This study reports the high-pressure synthesis of a novel tantalum hydride with an A15-type crystal structure, achieved by exposing tantalum dihydride to 9 GPa hydrogen pressure. Structural analysis using x-ray and neutron diffraction revealed the occupancy of hydrogen atoms at specific Wyckoff sites, with changes upon annealing and a two-step hydrogen desorption process. Inelastic neutron scattering identified four vibrational modes, and no superconductivity was detected in either the hydride or the hydrogen-free A15-type tantalum polymorph at temperatures as low as 1.5 K.

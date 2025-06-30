@@ -1,0 +1,9 @@
+Title: The biology of viroid-host interactions.
+Authors: B. Ding
+Year: 2009
+Paper ID: c428015e55d18f0b3aea484dedd145ceb3d3183a
+URL: https://www.semanticscholar.org/paper/c428015e55d18f0b3aea484dedd145ceb3d3183a
+Venue: Annual Review of Phytopathology
+
+Abstract:
+Viroids are single-stranded, circular, and noncoding RNAs that infect plants. They replicate in the nucleus or chloroplast and then traffic cell-to-cell through plasmodesmata and long distance through the phloem to establish systemic infection. They also cause diseases in certain hosts. All functions are mediated directly by the viroid RNA genome or genome-derived RNAs. I summarize recent advances in the understanding of viroid structures and cellular factors enabling these functions, emphasizing conceptual developments, major knowledge gaps, and future directions. Newly emerging experimental systems and research tools are discussed that are expected to enable significant progress in a number of key areas. I highlight examples of groundbreaking contributions of viroid research to the development of new biological principles and offer perspectives on using viroid models to continue advancing some frontiers of life science.

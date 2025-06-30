@@ -1,0 +1,9 @@
+Title: Discovery of New Selective Human Aldose Reductase Inhibitors through Virtual Screening Multiple Binding Pocket Conformations
+Authors: Ling Wang, Qiong Gu, Xuehua Zheng, Jiming Ye, Zhihong Liu et al. (and 4 more)
+Year: 2013
+Paper ID: 4276f0a3e079d5d47d6d24551ed2e9c3421adf50
+URL: https://www.semanticscholar.org/paper/4276f0a3e079d5d47d6d24551ed2e9c3421adf50
+Venue: Journal of Chemical Information and Modeling
+
+Abstract:
+Aldose reductase reduces glucose to sorbitol. It plays a key role in many of the complications arising from diabetes. Thus, aldose reductase inhibitors (ARI) have been identified as promising therapeutic agents for treating such complications of diabetes, as neuropathy, nephropathy, retinopathy, and cataracts. In this paper, a virtual screening protocol applied to a library of compounds in house has been utilized to discover novel ARIs. IC50's were determined for 15 hits that inhibited ALR2 to greater than 50% at 50 μM, and ten of these have an IC50 of 10 μM or less, corresponding to a rather substantial hit rate of 14% at this level. The specificity of these compounds relative to their cross-reactivity with human ALR1 was also assessed by inhibition assays. This resulted in identification of novel inhibitors with IC50's comparable to the commercially available drug, epalrestat, and greater than an order of magnitude better selectivity.

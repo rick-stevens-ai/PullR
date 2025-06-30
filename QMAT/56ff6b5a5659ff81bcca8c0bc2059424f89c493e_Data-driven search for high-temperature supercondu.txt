@@ -1,0 +1,9 @@
+Title: Data-driven search for high-temperature superconductors in ternary hydrides under pressure
+Authors: Bowen Jiang, Xiaoshan Luo, Ying Sun, Xin Zhong, Jian Lv et al. (and 3 more)
+Year: 2025
+Paper ID: 56ff6b5a5659ff81bcca8c0bc2059424f89c493e
+URL: https://www.semanticscholar.org/paper/56ff6b5a5659ff81bcca8c0bc2059424f89c493e
+Venue: Physical review B
+
+Abstract:
+None

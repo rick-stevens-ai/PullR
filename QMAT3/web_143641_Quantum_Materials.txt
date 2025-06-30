@@ -1,0 +1,25 @@
+Title: Quantum Materials
+Authors: 
+Year: N/A
+Paper ID: web_143641
+URL: https://physics.berkeley.edu/research-faculty/lanzara-group/projects/quantum-materials
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Quantum Materials
+
+**Key Points:**
+- Quantum materials exhibit properties that cannot be explained by classical physics, often due to strong electron correlations, topology, or reduced dimensionality, and have potential applications in electronics, photonics, neurology, and quantum computing.
+- The Lanzara Group investigates high-temperature and topological superconductivity, spin textures, electron-boson coupling, and symmetry breaking in materials such as cuprates, graphene, and transition metal dichalcogenides, using advanced techniques like ARPES and pump-probe spectroscopy.
+- Research also explores the effects of disorder, topology, and symmetry in quantum materials, including the discovery of topological phases in amorphous films and the coexistence of order and disorder in materials like graphite and graphene.
+
+**Methods:** 
+- Advanced experimental techniques such as Angle-Resolved Photoemission Spectroscopy (ARPES), time-resolved ARPES (Tr-ARPES), nano-ARPES, and pump-probe spectroscopy.
+- Material design and engineering, including the creation of heterostructures, manipulation of disorder, and controlled assembly of atomic layers.
+
+**Authors:** 
+- Lanzara Group, Department of Physics, University of California, Berkeley (specific individual authors not specified).
+
+**Summary:** 
+This research overview from the Lanzara Group at UC Berkeley highlights their work on quantum materials, focusing on phenomena that defy classical explanation due to quantum correlations, topology, and reduced dimensionality. The group employs cutting-edge spectroscopic and material engineering techniques to investigate high-temperature superconductivity, novel spin textures, electron-boson interactions, and the interplay of order and disorder in various quantum materials. Their findings contribute to the understanding of fundamental quantum behaviors and have implications for future technologies in electronics, computing, and beyond.

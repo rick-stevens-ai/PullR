@@ -1,0 +1,9 @@
+Title: Strategies in anti-Mycobacterium tuberculosis drug discovery based on phenotypic screening
+Authors: E. Grzelak, M. Choules, Wei-Lin Gao, Geping Cai, Baojie Wan et al. (and 10 more)
+Year: 2019
+Paper ID: 36b6dd370dd855be5cdc68a4603e469e1a4f8d1c
+URL: https://www.semanticscholar.org/paper/36b6dd370dd855be5cdc68a4603e469e1a4f8d1c
+Venue: Journal of antibiotics (Tokyo. 1968)
+
+Abstract:
+The rise of multi- and extensively drug-resistant Mycobacterium tuberculosis (M. tb) strains and co-infection with human immunodeficiency virus has escalated the need for new anti-M. tb drugs. Numerous challenges associated with the M. tb, in particular slow growth and pathogenicity level 3, discouraged use of this organism in past primary screening efforts. From current knowledge of the physiology and drug susceptibility of mycobacteria in general and M. tb specifically, it can be assumed that many potentially useful drug leads were missed by failing to screen directly against this pathogen. This review discusses recent high-throughput phenotypic screening strategies for anti-M. tb drug discovery. Emphasis is placed on prioritization of hits, including their extensive biological and chemical profiling, as well as the development status of promising drug candidates discovered with phenotypic screening.

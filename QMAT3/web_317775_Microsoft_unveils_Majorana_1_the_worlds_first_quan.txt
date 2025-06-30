@@ -1,0 +1,32 @@
+Title: Microsoft unveils Majorana 1, the world’s first quantum processor powered by topological qubits
+Authors: 
+Year: N/A
+Paper ID: web_317775
+URL: https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:**  
+Microsoft's Majorana 1: The First Quantum Processor Powered by Topological Qubits
+
+**Key Points:**  
+- Microsoft has unveiled Majorana 1, the world’s first quantum processing unit (QPU) powered by a topological core, marking a significant step toward scalable, fault-tolerant quantum computing.
+- The processor uses a new class of materials called topoconductors to create topological qubits, which are hardware-protected and enable robust quantum error correction through measurement-based digital control.
+- Microsoft’s approach has been validated by DARPA, which selected the company for the final phase of the US2QC program, aiming to build a fault-tolerant quantum prototype within years.
+
+**Methods:**  
+- Engineering and fabrication of gate-defined devices combining indium arsenide (semiconductor) and aluminum (superconductor) to create topological superconducting nanowires with Majorana Zero Modes (MZMs).
+- Quantum information is stored in the parity of MZMs and read out using microwave reflectometry via quantum dots.
+- Measurement-based quantum error correction using digital pulses, with demonstrations progressing from single-qubit devices to multi-qubit arrays.
+
+**Authors:**  
+- Chetan Nayak (Technical Fellow and Corporate Vice President of Quantum Hardware, Microsoft)  
+- Microsoft Quantum Team
+
+**Publication Details:**  
+- Announced on the Azure Quantum blog, February 19, 2025  
+- Related research published in Nature and on arXiv
+
+**Summary:**  
+Microsoft has announced Majorana 1, the first quantum processor leveraging topological qubits built from a novel material class called topoconductors. This breakthrough enables robust, scalable quantum computing by protecting quantum information at the hardware level and simplifying error correction through digital, measurement-based control. Validated by DARPA’s US2QC program, Microsoft’s approach is poised to deliver a fault-tolerant quantum prototype in the near future, paving the way for quantum computers capable of solving problems beyond the reach of classical systems.

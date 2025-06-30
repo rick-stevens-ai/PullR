@@ -1,0 +1,10 @@
+Title: Web-scraped content
+Authors: 
+Year: N/A
+Paper ID: web_434505
+URL: https://cpl.iphy.ac.cn/en/article/pdf/preview/10.1088/0256-307X/36/7/076801.pdf
+Venue: Web Source
+Content Status: SHORT_ABSTRACT, WEB_SCRAPED
+
+Abstract:
+No abstract available

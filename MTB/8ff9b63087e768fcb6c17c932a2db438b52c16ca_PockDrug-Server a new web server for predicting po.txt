@@ -1,0 +1,9 @@
+Title: PockDrug-Server: a new web server for predicting pocket druggability on holo and apo proteins
+Authors: H. Hussein, Alexandre Borrel, Colette Geneix, M. Petitjean, Leslie Regad et al. (and 1 more)
+Year: 2015
+Paper ID: 8ff9b63087e768fcb6c17c932a2db438b52c16ca
+URL: https://www.semanticscholar.org/paper/8ff9b63087e768fcb6c17c932a2db438b52c16ca
+Venue: Nucleic Acids Res.
+
+Abstract:
+Predicting protein pocket's ability to bind drug-like molecules with high affinity, i.e. druggability, is of major interest in the target identification phase of drug discovery. Therefore, pocket druggability investigations represent a key step of compound clinical progression projects. Currently computational druggability prediction models are attached to one unique pocket estimation method despite pocket estimation uncertainties. In this paper, we propose ‘PockDrug-Server’ to predict pocket druggability, efficient on both (i) estimated pockets guided by the ligand proximity (extracted by proximity to a ligand from a holo protein structure) and (ii) estimated pockets based solely on protein structure information (based on amino atoms that form the surface of potential binding cavities). PockDrug-Server provides consistent druggability results using different pocket estimation methods. It is robust with respect to pocket boundary and estimation uncertainties, thus efficient using apo pockets that are challenging to estimate. It clearly distinguishes druggable from less druggable pockets using different estimation methods and outperformed recent druggability models for apo pockets. It can be carried out from one or a set of apo/holo proteins using different pocket estimation methods proposed by our web server or from any pocket previously estimated by the user. PockDrug-Server is publicly available at: http://pockdrug.rpbs.univ-paris-diderot.fr.

@@ -1,0 +1,9 @@
+Title: Heterogeneous Integration of Wide Bandgap Semiconductors and 2D Materials: Processes, Applications, and Perspectives (Adv. Mater. 12/2025)
+Authors: Soo Ho Choi, Yongsung Kim, Il Jeon, Hyunseok Kim
+Year: 2025
+Paper ID: be09e7536250b1b68f1dff61d4a146e745d25e00
+URL: https://www.semanticscholar.org/paper/be09e7536250b1b68f1dff61d4a146e745d25e00
+Venue: Advances in Materials
+
+Abstract:
+None

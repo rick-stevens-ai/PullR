@@ -1,0 +1,21 @@
+Title: Intrinsic Magnetic Topological Insulators
+Authors: 
+Year: N/A
+Paper ID: web_865321
+URL: https://www.the-innovation.org/article/id/648ae16ccf340000a100291f
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Intrinsic Magnetic Topological Insulators
+
+**Key Points:**
+- Introducing magnetism into topological insulators breaks time-reversal symmetry and can open a gap in the surface states, enabling novel quantum states such as the quantum anomalous Hall effect (QAHE) and axion insulator states.
+- Magnetic doping and magnetic proximity are key methods for studying the interplay between topology and magnetism, but magnetic doping often results in inhomogeneous magnetic ordering and small exchange gaps, limiting the observation of QAHE to ultralow temperatures.
+
+**Methods:** Review article; discusses experimental approaches such as magnetic doping and magnetic proximity.
+
+**Authors:** Pinyuan Wang, Jun Ge, Jiaheng Li, Yanzhao Liu, Yong Xu, Jian Wang
+
+**Summary:**  
+This review discusses the field of intrinsic magnetic topological insulators, focusing on how introducing magnetism into these materials enables new quantum states by breaking time-reversal symmetry. The article highlights the promise and challenges of methods like magnetic doping and proximity, noting that inhomogeneity and small exchange gaps currently restrict practical applications such as the quantum anomalous Hall effect to very low temperatures. The review synthesizes recent advances and ongoing challenges in the quest to realize robust magnetic topological phases.

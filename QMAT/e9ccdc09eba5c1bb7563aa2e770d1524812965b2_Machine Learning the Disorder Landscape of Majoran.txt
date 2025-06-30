@@ -1,0 +1,9 @@
+Title: Machine Learning the Disorder Landscape of Majorana Nanowires.
+Authors: Jacob R. Taylor, J. Sau, S. Das Sarma
+Year: 2023
+Paper ID: e9ccdc09eba5c1bb7563aa2e770d1524812965b2
+URL: https://www.semanticscholar.org/paper/e9ccdc09eba5c1bb7563aa2e770d1524812965b2
+Venue: Physical Review Letters
+
+Abstract:
+We develop a practical machine learning approach to determine the disorder landscape of Majorana nanowires by using training of the conductance matrix and inverting the conductance data in order to obtain the disorder details in the system. The inversion carried out through machine learning using different disorder parametrizations turns out to be unique in the sense that any input tunnel conductance as a function of chemical potential and Zeeman energy can indeed be inverted to provide the correct disorder landscape. Our work opens up a qualitatively new direction of directly determining the topological invariant and the Majorana wave-function structure corresponding to a transport profile of a device using simulations that quantitatively match the specific conductance profile. In addition, this also opens up the possibility for optimizing Majorana systems by figuring out the (generally unknown) underlying disorder only through the conductance data. An accurate estimate of the applicable spin-orbit coupling in the system can also be obtained within the same scheme.

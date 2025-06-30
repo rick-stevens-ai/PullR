@@ -1,0 +1,9 @@
+Title: The chemotherapy of tuberculosis: past, present and future [State of the art].
+Authors: Denis A. Mitchison, Geraint Davies
+Year: 2012
+Paper ID: 7f0906dd7a8bbe6890182bada1c2f26acd77b670
+URL: https://www.semanticscholar.org/paper/7f0906dd7a8bbe6890182bada1c2f26acd77b670
+Venue: The International Journal of Tuberculosis and Lung Disease
+
+Abstract:
+The history of the development of modern chemotherapy for tuberculosis (TB), largely due to the British Medical Research Council, is first described. There is a current need to shorten the duration of treatment and to prevent and cure drug-resistant disease. These aims will only be achieved if the way in which multidrug treatment prevents resistance from emerging and the reasons for the very slow response to chemotherapy are understood. Consideration of mutation rates to resistance and the size of bacterial populations in lesions makes it very unlikely that resistance would emerge spontaneously, leaving irregularity in drug taking and inadequate dosage as the main reasons for its occurrence. Slow response to treatment seems due to the presence of persister populations whose natural history is only partly known. In the future, we need to explore the persister state in patients and in experimental murine TB, and to take it into account in the design of future mouse experiments. The activity of rifamycins and pyrazinamide is being increased by a rise in rifamycin dosage and the inhalation of pyrazinoic acid. New drugs are gradually being brought into use, initially TMC207 and the nitroimadazoles, PA824 and OPC67683. They will need to be tested in new combination regimens for drug-susceptible and multi- and extensively drug-resistant disease.

@@ -1,0 +1,9 @@
+Title: Inhibitors of HIV-1 protease: a major success of structure-assisted drug design.
+Authors: A. Wlodawer, J. Vondrášek
+Year: 1998
+Paper ID: d9aaccdb1e6fb9d35dc790af89288f597283fc3b
+URL: https://www.semanticscholar.org/paper/d9aaccdb1e6fb9d35dc790af89288f597283fc3b
+Venue: Annual Review of Biophysics and Biomolecular Structure
+
+Abstract:
+Retroviral protease (PR) from the human immunodeficiency virus type 1 (HIV-1) was identified over a decade ago as a potential target for structure-based drug design. This effort was very successful. Four drugs are already approved, and others are undergoing clinical trials. The techniques utilized in this remarkable example of structure-assisted drug design included crystallography, NMR, computational studies, and advanced chemical synthesis. The development of these drugs is discussed in detail. Other approaches to designing HIV-1 PR inhibitors, based on the concepts of symmetry and on the replacement of a water molecule that had been found tetrahedrally coordinated between the enzyme and the inhibitors, are also discussed. The emergence of drug-induced mutations of HIV-1 PR leads to rapid loss of potency of the existing drugs and to the need to continue the development process. The structural basis of drug resistance and the ways of overcoming this phenomenon are mentioned.

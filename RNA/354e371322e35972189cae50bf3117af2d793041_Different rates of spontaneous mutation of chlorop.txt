@@ -1,0 +1,9 @@
+Title: Different rates of spontaneous mutation of chloroplastic and nuclear viroids as determined by high-fidelity ultra-deep sequencing
+Authors: A. López-Carrasco, C. Ballesteros, V. Sentandreu, Sonia Delgado, S. Gago-Zachert et al. (and 2 more)
+Year: 2017
+Paper ID: 354e371322e35972189cae50bf3117af2d793041
+URL: https://www.semanticscholar.org/paper/354e371322e35972189cae50bf3117af2d793041
+Venue: PLoS Pathogens
+
+Abstract:
+Mutation rates vary by orders of magnitude across biological systems, being higher for simpler genomes. The simplest known genomes correspond to viroids, subviral plant replicons constituted by circular non-coding RNAs of few hundred bases. Previous work has revealed an extremely high mutation rate for chrysanthemum chlorotic mottle viroid, a chloroplast-replicating viroid. However, whether this is a general feature of viroids remains unclear. Here, we have used high-fidelity ultra-deep sequencing to determine the mutation rate in a common host (eggplant) of two viroids, each representative of one family: the chloroplastic eggplant latent viroid (ELVd, Avsunviroidae) and the nuclear potato spindle tuber viroid (PSTVd, Pospiviroidae). This revealed higher mutation frequencies in ELVd than in PSTVd, as well as marked differences in the types of mutations produced. Rates of spontaneous mutation, quantified in vivo using the lethal mutation method, ranged from 1/1000 to 1/800 for ELVd and from 1/7000 to 1/3800 for PSTVd depending on sequencing run. These results suggest that extremely high mutability is a common feature of chloroplastic viroids, whereas the mutation rates of PSTVd and potentially other nuclear viroids appear significantly lower and closer to those of some RNA viruses.

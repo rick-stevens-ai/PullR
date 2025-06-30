@@ -1,0 +1,22 @@
+Title: BNL
+Authors: 
+Year: N/A
+Paper ID: web_861858
+URL: https://www.bnl.gov/compsci/quantum/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Quantum Information Science & Technology at Brookhaven National Laboratory (BNL)
+
+**Key Points:**
+- The Quantum Computing Group at BNL focuses on quantum algorithms, error correction, entanglement, and AI applications in quantum hardware/software.
+- Research projects include hybrid digital-analog quantum algorithms, quantum algorithms across computational models, novel quantum primitives, quantum telescopes, and spin chain bootstrapping for quantum computation.
+- The group collaborates with various physics and instrumentation departments and is part of the Co-design Center for Quantum Advantage (C2QA).
+
+**Methods:** Research in quantum algorithms, theoretical and computational modeling, development of quantum protocols, and application of quantum information science to experimental physics.
+
+**Authors:** Not specified (Group-based research at Brookhaven National Laboratory)
+
+**Summary:**  
+The Quantum Computing Group at Brookhaven National Laboratory conducts leading-edge research in quantum information science, focusing on the development of quantum algorithms, error correction, entanglement characterization, and AI-driven quantum technologies. Their projects span hybrid digital-analog algorithms, cross-model quantum computation, and quantum-enhanced instrumentation, with collaborations across multiple scientific disciplines. The group is integral to BNL’s broader efforts to advance quantum science and technology in partnership with national and international research initiatives.

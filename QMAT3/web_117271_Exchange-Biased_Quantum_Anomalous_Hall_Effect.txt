@@ -1,0 +1,24 @@
+Title: Exchange-Biased Quantum Anomalous Hall Effect
+Authors: 
+Year: N/A
+Paper ID: web_117271
+URL: https://pubmed.ncbi.nlm.nih.gov/37207689/
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Abstract
+        
+      
+
+
+      
+      The quantum anomalous Hall (QAH) effect is characterized by a dissipationless chiral edge state with a quantized Hall resistance at zero magnetic field. Manipulating the QAH state is of great importance in both the understanding of topological quantum physics and the implementation of dissipationless electronics. Here, the QAH effect is realized in the magnetic topological insulator Cr-doped (Bi,Sb)2 Te3 (CBST) grown on an uncompensated antiferromagnetic insulator Al-doped Cr2 O3 . Through polarized neutron reflectometry (PNR), a strong exchange coupling is found between CBST and Al-Cr2 O3 surface spins fixing interfacial magnetic moments perpendicular to the film plane. The interfacial coupling results in an exchange-biased QAH effect. This study further demonstrates that the magnitude and sign of the exchange bias can be effectively controlled using a field training process to set the magnetization of the Al-Cr2 O3 layer. It demonstrates the use of the exchange bias effect to effectively manipulate the QAH state, opening new possibilities in QAH-based spintronics.
+    
+
+
+
+          Keywords:
+        
+      
+      antiferromagnet; exchange bias; quantum anomalous Hall; topological insulators.

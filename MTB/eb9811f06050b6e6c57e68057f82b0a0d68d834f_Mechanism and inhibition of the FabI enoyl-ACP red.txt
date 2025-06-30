@@ -1,0 +1,22 @@
+Title: Mechanism and inhibition of the FabI enoyl-ACP reductase from Burkholderia pseudomallei.
+Authors: Nina Liu, J. Cummings, K. England, R. Slayden, P. Tonge
+Year: 2011
+Paper ID: eb9811f06050b6e6c57e68057f82b0a0d68d834f
+URL: https://www.semanticscholar.org/paper/eb9811f06050b6e6c57e68057f82b0a0d68d834f
+Venue: Journal of Antimicrobial Chemotherapy
+
+Abstract:
+OBJECTIVES
+As an initial step in developing novel antibacterials against Burkholderia pseudomallei, we have characterized the FabI enoyl-ACP reductase homologues in the type II fatty acid biosynthesis pathway from this organism and performed an initial enzyme inhibition study.
+
+
+METHODS
+A BLAST analysis identified two FabI enoyl-ACP reductase homologues, bpmFabI-1 and bpmFabI-2, in the B. pseudomallei genome, which were cloned, overexpressed in Escherichia coli and purified. Steady-state kinetics was used to determine the reaction mechanism and the sensitivity of bpmFabI-1 to four diphenyl ether FabI inhibitors. The antibacterial activity of the inhibitors was assessed using a wild-type strain of Burkholderia thailandensis (E264) and an efflux pump mutant (Bt38).
+
+
+RESULTS
+Consistent with its annotation as an enoyl-ACP reductase, bpmFabI-1 catalysed the NADH-dependent reduction of 2-trans-dodecenoyl-CoA via a sequential Bi Bi mechanism. In contrast, bpmFabI-2 was inactive with all substrates tested and only bpmfabI-1 was transcriptionally active under the growth conditions employed. The sensitivity of bpmFabI-1 to four diphenyl ethers was evaluated and in each case the compounds were slow-onset inhibitors with K(i) values of 0.5-2 nM. In addition, triclosan and PT01 had MIC values of 30 and 70 mg/L for B. pseudomallei as well as a wild-type strain of B. thailandensis (E264), but MIC values of <1 mg/L for the efflux pump mutant Bt38. A reduction in MIC values was also observed for the pump mutant strain with the other diphenyl ethers.
+
+
+CONCLUSIONS
+Provided that efflux can be circumvented, bpmFabI-1 is a suitable target for drug discovery.

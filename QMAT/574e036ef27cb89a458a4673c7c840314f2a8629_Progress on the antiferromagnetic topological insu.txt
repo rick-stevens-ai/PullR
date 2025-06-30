@@ -1,0 +1,9 @@
+Title: Progress on the antiferromagnetic topological insulator MnBi2Te4
+Authors: Shuai Li, Tian Liu, Chang Liu, Yayu Wang, Hai-Zhou Lu et al. (and 1 more)
+Year: 2023
+Paper ID: 574e036ef27cb89a458a4673c7c840314f2a8629
+URL: https://www.semanticscholar.org/paper/574e036ef27cb89a458a4673c7c840314f2a8629
+Venue: National Science Review
+
+Abstract:
+ABSTRACT Topological materials, which feature robust surface and/or edge states, have now been a research focus in condensed matter physics. They represent a new class of materials exhibiting nontrivial topological phases, and provide a platform for exploring exotic transport phenomena, such as the quantum anomalous Hall effect and the quantum spin Hall effect. Recently, magnetic topological materials have attracted considerable interests due to the possibility to study the interplay between topological and magnetic orders. In particular, the quantum anomalous Hall and axion insulator phases can be realized in topological insulators with magnetic order. MnBi2Te4, as the first intrinsic antiferromagnetic topological insulator discovered, allows the examination of existing theoretical predictions; it has been extensively studied, and many new discoveries have been made. Here we review the progress made on MnBi2Te4 from both experimental and theoretical aspects. The bulk crystal and magnetic structures are surveyed first, followed by a review of theoretical calculations and experimental probes on the band structure and surface states, and a discussion of various exotic phases that can be realized in MnBi2Te4. The properties of MnBi2Te4 thin films and the corresponding transport studies are then reviewed, with an emphasis on the edge state transport. Possible future research directions in this field are also discussed.

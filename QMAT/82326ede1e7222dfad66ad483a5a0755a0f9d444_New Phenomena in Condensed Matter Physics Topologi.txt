@@ -1,0 +1,9 @@
+Title: New Phenomena in Condensed Matter Physics: Topological Insulators and Twisted Bilayer Graphene
+Authors: Tianrun Hou
+Year: 2025
+Paper ID: 82326ede1e7222dfad66ad483a5a0755a0f9d444
+URL: https://www.semanticscholar.org/paper/82326ede1e7222dfad66ad483a5a0755a0f9d444
+Venue: Highlights in Science Engineering and Technology
+
+Abstract:
+Phenomena include the Kosterlitz-Thouless phase transition, fractional quantum Hall effect, and high-temperature superconductivity have driven advances in condensed matter physics, offering a foundation for the investigation of superconductivity and the quantum Hall effect, as well as aiding in the comprehension of the behavior of strongly correlated electrons. The discovery of topological insulators and the preparation of graphene triggered important breakthroughs 20 years ago, leading to novel phenomena include topological superconductivity, the quantum anomalous Hall effect, corner graphene, and quantum spin liquids, which opened new directions in quantum materials research. Through the study of topological superconductors and flat band effects, this paper elucidates the role of topological energy band theory in describing Majorana fermions and their non-abelian statistical properties and reveals the phenomena of superconductivity and Mott's insulating state due to strong electronic interactions in magic-angle cornering graphene. The results show that the theory of topological energy bands and flat band effects can explain the strongly correlated electronic effects, providing theoretical support for understanding the phase transition from Mott insulating states to superconducting states and the Majorana zero mode in quantum computation. This paper emphasizes the importance of topological and two-dimensional materials in the study of strongly correlated electrons, providing guidance for future research.

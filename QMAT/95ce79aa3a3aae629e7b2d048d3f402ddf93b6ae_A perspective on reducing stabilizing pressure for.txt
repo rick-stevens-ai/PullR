@@ -1,0 +1,9 @@
+Title: A perspective on reducing stabilizing pressure for high-temperature superconductivity in hydrides
+Authors: Qiwen Jiang, Ling Chen, Mingyang Du, D. Duan
+Year: 2024
+Paper ID: 95ce79aa3a3aae629e7b2d048d3f402ddf93b6ae
+URL: https://www.semanticscholar.org/paper/95ce79aa3a3aae629e7b2d048d3f402ddf93b6ae
+Venue: Journal of Physics: Condensed Matter
+
+Abstract:
+The theoretical predictions and experimental syntheses of hydrogen sulfide (H3S) have ignited a surge of research interest in hydride superconductors. Over the past two decades, extensive investigations have been conducted on hydrides with the ultimate goal of achieving room-temperature superconductivity under ambient conditions. In this review, we present a comprehensive summary of the current strategies and progress towards this goal in hydride materials. We conclude their electronic characteristics, hydrogen atom aggregation forms, stability mechanisms, and more. While providing a real-time snapshot of the research landscape, our aim is to offer deeper insights into reducing the stabilizing pressure for high-temperature superconductors in hydrides. This involves defining key long-term theoretical and experimental opportunities and challenges. Although achieving high critical temperatures for hydrogen-based superconductors still requires high pressure, we remain confident in the potential of hydrides as candidates for room-temperature superconductors at ambient pressure.

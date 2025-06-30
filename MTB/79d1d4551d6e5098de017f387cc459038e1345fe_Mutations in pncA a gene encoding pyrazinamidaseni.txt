@@ -1,0 +1,9 @@
+Title: Mutations in pncA, a gene encoding pyrazinamidase/nicotinamidase, cause resistance to the antituberculous drug pyrazinamide in tubercle bacillus
+Authors: A. Scorpio, Ying Zhang
+Year: 1996
+Paper ID: 79d1d4551d6e5098de017f387cc459038e1345fe
+URL: https://www.semanticscholar.org/paper/79d1d4551d6e5098de017f387cc459038e1345fe
+Venue: Nature Network Boston
+
+Abstract:
+None

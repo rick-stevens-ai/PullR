@@ -1,0 +1,43 @@
+# PullR Model Server Configuration
+# Copy this file to model_servers.yaml and configure your API keys
+
+servers:
+  # OpenAI GPT-4 Configuration
+  - shortname: "gpt4"
+    openai_api_key: "${OPENAI_API_KEY}"
+    openai_api_base: "https://api.openai.com/v1"
+    openai_model: "gpt-4"
+    
+  # OpenAI GPT-4 Turbo Configuration  
+  - shortname: "gpt4turbo"
+    openai_api_key: "${OPENAI_API_KEY}"
+    openai_api_base: "https://api.openai.com/v1"
+    openai_model: "gpt-4-turbo-preview"
+    
+  # OpenAI GPT-3.5 Turbo (faster, cheaper)
+  - shortname: "gpt35"
+    openai_api_key: "${OPENAI_API_KEY}"
+    openai_api_base: "https://api.openai.com/v1"
+    openai_model: "gpt-3.5-turbo"
+    
+  # Anthropic Claude Configuration
+  - shortname: "claude"
+    openai_api_key: "${ANTHROPIC_API_KEY}"
+    openai_api_base: "https://api.anthropic.com/v1"
+    openai_model: "claude-3-sonnet-20240229"
+    
+  # Local or Custom OpenAI-Compatible API
+  - shortname: "local"
+    openai_api_key: "local-key"
+    openai_api_base: "http://localhost:8000/v1"
+    openai_model: "your-local-model"
+
+# Environment Variables Required:
+# export OPENAI_API_KEY="your-openai-api-key"
+# export ANTHROPIC_API_KEY="your-anthropic-api-key"
+# export SEMANTIC_SCHOLAR_API_KEY="your-semantic-scholar-key"  # Optional
+
+# Usage Examples:
+# python pullr.py paper.pdf --model gpt4 --output-dir ./papers --mode pdf
+# python pullr.py refs.txt --model claude --output-dir ./papers --mode exact
+# python pullr.py refs.txt --model gpt35 --output-dir ./papers --mode fuzzy --max-papers 3

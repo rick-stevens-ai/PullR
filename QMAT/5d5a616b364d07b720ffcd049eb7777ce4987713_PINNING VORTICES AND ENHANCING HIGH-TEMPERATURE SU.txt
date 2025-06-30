@@ -1,0 +1,9 @@
+Title: PINNING VORTICES AND ENHANCING HIGH-TEMPERATURE SUPERCONDUCTOR CRITICAL CURRENTS DENSITIES
+Authors: M. Maley, L. N. Vulaevskii
+Year: 1999
+Paper ID: 5d5a616b364d07b720ffcd049eb7777ce4987713
+URL: https://www.semanticscholar.org/paper/5d5a616b364d07b720ffcd049eb7777ce4987713
+Venue: 
+
+Abstract:
+This is the final report of a three-year, Laboratory Directed Research and Development (LDRD) project at Los AIamos National Laboratory (LANL). Our work focused on developing an understanding of the mechanisms that limit resistance-free current flow in high-temperature superconductors. Because vortex motion is known to constitute the major source of dissipation, we concentrated on the effects of strong pinning columnar defects on vortex dynamics and structure. We demonstrated impressive enhancements of critical currents in commercial BSCCO/Ag conductors by irradiating with 0.8-GeV and 0.5-GeV protons, which fission bismuth nuclei and create fission tracks. We showed that lower energy protons are more effective in producing strong pinning without damaging intergrain connections; and we irradiated a BSCCO coil, achieving impressive performance enhancement in a macroscopic device. We also developed the theoretical framework for using the Josephson plasma resonance as a new tool to determine vortex structures, We conducted transport measurements on both Bi-2212 and YBaCuO single crystals containing columnar defects and discovered dramatic changes in vortex mobility related to filling the columnar defects with vortices.

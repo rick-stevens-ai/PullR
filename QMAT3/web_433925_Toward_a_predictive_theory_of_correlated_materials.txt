@@ -1,0 +1,30 @@
+Title: Toward a predictive theory of correlated materials (Journal Article)
+Authors: 
+Year: N/A
+Paper ID: web_433925
+URL: https://www.osti.gov/pages/biblio/1462849
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Predictive Theory of Correlated Electron Materials
+
+**Key Points:**
+- Correlated electron materials exhibit complex properties such as unconventional superconductivity and metal-insulator transitions, which are challenging to predict theoretically due to multiple competing energy scales.
+- Advances in Green’s functions and quantum Monte Carlo methods now enable more accurate, first-principles computational predictions of properties in strongly correlated materials.
+- Theoretical design and spectroscopy for these materials have historically been difficult, but new computational approaches are opening pathways for predictive modeling.
+
+**Methods:** Advances in Green’s functions and quantum Monte Carlo computational methods; first-principles calculations.
+
+**Authors:** Paul R. C. Kent and Gabriel Kotliar
+
+**Publication Details:**  
+- Journal: Science  
+- Volume: 361, Issue: 6400  
+- Date: July 26, 2018  
+- DOI: https://doi.org/10.1126/science.aat5975  
+- Publisher: AAAS  
+- OSTI ID: 1462849
+
+**Summary:**  
+This article discusses the theoretical challenges in predicting the properties of strongly correlated electron materials, which display phenomena such as unconventional superconductivity and metal-insulator transitions. By leveraging recent advances in Green’s functions and quantum Monte Carlo methods, the authors demonstrate that it is now possible to achieve first-principles computational predictions for these complex materials. This work marks significant progress toward a predictive theory for correlated materials, with implications for both fundamental science and practical applications.

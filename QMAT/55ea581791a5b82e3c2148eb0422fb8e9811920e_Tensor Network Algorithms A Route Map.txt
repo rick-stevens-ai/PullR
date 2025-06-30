@@ -1,0 +1,9 @@
+Title: Tensor Network Algorithms: A Route Map
+Authors: M. Bañuls
+Year: 2022
+Paper ID: 55ea581791a5b82e3c2148eb0422fb8e9811920e
+URL: https://www.semanticscholar.org/paper/55ea581791a5b82e3c2148eb0422fb8e9811920e
+Venue: Annual Review of Condensed Matter Physics
+
+Abstract:
+Tensor networks provide extremely powerful tools for the study of complex classical and quantum many-body problems. Over the past two decades, the increment in the number of techniques and applications has been relentless, and especially the last ten years have seen an explosion of new ideas and results that may be overwhelming for the newcomer. This short review introduces the basic ideas, the best established methods, and some of the most significant algorithmic developments that are expanding the boundaries of the tensor network potential. The goal of this review is to help the reader not only appreciate the many possibilities offered by tensor networks but also find their way through state-of-the-art codes, their applicability, and some avenues of ongoing progress. Expected final online publication date for the Annual Review of Condensed Matter Physics, Volume 14 is March 2023. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.

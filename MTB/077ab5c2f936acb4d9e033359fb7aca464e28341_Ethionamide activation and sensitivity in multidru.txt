@@ -1,0 +1,9 @@
+Title: Ethionamide activation and sensitivity in multidrug-resistant Mycobacterium tuberculosis.
+Authors: Andrea E DeBarber, K. Mdluli, M. Bosman, L. Bekker, C. Barry
+Year: 2000
+Paper ID: 077ab5c2f936acb4d9e033359fb7aca464e28341
+URL: https://www.semanticscholar.org/paper/077ab5c2f936acb4d9e033359fb7aca464e28341
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+
+Abstract:
+Ethionamide (ETA) is an important component of second-line therapy for the treatment of multidrug-resistant tuberculosis. Synthesis of radiolabeled ETA and an examination of drug metabolites formed by whole cells of Mycobacterium tuberculosis (MTb) have allowed us to demonstrate that ETA is activated by S-oxidation before interacting with its cellular target. ETA is metabolized by MTb to a 4-pyridylmethanol product remarkably similar in structure to that formed by the activation of isoniazid by the catalase-peroxidase KatG. We have demonstrated that overproduction of Rv3855 (EtaR), a putative regulatory protein from MTb, confers ETA resistance whereas overproduction of an adjacent, clustered monooxygenase (Rv3854c, EtaA) confers ETA hypersensitivity. Production of EtaA appears to be negatively regulated by EtaR and correlates directly with [(14)C]ETA metabolism, suggesting that EtaA is the activating enzyme responsible for thioamide oxidation and subsequent toxicity. Coding sequence mutations in EtaA were found in 11 of 11 multidrug-resistant MTb patient isolates from Cape Town, South Africa. These isolates showed broad cross-resistance to thiocarbonyl containing drugs including ETA, thiacetazone, and thiocarlide.

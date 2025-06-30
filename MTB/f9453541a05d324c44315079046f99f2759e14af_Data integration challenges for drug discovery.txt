@@ -1,0 +1,9 @@
+Title: Data integration: challenges for drug discovery
+Authors: D. Searls
+Year: 2005
+Paper ID: f9453541a05d324c44315079046f99f2759e14af
+URL: https://www.semanticscholar.org/paper/f9453541a05d324c44315079046f99f2759e14af
+Venue: Nature reviews. Drug discovery
+
+Abstract:
+None

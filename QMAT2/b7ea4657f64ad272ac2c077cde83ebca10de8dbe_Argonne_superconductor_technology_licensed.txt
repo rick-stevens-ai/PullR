@@ -1,0 +1,9 @@
+Title: Argonne superconductor technology licensed
+Authors: R. Dagani
+Year: 1988
+Paper ID: b7ea4657f64ad272ac2c077cde83ebca10de8dbe
+URL: https://www.semanticscholar.org/paper/b7ea4657f64ad272ac2c077cde83ebca10de8dbe
+Venue: 
+
+Abstract:
+American Superconductor Corp. of Cambridge, Mass., has obtained the exclusive rights to develop and market high-temperature superconductor technology developed at the Department of Energy's Argonne National Laboratory. The agreement is the first to license superconducting technology from a national laboratory to private industry. The Argonne technology produces superconducting ceramic coatings by oxidizing an appropriate metallic precursor. The process involves, for example, coating a wire with a 1:2:3 alloy of yttrium, barium, and copper, and then heating the wire in the presence of oxygen to produce a coating of yttriumbarium- copper oxide, which superconducts above liquid nitrogen temperature. Tests of this approach at Argonne have shown promise, but more work is needed to yield a practical superconducting wire, the lab says. Argonne has applied for a patent on the process, which was developed by Dieter M. Gruen and coworkers. American Superconductor already has exclusive rights to a similar metallic p...

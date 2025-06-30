@@ -1,0 +1,9 @@
+Title: The Relation Between Local Hysteresis Losses and Remanent Magnetic Fields in HTSC Films
+Authors: Mu-Geun Kim, H. Park, Chan Kim, Sang-Kook Park, H. Ri
+Year: 2016
+Paper ID: 5272ddbd0f0024b81ecdffdf2da7058a01c98675
+URL: https://www.semanticscholar.org/paper/5272ddbd0f0024b81ecdffdf2da7058a01c98675
+Venue: IEEE transactions on applied superconductivity
+
+Abstract:
+None

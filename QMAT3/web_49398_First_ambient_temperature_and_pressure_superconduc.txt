@@ -1,0 +1,29 @@
+Title: First ambient temperature and pressure superconductor announced
+Authors: 
+Year: N/A
+Paper ID: web_49398
+URL: https://sciencemediacentre.es/en/reactions-study-still-pending-review-announces-first-superconductor-room-temperature-and-pressure
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Claim of the First Room-Temperature, Ambient-Pressure Superconductor (LK-99)
+
+**Key Points:**
+- A South Korean research team claims to have discovered a superconductor (LK-99) that operates at room temperature and ambient pressure, a potentially revolutionary breakthrough in physics and materials science.
+- The findings are based on preprints (arXiv:2307.12008 and arXiv:2307.12037) and have not yet been peer-reviewed; multiple independent teams have so far been unable to reproduce the superconducting properties.
+- Experts express skepticism due to insufficient evidence, lack of comprehensive measurements, and the historical context of false positives in high-temperature superconductivity research.
+
+**Methods:** Experimental synthesis and characterization of copper-doped lead apatite (LK-99); results presented in preprints, pending peer review. Reproducibility and independent verification are ongoing.
+
+**Authors:** Sukbae Lee et al. (as per preprint); expert commentary by Leni Bascones, Amalia Coldea, Toby Perring, Susannah Speller, Chris Grovenor, Mohammad Yazdani-Asrami, Stuart Bradley.
+
+**Publication Details:**  
+- Title: The First Room-Temperature Ambient-Pressure Superconductor  
+- Type: Non-peer-reviewed preprint  
+- Publication date: 22/07/2023  
+- Repository: arXiv (arXiv:2307.12008, arXiv:2307.12037)  
+- Authors: Sukbae Lee et al.
+
+**Summary:**  
+A team of South Korean researchers has announced the synthesis of LK-99, a material they claim is the first superconductor to function at room temperature and ambient pressure. If validated, this would represent a major scientific milestone with broad technological implications. However, the claim is currently based on non-peer-reviewed preprints, and independent attempts to reproduce the results have not confirmed superconductivity. Experts urge caution, citing the need for robust, reproducible evidence and comprehensive peer review before accepting such extraordinary claims.

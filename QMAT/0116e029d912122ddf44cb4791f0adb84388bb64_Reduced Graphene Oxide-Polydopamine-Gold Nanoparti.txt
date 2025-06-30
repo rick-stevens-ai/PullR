@@ -1,0 +1,9 @@
+Title: Reduced Graphene Oxide-Polydopamine-Gold Nanoparticles: A Ternary Nanocomposite-Based Electrochemical Genosensor for Rapid and Early Mycobacterium tuberculosis Detection
+Authors: Mansi Chaturvedi, Monika Patel, N. Bisht, Shruti, Maumita Das Mukherjee et al. (and 5 more)
+Year: 2023
+Paper ID: 0116e029d912122ddf44cb4791f0adb84388bb64
+URL: https://www.semanticscholar.org/paper/0116e029d912122ddf44cb4791f0adb84388bb64
+Venue: Biosensors
+
+Abstract:
+Tuberculosis (TB) has been a devastating human illness for thousands of years. According to the WHO, around 10.4 million new cases of tuberculosis are identified every year, with 1.8 million deaths. To reduce these statistics and the mortality rate, an early and accurate TB diagnosis is essential. This study offers a highly sensitive and selective electrochemical biosensor for Mycobacterium tuberculosis (MTB) detection based on a ternary nanocomposite of reduced graphene oxide, polydopamine, and gold nanoparticles (rGO-PDA-AuNP). Avidin-biotin coupling was used to bind the MTB probe DNA onto the rGO-PDA-AuNP modified glassy carbon electrode (ssDNA/avidin/rGO-PDA-AuNP). UV-Visible, Raman, XRD, and TEM were used to evaluate the structural and morphological characteristics of rGO-PDA-AuNP. Furthermore, DNA immobilization is validated using FESEM and FT-IR techniques. The modified electrodes were electrochemically analyzed using cyclic voltammetry (CV) and linear sweep voltammetry (LSV), and the results indicate that the produced electrode can detect target DNA up to 0.1 × 10−7 mM with 2.12 × 10−3 mA µM−1 sensitivity and a response time of 5 s. The constructed genosensor displayed high sensitivity and stability, and it also provides a unique strategy for diagnosing MTB at an early stage. Furthermore, our rGO-PDA-AuNP/GCE-based electrochemical platform has broad potential for creating biosensor systems for detecting various infectious pathogens and therapeutically significant biomarkers.

@@ -1,0 +1,9 @@
+Title: Boundary Witten effect in multi-axion insulators
+Authors: G. Palumbo
+Year: 2025
+Paper ID: b2ec892dc1b86d8b168e995cca2b79c1abf40c4c
+URL: https://www.semanticscholar.org/paper/b2ec892dc1b86d8b168e995cca2b79c1abf40c4c
+Venue: 
+
+Abstract:
+We explore novel topological responses and axion-like phenomena in three-dimensional insulating systems with spacetime-dependent mass terms encoding domain walls. Via a dimensional-reduction approach, we derive a new axion-electromagnetic coupling term involving three axion fields. This term yields a topological current in the bulk and, under specific conditions of the axions, real-space topological defects such as magnetic-like monopoles and hopfions. Moreover, once one the axions acquires a constant value, a nontrivial boundary theory realizes a (2+1)-dimensional analog of the Witten effect, which shows that point-like vortices on the gapped boundary of the system acquire half-integer electric charge. Our findings reveal rich topological structures emerging from multi-axion theories, suggesting new avenues in the study of topological phases and defects.

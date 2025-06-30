@@ -1,0 +1,9 @@
+Title: The mechanism of isoniazid killing: clarity through the scope of genetics.
+Authors: C. Vilchèze, W. Jacobs
+Year: 2007
+Paper ID: 45f635b28c9b86b0dbd13b340392f2e02373171a
+URL: https://www.semanticscholar.org/paper/45f635b28c9b86b0dbd13b340392f2e02373171a
+Venue: Annual Review of Microbiology
+
+Abstract:
+Isoniazid (INH) is one of the most efficient drugs for the treatment of Mycobacterium tuberculosis infections. Despite its rather simple chemical structure, the mechanism by which INH kills M. tuberculosis is complex. A full understanding of the mechanisms of action of INH required the development of genetic tools in M. tuberculosis. Herein, we discuss the different hypotheses that have been used to describe INH action against M. tuberculosis over the past 50 years in terms of the pregenetic and genetic era. We also review the different mechanisms of INH resistance and propose what we think is the means by which INH kills M. tuberculosis.

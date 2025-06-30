@@ -1,0 +1,12 @@
+Title: Mott transition and correlation effects on strictly localized states in an octagonal quasicrystal
+Authors: 
+Year: N/A
+Paper ID: web_109992
+URL: https://arxiv.org/html/2505.15498v1
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract
+Flat-band systems have attracted significant attention as platforms for studying strongly correlated electron physics, where the dominance of electron-electron interactions over kinetic energy gives rise to a variety of emergent phenomena. Quasicrystals are compelling systems for studying these phenomena as they host degenerate strictly localized states at zero energy due to perfect destructive interference patterns. In this study, we use the slave-rotor mean-field approach to investigate the effects of electron interactions within the Hubbard model on the Ammann-Beenker quasicrystal. The phase diagram characterizing metallic and Mott insulator regions indicates a first-order phase transition. Our analysis shows that the local coordination number affects the local quasiparticle weight, displaying varying metallicity across the sites. Furthermore, we focus on the strictly localized states that arise in the non-interacting limit. We find that interactions and deviation from particle-hole symmetry induce spectral splitting, broadening, and partial delocalization of the localized states, depending on the local environment. In particular,
+certain localized states with higher coordination numbers remain more robust compared to others. Our results highlight the critical role of local geometry in shaping correlation effects in flat-band quasicrystals.

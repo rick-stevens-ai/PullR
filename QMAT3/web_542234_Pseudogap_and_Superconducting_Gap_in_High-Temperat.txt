@@ -1,0 +1,24 @@
+Title: Pseudogap and Superconducting Gap in High-Temperature Superconductors
+Authors: 
+Year: N/A
+Paper ID: web_542234
+URL: https://www-ssrl.slac.stanford.edu/research/highlights_archive/pseudogap.html
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Pseudogap and Superconducting Gap in High-Temperature Superconductors
+
+**Key Points:**
+- Two distinct energy gaps (pseudogap and superconducting gap) coexist in underdoped high-Tc cuprate superconductors, each with opposite doping dependence.
+- The pseudogap in the antinodal region is likely a competing state rather than a precursor to superconductivity, while the superconducting gap is associated with the Fermi Arc region.
+- This two-gap scenario resolves previous contradictions in experimental observations and has significant implications for understanding the mechanism of high-Tc superconductivity.
+
+**Methods:** Angle-resolved photoemission spectroscopy (ARPES) on underdoped Bi2Sr2Ca1-xYxCu2O8+δ (Bi2212) samples with varying doping levels and transition temperatures.
+
+**Authors:** Kiyohisa Tanaka, W. S. Lee, D. H. Lu, A. Fujimori, T. Fujii, Risdiana, I. Terasaki, D. J. Scalapino, T. P. Devereaux, Z. Hussain, Z.-X. Shen
+
+**Publication Details:** Science 314, 1910 (2006)
+
+**Summary:**  
+This study investigates the electronic structure of underdoped high-temperature superconductor Bi2212 using ARPES, revealing the coexistence of two distinct energy gaps: a superconducting gap near the Fermi Arc and a pseudogap near the antinodal region. These gaps show opposite trends with doping, suggesting that the pseudogap is not a precursor to superconductivity but rather a competing state. The findings provide a unified explanation for previously conflicting experimental results and offer new insights into the mechanisms underlying high-Tc superconductivity.

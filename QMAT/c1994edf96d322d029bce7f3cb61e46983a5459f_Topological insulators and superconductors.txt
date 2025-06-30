@@ -1,0 +1,9 @@
+Title: Topological insulators and superconductors
+Authors: X. Qi, Shoucheng Zhang
+Year: 2010
+Paper ID: c1994edf96d322d029bce7f3cb61e46983a5459f
+URL: https://www.semanticscholar.org/paper/c1994edf96d322d029bce7f3cb61e46983a5459f
+Venue: 
+
+Abstract:
+Topological insulators are new states of quantum matter which cannot be adiabatically connected to conventional insulators and semiconductors. They are characterized by a full insulating gap in the bulk and gapless edge or surface states which are protected by time-reversal symmetry. These topological materials have been theoretically predicted and experimentally observed in a variety of systems, including HgTe quantum wells, BiSb alloys, and Bi2Te3 and Bi2Se3 crystals. Theoretical models, materials properties, and experimental results on two-dimensional and three-dimensional topological insulators are reviewed, and both the topological band theory and the topological field theory are discussed. Topological superconductors have a full pairing gap in the bulk and gapless surface states consisting of Majorana fermions. The theory of topological superconductors is reviewed, in close analogy to the theory of topological insulators.

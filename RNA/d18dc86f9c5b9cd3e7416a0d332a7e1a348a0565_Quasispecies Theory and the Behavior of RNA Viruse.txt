@@ -1,0 +1,9 @@
+Title: Quasispecies Theory and the Behavior of RNA Viruses
+Authors: A. Lauring, R. Andino
+Year: 2010
+Paper ID: d18dc86f9c5b9cd3e7416a0d332a7e1a348a0565
+URL: https://www.semanticscholar.org/paper/d18dc86f9c5b9cd3e7416a0d332a7e1a348a0565
+Venue: PLoS Pathogens
+
+Abstract:
+A large number of medically important viruses, including HIV, hepatitis C virus, and influenza, have RNA genomes. These viruses replicate with extremely high mutation rates and exhibit significant genetic diversity. This diversity allows a viral population to rapidly adapt to dynamic environments and evolve resistance to vaccines and antiviral drugs. For the last 30 years, quasispecies theory has provided a population-based framework for understanding RNA viral evolution. A quasispecies is a cloud of diverse variants that are genetically linked through mutation, interact cooperatively on a functional level, and collectively contribute to the characteristics of the population. Many predictions of quasispecies theory run counter to traditional views of microbial behavior and evolution and have profound implications for our understanding of viral disease. Here, we discuss basic principles of quasispecies theory and describe its relevance for our understanding of viral fitness, virulence, and antiviral therapeutic strategy.

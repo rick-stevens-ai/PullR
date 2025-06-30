@@ -1,0 +1,9 @@
+Title: Tuning Fermi Levels in Intrinsic Antiferromagnetic Topological Insulators MnBi2Te4 and MnBi4Te7 by Defect Engineering and Chemical Doping
+Authors: M. Du, Jiaqiang Yan, V. Cooper, M. Eisenbach
+Year: 2020
+Paper ID: d393d59ffd55d81a010069148a79a704d47b4b03
+URL: https://www.semanticscholar.org/paper/d393d59ffd55d81a010069148a79a704d47b4b03
+Venue: Advanced Functional Materials
+
+Abstract:
+MnBi2Te4 and MnBi4Te7 are intrinsic antiferromagnetic topological insulators, offering a promising materials platform for realizing exotic topological quantum states. However, high densities of intrinsic defects in these materials not only cause bulk metallic conductivity, preventing the measurement of quantum transport in surface states, but may also affect magnetism and topological properties. In this paper, systematic density functional theory calculations reveal specific material chemistry and growth conditions that determine the defect formation and dopant incorporation in MnBi2Te4 and MnBi4Te7. The large strain induced by the internal heterostructure promotes the formation of large‐size‐mismatched antisite defects and substitutional dopants. The results here show that the abundance of antisite defects is responsible for the observed n‐type metallic conductivity. A Te‐rich growth condition is predicted to reduce the bulk free electron density, which is confirmed by experimental synthesis and transport measurements in MnBi2Te4. Furthermore, Na doping is proposed to be an effective acceptor dopant to pin the Fermi level within the bulk band gap to enable the observation of surface quantum transport. The defect engineering and doping strategies proposed here should stimulate further studies for improving synthesis and for manipulating magnetic and topological properties in MnBi2Te4, MnBi4Te7, and related magnetic topological insulators.

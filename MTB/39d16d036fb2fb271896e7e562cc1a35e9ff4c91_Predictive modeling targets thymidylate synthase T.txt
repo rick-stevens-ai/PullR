@@ -1,0 +1,9 @@
+Title: Predictive modeling targets thymidylate synthase ThyX in Mycobacterium tuberculosis
+Authors: Kamel Djaout, Vinayak Singh, Y. Boum, V. Katawera, H. Becker et al. (and 9 more)
+Year: 2016
+Paper ID: 39d16d036fb2fb271896e7e562cc1a35e9ff4c91
+URL: https://www.semanticscholar.org/paper/39d16d036fb2fb271896e7e562cc1a35e9ff4c91
+Venue: Scientific Reports
+
+Abstract:
+There is an urgent need to identify new treatments for tuberculosis (TB), a major infectious disease caused by Mycobacterium tuberculosis (Mtb), which results in 1.5 million deaths each year. We have targeted two essential enzymes in this organism that are promising for antibacterial therapy and reported to be inhibited by naphthoquinones. ThyX is an essential thymidylate synthase that is mechanistically and structurally unrelated to the human enzyme. DNA gyrase is a DNA topoisomerase present in bacteria and plants but not animals. The current study set out to understand the structure-activity relationships of these targets in Mtb using a combination of cheminformatics and in vitro screening. Here, we report the identification of new Mtb ThyX inhibitors, 2-chloro-3-(4-methanesulfonylpiperazin-1-yl)-1,4-dihydronaphthalene-1,4-dione) and idebenone, which show modest whole-cell activity and appear to act, at least in part, by targeting ThyX in Mtb.

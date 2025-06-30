@@ -1,0 +1,25 @@
+Title: Moiré 2025
+Authors: 
+Year: N/A
+Paper ID: web_737781
+URL: https://moire25.ch/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Correlations and Topology in Moiré Materials
+
+**Key Points:**
+- The workshop focuses on the latest experimental and theoretical advances in strongly correlated and topological moiré materials, such as twisted bilayer graphene and bilayer transition-metal dichalcogenides.
+- Key research areas include unconventional electron phases (strange metals, fractional Chern insulators, exotic magnetic states, Mott insulators, heavy fermion physics) and the comparison of theory with experiments.
+- The event aims to foster collaboration within the moiré materials community and define open research questions for future investigation.
+
+**Methods:** Workshop format with invited and contributed talks, intensive discussions, and collaborative sessions.
+
+**Authors:** 
+- Organizers: Laura Classen, Louk Rademaker, Cecile Repellin, Glenn Wagner
+- Invited Speakers: Dmitri Efetov, Antoine Georges, Xiaodong Xu, Sid Parameswaran, Dan Mao, Atac Imamoglu, Leni Bascones, Abhay Pasupathy, Mitali Banerjee
+- Administrative & Technical Support: Adriana Bonito Aleman, Pierre Bouillot, Jean-Claude Schnuriger
+
+**Summary:**  
+The "Correlations and Topology in Moiré Materials" workshop (Moiré 2025) will convene leading researchers in Ascona, Switzerland, from July 27–30, 2025, to discuss the state-of-the-art in moiré quantum materials. The event will address the latest findings in correlated and topological phases, such as strange metals and Mott insulators, with a focus on bridging theory and experiment. Through invited talks, contributed presentations, and collaborative discussions, the workshop seeks to advance understanding and set the agenda for future research in this rapidly evolving field.

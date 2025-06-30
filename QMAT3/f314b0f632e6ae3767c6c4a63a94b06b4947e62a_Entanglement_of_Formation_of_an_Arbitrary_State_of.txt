@@ -1,0 +1,9 @@
+Title: Entanglement of Formation of an Arbitrary State of Two Qubits
+Authors: W. Wootters
+Year: 1997
+Paper ID: f314b0f632e6ae3767c6c4a63a94b06b4947e62a
+URL: https://www.semanticscholar.org/paper/f314b0f632e6ae3767c6c4a63a94b06b4947e62a
+Venue: 
+
+Abstract:
+The entanglement of a pure state of a pair of quantum systems is defined as the entropy of either member of the pair. The entanglement of formation of a mixed state is defined as the minimum average entanglement of an ensemble of pure states that represents the given mixed state. An earlier paper [Phys. Rev. Lett. 78, 5022 (1997)] conjectured an explicit formula for the entanglement of formation of a pair of binary quantum objects (qubits) as a function of their density matrix, and proved the formula to be true for a special class of mixed states. The present paper extends the proof to arbitrary states of this system and shows how to construct entanglement-minimizing pure-state decompositions.

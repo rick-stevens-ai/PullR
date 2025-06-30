@@ -1,0 +1,9 @@
+Title: Experimental review on Majorana zero-modes in hybrid nanowires
+Authors: Jiyong Fu, Bin Li, Xinfeng Zhang, Guangzhe Yu, Guang-Yao Huang et al. (and 1 more)
+Year: 2020
+Paper ID: 746a7e96b97ee7ccc5d25026a5e84f4db3d74fd7
+URL: https://www.semanticscholar.org/paper/746a7e96b97ee7ccc5d25026a5e84f4db3d74fd7
+Venue: Science China Physics Mechanics and Astronomy
+
+Abstract:
+As the condensed matter analog of Majorana fermion, the Majorana zero-mode is well known as a building block of fault-tolerant topological quantum computing. This review focuses on the recent progress of Majorana experiments, especially experiments about semiconductor-superconductor hybrid devices. We first sketch Majorana zero-mode formation from a bottom-up view, which is more suitable for beginners and experimentalists. Then, we survey the status of zero-energy state signatures reported recently, from zero-energy conductance peaks, the oscillations, the quantization, and the interactions with extra degrees of freedom. We also give prospects of future experiments for advancing one-dimensional semiconductor nanowire-superconductor hybrid materials and devices.

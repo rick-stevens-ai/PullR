@@ -1,0 +1,24 @@
+Title: Semiconductor demonstrates elusive quantum physics model
+Authors: 
+Year: N/A
+Paper ID: web_690278
+URL: https://news.cornell.edu/stories/2022/01/semiconductor-demonstrates-elusive-quantum-physics-model
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Demonstration of the Kane-Mele Model and Quantum Anomalous Hall Effect in a Semiconductor System
+
+**Key Points:**
+- Cornell researchers successfully demonstrated both the quantum anomalous Hall insulator and the two-dimensional topological insulator states in a single semiconductor system (MoTe₂/WSe₂ stack), realizing the long-sought Kane-Mele model.
+- This breakthrough enables toggling between these exotic quantum states by adjusting voltage, a feat not previously achieved in a single material platform.
+- The discovery opens pathways for advances in quantum devices, including potential applications in quantum computing and high-temperature dissipationless conductors.
+
+**Methods:** Experimental fabrication and measurement of twisted MoTe₂/WSe₂ semiconductor stacks; voltage tuning; theoretical calculations in collaboration with MIT.
+
+**Authors:** Tingxin Li, Shengwei Jiang, Bowen Shen, Yang Zhang, Kin Fai Mak, Jie Shan, Liang Fu, Lizhong Li, Zui Tao, and researchers from MIT and the National Institute for Materials Science, Tsukuba, Japan.
+
+**Publication Details:** Paper titled “Quantum Anomalous Hall Effect from Intertwined Moiré Bands,” published December 22, 2021, in Nature.
+
+**Summary:**  
+Cornell researchers have experimentally realized the elusive Kane-Mele model by demonstrating both the quantum anomalous Hall effect and the two-dimensional topological insulator state in a single MoTe₂/WSe₂ semiconductor stack. By twisting and voltage-tuning the stack, they achieved quantum states previously theorized but never observed together in one material, marking a significant advance in condensed matter physics. This work not only validates a foundational theoretical model but also paves the way for new quantum devices and potential improvements in quantum computing technologies.

@@ -1,0 +1,9 @@
+Title: AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility
+Authors: G. Morris, R. Huey, William Lindstrom, M. Sanner, R. Belew et al. (and 2 more)
+Year: 2009
+Paper ID: d7f0d01711855d236a8683cae11307da1610efc7
+URL: https://www.semanticscholar.org/paper/d7f0d01711855d236a8683cae11307da1610efc7
+Venue: Journal of Computational Chemistry
+
+Abstract:
+None

@@ -1,0 +1,9 @@
+Title: Quantitative proteomics reveals novel insights into isoniazid susceptibility in mycobacteria mediated by a universal stress protein.
+Authors: Xinling Hu, Xiaojing Li, Lige Huang, J. Chan, Yuling Chen et al. (and 2 more)
+Year: 2015
+Paper ID: 9a52f6bb9a3cd6a35da50044ee80ac77c895b2d8
+URL: https://www.semanticscholar.org/paper/9a52f6bb9a3cd6a35da50044ee80ac77c895b2d8
+Venue: Journal of Proteome Research
+
+Abstract:
+Tuberculosis (TB) is caused by the ancient pathogen, Mycobacterium tuberculosis, and is one of the most serious infectious diseases in the world. Isoniazid (INH) is an important first-line drug for the treatment of active and latent TB. INH resistance is an increasing problem in the treatment of TB. Phenotypic resistance to INH, however, is poorly understood. In this study, we constructed a strain of Mycobacterium bovis BCG that overexpresses the latency-related universal stress protein (USP), BCG_2013, and designated this strain BCG-2013. BCG_2013 overexpression increased susceptibility to INH compared with that of the wild-type strain, BCG-pMV261. Quantitative proteomic analysis revealed that BCG_2013 overexpression resulted in the upregulation of 50 proteins and the downregulation of 26 proteins among the 1500 proteins identified. Upregulation of catalase-peroxidase KatG expression in BCG-2013 was observed and confirmed by qPCR, whereas expression of other INH resistance-related proteins did not change. In addition, differential expression of the mycobacterial persistence regulator MprA and its regulatory proteins was observed. BCG_2013 and katG mRNA levels increased in a Wayne dormancy model, whereas MprA mRNA levels decreased. Taken together, our results suggest that the increase in KatG levels induced by increased BCG_2013 levels underlies the phenotypic susceptibility of mycobacteria to INH.

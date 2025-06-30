@@ -1,0 +1,9 @@
+Title: Experimental realization of a topological crystalline insulator in SnTe
+Authors: Yukio Tanaka, Z. Ren, Takafumi Sato, K. Nakayama, S. Souma et al. (and 3 more)
+Year: 2012
+Paper ID: 098600f0a6c7d5c2dafe53bfc8a9c2088f7e7f9f
+URL: https://www.semanticscholar.org/paper/098600f0a6c7d5c2dafe53bfc8a9c2088f7e7f9f
+Venue: Nature Physics
+
+Abstract:
+A topological insulator has surface metallic states that are topologically protected by time-reversal symmetry. Tin telluride is now shown to be a ‘topological crystalline insulator’, in which the surface metallic state is instead protected by the mirror symmetry of the crystal. A topological insulator is an unusual quantum state of matter, characterized by the appearance, at its edges or on its surface, of a gapless metallic state that is protected by time-reversal symmetry1,2. The discovery of topological insulators has stimulated the search for other topological states protected by other symmetries3,4,5,6,7, such as the recently predicted8 topological crystalline insulator (TCI) in which the metallic surface states are protected by the mirror symmetry of the crystal. Here we present experimental evidence for the TCI phase in tin telluride (SnTe), which has been predicted to be a TCI (ref. 9). Our angle-resolved photoemission spectra show the signature of a metallic Dirac-cone surface band, with its Dirac point slightly away from the edge of the surface Brillouin zone in SnTe. Such a gapless surface state is absent in a cousin material, lead telluride, in line with the theoretical prediction.

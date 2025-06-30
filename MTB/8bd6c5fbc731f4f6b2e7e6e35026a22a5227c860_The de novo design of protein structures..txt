@@ -1,0 +1,9 @@
+Title: The de novo design of protein structures.
+Authors: J. Richardson, D. Richardson
+Year: 1989
+Paper ID: 8bd6c5fbc731f4f6b2e7e6e35026a22a5227c860
+URL: https://www.semanticscholar.org/paper/8bd6c5fbc731f4f6b2e7e6e35026a22a5227c860
+Venue: TIBS -Trends in Biochemical Sciences. Regular ed
+
+Abstract:
+None

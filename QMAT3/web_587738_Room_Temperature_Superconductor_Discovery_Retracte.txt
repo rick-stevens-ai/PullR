@@ -1,0 +1,26 @@
+Title: Room Temperature Superconductor Discovery Retracted Over Controversy: Will We Ever Have Room Temperature Superconductors?
+Authors: 
+Year: N/A
+Paper ID: web_587738
+URL: https://quantumzeitgeist.com/room-temperature-superconductor-discovery-retracted/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Retraction of Room Temperature Superconductor Discovery and Its Impact on Superconductivity Research
+
+**Key Points:**
+- A high-profile paper claiming the discovery of a room temperature superconductor by Ranga Dias and Ashkan Salamat has been retracted by Nature, marking their third major retraction.
+- The retraction was requested by eight co-authors due to inaccuracies in the provenance of materials, experimental measurements, and data-processing protocols; allegations of plagiarism have also been raised against Dias.
+- The controversy has raised concerns about the credibility of superconductivity research but is expected to lead to more rigorous review processes rather than halt progress in the field.
+
+**Methods:** Experimental research on superconductivity in a compound of hydrogen, lutetium, and nitrogen; specific experimental methods are not detailed in the summary.
+
+**Authors:** Ranga Dias (University of Rochester), Ashkan Salamat (University of Nevada, Las Vegas), and eight co-authors (not all named).
+
+**Publication Details:** 
+- Original paper published and retracted by Nature (2023).
+- Previous related papers by the same authors also retracted by Nature and Physical Review Letters.
+
+**Summary:**  
+A controversial claim of a room temperature superconductor by physicists Ranga Dias and Ashkan Salamat has been retracted by Nature after eight co-authors raised concerns about the accuracy and integrity of the research. This marks the third major retraction involving these authors, amid allegations of data manipulation and plagiarism. The incident has sparked debate about the peer-review process and the credibility of superconductivity research, but experts believe it will ultimately lead to more careful scrutiny and continued progress in the field.

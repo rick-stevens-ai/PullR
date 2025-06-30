@@ -1,0 +1,9 @@
+Title: Structure-based virtual screening as a tool for the identification of novel inhibitors against Mycobacterium tuberculosis 3-dehydroquinate dehydratase.
+Authors: G. O. Petersen, Shalini Saxena, J. Renuka, V. Soni, P. Yogeeswari et al. (and 3 more)
+Year: 2015
+Paper ID: f59d86abac58032c44d9abc4c062565ec5e05609
+URL: https://www.semanticscholar.org/paper/f59d86abac58032c44d9abc4c062565ec5e05609
+Venue: Journal of Molecular Graphics and Modelling
+
+Abstract:
+None

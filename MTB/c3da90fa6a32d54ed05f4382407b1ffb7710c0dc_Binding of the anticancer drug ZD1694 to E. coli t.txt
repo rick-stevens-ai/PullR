@@ -1,0 +1,9 @@
+Title: Binding of the anticancer drug ZD1694 to E. coli thymidylate synthase: assessing specificity and affinity.
+Authors: E. Rutenber, R. Stroud
+Year: 1996
+Paper ID: c3da90fa6a32d54ed05f4382407b1ffb7710c0dc
+URL: https://www.semanticscholar.org/paper/c3da90fa6a32d54ed05f4382407b1ffb7710c0dc
+Venue: Structure
+
+Abstract:
+None

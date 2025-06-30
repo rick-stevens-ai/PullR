@@ -1,0 +1,12 @@
+Title: Seismic Sensing Analysis With Geometric Phase: From Land to Sea
+Authors: K. Runge, Susan Beck
+Year: 2025
+Paper ID: eca9f45b585bfdcd29bbd9607be5730a77658d6b
+URL: https://www.semanticscholar.org/paper/eca9f45b585bfdcd29bbd9607be5730a77658d6b
+Venue: Marine Technology Society journal
+
+Abstract:
+Abstract In September 2023, the National Science Foundation funded a new 5-year Science and Technology Center (STC) at the University of Arizona called the New Frontiers of Sound (NewFoS). The mission of the NewFoS STC is to unite a diverse and inclusive community who reveals
+ the full realm of possibilities for topological acoustics and create unprecedented acoustic technology for U.S. competitiveness and positive social impacts. NewFoS achieves its mission, in part, by researching three problem-driven projects. These include using acoustic waves and their phases
+ as analogues of quantum information science components, and designing and fabricating more efficient and capable acoustic structures for use in radio frequency devices like smartphones. Most importantly for this commentary, NewFoS scientists and engineers are creating novel uses for the geometric
+ phase of acoustic and seismic waves for advanced sensing modalities.

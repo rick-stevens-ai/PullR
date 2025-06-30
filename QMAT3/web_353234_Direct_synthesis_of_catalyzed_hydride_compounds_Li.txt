@@ -1,0 +1,22 @@
+Title: Direct synthesis of catalyzed hydride compounds – Licensing and Technology Transfer
+Authors: 
+Year: N/A
+Paper ID: web_353234
+URL: https://ip.sandia.gov/patent/direct-synthesis-of-catalyzed-hydride-compounds/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Direct synthesis of catalyzed alkali metal aluminum hydride compounds
+
+**Key Points:**
+- A novel method for directly preparing alkali metal aluminum hydrides (e.g., NaAlH₄, Na₃AlH₆) from alkali metals or their hydrides and aluminum.
+- The process includes doping the hydride with a transition metal catalyst (e.g., TiCl₃, TiF₃) to enable reversible hydrogenation.
+- The method avoids contamination common in wet chemical synthesis and is simpler and less expensive.
+
+**Methods:** Mechanical mixing of dry reagents under inert atmosphere, followed by high-pressure hydrogen charging and heating to ~125°C.
+
+**Authors:** Not specified
+
+**Summary:**  
+This patent discloses a direct, dry synthesis method for producing catalyzed alkali metal aluminum hydrides, such as sodium alanate, using mechanical mixing and high-pressure hydrogenation in the presence of transition metal catalysts. The approach is cost-effective, avoids contamination from wet chemical methods, and yields hydrides suitable for reversible hydrogen storage. The invention was developed with support from the U.S. Department of Energy/National Nuclear Security Administration.

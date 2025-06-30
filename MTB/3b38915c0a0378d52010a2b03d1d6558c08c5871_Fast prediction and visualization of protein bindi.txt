@@ -1,0 +1,9 @@
+Title: Fast prediction and visualization of protein binding pockets with PASS
+Authors: Brady Gp, P. Stouten
+Year: 2000
+Paper ID: 3b38915c0a0378d52010a2b03d1d6558c08c5871
+URL: https://www.semanticscholar.org/paper/3b38915c0a0378d52010a2b03d1d6558c08c5871
+Venue: J. Comput. Aided Mol. Des.
+
+Abstract:
+None

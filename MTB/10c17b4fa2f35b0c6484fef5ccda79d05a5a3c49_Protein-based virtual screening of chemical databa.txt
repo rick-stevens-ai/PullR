@@ -1,0 +1,9 @@
+Title: Protein-based virtual screening of chemical databases. 1. Evaluation of different docking/scoring combinations.
+Authors: C. Bissantz, G. Folkers, D. Rognan
+Year: 2000
+Paper ID: 10c17b4fa2f35b0c6484fef5ccda79d05a5a3c49
+URL: https://www.semanticscholar.org/paper/10c17b4fa2f35b0c6484fef5ccda79d05a5a3c49
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+Three different database docking programs (Dock, FlexX, Gold) have been used in combination with seven scoring functions (Chemscore, Dock, FlexX, Fresno, Gold, Pmf, Score) to assess the accuracy of virtual screening methods against two protein targets (thymidine kinase, estrogen receptor) of known three-dimensional structure. For both targets, it was generally possible to discriminate about 7 out of 10 true hits from a random database of 990 ligands. The use of consensus lists common to two or three scoring functions clearly enhances hit rates among the top 5% scorers from 10% (single scoring) to 25-40% (double scoring) and up to 65-70% (triple scoring). However, in all tested cases, no clear relationships could be found between docking and ranking accuracies. Moreover, predicting the absolute binding free energy of true hits was not possible whatever docking accuracy was achieved and scoring function used. As the best docking/consensus scoring combination varies with the selected target and the physicochemistry of target-ligand interactions, we propose a two-step protocol for screening large databases: (i) screening of a reduced dataset containing a few known ligands for deriving the optimal docking/consensus scoring scheme, (ii) applying the latter parameters to the screening of the entire database.

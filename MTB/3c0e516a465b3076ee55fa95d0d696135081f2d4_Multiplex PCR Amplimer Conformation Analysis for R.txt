@@ -1,0 +1,9 @@
+Title: Multiplex PCR Amplimer Conformation Analysis for Rapid Detection of gyrA Mutations in Fluoroquinolone-Resistant Mycobacterium tuberculosis Clinical Isolates
+Authors: A. Cheng, W. Yew, E. Chan, M. Chin, M. Hui et al. (and 1 more)
+Year: 2004
+Paper ID: 3c0e516a465b3076ee55fa95d0d696135081f2d4
+URL: https://www.semanticscholar.org/paper/3c0e516a465b3076ee55fa95d0d696135081f2d4
+Venue: Antimicrobial Agents and Chemotherapy
+
+Abstract:
+None

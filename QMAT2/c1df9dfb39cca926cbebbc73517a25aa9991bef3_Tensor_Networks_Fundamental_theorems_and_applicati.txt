@@ -1,0 +1,12 @@
+Title: Tensor Networks: Fundamental theorems and applications
+Authors: Raymond F. Bishop, Peggy H. Y. Li, O. Götze, J. Richter
+Year: 2019
+Paper ID: c1df9dfb39cca926cbebbc73517a25aa9991bef3
+URL: https://www.semanticscholar.org/paper/c1df9dfb39cca926cbebbc73517a25aa9991bef3
+Venue: 
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/c1df9dfb39cca926cbebbc73517a25aa9991bef3

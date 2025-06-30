@@ -1,0 +1,9 @@
+Title: Axion Insulator State in a Ferromagnet/Topological Insulator/Antiferromagnet Heterostructure.
+Authors: Yusheng Hou, R. Wu
+Year: 2018
+Paper ID: 8f6ff8e89fcf09537a5dfd8d485a5b01f7dcf0f5
+URL: https://www.semanticscholar.org/paper/8f6ff8e89fcf09537a5dfd8d485a5b01f7dcf0f5
+Venue: Nano letters (Print)
+
+Abstract:
+We propose the use of ferromagnetic insulator MnBi2Se4/Bi2Se3/antiferromagnetic insulator Mn2Bi2Se5 heterostructures for the realization of the axion insulator state. Importantly, the axion insulator state in such heterostructures only depends on the magnetization of the ferromagnetic insulator and, hence, can be observed in a wide range of external magnetic fields. Using density functional calculations and model Hamiltonian simulations, we find that the top and bottom surfaces have opposite half-quantum Hall conductances, [Formula: see text] and [Formula: see text], with a sizable global spin gap of 5.1 meV opened for the topological surface states of Bi2Se3. Our work provides a new strategy for the search of axion insulators by using van der Waals antiferromagnetic insulators along with three-dimensional topological insulators.

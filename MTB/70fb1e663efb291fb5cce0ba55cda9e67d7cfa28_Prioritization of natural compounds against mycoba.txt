@@ -1,0 +1,9 @@
+Title: Prioritization of natural compounds against mycobacterium tuberculosis 3-dehydroquinate dehydratase: A combined in-silico and in-vitro study.
+Authors: M. Y. Lone, M. Athar, V. Gupta, P. Jha
+Year: 2017
+Paper ID: 70fb1e663efb291fb5cce0ba55cda9e67d7cfa28
+URL: https://www.semanticscholar.org/paper/70fb1e663efb291fb5cce0ba55cda9e67d7cfa28
+Venue: Biochemical and Biophysical Research Communications - BBRC
+
+Abstract:
+None

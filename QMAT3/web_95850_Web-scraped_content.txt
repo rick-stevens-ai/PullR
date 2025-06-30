@@ -1,0 +1,10 @@
+Title: Web-scraped content
+Authors: 
+Year: N/A
+Paper ID: web_95850
+URL: https://samkhya.iopb.res.in/Generation_higher-order_topo_insulators_periodic_driving_Arnob.pdf
+Venue: Web Source
+Content Status: SHORT_ABSTRACT, WEB_SCRAPED
+
+Abstract:
+No abstract available

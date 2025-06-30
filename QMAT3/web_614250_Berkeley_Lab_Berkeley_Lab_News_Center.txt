@@ -1,0 +1,31 @@
+Title: Berkeley Lab – Berkeley Lab News Center
+Authors: 
+Year: N/A
+Paper ID: web_614250
+URL: https://newscenter.lbl.gov/2011/03/24/pseudogap/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Nature of the Pseudogap Phase in High-Temperature Cuprate Superconductors
+
+**Key Points:**
+- The pseudogap phase in high-temperature cuprate superconductors is a distinct phase of matter, not merely a precursor to superconductivity.
+- Three complementary experimental techniques (ARPES, magneto-optical Kerr effect, and time-resolved reflectivity) applied to the same Pb-Bi2201 sample all indicate a true phase transition at the pseudogap boundary (T*).
+- The pseudogap phase influences superconductivity but does not involve Cooper pairs; its exact nature remains unknown, but understanding it could lead to advances in achieving higher-temperature superconductivity.
+
+**Methods:** 
+- Angle-resolved photoemission spectroscopy (ARPES)
+- Magneto-optical Kerr effect measurements
+- Time-resolved reflectivity
+- All methods were applied to the same sample of Pb-Bi2201 (lead bismuth strontium lanthanum copper-oxide).
+
+**Authors:** 
+- Ruihua He, Makoto Hashimoto, Hovnatan Karapetyan, Jake Koralek, Jamie Hinton, Jean-Pierre Testaud, Vikram Nathan, Yoshiyuki Yoshida, Hong Yao, Kiyohisa Tanaka, Worawat Meevasana, Rob Moore, Donhui Lu, Sung-Kwan Mo, Motoyuki Ishikado, Hiroshi Eisaki, Zahid Hussain, Thomas Devereaux, Steven Kivelson, Joseph Orenstein, Aharon Kapitulnik, Zhi-Xun Shen
+
+**Publication Details:** 
+- Article: “From a single-band metal to a high-temperature superconductor via two thermal phase transitions”
+- Published in: Science, March 25, 2011
+
+**Summary:**  
+A collaborative study by researchers from Berkeley Lab, Stanford, SLAC, and UC Berkeley used three advanced experimental techniques on the same high-temperature superconductor (Pb-Bi2201) to investigate the mysterious pseudogap phase. Their results provide the strongest evidence to date that the pseudogap is a distinct phase of matter, marked by a true phase transition at temperature T*, rather than a gradual precursor to superconductivity. This paradigm shift in understanding high-Tc superconductors opens new avenues for research into achieving superconductivity at higher temperatures.

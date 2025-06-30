@@ -1,0 +1,9 @@
+Title: Structure-based in silico approaches for drug discovery against Mycobacterium tuberculosis
+Authors: A. Kingdon, L. Alderwick
+Year: 2021
+Paper ID: c616ed118fb2afafcad494016a4b6e36ddff9104
+URL: https://www.semanticscholar.org/paper/c616ed118fb2afafcad494016a4b6e36ddff9104
+Venue: Computational and Structural Biotechnology Journal
+
+Abstract:
+None

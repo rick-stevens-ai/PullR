@@ -1,0 +1,21 @@
+Title: Dr Shuqiu Wang: High-temperature superconductivity
+Authors: 
+Year: N/A
+Paper ID: web_486199
+URL: https://www.physics.ox.ac.uk/our-people/shiquiwang/high-temperature-superconductivity
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** High-temperature superconductivity in cuprates
+
+**Key Points:**
+1. Discovery of orbital ordering in the high-temperature superconductor Bi₂Sr₂CaCu₂O₈₊ₓ, revealing intra-unit-cell symmetry breaking and energy-level splitting between oxygen atoms.
+2. Identification of a pair density wave (PDW) state coexisting with superconductivity in the cuprate pseudogap phase, with direct visualization of its spatial and temperature-dependent properties.
+
+**Methods:** Sublattice-resolved energy imaging techniques, scanning tunneling microscopy (STM), and visualization of electronic structure and quasiparticle scattering interference.
+
+**Authors:** Dr. Shuqiu Wang (and collaborators, not fully specified)
+
+**Summary:**  
+Dr. Shuqiu Wang’s research focuses on quantum materials, particularly high-temperature superconductivity in cuprates. Recent work includes the discovery of orbital ordering in Bi₂Sr₂CaCu₂O₈₊ₓ, where intra-unit-cell symmetry breaking leads to energy-level splitting between oxygen atoms, forming Ising domains of orbital order. Additionally, the research provides evidence for a pair density wave state in the pseudogap phase of underdoped cuprates, with experimental observations matching theoretical predictions for the coexistence and evolution of PDW and superconductivity. These findings advance the understanding of the microscopic mechanisms underlying high-temperature superconductivity.

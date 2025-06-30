@@ -1,0 +1,24 @@
+Title: Tensor Network
+Authors: 
+Year: N/A
+Paper ID: web_775030
+URL: https://tensornetwork.org/reviews_resources.html
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Tensor Networks – Reviews, Tutorials, and Key Literature
+
+**Key Points:**
+- Tensor networks are a powerful framework for representing and simulating quantum many-body systems, with applications extending to quantum physics, chemistry, and data analytics.
+- The resource compiles comprehensive introductory tutorials, review articles, technical books, and seminal papers covering foundational concepts, algorithms (like DMRG, TEBD, MERA, TNR), and advanced topics such as tensor decompositions and entanglement scaling.
+- The collection includes both accessible introductions for newcomers and in-depth technical resources for advanced researchers, with materials spanning practical implementation, mathematical theory, and recent developments.
+
+**Methods:**  
+Compilation and curation of academic literature, tutorials, lecture notes, and open-access books; includes both theoretical expositions and practical algorithmic guides.
+
+**Authors:**  
+Multiple contributors, including Glen Evenbly, Roman Orus, Ulrich Schollwoeck, Garnet Chan, Andrzej Cichocki, Jacob C. Bridgeman, Christopher T. Chubb, Shi-Ju Ran, Frank Pollmann, Laurens Vanderstraeten, J. Ignacio Cira, Miles Stoudenmire, Garnet Kin-Lic Chan, Sebastian Paeckel, Boris N. Khoromskij, Ivan Oseledets, T. G. Kolda, B. W. Bader, G. Vidal, and others.
+
+**Summary:**  
+This resource page provides a curated list of review articles, tutorials, lecture notes, and original research papers on tensor networks, a mathematical framework central to modern quantum many-body physics and related fields. The materials range from beginner-friendly introductions and practical coding guides to advanced technical reviews and seminal papers on key algorithms and theoretical developments. The collection serves as a comprehensive starting point for researchers and students seeking to understand or apply tensor network methods in physics, mathematics, and data science.

@@ -1,0 +1,9 @@
+Title: Two Decades of TB Drug Discovery Efforts—What Have We Learned?
+Authors: Balachandra S Bandodkar, R. Shandil, J. Bhat, T. Balganesh
+Year: 2020
+Paper ID: efc6309c2eaa6ebfaf198080f7d893bdb380169b
+URL: https://www.semanticscholar.org/paper/efc6309c2eaa6ebfaf198080f7d893bdb380169b
+Venue: Applied Sciences
+
+Abstract:
+After several years of limited success, an effective regimen for the treatment of both drug-sensitive and multiple-drug-resistant tuberculosis is in place. However, this success is still incomplete, as we need several more novel combinations to treat extensively drug-resistant tuberculosis, as well newer emerging resistance. Additionally, the goal of a shortened therapy continues to evade us. A systematic analysis of the tuberculosis drug discovery approaches employed over the last two decades shows that the lead identification path has been largely influenced by the improved understanding of the biology of the pathogen Mycobacterium tuberculosis. Interestingly, the drug discovery efforts can be grouped into a few defined approaches that predominated over a period of time. This review delineates the key drivers during each of these periods. While doing so, the author’s experiences at AstraZeneca R&D, Bangalore, India, on the discovery of new antimycobacterial candidate drugs are used to exemplify the concept. Finally, the review also discusses the value of validated targets, promiscuous targets, the current anti-TB pipeline, the gaps in it, and the possible way forward.

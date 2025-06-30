@@ -1,0 +1,22 @@
+Title: Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians.
+Authors: A. Qaseem, D. Kansagara, M. Forciea, M. Cooke, Thomas D. Denberg
+Year: 2016
+Paper ID: 97bdf97be5d1daeca623a3f3bcee57e98e07ef0a
+URL: https://www.semanticscholar.org/paper/97bdf97be5d1daeca623a3f3bcee57e98e07ef0a
+Venue: Annals of Internal Medicine
+
+Abstract:
+DESCRIPTION
+The American College of Physicians (ACP) developed this guideline to present the evidence and provide clinical recommendations on the management of chronic insomnia disorder in adults.
+
+
+METHODS
+This guideline is based on a systematic review of randomized, controlled trials published in English from 2004 through September 2015. Evaluated outcomes included global outcomes assessed by questionnaires, patient-reported sleep outcomes, and harms. The target audience for this guideline includes all clinicians, and the target patient population includes adults with chronic insomnia disorder. This guideline grades the evidence and recommendations by using the ACP grading system, which is based on the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach.
+
+
+RECOMMENDATION 1
+ACP recommends that all adult patients receive cognitive behavioral therapy for insomnia (CBT-I) as the initial treatment for chronic insomnia disorder. (Grade: strong recommendation, moderate-quality evidence).
+
+
+RECOMMENDATION 2
+ACP recommends that clinicians use a shared decision-making approach, including a discussion of the benefits, harms, and costs of short-term use of medications, to decide whether to add pharmacological therapy in adults with chronic insomnia disorder in whom cognitive behavioral therapy for insomnia (CBT-I) alone was unsuccessful. (Grade: weak recommendation, low-quality evidence).

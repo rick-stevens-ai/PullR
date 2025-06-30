@@ -1,0 +1,9 @@
+Title: On the topological surface states of the intrinsic magnetic topological insulator Mn-Bi-Te family
+Authors: Yuan Wang, Xiao-Ming Ma, Z. Hao, Yongqing Cai, Hongtao Rong et al. (and 8 more)
+Year: 2022
+Paper ID: 72a48b3b504cdfbdf139109f4170bcdb216c54bd
+URL: https://www.semanticscholar.org/paper/72a48b3b504cdfbdf139109f4170bcdb216c54bd
+Venue: National Science Review
+
+Abstract:
+Abstract We review recent progress in the electronic structure study of intrinsic magnetic topological insulators (MnBi2Te4) · (Bi2Te3)n (\documentclass[12pt]{minimal} \usepackage{amsmath} \usepackage{wasysym} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsbsy} \usepackage{upgreek} \usepackage{mathrsfs} \setlength{\oddsidemargin}{-69pt} \begin{document} $n\ = \ 0,\ 1,\ 2,\ 3$\end{document}) family. Specifically, we focus on the ubiquitously (nearly) gapless behavior of the topological Dirac surface state observed by photoemission spectroscopy, even though a large Dirac gap is expected because of surface ferromagnetic order. The dichotomy between experiment and theory concerning this gap behavior is perhaps the most critical and puzzling question in this frontier. We discuss various proposals accounting for the lack of magnetic effect on the topological Dirac surface state, which are mainly categorized into two pictures, magnetic reconfiguration and topological surface state redistribution. Band engineering towards opening a magnetic gap of topological surface states provides great opportunities to realize quantized topological transport and axion electrodynamics at higher temperatures.

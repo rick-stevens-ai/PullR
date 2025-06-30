@@ -1,0 +1,9 @@
+Title: Virtual screening in drug discovery -- a computational perspective.
+Authors: A. Reddy, S. Pati, P. P. Kumar, H. Pradeep, G. N. Sastry
+Year: 2007
+Paper ID: 45d1bea020037be442a935dc70f389c0a504e21d
+URL: https://www.semanticscholar.org/paper/45d1bea020037be442a935dc70f389c0a504e21d
+Venue: Current protein and peptide science
+
+Abstract:
+Virtual screening emerged as an important tool in our quest to access novel drug like compounds. There are a wide range of comparable and contrasting methodological protocols available in screening databases for the lead compounds. The number of methods and software packages which employ the target and ligand based virtual screening are increasing at a rapid pace. However, the general understanding on the applicability and limitations of these methodologies is not emerging as fast as the developments of various methods. Therefore, it is extremely important to compare and contrast various protocols with practical examples to gauge the strength and applicability of various methods. The review provides a comprehensive appraisal on several of the available virtual screening methods to-date. Recent developments of the docking and similarity based methods have been discussed besides the descriptor selection and pharmacophore based searching. The review touches upon the application of statistical, graph theory based methods machine learning tools in virtual screening and combinatorial library design. Finally, several case studies are undertaken where the virtual screening technology has been applied successfully. A critical analysis of these case studies provides a good platform to estimate the applicability of various virtual screening methods in the new lead identification and optimization.

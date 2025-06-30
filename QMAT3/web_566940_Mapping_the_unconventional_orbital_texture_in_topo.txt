@@ -1,0 +1,33 @@
+Title: Mapping the unconventional orbital texture in topological crystalline insulators (Journal Article)
+Authors: 
+Year: N/A
+Paper ID: web_566940
+URL: https://www.osti.gov/pages/biblio/1557723
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:**  
+Unconventional orbital texture in topological crystalline insulators
+
+**Key Points:**  
+- The study unveils the orbital texture of Pb₁₋ₓSnₓSe, a prototypical topological crystalline insulator, revealing complex band topology with multiple Dirac cones.
+- Distinct intensity and energy dependencies in Fourier-transform scanning tunnelling spectroscopy (FT-STS) measurements are directly attributed to orbital effects.
+- The findings establish the orbital nature of Dirac bands and identify two Lifshitz transitions, suggesting new pathways for quantum applications.
+
+**Methods:**  
+Fourier-transform scanning tunnelling spectroscopy (FT-STS) was used to measure interference patterns from surface-state electron scattering.
+
+**Authors:**  
+Ilija Zeljkovic, Yoshinori Okada, Cheng-Yi Huang, R. Sankar, Daniel Walkup, Wenwen Zhou, Maksym Serbyn, Fangcheng Chou, Wei-Feng Tsai, Hsin Lin, A. Bansil, Liang Fu, M. Zahid Hasan, Vidya Madhavan
+
+**Publication Details:**  
+- Journal: Nature Physics  
+- Volume: 10, Issue: 8  
+- Year: 2014  
+- DOI: https://doi.org/10.1038/NPHYS3012  
+- OSTI ID: 1557723  
+- Publisher: Nature Publishing Group
+
+**Summary:**  
+This study maps the unconventional orbital texture in the topological crystalline insulator Pb₁₋ₓSnₓSe using Fourier-transform scanning tunnelling spectroscopy. The research reveals that the surface-state Dirac cones exhibit distinct orbital characteristics, as evidenced by unique interference patterns and energy dependencies. The discovery of two Lifshitz transitions and the establishment of the orbital nature of the Dirac bands provide new insights into the material's electronic structure and open up possibilities for future quantum technologies.

@@ -1,0 +1,9 @@
+Title: Virtual screening strategies in drug discovery: a critical review.
+Authors: A. Lavecchia, C. D. Giovanni
+Year: 2013
+Paper ID: 032df1ca02a6b57697e8eb4c393578d0c51ad673
+URL: https://www.semanticscholar.org/paper/032df1ca02a6b57697e8eb4c393578d0c51ad673
+Venue: Current Medicinal Chemistry
+
+Abstract:
+Virtual screening (VS) is a powerful technique for identifying hit molecules as starting points for medicinal chemistry. The number of methods and softwares which use the ligand and target-based VS approaches is increasing at a rapid pace. What, however, are the real advantages and disadvantages of the VS technology and how applicable is it to drug discovery projects? This review provides a comprehensive appraisal of several VS approaches currently available. In the first part of this work, an overview of the recent progress and advances in both ligand-based VS (LBVS) and structure-based VS (SBVS) strategies highlighting current problems and limitations will be provided. Special emphasis will be given to in silico chemogenomics approaches which utilize annotated ligand-target as well as protein-ligand interaction databases and which could predict or reveal promiscuous binding and polypharmacology, the knowledge of which would help medicinal chemists to design more potent clinical candidates with fewer side effects. In the second part, recent case studies (all published in the last two years) will be discussed where the VS technology has been applied successfully. A critical analysis of these case studies provides a good platform in order to estimate the applicability of various VS strategies in the new lead identification and optimization.

@@ -1,0 +1,9 @@
+Title: Comparison of the NCI Open Database with Seven Large Chemical Structural Databases
+Authors: J. Voigt, B. Bienfait, Shaomeng Wang, M. Nicklaus
+Year: 2001
+Paper ID: e091ed661bc403193340c71cb53cf88d12eb797b
+URL: https://www.semanticscholar.org/paper/e091ed661bc403193340c71cb53cf88d12eb797b
+Venue: Journal of chemical information and computer sciences
+
+Abstract:
+Eight large chemical databases have been analyzed and compared to each other. Central to this comparison is the open National Cancer Institute (NCI) database, consisting of approximately 250 000 structures. The other databases analyzed are the Available Chemicals Directory ("ACD," from MDL, release 1.99, 3D-version); the ChemACX ("ACX," from CamSoft, Version 4.5); the Maybridge Catalog and the Asinex database (both as distributed by CamSoft as part of ChemInfo 4.5); the Sigma-Aldrich Catalog (CD-ROM, 1999 Version); the World Drug Index ("WDI," Derwent, version 1999.03); and the organic part of the Cambridge Crystallographic Database ("CSD," from Cambridge Crystallographic Data Center, 1999 Version 5.18). The database properties analyzed are internal duplication rates; compounds unique to each database; cumulative occurrence of compounds in an increasing number of databases; overlap of identical compounds between two databases; similarity overlap; diversity; and others. The crystallographic database CSD and the WDI show somewhat less overlap with the other databases than those with each other. In particular the collections of commercial compounds and compilations of vendor catalogs have a substantial degree of overlap among each other. Still, no database is completely a subset of any other, and each appears to have its own niche and thus "raison d'être". The NCI database has by far the highest number of compounds that are unique to it. Approximately 200 000 of the NCI structures were not found in any of the other analyzed databases.

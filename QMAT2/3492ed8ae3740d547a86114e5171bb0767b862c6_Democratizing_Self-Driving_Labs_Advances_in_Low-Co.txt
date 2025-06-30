@@ -1,0 +1,9 @@
+Title: Democratizing Self-Driving Labs: Advances in Low-Cost 3D Printing for Laboratory Automation
+Authors: Sayan Doloi, Maloy Das, Matthew Osvaldo, Yujia Li, Zen Han Cho et al. (and 3 more)
+Year: 2025
+Paper ID: 3492ed8ae3740d547a86114e5171bb0767b862c6
+URL: https://www.semanticscholar.org/paper/3492ed8ae3740d547a86114e5171bb0767b862c6
+Venue: Digital Discovery
+
+Abstract:
+Laboratory automation through self-driving labs represents a transformative approach to accelerating scientific discovery, particularly in chemical sciences, biological sciences, materials science, and high-throughput experimentation. However, widespread adoption of these technologies...

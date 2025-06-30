@@ -1,0 +1,10 @@
+Title: [2408.16851] New magnetic topological materials from high-throughput search
+Authors: 
+Year: N/A
+Paper ID: web_847443
+URL: http://arxiv.org/abs/2408.16851
+Venue: Web Source
+Content Status: EXTERNAL_URL, WEB_SCRAPED
+
+Abstract:
+Abstract:We conducted a high-throughput search for topological magnetic materials on 522 new, experimentally reported commensurate magnetic structures from MAGNDATA, doubling the number of available materials on the Topological Magnetic Materials database. This brings up to date the previous studies which had become incomplete due to the discovery of new materials. For each material, we performed first-principle electronic calculations and diagnosed the topology as a function of the Hubbard U parameter. Our high-throughput calculation led us to the prediction of 250 experimentally relevant topologically non-trivial materials, which represent 47.89% of the newly analyzed materials. We present five remarkable examples of these materials, each showcasing a different topological phase: Mn${}_2$AlB${}_2$ (BCSID 1.508), which exhibits a nodal line semimetal to topological insulator transition as a function of SOC, CaMnSi (BCSID 0.599), a narrow gap axion insulator, UAsS (BCSID 0.594) a 5f-orbital Weyl semimetal, CsMnF${}_4$ (BCSID 0.327), a material presenting a new type of quasi-symmetry protected closed nodal surface and FeCr${}_2$S${}_4$ (BCSID 0.613), a symmetry-enforced semimetal with double Weyls and spin-polarised surface states.

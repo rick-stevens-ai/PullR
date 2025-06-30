@@ -1,0 +1,12 @@
+Title: Machine Learning Assisted Material Discovery: A Small Data Approach
+Authors: Qionghua Zhou, Xinyu Chen, Jinlan Wang
+Year: 2025
+Paper ID: 005e8434eae12fe1b8f803992e1c12825854d786
+URL: https://www.semanticscholar.org/paper/005e8434eae12fe1b8f803992e1c12825854d786
+Venue: Accounts of Materials Research
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/005e8434eae12fe1b8f803992e1c12825854d786

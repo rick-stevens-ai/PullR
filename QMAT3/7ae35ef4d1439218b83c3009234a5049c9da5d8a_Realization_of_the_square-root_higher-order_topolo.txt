@@ -1,0 +1,9 @@
+Title: Realization of the square-root higher-order topological insulator in electric circuits.
+Authors: Lingling Song, Huanhuan Yang, Yunshan Cao, P. Yan
+Year: 2020
+Paper ID: 7ae35ef4d1439218b83c3009234a5049c9da5d8a
+URL: https://www.semanticscholar.org/paper/7ae35ef4d1439218b83c3009234a5049c9da5d8a
+Venue: Nano letters (Print)
+
+Abstract:
+Higher-order topological insulator (HOTI) represents a new phase of matter, the characterization of which goes beyond the conventional bulk-boundary correspondence and is attracting significant attention by the broad community. Using a square-root operation, it has been suggested that a square-root HOTI may emerge in a hybrid honeycomb-kagome lattice. Here, we report the first experimental realization of the square-root HOTI in topological LC circuits. We show theoretically and experimentally that the square-root HOTI inherits the feature of wave function from its parent, with corner states pinned to non-zero energies. The topological feature is fully characterized by the bulk polarization. To directly measure the finite-energy corner modes, we introduce extra grounded inductors to each node, which shifts corner states to zero-energy without affecting their spatial distributions. Our results experimentally substantiate the emerging square-root HOTI and pave the way to realizing exotic topological phases that are challenging to observe in condensed matter physics.

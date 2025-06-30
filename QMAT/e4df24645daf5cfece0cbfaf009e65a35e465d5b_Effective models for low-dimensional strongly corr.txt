@@ -1,0 +1,9 @@
+Title: Effective models for low-dimensional strongly correlated systems
+Authors: M. Sigrist, Matthias, Troyer, V. Kotov
+Year: 2005
+Paper ID: e4df24645daf5cfece0cbfaf009e65a35e465d5b
+URL: https://www.semanticscholar.org/paper/e4df24645daf5cfece0cbfaf009e65a35e465d5b
+Venue: 
+
+Abstract:
+None

@@ -1,0 +1,9 @@
+Title: Higher-order topological insulators in three dimensions without crystalline counterparts
+Authors: Y. Mao, Yi Tao, Jiong-Hao Wang, Q. Zeng, Yong Xu
+Year: 2023
+Paper ID: 70229657b59547a964e6f6c349f1a7090abedea3
+URL: https://www.semanticscholar.org/paper/70229657b59547a964e6f6c349f1a7090abedea3
+Venue: Physical review B
+
+Abstract:
+Quasicrystals allow for symmetries that are impossible in crystalline materials, such as eight-fold rotational symmetry, enabling the existence of novel higher-order topological insulators in two dimensions without crystalline counterparts. However, it remains an open question whether three-dimensional higher-order topological insulators and Weyl-like semimetals without crystalline counterparts can exist. Here, we demonstrate the existence of a second-order topological insulator by constructing and exploring a three-dimensional model Hamiltonian in a stack of Ammann-Beenker tiling quasicrystalline lattices. The topological phase has eight chiral hinge modes that lead to quantized longitudinal conductances of $4 e^2/h$. We show that the topological phase is characterized by the winding number of the quadrupole moment. We further establish the existence of a second-order topological insulator with time-reversal symmetry, characterized by a $\mathbb{Z}_2$ topological invariant. Finally, we propose a model that exhibits a higher-order Weyl-like semimetal phase, demonstrating both hinge and surface Fermi arcs. Our findings highlight that quasicrystals in three dimensions can give rise to higher-order topological insulators and semimetal phases that are unattainable in crystals.

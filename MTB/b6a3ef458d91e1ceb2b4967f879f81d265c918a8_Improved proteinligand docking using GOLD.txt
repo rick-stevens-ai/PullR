@@ -1,0 +1,9 @@
+Title: Improved protein–ligand docking using GOLD
+Authors: M. Verdonk, J. Cole, M. Hartshorn, C. Murray, Richard D. Taylor
+Year: 2003
+Paper ID: b6a3ef458d91e1ceb2b4967f879f81d265c918a8
+URL: https://www.semanticscholar.org/paper/b6a3ef458d91e1ceb2b4967f879f81d265c918a8
+Venue: Proteins: Structure, Function, and Bioinformatics
+
+Abstract:
+None

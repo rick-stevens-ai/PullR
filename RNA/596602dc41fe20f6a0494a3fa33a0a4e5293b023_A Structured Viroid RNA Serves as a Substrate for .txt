@@ -1,0 +1,9 @@
+Title: A Structured Viroid RNA Serves as a Substrate for Dicer-Like Cleavage To Produce Biologically Active Small RNAs but Is Resistant to RNA-Induced Silencing Complex-Mediated Degradation
+Authors: A. Itaya, Xuehua Zhong, R. Bundschuh, Y. Qi, Ying Wang et al. (and 5 more)
+Year: 2007
+Paper ID: 596602dc41fe20f6a0494a3fa33a0a4e5293b023
+URL: https://www.semanticscholar.org/paper/596602dc41fe20f6a0494a3fa33a0a4e5293b023
+Venue: Journal of Virology
+
+Abstract:
+None

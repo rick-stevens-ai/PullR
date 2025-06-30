@@ -1,0 +1,27 @@
+Title: Berkeley Lab – Berkeley Lab News Center
+Authors: 
+Year: N/A
+Paper ID: web_254646
+URL: https://newscenter.lbl.gov/2006/01/30/pseudogaps-are-not-the-answer/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Relationship between pseudogaps, high-temperature superconductivity, and colossal magnetoresistance in transition-metal oxides
+
+**Key Points:**
+- Pseudogaps, previously thought to be closely linked to high-temperature superconductivity in cuprates, have also been observed in manganites, which are ferromagnetic and exhibit colossal magnetoresistance (CMR).
+- This finding challenges the idea that pseudogaps are unique hallmarks of high-Tc superconductivity and suggests they may be a more general feature of transition-metal oxides.
+- The research also strengthens the evidence for the role of polarons in CMR and hints at their possible relevance in high-Tc superconductivity.
+
+**Methods:** 
+- Angle-resolved photoemission spectroscopy (ARPES) was used at the Advanced Light Source (ALS) to study the electronic structure of LSMO manganites and compare it to high-Tc cuprates.
+
+**Authors:** 
+- N. Mannella, W. L. Yang, X. J. Zhou, H. Zheng, J. F. Mitchell, J. Zaanen, T. P. Devereaux, N. Nagaosa, Z. Hussain, and Z.-X. Shen.
+
+**Publication Details:** 
+- Paper titled “Nodal quasiparticle in pseudogapped colossal magnetoresistive manganites” published in Nature, 24 November 2005.
+
+**Summary:**  
+A multi-institutional team led by researchers at Berkeley Lab and Stanford University discovered that pseudogaps, previously associated with high-temperature superconductivity in cuprates, also appear in manganites exhibiting colossal magnetoresistance. Using ARPES at the Advanced Light Source, the team found that the pseudogap features and their nodal-antinodal dichotomy are present in both material types, challenging the notion that pseudogaps are unique to superconductivity. The findings also reinforce the importance of polarons in CMR and suggest that polaron physics may play a broader role in the behavior of transition-metal oxides, including high-Tc superconductors.

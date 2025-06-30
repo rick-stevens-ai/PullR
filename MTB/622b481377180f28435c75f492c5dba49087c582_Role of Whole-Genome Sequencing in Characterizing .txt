@@ -1,0 +1,9 @@
+Title: Role of Whole-Genome Sequencing in Characterizing the Mechanism of Action of para-Aminosalicylic Acid and Its Resistance
+Authors: G. Satta, A. Witney, Neelu Begum, Julio Ortiz Canseco, A. N. Boa et al. (and 1 more)
+Year: 2020
+Paper ID: 622b481377180f28435c75f492c5dba49087c582
+URL: https://www.semanticscholar.org/paper/622b481377180f28435c75f492c5dba49087c582
+Venue: Antimicrobial Agents and Chemotherapy
+
+Abstract:
+para-Aminosalicylic acid (PAS) remains one of the drugs of last resort for the treatment of tuberculosis, but its mechanism of action is still not completely understood. The main aim of this project was to identify new potential mechanisms of action and resistance to PAS by performing whole-genome sequencing on PAS-resistant laboratory mutants. A new variant in the folC gene was identified, as well as some other mutations that require further study. ABSTRACT para-Aminosalicylic acid (PAS) remains one of the drugs of last resort for the treatment of tuberculosis, but its mechanism of action is still not completely understood. The main aim of this project was to identify new potential mechanisms of action and resistance to PAS by performing whole-genome sequencing on PAS-resistant laboratory mutants. A new variant in the folC gene was identified, as well as some other mutations that require further study.

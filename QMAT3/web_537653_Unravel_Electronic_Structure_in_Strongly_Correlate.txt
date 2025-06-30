@@ -1,0 +1,22 @@
+Title: Unravel Electronic Structure in Strongly Correlated Materials [Slides] (Technical Report)
+Authors: 
+Year: N/A
+Paper ID: web_537653
+URL: https://www.osti.gov/biblio/2282525
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Electronic structure in strongly correlated materials
+
+**Key Points:**
+- The report discusses theoretical approaches to understanding the electronic structure of strongly correlated materials, focusing on correlated electron systems.
+- It highlights the application of first-principles dynamical mean-field theory (DMFT) to study f-electron correlation effects.
+- The presentation includes an introduction, motivation, and a summary of current research and future outlook in the field.
+
+**Methods:** First-principles dynamical mean-field theory (DMFT) framework
+
+**Authors:** Jianxin Zhu (Los Alamos National Laboratory)
+
+**Summary:**  
+This technical report, authored by Jianxin Zhu at Los Alamos National Laboratory, presents an overview of theoretical methods for investigating the electronic structure of strongly correlated materials, with a particular emphasis on the use of first-principles DMFT. The slides outline the motivation for studying correlated electron systems, describe the DMFT framework, and discuss its application to materials with significant f-electron correlation effects. The report concludes with a summary of findings and perspectives on future research directions in the field.

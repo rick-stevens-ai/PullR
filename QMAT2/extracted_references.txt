@@ -1,0 +1,230 @@
+1. Angle-resolved photoemission studies of quantum materials. Reviews of Modern Physics. 2021. https://link.aps.org/doi/10.1103/RevModPhys.93.025006
+2. ARPES on high-temperature superconductors: Simplicity vs. complexity (Review Article). Journal of Electron Spectroscopy and Related Phenomena. 2014. https://www.researchgate.net/publication/258071973_ARPES_on_high-temperature_superconductors_Simplicity_vs_complexity_Review_Article
+3. Evidence for unconventional superconductivity in twisted bilayer graphene. Yazdani Lab, Princeton University. 2019. https://yazdanilab.princeton.edu/highlights/evidence-unconventional-superconductivity-twisted-bilayer-graphene
+4. Evidence for unconventional superconductivity in twisted bilayer graphene. OSTI.GOV. 2022. https://www.osti.gov/pages/biblio/1842831
+5. Dynamical mean-field theory of strongly correlated electron systems. Reviews of Modern Physics. 1996. https://www.physics.rutgers.edu/~udo/qmc/rmp68_13.pdf
+6. Dynamical Mean-Field Theory of Strongly Correlated Electron Systems. Journal of the Physical Society of Japan Conference Proceedings. 2020. https://journals.jps.jp/doi/pdf/10.7566/JPSCP.30.011001
+7. Angle-resolved photoemission studies of the cuprate superconductors. Quantum Materials at UBC. 2003. https://qmlab.ubc.ca/ARPES/PUBLICATIONS/Reviews/RMP_ARPES.pdf
+8. A New Tool to Attack the Mysteries of High-Temperature Superconductivity. Lab Manager. 2018. https://www.labmanager.com/a-new-tool-to-attack-the-mysteries-of-high-temperature-superconductivity-16881
+9. Pseudogaps Are Not The Answer. Berkeley Lab News Center. 2006. https://newscenter.lbl.gov/2006/01/30/pseudogaps-are-not-the-answer/
+10. Superconducting Magnet Program – Accelerator Technology. Lawrence Berkeley National Laboratory. 2025. https://atap.lbl.gov/research/scientific-programs-and-centers/superconducting-magnet-program/
+11. Physics Underlying High-Temperature Superconductivity. Lawrence Berkeley National Laboratory. 2025. https://www2.lbl.gov/Science-Articles/Archive/super-mechanism.html
+12. New Research Advances High-Temperature Superconductivity. Innovations Report. 2025. https://www.innovations-report.com/science-tech/physics-and-astronomy/new-magnetism-research-brings-high-temp-superconductivity-applications-closer/
+13. Superconductivity. Argonne National Laboratory. 2025. https://www.anl.gov/topic/superconductivity
+14. Los Alamos. OSTI. 2025. https://www.osti.gov/servlets/purl/964943
+15. Argonne Superconductor Technology Licensed. C&EN Global Enterprise, ACS Publications. 2025. https://pubs.acs.org/doi/10.1021/cen-v066n042.p005a
+16. New High-Temperature Superconductors. Time. 2025. https://time.com/archive/6924084/new-high-temperature-superconductors/
+17. Laboratory Researchers Achieve High Temperature Superconductor Milestone. ScienceDaily. 2001. https://www.sciencedaily.com/releases/2001/01/010102061737.htm
+18. Pseudogap Phase of Cuprate Superconductors Confined by Fermi Surface Topology. ResearchGate. 2025. https://www.researchgate.net/publication/386630781_Pseudogap_phase_of_cuprate_superconductors_confined_by_Fermi_surface_topology
+19. Pseudogap Temperature of Cuprate Superconductors from the Nernst Effect. Physical Review B. 2018. https://link.aps.org/doi/10.1103/PhysRevB.97.064502
+20. Vanishing Nematic Order Beyond the Pseudogap Phase in Overdoped Cuprate Superconductors. Proceedings of the National Academy of Sciences. 2021. https://www.pnas.org/doi/10.1073/pnas.2106881118
+21. The pseudogap in high-temperature superconductors: an experimental survey. SciSpace. 2025. Accessed June 29, 2025. https://scispace.com/pdf/the-pseudogap-in-high-temperature-superconductors-an-22i3tjkdfn.pdf
+22. What is pseudogap phase in high Tc cuprates? Physics Stack Exchange. 2025. Accessed June 29, 2025. https://physics.stackexchange.com/questions/756998/what-is-pseudogap-phase-in-high-t-c-cuprates
+23. The pseudogap state in high-Tc superconductors: an infrared study. Unspecified Author. 1996. Accessed June 29, 2025. http://infrared.ucsd.edu/basov_pubs/31-Puchkov-JPhys-96.pdf
+24. Pseudogap and Superconducting Gap in High-Temperature Superconductors. Stanford University. 2025. Accessed June 29, 2025. https://www-ssrl.slac.stanford.edu/research/highlights_archive/pseudogap.html
+25. Norman M. R., Pines D., Kallin C. The pseudogap: friend or foe of high Tc? Materials Science Division, Argonne National Laboratory. arXiv. 2005. Accessed June 29, 2025. https://arxiv.org/pdf/cond-mat/0507031
+26. DOE Pulse: Science and Technology Highlights from the DOE National Laboratories. U.S. Department of Energy. 2006. Accessed June 29, 2025. https://web.ornl.gov/info/news/pulse/archive_issues/pulse_v224_06.htm
+27. Closing in on the Pseudogap. Berkeley Lab News. 2011. Accessed June 29, 2025. https://newscenter.lbl.gov/2011/03/24/pseudogap/
+28. Spontaneous breaking of time-reversal symmetry in the pseudogap state of a high-Tc superconductor. Argonne National Laboratory. 2025. Accessed June 29, 2025. https://www.anl.gov/argonne-scientific-publications/pub/42729
+29. Dr. Shuqiu Wang: High-temperature superconductivity. Physics, Oxford University. 2025. Accessed June 29, 2025. https://www.physics.ox.ac.uk/our-people/shiquiwang/high-temperature-superconductivity
+30. Key Advance in Understanding 'Pseudogap' Phase in High-Tc. Brookhaven National Laboratory Newsroom. 2025. Accessed June 29, 2025. https://www.bnl.gov/newsroom/news.php?a=111155
+31. Unraveling the Complex, Intertwined Electron Phases in a Superconductor. BNL Newsroom. 2025. https://www.bnl.gov/newsroom/news.php?a=111783
+32. Unraveling the Origin of the Pseudogap in a Charge Density Wave Compound. Argonne National Laboratory. 2025. https://www.anl.gov/article/unraveling-the-origin-of-the-pseudogap-in-a-charge-density-wave-compound
+33. Pseudogap Phase of Cuprate Superconductors Confined by Fermi Surface Topology. arXiv:1712.05113. 2017. https://arxiv.org/abs/1712.05113
+34. Signatures of Superconductivity and Pseudogap Formation in Nonequilibrium Nodal Quasiparticles Revealed by Ultrafast Angle-Resolved Photoemission. Physical Review B, 88, 245132. 2013. https://link.aps.org/doi/10.1103/PhysRevB.88.245132
+35. Scientists Gain New Insight into Mysterious Electronic Phenomenon. Argonne National Laboratory. 2025. https://www.anl.gov/article/scientists-gain-new-insight-into-mysterious-electronic-phenomenon
+36. First Direct Evidence That a Mysterious Phase of Matter Competes with High-Temperature Superconductivity. ScienceDaily. 2014. https://www.sciencedaily.com/releases/2014/12/141220104104.htm
+37. Mysteries of the Bizarre 'Pseudogap' in Quantum Physics Finally Untangled. Simons Foundation. 2024. https://www.simonsfoundation.org/2024/09/19/mysteries-of-the-bizarre-pseudogap-in-quantum-physics-finally-untangled/
+38. Pseudogap and Superconducting Gap. Stanford University SSRL. 2025. https://www-ssrl.slac.stanford.edu/research/pseudogap_summary.html
+39. Direct Evidence of Pseudogap Competing with Superconductivity. Innovations Report. 2025. https://www.innovations-report.com/engineering/materials-sciences/first-direct-evidence-that-a-mysterious-phase-of-matter-competes-with-high-temperature-superconductivity/
+40. Norman, M. R., Pines, D., & Kallin, C. The Pseudogap: Friend or Foe of High Tc? arXiv:cond-mat/0507031v1. 2005. http://www.arxiv.org/pdf/cond-mat/0507031v1
+41. Fermi Surface Transforms at the Onset of the Pseudogap State in a Cuprate Superconductor. National MagLab Science Highlights. 2025. https://nationalmaglab.org/user-facilities/dc-field/research/science-highlights/fermi-surface-transforms-pseudogap-state/
+42. Thermodynamics of the pseudogap in cuprates. Frontiers in Physics. 2022. https://www.frontiersin.org/journals/physics/articles/10.3389/fphy.2022.1030616/full
+43. Origin of the Pseudogap in High-Temperature Cuprate Superconductors. The Journal of Physical Chemistry Letters. 2011. https://pubs.acs.org/doi/abs/10.1021/jz200916t
+44. Superconductor research is getting hot. Science! Astronomy & Space Exploration, and Others - Cloudy Nights. 2025. https://www.cloudynights.com/topic/885055-superconductor-research-is-getting-hot/
+45. Shattering Dreams of a Scientific Breakthrough: Nature Retracts Room-Temperature Superconductivity Study Amidst Allegations of Misconduct. The Debrief. 2025. https://thedebrief.org/shattering-dreams-of-a-scientific-breakthrough-nature-retracts-room-temperature-superconductivity-study-amidst-allegations-of-misconduct/
+46. Supposed room-temperature superconductors fail to convince critics. Revista Pesquisa FAPESP. 2025. https://revistapesquisa.fapesp.br/en/supposed-room-temperature-superconductors-fail-to-convince-critics/
+47. Superconducting ternary hydrides: progress and challenges. National Science Review. 2024. https://academic.oup.com/nsr/article/11/7/nwad307/7462326
+48. Pressure-induced hydrogen-dominant high-temperature superconductors. National Science Review. 2024. https://academic.oup.com/nsr/article/11/7/nwae004/7511108
+49. Colloquium: Room temperature superconductivity: The roles of theory and materials design. Reviews of Modern Physics. 2023. https://link.aps.org/doi/10.1103/RevModPhys.95.021001
+50. Data-driven search for high-temperature superconductors in ternary hydrides under pressure. Physical Review B. 2024. https://link.aps.org/doi/10.1103/PhysRevB.111.054505
+51. Paper About Room Temperature Superconductivity Retracted from Nature. Chemistry and Physics - Labroots. 2025. Accessed June 29, 2025. https://www.labroots.com/trending/chemistry-and-physics/23710/paper-temperature-superconductivity-retracted-nature-2
+52. Room-Temperature Superconductor Discovery Meets With Resistance. Quanta Magazine. 2023. Accessed June 29, 2025. https://www.quantamagazine.org/room-temperature-superconductor-discovery-meets-with-resistance-20230308/
+53. Room Temperature Superconductor Discovery Retracted Over Controversy: Will We Ever Have Room Temperature Superconductors? Quantum Zeitgeist. 2023. Accessed June 29, 2025. https://quantumzeitgeist.com/room-temperature-superconductor-discovery-retracted/
+54. Further Update in the Room-Temperature Superconductor Drama. r/Physics - Reddit. 2023. Accessed June 29, 2025. https://www.reddit.com/r/Physics/comments/123ltg3/further_update_in_the_roomtemperature/
+55. Muted Response to New Claim of a Room-Temperature Superconductor. Physical Review Link Manager. 2023. Accessed June 29, 2025. https://link.aps.org/doi/10.1103/Physics.16.39
+56. A Controversial Room-Temperature Superconductor Result Has Been Retracted. Science News. 2023. Accessed June 29, 2025. https://www.sciencenews.org/article/room-temperature-superconductor-retracted-ranga-dias
+57. Room-Temperature Superconductivity Claim Falls Apart [Update]. Quanta Magazine. 2020. Accessed June 29, 2025. https://www.quantamagazine.org/room-temperature-superconductivity-claim-falls-apart-update-20201014/
+58. First Ambient Temperature and Pressure Superconductor Announced. Science Media Centre España. 2023. Accessed June 29, 2025. https://sciencemediacentre.es/en/reactions-study-still-pending-review-announces-first-superconductor-room-temperature-and-pressure
+59. Bringing Pressure-Induced Superconductivity Back to Ambient. Proceedings of the National Academy of Sciences (PNAS). 2024. Accessed June 29, 2025. https://www.pnas.org/doi/10.1073/pnas.2501048122
+60. Baby Steps Towards Ambient-Pressure High-Temperature Superconductors. Securities.io. 2023. Accessed June 29, 2025. https://www.securities.io/baby-steps-towards-ambient-pressure-high-temperature-superconductors/
+61. Superconductivity achieved at room temperature with new materials without the hassle of high-pressure equipment. Reddit. 2025. Accessed June 29, 2025. https://www.reddit.com/r/OptimistsUnite/comments/1lmr04w/superconductivity_achieved_at_room_temperature/
+62. Superconductivity achieved at room temperature with new materials. Earth.com. 2025. Accessed June 29, 2025. https://www.earth.com/news/superconductivity-achieved-at-room-temperature-with-new-materials/
+63. Feasible Route to High-Temperature Ambient-Pressure Hydride Superconductivity. Physical Review Letters. 2025. Accessed June 29, 2025. https://link.aps.org/doi/10.1103/PhysRevLett.132.166001
+64. Machine Learning Assisted Material Discovery: A Small Data Approach. ACS Publications. 2025. Accessed June 29, 2025. https://pubs.acs.org/doi/10.1021/accountsmr.1c00236
+65. Light-Induced Superconductivity: New Advances Under Pressure. Innovations Report. 2025. Accessed June 29, 2025. https://www.innovations-report.com/science-tech/physics-and-astronomy/light-induced-superconductivity-under-high-pressure/
+66. Cavalleri A. Optical control of superconductivity. 2025. Accessed June 29, 2025. https://qcmd.mpsd.mpg.de/science/optical-control-of-superconductivity/
+67. Room-temperature superconductors: New discovery brings science closer to the dream. Tech Explorist. 2025. Accessed June 29, 2025. https://www.techexplorist.com/room-temperature-superconductors/97766/
+68. High-Pressure Hydrogen Materials Synthesis and Testing. Hymarc. 2025. Accessed June 29, 2025. https://www.hymarc.org/capabilities/high-pressure-hydrogen-materials-synthesis-and-testing
+69. Self-driving lab transforms materials discovery. Argonne National Laboratory. 2025. Accessed June 29, 2025. https://www.anl.gov/article/selfdriving-lab-transforms-materials-discovery
+70. Materials Science Artificial Intelligence (AI) Project Supports Data Service Initiative. Globus. 2025. Accessed June 29, 2025. https://www.globus.org/user-stories/materials-science-ai-project
+71. Los Alamos National Laboratory. Quantum and Condensed Matter Physics. Accessed June 29, 2025. https://www.lanl.gov/engage/organizations/aldsct/theoretical/pcmcs
+72. Sandia National Laboratories. Metal Hydride Compressor for High-Pressure (875 bar) Hydrogen Delivery. Accessed June 29, 2025. https://www.sandia.gov/research/publications/search/?format=abstract&authors%5B0%5D=terry-johnson&per-page=200
+73. Sandia National Laboratories. Direct Synthesis of Catalyzed Hydride Compounds. Licensing and Technology Transfer. Accessed June 29, 2025. https://ip.sandia.gov/patent/direct-synthesis-of-catalyzed-hydride-compounds/
+74. Materials Project. About. Accessed June 29, 2025. https://next-gen.materialsproject.org/about
+75. Lawrence Berkeley National Laboratory, Materials Sciences Division. Materials Project. Accessed June 29, 2025. https://materialssciences.lbl.gov/research/research-programs/materials-project/
+76. Number Analytics. Unlocking Materials Project Potential. Accessed June 29, 2025. https://www.numberanalytics.com/blog/ultimate-guide-materials-project-computational-materials-science
+77. Oak Ridge National Laboratory. High-Pressure Synthesis and Neutron Scattering Study of Tantalum Hydride and a Tantalum Polymorph with A15-Type Structure. Accessed June 29, 2025. https://www.ornl.gov/publication/high-pressure-synthesis-and-neutron-scattering-study-tantalum-hydride-and-tantalum
+78. Eremets, M. Hydride Superconductivity: Here to Stay, or to Lead Astray and Soon Go Away? arXiv. 2025. https://arxiv.org/html/2501.01466v1
+79. Reddit. Why Does Room Temperature Superconducting Need Immense Pressure? r/QuantumPhysics. Accessed June 29, 2025. https://www.reddit.com/r/QuantumPhysics/comments/1ec0yi4/why_does_room_temperature_superconducting_need/
+80. Zhang, Y., Li, X., Wang, J. Machine Learning-Driven Materials Discovery: Unlocking Next-Generation Functional Materials - A Minireview. ResearchGate. 2024. https://www.researchgate.net/publication/390176388_Machine_Learning_-_Driven_Materials_Discovery_Unlocking_Next-Generation_Functional_Materials_-_A_minireview
+81. Georges A, Kotliar G, Krauth W, Rozenberg MJ. Dynamical Mean-Field Theory of Strongly Correlated Fermion Systems and the Limit of Infinite Dimensions. ResearchGate. Accessed June 29, 2025. https://www.researchgate.net/publication/215930256_Dynamical_Mean-Field_Theory_of_Strongly_Correlated_Fermion_Systems_and_the_Limit_of_Infinite_Dimensions
+82. Kulik H, Marzari N. Model Hamiltonian for Strongly Correlated Systems: Systematic, Self-Consistent Approach. Physical Review B. 2019. https://link.aps.org/doi/10.1103/PhysRevB.99.125114
+83. Gagliardi L, Truhlar DG. Electronic Structure of Strongly Correlated Systems: Recent Developments in Multiconfiguration Pair-Density Functional Theory and Multiconfiguration Nonclassical-Energy Functional Theory. Frontiers in Chemistry. 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC9261488/
+84. Anisimov VI, Izyumov YA. Methods of Modeling of Strongly Correlated Electron Systems. Nanomaterials. 2023. https://www.mdpi.com/2079-4991/13/2/238
+85. Vollhardt D. Dynamical Mean-Field Approach for Strongly Correlated Materials. Cond-mat.de. 2011. https://www.cond-mat.de/events/correl11/manuscripts/vollhardt.pdf
+86. Held K, Vollhardt D. Correlated Electrons: From Models to Materials. Cond-mat.de. 2012. https://www.cond-mat.de/events/correl12/manuscripts/correl12.pdf
+87. Yamamoto S, Koshino M. Mott Transition and Correlation Effects on Strictly Localized States in an Octagonal Quasicrystal. arXiv preprint. 2025. https://arxiv.org/html/2505.15498v1
+88. Zhang Y. Machine Learning and Monte Carlo Studies of Strongly Correlated Systems. Cornell eCommons. 2023. https://ecommons.cornell.edu/items/86209b3a-ae6a-4540-a439-8c86eed0f5b6
+89. Kotliar G, Vollhardt D. Dynamical Mean-Field Theory of Strongly Correlated Electron Systems. arXiv preprint. 2019. https://arxiv.org/abs/1910.12650
+90. Zhang G. Unravel Electronic Structure in Strongly Correlated Materials [Slides]. OSTI. 2020. https://www.osti.gov/biblio/2282525
+91. Zhang S. Quantum Monte Carlo Methods for Strongly Correlated Systems. Physics, 2003. http://physics.wm.edu/~shiwei/Preprint/Springer2003_Zhang_2.pdf
+92. Physics Stack Exchange. Difference between Monte Carlo and Quantum Monte Carlo methods? 2025. https://physics.stackexchange.com/questions/56373/difference-between-monte-carlo-and-quantum-monte-carlo-methods
+93. Lawrence Berkeley National Laboratory. Quantum Materials – Accelerator Technology & Applied Physics. 2025. https://atap.lbl.gov/research/scientific-programs-and-centers/quantum-materials/
+94. Orús R. Tensor Network Algorithms: A Route Map. Annual Review of Condensed Matter Physics, 2023. https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-040721-022705
+95. TensorNetwork.org. Review Articles & Learning Resources - Tensor Network. 2025. https://tensornetwork.org/reviews_resources.html
+96. Schollwöck U. Tensor Networks and Applications in Condensed Matter. mediaTUM, 2013. https://mediatum.ub.tum.de/doc/1070963/1070963.pdf
+97. Tagliacozzo L, Evenbly G, Vidal G. Developments in the Tensor Network--from Statistical Mechanics to Quantum Information. arXiv preprint arXiv:2111.12223, 2021. https://arxiv.org/abs/2111.12223
+98. Loughborough University. Theory of Strongly Correlated Electron Systems. Physics Department, 2025. https://www.lboro.ac.uk/departments/physics/research/research-themes/condensed-matter-and-materials-physics/theoryofstronglycorrelatedelectronsystems/
+99. University of Tennessee. Quantum Materials - Institute for Advanced Materials & Manufacturing. UT Research, 2025. https://research.utk.edu/iamm/research-areas/quantum-materials/
+100. Kotliar G, et al. Toward a Predictive Theory of Correlated Materials. Physical Review B, 2018. https://www.osti.gov/pages/biblio/1462849
+101. Materials Theory. Oak Ridge National Laboratory. Accessed June 29, 2025. https://www.ornl.gov/group/materials-theory
+102. Research Groups. Argonne National Laboratory. Accessed June 29, 2025. https://www.anl.gov/msd/research-groups
+103. IMS Conferences and Workshops. Los Alamos National Laboratory. Accessed June 29, 2025. https://www.lanl.gov/engage/collaboration/nsec/institute-for-materials-science/conferences-and-workshops
+104. Condensed Matter Physics & Materials Science. Brookhaven National Laboratory. Accessed June 29, 2025. https://www.bnl.gov/cmpmsd/
+105. Condensed Matter Theory Group. Brookhaven National Laboratory. Accessed June 29, 2025. https://www.bnl.gov/cmpmsd/cmth/
+106. Topological Quantum Computing with Majorana Fermions. YouTube. Accessed June 29, 2025. https://m.youtube.com/watch?v=Xyfsr-coriQ
+107. What are the challenges in making and controlling qubits for quantum computers? Quora. Accessed June 29, 2025. https://www.quora.com/What-are-the-challenges-in-making-and-controlling-qubits-for-quantum-computers
+108. What Is a Topological Qubit? Ultimate Guide for 2025. SpinQ. Accessed June 29, 2025. https://www.spinquanta.com/news-detail/what-is-a-topological-qubit
+109. Why is it helpful to use Majorana particle in topological quantum computing (they are just Fermions?!). Quantum Computing Stack Exchange. Accessed June 29, 2025. https://quantumcomputing.stackexchange.com/questions/41320/why-is-it-helpful-to-use-majorana-particle-in-topological-quantum-computing-the
+110. Topological Quantum Computing: Majorana Fermions and Where to Find Them. Qutube. Accessed June 29, 2025. https://www.qutube.nl/quantum-computer-12/topological-quantum-computing-majorana-fermions-and-where-to-find-them
+111. Majorana nanowires for topological quantum computation. AIP Publishing. 2025. https://pubs.aip.org/aip/jap/article-pdf/doi/10.1063/5.0102999/19874157/231101_1_5.0102999.pdf
+112. Topological quantum computation based on chiral Majorana modes. Proceedings of the National Academy of Sciences. 2018. https://www.pnas.org/doi/10.1073/pnas.1810003115
+113. Q&A: Will Microsoft's quantum 'breakthrough' revolutionize computing? Penn State News. 2025. https://www.psu.edu/news/research/story/qa-will-microsofts-quantum-breakthrough-revolutionize-computing
+114. Experimental review on Majorana zero-modes in hybrid nanowires. arXiv. 2020. https://arxiv.org/html/2009.10985v2
+115. Experimental review on Majorana zero-modes in hybrid nanowires. ResearchGate. 2021. https://www.researchgate.net/publication/354409919_Experimental_review_on_Majorana_zero-modes_in_hybrid_nanowires
+116. Disordered Majorana nanowires: Studying disorder without any disorder. Physical Review B. 2024. https://link.aps.org/doi/10.1103/PhysRevB.110.075401
+117. Masood, Adnan. Shadows That Compute: The Rise of Microsoft's Majorana 1 in Next-Generation Quantum Technologies. Medium. 2023. https://medium.com/@adnanmasood/shadows-that-compute-the-rise-of-microsofts-majorana-1-in-next-generation-quantum-technologies-903a908bb071
+118. Microsoft's claim of a working "topological qubit" sparks skepticism among physicists. Reddit r/Physics. 2024. https://www.reddit.com/r/Physics/comments/1jm9a5p/microsofts_claim_of_a_working_topological_qubit/
+119. Microsoft Story Labs: Station Q. Microsoft News. 2023. https://news.microsoft.com/stories/stationq/
+120. Topological Quantum Processor: a Breakthrough in Computing. College of Engineering, UC Santa Barbara. 2023. https://engineering.ucsb.edu/news/topological-quantum-processor-breakthrough-computing
+121. Microsoft. Microsoft unveils Majorana 1, the world's first quantum processor powered by topological qubits. Microsoft Azure Blog. 2025. Accessed June 29, 2025. https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/microsoft-unveils-majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/
+122. QNu Labs. Microsoft Majorana 1 Path to Million Qubit Quantum Computers, Classical Encryption has ZERO SAFETY. QNu Labs Blog. 2025. Accessed June 29, 2025. https://www.qnulabs.com/blog/microsoft-majorana-1-path-to-million-qubit-quantum-computers-classical-encryption-has-zero-safety
+123. YouTube. Majorana 1: Microsoft's Quantum Computing Breakthrough! YouTube Shorts. 2025. Accessed June 29, 2025. https://www.youtube.com/shorts/9kxcGmHJnCI
+124. Sciencenews.org. Physicists are mostly unconvinced by Microsoft's new topological quantum chip. Science News. 2025. Accessed June 29, 2025. https://www.sciencenews.org/article/microsoft-topological-quantum-majorana
+125. Pan H, Woods BD, Stanescu TD, Das Sarma S. Machine Learning the Disorder Landscape of Majorana Nanowires. Physical Review Letters. 2024;132:206602. Accessed June 29, 2025. https://link.aps.org/doi/10.1103/PhysRevLett.132.206602
+126. Q-NEXT. DOE National QIS Research Centers. Q-NEXT. 2025. Accessed June 29, 2025. https://q-next.org/doe-national-qis-research-centers/
+127. U.S. Department of Energy Office of Science. National QIS Research Centers. U.S. DOE Office of Science. 2025. Accessed June 29, 2025. https://science.osti.gov/Initiatives/QIS/QIS-Centers
+128. Argonne National Laboratory. Quantum Computing. Argonne National Laboratory. 2025. Accessed June 29, 2025. https://www.anl.gov/mcs/quantum-computing
+129. Argonne National Laboratory. Materials Science. Argonne National Laboratory. 2025. Accessed June 29, 2025. https://www.anl.gov/msd
+130. National Quantum Information Science Research Centers. DOE National Quantum Information Science Research Centers. 2025. Accessed June 29, 2025. https://nqisrc.org/
+131. Quantum Science Center. Home. Accessed June 29, 2025. https://www.qscience.org/
+132. C2QA. National Quantum Information Science Centers. Accessed June 29, 2025. https://www.bnl.gov/quantumcenter/QIS-centers.php
+133. Oak Ridge National Laboratory. Three-pronged approach discerns qualities of quantum spin liquids. Accessed June 29, 2025. https://www.ornl.gov/news/three-pronged-approach-discerns-qualities-quantum-spin-liquids
+134. Brookhaven National Laboratory. Quantum Computing Group | Home. Accessed June 29, 2025. https://www.bnl.gov/compsci/quantum/
+135. Brookhaven National Laboratory. Mapping the Electronic States in an Exotic Superconductor. BNL Newsroom. Accessed June 29, 2025. https://www.bnl.gov/newsroom/news.php?a=118841
+136. Brookhaven National Laboratory. Condensed Matter Physics & Materials Science | Chiral. Accessed June 29, 2025. https://www.bnl.gov/cmpmsd/aem/
+137. The Quantum Insider. Microsoft's Majorana Topological Chip -- An Advance 17 Years in The Making. Accessed June 29, 2025. https://thequantuminsider.com/2025/02/19/microsofts-majorana-topological-chip-an-advance-17-years-in-the-making/
+138. PMC. High spin axion insulator. Accessed June 29, 2025. https://pmc.ncbi.nlm.nih.gov/articles/PMC11102527/
+139. OSTI. Mapping the unconventional orbital texture in topological crystalline. Accessed June 29, 2025. https://www.osti.gov/pages/biblio/1557723
+140. Fu, L., Kane, C. L. Topological Crystalline Insulators. Physical Review Letters. 2011. https://link.aps.org/doi/10.1103/PhysRevLett.106.106802
+141. Generation of higher-order topological insulators using periodic driving. arXiv preprint arXiv:2311.17018. 2023.
+142. Crystalline Topological Insulators: A TQFT Guide. Number Analytics Blog. 2025. https://www.numberanalytics.com/blog/crystalline-topological-insulators-tqft-guide
+143. Experimental realization of a topological crystalline insulator in SnTe. KEK Annual Report 2012, Part A, 12AH2-2. 2012. http://pfwww.kek.jp/acr2012pdf/part_a/12ah2_2.pdf
+144. Experimental realization of a topological crystalline insulator in SnTe. ResearchGate. 2012. https://www.researchgate.net/publication/228059259_Experimental_realization_of_a_topological_crystalline_insulator_in_SnTe
+145. Surfaces of axion insulators. Physical Review B, 98, 245117. 2018. https://doi.org/10.1103/PhysRevB.98.245117
+146. Realization of the axion insulator state in quantum anomalous Hall sandwich heterostructures. Physical Review Letters, 120, 056801. 2018. https://doi.org/10.1103/PhysRevLett.120.056801
+147. Visualization of an axion insulating state at the transition between two chiral quantum anomalous Hall states. Proceedings of the National Academy of Sciences, 116(32), 15156-15160. 2019. https://doi.org/10.1073/pnas.1818255116
+148. Realization of the axion insulator state in quantum anomalous Hall sandwich heterostructures. arXiv preprint arXiv:1710.00471. 2017.
+149. Experimental realization of an intrinsic magnetic topological insulator. Chinese Physics Letters, 36(7), 076801. 2019. https://doi.org/10.1088/0256-307X/36/7/076801
+150. Progress on antiferromagnetic topological insulator MnBi2Te4. ResearchGate. 2023. https://www.researchgate.net/publication/367582615_Progress_on_antiferromagnetic_topological_insulator_MnBi2Te4
+151. Generation of higher-order topological insulators using periodic driving. Institute of Physics, Bhubaneswar. 2025. https://samkhya.iopb.res.in/Generation_higher-order_topo_insulators_periodic_driving_Arnob.pdf
+152. Higher-order topological insulators. OSTI.GOV (Journal Article). 2025. https://www.osti.gov/pages/biblio/1499926
+153. Imhof, S., Berger, C., Bayer, F., Brehm, J., Molenkamp, L.W., Kiessling, T., Schindler, F., Lee, C.H., Greiter, M., Neupert, T., Thomale, R. Realization of the Square-Root Higher-Order Topological Insulator in Electric Circuits. Nano Letters. 2020. https://pubs.acs.org/doi/10.1021/acs.nanolett.0c03049
+154. Zhang, X., Xie, B.Y., Wang, H.F., et al. Observation of a Higher-Order End Topological Insulator in a Real Projective Lattice. Nature Communications. 2024. https://pubmed.ncbi.nlm.nih.gov/38214384/
+155. Zhang, X., Xie, B.Y., Wang, H.F., et al. Experimental Observation of Higher-Order Topological Anderson Insulators. Physical Review Letters. 2021;126:146802. https://link.aps.org/doi/10.1103/PhysRevLett.126.146802
+156. Wang, Q., Liu, C.-X., Zhang, Y., et al. One-dimensional Z-classified topological crystalline insulator under space-time inversion symmetry. Physical Review B. 2023. https://link.aps.org/doi/10.1103/jxhg-xtzm
+157. Schindler, F., Wang, Z., Vergniory, M.G., et al. Higher-order topological insulators in three dimensions without crystalline counterparts. Physical Review B. 2024;109:134205. https://link.aps.org/doi/10.1103/PhysRevB.109.134205
+158. Floquet engineering of topological phase transitions in a quantum spin Hall α−T3 system. Physical Review B. 2025;111:045406. https://link.aps.org/doi/10.1103/PhysRevB.111.045406
+159. 2D Materials. Molecular Foundry, Lawrence Berkeley National Laboratory. 2025. https://foundry.lbl.gov/tag/2d-materials/
+160. Quantum Materials. Berkeley Physics, Lanzara Group. 2025. https://physics.berkeley.edu/research-faculty/lanzara-group/projects/quantum-materials
+161. Argonne National Laboratory. Topological Materials. Accessed June 29, 2025. https://www.anl.gov/msd/topological-materials
+162. Ames Laboratory. Scientists make a surprising discovery about magnetic defects in topological insulators. Accessed June 29, 2025. https://www.ameslab.gov/news/scientists-make-a-surprising-discovery-about-magnetic-defects-in-topological-insulators
+163. The Moonlight. Literature Review: Boundary Witten effect in multi-axion insulators. Accessed June 29, 2025. https://www.themoonlight.io/en/review/boundary-witten-effect-in-multi-axion-insulators
+164. M. Mogi, M. Kawamura, A. Tsukazaki, R. Yoshimi, K. Yasuda, Y. Kozuka, K. S. Takahashi, M. Kawasaki, Y. Tokura. Axion Insulator State in a Ferromagnet/Topological Insulator/Antiferromagnet Heterostructure. Nano Letters. 2019. https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.9b00047
+165. Y. Deng, Y. Yu, M. Z. Shi, Z. Guo, Z. Xu, J. Wang, X. H. Chen, Y. Zhang. Experimental realization of a reconfigurable electroacoustic topological insulator. Proceedings of the National Academy of Sciences. 2020. https://www.pnas.org/doi/10.1073/pnas.1920549117
+166. X. Zhang, H. Li, Y. Wang, B. Yang, Z. Yang, Y. Xu. Unified characterization for higher-order topological phase transitions. Physical Review Research. 2023. https://link.aps.org/doi/10.1103/PhysRevResearch.5.L022032
+167. Lawrence Berkeley National Laboratory. eScholarship Repository. Accessed June 29, 2025. https://escholarship.org/content/qt01m864fh/qt01m864fh.pdf
+168. C.-Z. Chang, J. Zhang, X. Feng, J. Shen, Z. Zhang, M. Guo, K. Li, Y. Ou, P. Wei, L.-L. Wang, Z.-Q. Ji, Y. Feng, S. Ji, X. Chen, J. Jia, X. Dai, Z. Fang, S.-C. Zhang, K. He, Y. Wang, L. Lu, X.-C. Ma, Q.-K. Xue. Enhancement of temperature of the quantum anomalous Hall effect. Physical Review B. 2025. https://link.aps.org/doi/10.1103/PhysRevB.111.184422
+169. Y. Wang, J. Li, Z. Zhang, X. Wang, Y. Xu, K. He. Enhanced Quantum Anomalous Hall Effect with an Active Capping Layer. Nature Communications. 2023. https://pubmed.ncbi.nlm.nih.gov/37278509/
+170. Y. Wang, J. Li, Z. Zhang, X. Wang, Y. Xu, K. He. High temperature, gate-free quantum anomalous Hall effect with an active capping layer. arXiv preprint arXiv:2306.04552. 2023. https://arxiv.org/abs/2306.04552
+171. Room-Temperature Quantum Anomalous Hall Effect in Terbium Monohalide. arXiv. 2025. https://arxiv.org/html/2501.09970v1
+172. Quantum Anomalous Hall Effect. National Science Review. 2014. https://academic.oup.com/nsr/article/1/1/38/1505089
+173. High-Precision Realization of Robust Quantum Anomalous Hall State in a Hard Ferromagnetic Topological Insulator. CIQM. 2014. http://ciqm.harvard.edu/uploads/2/3/3/4/23349210/chang_1412.3758v2.pdf
+174. Pursuing the High-Temperature Quantum Anomalous Hall Effect in Heterostructures. Physical Review B. 2020. https://link.aps.org/doi/10.1103/PhysRevB.101.014423
+175. High-Temperature Quantum Anomalous Hall Effect Research Articles. R Discovery. 2025. https://discovery.researcher.life/topic/high-temperature-quantum-anomalous-hall-effect/22285367?page=1&topic_name=High-Temperature%20Quantum%20Anomalous%20Hall%20Effect
+176. High-Temperature Quantum Anomalous Hall Insulators in Lithium-Decorated Iron-Based Superconductor Materials. PubMed. 2020. https://pubmed.ncbi.nlm.nih.gov/32909795/
+177. High-Temperature Quantum Anomalous Hall Insulators in Lithium-Decorated Iron-Based Superconductor Materials. Physical Review Letters. 2020. https://link.aps.org/doi/10.1103/PhysRevLett.125.086401
+178. Exchange-Biased Quantum Anomalous Hall Effect. PubMed. 2023. https://pubmed.ncbi.nlm.nih.gov/37207689/
+179. The Quantum Anomalous Hall Effect: Magnetism Uncovered. Number Analytics. 2025. https://www.numberanalytics.com/blog/quantum-anomalous-hall-effect-magnetism
+180. Unlocking Quantum Anomalous Hall Effect. Number Analytics. 2025. https://www.numberanalytics.com/blog/quantum-anomalous-hall-effect-inorganic-compounds
+181. The Road to High-Temperature Quantum Anomalous Hall Effect in Magnetic Topological Insulators. ResearchGate. 2025. https://www.researchgate.net/publication/345354358_The_Road_to_High-Temperature_Quantum_Anomalous_Hall_Effect_in_Magnetic_Topological_Insulators
+182. Toward Robust Quantum Anomalous Hall Effect. University of Science and Technology of China. 2025. https://en.ustc.edu.cn/info/1015/2618.htm
+183. Materials for Raising the Temperature of the Quantized Anomalous Hall and Magnetoelectric Effects. Mapping Ignorance. 2017. https://mappingignorance.org/2017/07/13/materials-raising-temperature-quantized-anomalous-hall-magnetoelectric-effects/
+184. Layer-Dependent Quantum Anomalous Hall Effect in Rhombohedral Graphene. Physical Review B. 2025. https://link.aps.org/doi/10.1103/PhysRevB.111.L081111
+185. Quantum Anomalous Hall Effect in Perfectly Compensated Collinear Antiferromagnetic Thin Films. Physical Review B. 2022. https://link.aps.org/doi/10.1103/PhysRevB.106.195433
+186. Semiconductor Demonstrates Elusive Quantum Physics Model. Cornell Chronicle. 2022. https://news.cornell.edu/stories/2022/01/semiconductor-demonstrates-elusive-quantum-physics-model
+187. During Search for Elusive Quantum Material, Researchers Accidentally Uncover New Magnetic Phenomenon. JHU Hub. 2020. https://hub.jhu.edu/2020/08/04/tyrel-mcqueen-quantum-anomalous-anomalous-hall-effect/
+188. Developing Graphene-Based Moiré Heterostructures for Twistronics. PMC. 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC8728823/
+189. Twistronics and Moiré Excitonic Physics in van der Waals Heterostructures. HEP Journals. 2023. https://journal.hep.com.cn/fop/EN/10.1007/s11467-023-1355-6
+190. Exotic Quantum Phenomena in Twisted Bilayer Graphene. arXiv. 2024. https://arxiv.org/html/2411.00854v1
+191. Correlations in moiré heterostructures. Stanford Digital Repository. 2025. https://purl.stanford.edu/cs071hw8313
+192. New research on superconductivity in twisted bilayer graphene. National MagLab News. 2025. https://nationalmaglab.org/news-events/news/superconductivity-in-twisted-bilayer-graphene/
+193. Twistronics lights up with moiré exciton experiments. Physics World. 2025. https://physicsworld.com/a/twistronics-lights-up-with-moire-exciton-experiments/
+194. Measurements of correlated insulator gaps in a transition-metal dichalcogenide moiré superlattice. Nano Letters. 2025. https://pubs.acs.org/doi/10.1021/acs.nanolett.5c00795
+195. Correlated topological mixed-valence insulators in moiré heterobilayers. Physical Review B. 2025. https://link.aps.org/doi/10.1103/PhysRevB.110.L201105
+196. Recent progress on 2D ferroelectric and multiferroic materials, challenges, and opportunity. NSF Public Access Repository. 2025. https://par.nsf.gov/servlets/purl/10268266
+197. Graphene. Physical Review B. 2025. https://link.aps.org/doi/10.1103/PhysRevB.107.L060503
+198. Unconventional superconductivity with preformed pairs in twisted bilayer graphene. Aalto University. 2025. https://acris.aalto.fi/ws/portalfiles/portal/104921990/Unconventional_superconductivity_with_preformed_pairs_in_twisted_bilayer_graphene.pdf
+199. Correlations and topology in moiré materials: Moiré 2025. 2025. https://moire25.ch/
+200. Moiré materials. Yale Scientific Magazine. 2024. https://www.yalescientific.org/2024/01/moire-materials/
+201. Correlated electronic states in multilayer moiré superlattice of transition metal dichalcogenides. Proceedings of SPIE, PC13368, 2025. https://www.spiedigitallibrary.org/conference-proceedings-of-spie/PC13368/PC1336807/Correlated-electronic-states-in-multilayer-moire-superlattice-of-transition-metal/10.1117/12.3048019.full
+202. Seeing moiré: Convolutional network learning applied to twistronics. Physical Review Research, 4, 043224, 2024. https://link.aps.org/pdf/10.1103/PhysRevResearch.4.043224
+203. Moiré than Meets the Eye. Berkeley Lab News Center, 2025. https://newscenter.lbl.gov/2025/03/24/moire-than-meets-the-eye/
+204. New quasiparticle discovered in moiré patterns. Physics, University of California, Berkeley, 2025. https://physics.berkeley.edu/news/new-quasiparticle-discovered-moir%C3%A9-patterns
+205. For Layered 2D Materials, Robotics Produces Cleaner Interfaces Between Stacked Sheets. U.S. Department of Energy, 2025. https://www.energy.gov/science/bes/articles/layered-2d-materials-robotics-produces-cleaner-interfaces-between-stacked
+206. Atom Identification in Bilayer Moiré Materials with Gomb-Net. Oak Ridge National Laboratory, 2025. https://www.ornl.gov/publication/atom-identification-bilayer-moire-materials-gomb-net
+207. Moiré Patterns Open Up More Possibilities for Quantum Information. National Institute of Standards and Technology, 2025. https://www.nist.gov/quantum-information-science/moire-patterns-open-more-possibilities-quantum-information
+208. Intrinsic magnetic topological insulators. ResearchGate, 2021. https://www.researchgate.net/publication/350321614_Intrinsic_magnetic_topological_insulators
+209. Intrinsic Magnetic Topological Insulators. The Innovation, 2023. https://www.the-innovation.org/article/id/648ae16ccf340000a100291f
+210. Intrinsic magnetic topological materials. Frontiers of Physics, 17(2), 1250-1256, 2022. https://journal.hep.com.cn/fop/EN/10.1007/s11467-022-1250-6
+211. Otrokov M.M., et al. Progress on the antiferromagnetic topological insulator MnBi2Te4. National Science Review. 2024;11(2):nwac296. https://academic.oup.com/nsr/article/11/2/nwac296/6967909
+212. Lee S.H., et al. Tuning Fermi Levels in Intrinsic Antiferromagnetic Topological Insulators MnBi2Te4 and MnBi4Te7 by Defect Engineering and Chemical Doping. Physical Review Materials. 2021;5(6):064204. https://www.osti.gov/servlets/purl/1766416
+213. Gong Y., et al. Experimental Realization of an Intrinsic Magnetic Topological Insulator. Chinese Physics Letters. 2019;36(7):076801. https://www.researchgate.net/publication/333753173_Experimental_Realization_of_an_Intrinsic_Magnetic_Topological_Insulator
+214. Cai X., et al. Direct visualization of edge state in even-layer MnBi2Te4 at zero magnetic field. Nature Communications. 2022;13:7642. https://pmc.ncbi.nlm.nih.gov/articles/PMC9747779/
+215. Xu Y., et al. Exploring Intrinsic Magnetic Topological Insulators: The Case of EuIn2As2. arXiv preprint. 2024;arXiv:2401.11386. https://arxiv.org/html/2401.11386v3
+216. Zhang Y., et al. New magnetic topological materials from high-throughput search. arXiv preprint. 2024;arXiv:2408.16851. http://arxiv.org/abs/2408.16851
+217. Yan J., et al. Native defects in antiferromagnetic topological insulator MnBi2Te4. Oak Ridge National Laboratory Publication. 2021. https://www.ornl.gov/publication/native-defects-antiferromagnetic-topological-insulator-mnbi2te4
+218. Li J., et al. On the topological surface states of the intrinsic magnetic topological insulator Mn-Bi-Te family. National Science Review. 2024;11(2):nwad066. https://academic.oup.com/nsr/article/11/2/nwad066/7074582
+219. Otrokov M.M., et al. Experimental realization of an intrinsic magnetic topological insulator. Nature. 2019;576:416–422. https://www.researchgate.net/publication/327835670_Experimental_realization_of_an_intrinsic_magnetic_topological_insulator
+220. Bernevig B.A. An Intrinsically Magnetic Topological Insulator. Physics (APS). 2020;13:s119. https://physics.aps.org/articles/pdf/10.1103/Physics.13.s119
+221. Otrokov M.M., et al. Intrinsic magnetic topological insulators of the MnBi2Te4 family. arXiv preprint arXiv:2505.01252, 2025. https://arxiv.org/abs/2505.01252
+222. Gong Y., et al. Experimental Realization of an Intrinsic Magnetic Topological Insulator. Chinese Physics Letters, 36(7):076801, 2019. https://cpl.iphy.ac.cn/article/10.1088/0256-307X/36/7/076801
+223. Gong Y., et al. Experimental realization of an intrinsic magnetic topological insulator. arXiv preprint arXiv:1809.07926, 2018. https://arxiv.org/abs/1809.07926
+224. Wang Z., et al. Quantum spin liquid signatures in monolayer 1T-NbSe2. Proceedings of the National Academy of Sciences, 121(1):e2319519121, 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC10940636/
+225. Zhou Y., Kanoda K., Ng T.K. Quantum spin liquids: A review. Reports on Progress in Physics, 80(3):036502, 2017. https://www.researchgate.net/publication/309799265_Quantum_spin_liquids_A_review
+226. Broholm C., et al. Experimental identification of quantum spin liquids. Science, 367(6475):263-267, 2020. https://www.researchgate.net/publication/332226396_Experimental_identification_of_quantum_spin_liquids
+227. Liu W., et al. Strong quantum fluctuations in a quantum spin liquid candidate with a Co-based triangular lattice. Proceedings of the National Academy of Sciences, 116(28):14091-14096, 2019. https://www.pnas.org/doi/10.1073/pnas.1906483116
+228. NIST. The Frustrated Matter of Quantum Spin Liquids. NIST Blog, 2020. https://www.nist.gov/blogs/taking-measure/frustrated-matter-quantum-spin-liquids
+229. TU Wien. Evidence of Long-Sought “Quantum Spin Liquid” Discovered. TU Wien News, 2021. https://www.tuwien.at/en/all-news/news/hinweise-auf-lange-gesuchte-quanten-spin-fluessigkeit-entdeckt
+230. Norman M.R. Colloquium: Herbertsmithite and the search for the quantum spin liquid. Reviews of Modern Physics, 88(4):041002, 2016. https://link.aps.org/doi/10.1103/RevModPhys.88.041002

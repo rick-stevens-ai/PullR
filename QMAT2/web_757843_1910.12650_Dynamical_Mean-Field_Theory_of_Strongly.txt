@@ -1,0 +1,10 @@
+Title: [1910.12650] Dynamical Mean-Field Theory of Strongly Correlated Electron Systems
+Authors: 
+Year: N/A
+Paper ID: web_757843
+URL: https://arxiv.org/abs/1910.12650
+Venue: Web Source
+Content Status: EXTERNAL_URL
+
+Abstract:
+Abstract:Dynamical Mean-Field Theory (DMFT) has opened new perspectives for the investigation of strongly correlated electron systems and greatly improved our understanding of correlation effects in models and materials. In contrast to Hartree-Fock-type approximations the mean field of DMFT is dynamical, whereby local quantum fluctuations are fully taken into account. DMFT becomes exact in the limit of high spatial dimensions or coordination number. Using DMFT the dynamics of correlated electron systems can be investigated non-perturbatively at all interaction strengths, electron densities and temperatures. By merging density functional theory with DMFT a powerful method for the calculation of the properties of correlated electron materials has become available, which is applicable to bulk systems and heterostructures, including topological states of matter. The inclusion of non-local correlations into DMFT makes it possible to explore unconventional superconductivity and the critical behavior at thermal or quantum phase transitions. By generalizing DMFT to non-equilibrium states also the real-time dynamics of correlated systems can be investigated. In this brief review the foundations and current status of DMFT are discussed along with characteristic physical insights obtained with this approach.

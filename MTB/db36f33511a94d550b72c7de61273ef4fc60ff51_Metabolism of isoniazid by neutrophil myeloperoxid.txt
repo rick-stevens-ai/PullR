@@ -1,0 +1,9 @@
+Title: Metabolism of isoniazid by neutrophil myeloperoxidase leads to isoniazid-NAD(+) adduct formation: A comparison of the reactivity of isoniazid with its known human metabolites.
+Authors: Saifur R. Khan, Andrew G M Morgan, K. Michail, Nutan Srivastava, R. Whittal et al. (and 2 more)
+Year: 2016
+Paper ID: db36f33511a94d550b72c7de61273ef4fc60ff51
+URL: https://www.semanticscholar.org/paper/db36f33511a94d550b72c7de61273ef4fc60ff51
+Venue: Biochemical Pharmacology
+
+Abstract:
+None

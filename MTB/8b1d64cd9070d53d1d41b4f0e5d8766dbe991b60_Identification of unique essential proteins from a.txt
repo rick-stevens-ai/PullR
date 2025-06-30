@@ -1,0 +1,9 @@
+Title: Identification of unique essential proteins from a Mycobacterium tuberculosis F15/LAM4/KZN phage secretome library
+Authors: Thamsanqa E. Chiliza, M. Pillay, B. Pillay
+Year: 2017
+Paper ID: 8b1d64cd9070d53d1d41b4f0e5d8766dbe991b60
+URL: https://www.semanticscholar.org/paper/8b1d64cd9070d53d1d41b4f0e5d8766dbe991b60
+Venue: Pathogens and Disease
+
+Abstract:
+None

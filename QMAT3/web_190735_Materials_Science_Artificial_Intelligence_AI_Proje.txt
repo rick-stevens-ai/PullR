@@ -1,0 +1,25 @@
+Title: Materials Science Artificial Intelligence (AI) Project Supports Data Service Initiative
+Authors: 
+Year: N/A
+Paper ID: web_190735
+URL: https://www.globus.org/user-stories/materials-science-ai-project
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Application of Artificial Intelligence and Machine Learning in Materials Science Data Services
+
+**Key Points:**
+- Argonne National Laboratory's Data Science and Learning Division (DSL) developed a scalable, interactive data service leveraging machine learning to improve materials science research, specifically focusing on modeling "stopping power" in materials.
+- The project created surrogate models for expensive time-dependent density functional theory (TD-DFT) simulations, enabling faster and more accessible analysis of materials data.
+- Integration with the Globus platform and Materials Data Facility (MDF) streamlined data access, sharing, and reproducibility, supporting open science and collaborative research.
+
+**Methods:** 
+- Machine learning surrogate modeling for TD-DFT simulations, using data collection, processing, representation, and supervised learning.
+- Collaboration with high-performance computing resources (ALCF), use of the Parsl scripting library, Jupyter notebooks, and Globus platform services (Auth, Search, Transfer).
+
+**Authors:** 
+- Argonne National Laboratory Data Science and Learning Division (DSL) scientists; Prof. André Schleife (UIUC) contributed simulation data.
+
+**Summary:**  
+This project at Argonne National Laboratory demonstrates the use of artificial intelligence and machine learning to accelerate materials science research by developing surrogate models for computationally expensive simulations of "stopping power." By integrating resources from the Argonne Leadership Computing Facility, the Materials Data Facility, and the Globus platform, the team created a scalable, reproducible data service that simplifies data publication, sharing, and analysis. The initiative supports open science, fosters collaboration, and enables researchers to more efficiently analyze and reuse valuable scientific data.

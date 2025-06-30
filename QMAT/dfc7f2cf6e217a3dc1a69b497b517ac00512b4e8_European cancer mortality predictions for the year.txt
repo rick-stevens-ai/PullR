@@ -1,0 +1,9 @@
+Title: European cancer mortality predictions for the year 2024 with focus on colorectal cancer.
+Authors: C. Santucci, S. Mignozzi, M. Malvezzi, P. Boffetta, G. Collatuzzo et al. (and 3 more)
+Year: 2024
+Paper ID: dfc7f2cf6e217a3dc1a69b497b517ac00512b4e8
+URL: https://www.semanticscholar.org/paper/dfc7f2cf6e217a3dc1a69b497b517ac00512b4e8
+Venue: Annals of Oncology
+
+Abstract:
+None

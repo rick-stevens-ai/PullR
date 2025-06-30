@@ -1,0 +1,9 @@
+Title: Virtual Screening and X-ray Crystallography Identify Non-Substrate Analog Inhibitors of Flavin-Dependent Thymidylate Synthase.
+Authors: R. Luciani, P. Saxena, S. Surade, M. Santucci, A. Venturelli et al. (and 6 more)
+Year: 2016
+Paper ID: 563f160be91eb7f2a15d57271ededde2e242674d
+URL: https://www.semanticscholar.org/paper/563f160be91eb7f2a15d57271ededde2e242674d
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+Thymidylate synthase X (ThyX) represents an attractive target for tuberculosis drug discovery. Herein, we selected 16 compounds through a virtual screening approach. We solved the first X-ray crystal structure of Thermatoga maritima (Tm) ThyX in complex with a nonsubstrate analog inhibitor. Given the active site similarities between Mycobacterium tuberculosis ThyX (Mtb-ThyX) and Tm-ThyX, our crystal structure paves the way for a structure-based design of novel antimycobacterial compounds. The 1H-imidazo[4,5-d]pyridazine was identified as scaffold for the development of Mtb-ThyX inhibitors.

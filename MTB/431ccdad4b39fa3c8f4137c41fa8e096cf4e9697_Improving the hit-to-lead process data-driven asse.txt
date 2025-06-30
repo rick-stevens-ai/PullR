@@ -1,0 +1,9 @@
+Title: Improving the hit-to-lead process: data-driven assessment of drug-like and lead-like screening hits.
+Authors: Tobias Wunberg, M. Hendrix, A. Hillisch, M. Lobell, H. Meier et al. (and 3 more)
+Year: 2006
+Paper ID: 431ccdad4b39fa3c8f4137c41fa8e096cf4e9697
+URL: https://www.semanticscholar.org/paper/431ccdad4b39fa3c8f4137c41fa8e096cf4e9697
+Venue: Drug Discovery Today
+
+Abstract:
+None

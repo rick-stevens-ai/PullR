@@ -1,0 +1,9 @@
+Title: Methods of Modeling of Strongly Correlated Electron Systems
+Authors: R. Kuzian
+Year: 2023
+Paper ID: c781f0ffd5fe8a77776ed53496d1b0aa26cd9fad
+URL: https://www.semanticscholar.org/paper/c781f0ffd5fe8a77776ed53496d1b0aa26cd9fad
+Venue: Nanomaterials
+
+Abstract:
+The discovery of high-Tc superconductivity in cuprates in 1986 moved strongly correlated systems from exotic worlds interesting only for pure theorists to the focus of solid-state research. In recent decades, the majority of hot topics in condensed matter physics (high-Tc superconductivity, colossal magnetoresistance, multiferroicity, ferromagnetism in diluted magnetic semiconductors, etc.) have been related to strongly correlated transition metal compounds. The highly successful electronic structure calculations based on density functional theory lose their predictive power when applied to such compounds. It is necessary to go beyond the mean field approximation and use the many-body theory. The methods and models that were developed for the description of strongly correlated systems are reviewed together with the examples of response function calculations that are needed for the interpretation of experimental information (inelastic neutron scattering, optical conductivity, resonant inelastic X-ray scattering, electron energy loss spectroscopy, angle-resolved photoemission, electron spin resonance, and magnetic and magnetoelectric properties). The peculiarities of (quasi-) 0-, 1-, 2-, and 3- dimensional systems are discussed.

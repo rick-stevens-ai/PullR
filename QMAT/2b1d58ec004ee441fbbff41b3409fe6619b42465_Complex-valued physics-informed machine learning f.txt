@@ -1,0 +1,18 @@
+Title: Complex-valued physics-informed machine learning for efficient solving of quintic nonlinear Schrödinger equations
+Authors: Lei Zhang, Mengge Du, Xiaodong Bai, Yuntian Chen, Dongxiao Zhang
+Year: 2025
+Paper ID: 2b1d58ec004ee441fbbff41b3409fe6619b42465
+URL: https://www.semanticscholar.org/paper/2b1d58ec004ee441fbbff41b3409fe6619b42465
+Venue: Physical Review Research
+
+Abstract:
+The Gross-Pitaevskii equation (GPE), a specialized form of the nonlinear Schrödinger equation (NLSE), plays a pivotal role in quantum mechanics, optics, and condensed matter physics, modeling phenomena such as superfluidity, quantum turbulence, and solitons, while serving as a cornerstone for advancing the study of nonlinear wave propagation and its technological applications. In this paper, we propose a solver, Complex-Valued Physics Informed Neural Network (CV-PINN) for NLSEs using physics-informed learning machines with complex representation. This method integrates complex values and algebraic properties directly into the neural network, with its structure mirroring the computation process of complex numbers, thereby significantly enhancing its ability to effectively solve complex problems. Additionally, we introduce a collocation-point sampling method called Predictive Dynamic Monitoring Sampling (PDM sampling), which adaptively adjusts the distribution of collocation points during training based on the model's historical performance. We conducted extensive empirical evaluations of the CV-PINN and the PDM sampling using a series of NLSE/GPEs (a total of 16 solved examples). Compared to the traditional real-valued PINN, the CV-PINN demonstrated higher accuracy, faster convergence, greater robustness, and better stability in these cases. Moreover, the PDM sampling proved to be effective in preventing model degradation and significantly enhancing the model's convergence speed and predictive accuracy when compared to traditional sampling methods. This advancement provides an approach and perspective for solving complex partial differential equations, thereby offering insights for the broader application of PINNs across various fields.
+ 
+ 
+ 
+ 
+ Published by the American Physical Society
+ 2025
+ 
+ 
+

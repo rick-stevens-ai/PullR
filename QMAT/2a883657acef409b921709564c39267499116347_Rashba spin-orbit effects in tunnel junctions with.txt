@@ -1,0 +1,18 @@
+Title: Rashba spin-orbit effects in tunnel junctions with magnetic insulators
+Authors: C. Akosa, Christian Ortiz Pauyac, S. Nikolaev, M. Chshiev, A. Kalitsov et al. (and 2 more)
+Year: 2025
+Paper ID: 2a883657acef409b921709564c39267499116347
+URL: https://www.semanticscholar.org/paper/2a883657acef409b921709564c39267499116347
+Venue: Physical review B
+
+Abstract:
+In the framework of the Keldysh formalism and the tight-binding model, we investigate spin-orbit phenomena such as the anomalous and spin Hall effects, tunneling anisotropic magnetoresistance, and Rashba-induced spin-orbit torque in single-barrier tunnel junctions. We focus on two configurations: one with a ferromagnetic metal [normal metal (NM)/insulator (I)/ferromagnetic metal (FM)] and the other with a ferromagnetic insulator [NM/ferromagnetic insulator (FI)/NM], both incorporating an asymmetric interfacial Rashba spin-orbit coupling. Using analytical methods and numerical simulations, we derive expressions for these spin-orbit phenomena. We find that while the anomalous Hall effect and spin-orbit torque behave similarly in both configurations, tunneling anisotropic magnetoresistance and the angular dependence of spin Hall effect are significantly enhanced by nearly an order of magnitude when a FI is used. This enhancement remains even for modest exchange splittings, suggesting that FIs such as Eu chalcogenides and spinel oxides are promising for high-efficiency spintronic applications. Additionally, we observe a sign reversal of these effects in NM/I/FM junctions as the system shifts from half-metallic to low-band-filling regimes, while no such reversal occurs in NM/FI/NM due to the spin-filtering effect of the barrier.
+ 
+ 
+ 
+ 
+ Published by the American Physical Society
+ 2025
+ 
+ 
+

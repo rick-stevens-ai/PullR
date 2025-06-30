@@ -1,0 +1,9 @@
+Title: Spatial topological materials
+Authors: Qinghua He, Wenlong Gao, Feng Liu
+Year: 2024
+Paper ID: e42bad9fbbb6887b3ff48c2d4249a3ec4dc3c5c5
+URL: https://www.semanticscholar.org/paper/e42bad9fbbb6887b3ff48c2d4249a3ec4dc3c5c5
+Venue: 
+
+Abstract:
+Conventional topological materials rely on band-specific mechanisms -- such as band inversion or spin-orbit coupling -- to realize nontrivial topological invariants. Here, we introduce a symmetry-driven paradigm for generating topological states, exploiting a translational symmetry $\mathcal{L}$ that couples two maximal Wyckoff positions. This symmetry induces robust band degeneracies independent of band structure details, allowing us to classify $\mathcal{L}$ as trivial or nontrivial by quantized electric multipoles. Crucially, for nontrivial $\mathcal{L}$, symmetry-protected edge and corner states emerge universally across all symmetry-compatible insulating, semi-metallic, and metallic phases, irrespective of specific band structure. We demonstrate this in a $C_4$-symmetric model and validate it using an experimentally feasible dielectric photonic crystal engineered with $\mathcal{L}$ symmetry. Through full-wave simulation, we observe directional edge modes and localized corner modes, with the former selectively excited by harmonic point sources spatially shifted by $\mathcal{L}$ at a fixed frequency.

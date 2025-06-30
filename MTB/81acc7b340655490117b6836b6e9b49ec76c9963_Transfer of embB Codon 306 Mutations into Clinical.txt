@@ -1,0 +1,9 @@
+Title: Transfer of embB Codon 306 Mutations into Clinical Mycobacterium tuberculosis Strains Alters Susceptibility to Ethambutol, Isoniazid, and Rifampin
+Authors: H. Safi, B. Sayers, M. Hazbón, D. Alland
+Year: 2008
+Paper ID: 81acc7b340655490117b6836b6e9b49ec76c9963
+URL: https://www.semanticscholar.org/paper/81acc7b340655490117b6836b6e9b49ec76c9963
+Venue: Antimicrobial Agents and Chemotherapy
+
+Abstract:
+None

@@ -1,0 +1,9 @@
+Title: Multiple domains of EBER 1, an Epstein-Barr virus noncoding RNA, recruit human ribosomal protein L22.
+Authors: V. Fok, Rachel M. Mitton-Fry, A. Grech, J. Steitz
+Year: 2006
+Paper ID: 22ef317212e29db38c06bb54ed93a83edddbdb46
+URL: https://www.semanticscholar.org/paper/22ef317212e29db38c06bb54ed93a83edddbdb46
+Venue: RNA: A publication of the RNA Society
+
+Abstract:
+EBER 1, a small noncoding viral RNA abundantly expressed in all cells transformed by Epstein-Barr virus (EBV), has been shown to associate with the human ribosomal protein L22. Here we present in vitro binding studies using purified RNAs and recombinant proteins. Electrophoretic mobility-shift assays (EMSAs) show that recombinant L22 (rL22) and maltose-binding protein (MBP)-tagged L22 protein bind EBER 1 in vitro, both forming three specific protein-dependent mobility shifts. Use of a mixture of rL22 and MBP-L22 indicates that these three shifts contain one, two, or three L22 proteins per EBER 1 molecule. EMSAs performed with EBER 1 deletion constructs and EBER 1 stem-loops inserted into a nonbinding RNA, HSUR 3, identify stem-loops I, III, and IV as L22 binding sites. The existence of multiple L22 binding sites on EBER 1 inside cells is demonstrated by in vivo UV cross-linking. Our results are discussed with respect to the function of EBER 1 in EBV-infected human B cells.

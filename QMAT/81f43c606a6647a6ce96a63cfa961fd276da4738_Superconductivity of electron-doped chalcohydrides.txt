@@ -1,0 +1,18 @@
+Title: Superconductivity of electron-doped chalcohydrides under high pressure
+Authors: Yu Du, Zefang Wang, Hanyu Liu, Guoji Liu, Xin Zhong
+Year: 2025
+Paper ID: 81f43c606a6647a6ce96a63cfa961fd276da4738
+URL: https://www.semanticscholar.org/paper/81f43c606a6647a6ce96a63cfa961fd276da4738
+Venue: Physical Review Research
+
+Abstract:
+As a typical representative of covalent superconductors, SH3 has emerged as a significant milestone in superconductivity history and has greatly sparked interest in compressed hydrogen-rich superconductors. Authors of previous studies on theoretical design of ternary chalcogen-hydrogen compounds (known as chalcohydrides) have mainly focused on intercalating molecular motifs into the interstitial sites of the structural lattice or substituting atoms in the SH3 backbone. Given the low electronegativity and small radius, lithium (Li) is empowered to serve as an excellent electron donor that can effectively turn the crystal structure and modulate the superconducting behavior. Here, we introduce Li into binary chalcohydrides and investigate ternary Li-M-H (M = S, Se, and Te) compounds using the state-of-the-art structure prediction method in conjunction with first-principles calculations. As a result, five stable stoichiometries, including LiSH7, Li2SH6, LiSH, Li2SH, and LiS2H, are identified at 100–200 GPa. Notably, metallic LiSH7 and Li2SH6 exhibit a layered structure where the covalent bond between sulfur and hydrogen breaks up and the hydrogen atoms are released to recombine into molecules confined into the interlayer. Furthermore, our electron-phonon simulations reveal that the estimated superconducting transition temperature (Tc) of Li2SH6 (46 K) is lower than that (77 K) of Li2SeH6 at 200 GPa, which contrasts with the general belief that the light-weight elemental compound (high Debye temperature) has higher superconductivity. Our results offer critical insights into designing high-temperature superconductors with layered structures among multinary hydrides.
+ 
+ 
+ 
+ 
+ Published by the American Physical Society
+ 2025
+ 
+ 
+

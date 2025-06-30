@@ -1,0 +1,9 @@
+Title: Experimental Realization of an Intrinsic Magnetic Topological Insulator
+Authors: Y. Gong 龚, J. Guo 郭, Jiaheng 佳恒 Li 李, Kejing 科静 Zhu 朱, Menghan 孟涵 Liao 廖 et al. (and 19 more)
+Year: 2018
+Paper ID: e10501e7ce212646c67132904e19aef3eac5a8b5
+URL: https://www.semanticscholar.org/paper/e10501e7ce212646c67132904e19aef3eac5a8b5
+Venue: Chinese Physics Letters
+
+Abstract:
+An intrinsic magnetic topological insulator (TI) is a stoichiometric magnetic compound possessing both inherent magnetic order and topological electronic states. Such a material can provide a shortcut to various novel topological quantum effects but remained elusive experimentally for a long time. Here we report the experimental realization of thin films of an intrinsic magnetic TI, MnBi2Te4, by alternate growth of a Bi2Te3 quintuple layer and a MnTe bilayer with molecular beam epitaxy. The material shows the archetypical Dirac surface states in angle-resolved photoemission spectroscopy and is demonstrated to be an antiferromagnetic topological insulator with ferromagnetic surfaces by magnetic and transport measurements as well as first-principles calculations. The unique magnetic and topological electronic structures and their interplays enable the material to embody rich quantum phases such as quantum anomalous Hall insulators and axion insulators at higher temperature and in a well-controlled way.

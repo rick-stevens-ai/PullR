@@ -1,0 +1,9 @@
+Title: Crafting crystalline topological insulators via accidental mode degeneracies
+Authors: Konstantin Rodionenko, Maxim Mazanov, M. Gorlach
+Year: 2023
+Paper ID: 8d3f1981af59288b4a38ac314bfc73f5a0901254
+URL: https://www.semanticscholar.org/paper/8d3f1981af59288b4a38ac314bfc73f5a0901254
+Venue: Physical review B
+
+Abstract:
+Crystalline topological insulators have recently become a powerful platform for realizing photonic topological states from microwaves to the visible. Appropriate geometric symmetries of the lattice are at the core of their functionality. Here we put forward an alternative approach to craft those systems by designing the internal symmetries of the Hamiltonian via accidental mode degeneracies. We illustrate our approach constructing ananalog of breathing honeycomb lattice using simpler lattice geometry and six times less meta-atoms, reveal edge and corner states and calculate the relevant topological invariants.

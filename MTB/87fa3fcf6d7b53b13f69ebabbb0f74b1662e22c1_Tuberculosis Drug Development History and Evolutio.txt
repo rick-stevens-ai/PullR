@@ -1,0 +1,9 @@
+Title: Tuberculosis Drug Development: History and Evolution of the Mechanism-Based Paradigm.
+Authors: S. Chakraborty, K. Rhee
+Year: 2015
+Paper ID: 87fa3fcf6d7b53b13f69ebabbb0f74b1662e22c1
+URL: https://www.semanticscholar.org/paper/87fa3fcf6d7b53b13f69ebabbb0f74b1662e22c1
+Venue: Cold Spring Harbor Perspectives in Medicine
+
+Abstract:
+Modern tuberculosis (TB) chemotherapy is widely viewed as a crowning triumph of anti-infectives research. However, only one new TB drug has entered clinical practice in the past 40 years while drug resistance threatens to further destabilize the pandemic. Here, we review a brief history of TB drug development, focusing on the evolution of mechanism(s)-of-action studies and key conceptual barriers to rational, mechanism-based drugs.

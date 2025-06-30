@@ -1,0 +1,29 @@
+Title: Atom Identification in Bilayer Moiré Materials with Gomb-Net
+Authors: 
+Year: N/A
+Paper ID: web_680930
+URL: https://www.ornl.gov/publication/atom-identification-bilayer-moire-materials-gomb-net
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Atom identification in bilayer moiré materials using deep learning (Gomb-Net)
+
+**Key Points:**
+- Developed Gomb-Net, a deep learning model, to accurately identify atomic positions and species in individual layers of twisted bilayer heterostructures, overcoming challenges posed by moiré patterns.
+- Gomb-Net enables layer-specific mapping of atomic positions and dopant distributions, outperforming traditional segmentation models in complex moiré environments.
+- Application to twisted fractional Janus WS₂-WS₂(1–x)Se₂ₓ heterostructures revealed that Se atom substitutional site distributions are not influenced by local moiré-induced energetic or electronic modulations.
+
+**Methods:** Deep learning model (Gomb-Net) applied to scanning transmission electron microscopy images for atom identification and mapping.
+
+**Authors:** Austin Houston, Sumner B. Harris, Hao Wang, Kai Xiao, Gerd Duscher, David Geohegan
+
+**Publication Details:**  
+- Journal: Nano Letters  
+- Volume 25, Issue 23, Pages 9277–9284  
+- Publication Date: June 2025  
+- DOI: [Not provided in text]  
+- Organizations: Oak Ridge National Laboratory (Physical Sciences Directorate, Center for Nanophase Materials Sciences, Theory and Computation Section, Data NanoAnalytics Group, Nanomaterials Synthesis Section, Functional Hybrid Nanomaterials Group)
+
+**Summary:**  
+This study introduces Gomb-Net, a deep learning framework designed to identify atomic positions and species in each layer of twisted bilayer van der Waals materials, overcoming the analytical challenges posed by moiré patterns in atomic-resolution microscopy. The model enables precise, layer-specific mapping of atoms and dopants, as demonstrated in Janus WS₂-WS₂(1–x)Se₂ₓ heterostructures, where it was found that Se atom site distributions are unaffected by moiré-induced variations. This advancement opens new possibilities for atomic-scale analysis in complex layered materials.

@@ -1,0 +1,22 @@
+Title: NEW HIGH-TEMPERATURE SUPERCONDUCTORS
+Authors: 
+Year: N/A
+Paper ID: web_567537
+URL: https://time.com/archive/6924084/new-high-temperature-superconductors/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** New High-Temperature Superconductors
+
+**Key Points:**
+- Researchers at Los Alamos National Laboratory developed a flexible superconducting tape that carries 100 times more current than previous materials.
+- The new material is both flexible (unlike previous brittle superconductors) and operates at the temperature of liquid nitrogen, making it more practical and cost-effective.
+- Potential commercial applications include more efficient electric motors, improved medical equipment, and better electric transmission lines.
+
+**Methods:** Not specified
+
+**Authors:** Leon Jaroff (TIME science contributor); Los Alamos National Laboratory researchers
+
+**Summary:**  
+Researchers at Los Alamos National Laboratory have created a flexible superconducting tape capable of carrying vastly more current than earlier materials. Unlike previous brittle superconductors, this new material remains flexible and operates at the relatively high temperature of liquid nitrogen, reducing operational costs. The breakthrough paves the way for a range of commercial applications, including advancements in electric motors, medical technology, and power transmission.

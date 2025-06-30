@@ -1,0 +1,22 @@
+Title: A controversial room-temperature superconductor result has been retracted
+Authors: 
+Year: N/A
+Paper ID: web_962323
+URL: https://www.sciencenews.org/article/room-temperature-superconductor-retracted-ranga-dias
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Retraction of a claimed room-temperature superconductor result
+
+**Key Points:**
+- A high-profile paper claiming the discovery of a room-temperature superconductor by Ranga Dias and colleagues has been retracted from Nature, following skepticism and failures to reproduce the results.
+- Eight of the eleven coauthors requested the retraction, citing inaccuracies in the reporting of materials, measurements, and data processing.
+- The controversy has led to broader scrutiny of Dias' work and raised concerns about data transparency and research integrity in the field.
+
+**Methods:** Experimental research on superconductivity in a lutetium-hydrogen-nitrogen compound; issues with reproducibility and data provenance were central to the controversy.
+
+**Authors:** Emily Conover (article author); Ranga Dias (lead researcher of the retracted paper); contributions from James Riordon (article), Lilia Boeri, Jorge Hirsch, and Russell Hemley (quoted researchers).
+
+**Summary:**  
+A widely publicized claim of a room-temperature superconductor by Ranga Dias and colleagues has been retracted from Nature after significant skepticism, failed replication attempts, and concerns raised by coauthors and external researchers regarding data integrity and experimental protocols. The retraction adds to a series of similar controversies involving Dias, prompting an ongoing investigation by the University of Rochester. While some researchers still believe the result may eventually be validated, the episode has highlighted serious issues of transparency and reproducibility in high-stakes physics research.

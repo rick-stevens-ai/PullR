@@ -1,0 +1,9 @@
+Title: The TB Portals: an Open-Access, Web-Based Platform for Global Drug-Resistant-Tuberculosis Data Sharing and Analysis
+Authors: A. Rosenthal, A. Gabrielian, Eric Engle, D. Hurt, S. Alexandru et al. (and 34 more)
+Year: 2017
+Paper ID: 7b1ccad32e8eb921dabcd2efd43df4312201b0b7
+URL: https://www.semanticscholar.org/paper/7b1ccad32e8eb921dabcd2efd43df4312201b0b7
+Venue: Journal of Clinical Microbiology
+
+Abstract:
+None

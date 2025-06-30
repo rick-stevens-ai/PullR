@@ -1,0 +1,20 @@
+Title: Toward an 
+Ab Initio
+ Theory of High-Temperature Superconductors: A Study of Multilayer Cuprates
+Authors: Benjamin Bacq-Labreuil, Benjamin Lacasse, A.-M. S. Tremblay, David Sénéchal, K. Haule
+Year: 2025
+Paper ID: 7792d16e11a5936f587175ad678dcbae3866fafb
+URL: https://www.semanticscholar.org/paper/7792d16e11a5936f587175ad678dcbae3866fafb
+Venue: Physical Review X
+
+Abstract:
+Significant progress toward a theory of high-temperature superconductivity in cuprates has been achieved via the study of effective one- and three-band Hubbard models. Nevertheless, material-specific predictions, while essential for constructing a comprehensive theory, remain challenging due to the complex relationship between real materials and the parameters of the effective models. By combining cluster dynamical mean-field theory and density functional theory in a charge-self-consistent manner, here we show that the goal of material-specific predictions for high-temperature superconductors from first principles is within reach. To demonstrate the capabilities of our approach, we take on the challenge of explaining the remarkable physics of multilayer cuprates by focusing on the two representative Ca(1+n)CunO2nCl2 and HgBa2Ca(n−1)CunO(2n+2) families. We shed light on the microscopic origin of many salient features of multilayer cuprates, in particular, the n dependence of their superconducting properties. The growth of Tc from the single-layer to the trilayer compounds is here explained by the reduction of the charge transfer gap and, consequently, the growth of superexchange J as n increases. The origin of both is traced to the appearance of low-energy conduction bands reminiscent of standing wave modes confined within the stack of CuO2 planes. We interpret the ultimate drop of Tc for n≥4 as a consequence of the inhomogeneous doping between the CuO2 planes, which prevents the emergence of superconductivity in the inner planes due to their insufficient effective hole doping, as we also highlight the existence of a minimal doping (4%) required for superconductivity to appear in one of the planes. We explain material-specific properties such as the larger propensity of HgBa2Ca(n−1)CunO(2n+2) to superconduct compared with Ca(1+n)CunO2nCl2. We also find the coexistence of arcs and pockets observed with photoemission, the charge redistribution between copper and oxygen, and the link to the pseudogap. Our work establishes a framework for comprehensive studies of high-temperature superconducting cuprates, enables detailed comparisons with experiment, and, through its settings, unlocks opportunities for theoretical material design of high-temperature superconductors.
+ 
+ 
+ 
+ 
+ Published by the American Physical Society
+ 2025
+ 
+ 
+

@@ -1,0 +1,31 @@
+Title: Optical control of superconductivity
+Authors: 
+Year: N/A
+Paper ID: web_437123
+URL: https://qcmd.mpsd.mpg.de/science/optical-control-of-superconductivity/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Optical Control of Superconductivity
+
+**Key Points:**
+- Ultrafast optical pulses, particularly in the mid-infrared and terahertz range, can induce transient or metastable superconducting states in unconventional superconductors (e.g., high-Tc cuprates, organic superconductors, and alkali-doped fullerides like K₃C₆₀) at temperatures above their equilibrium critical temperature (Tc).
+- Experimental evidence includes the observation of zero-resistance states, transient diamagnetic responses, and enhanced superconducting fluctuations, with some light-induced superconducting-like phases persisting for several nanoseconds and even up to room temperature under specific conditions.
+- The mechanisms involve coherent excitation of phonons and collective modes, with nonlinear spectroscopy, THz transport, and pressure-tuning experiments providing insight into the nature and control of these non-equilibrium superconducting states.
+
+**Methods:** 
+- Use of ultrashort mid-infrared and terahertz optical pulses to excite phonons and vibrational modes.
+- On-chip THz transport measurements, transient THz spectroscopy, nonlinear optical spectroscopies, and time-resolved second-harmonic generation.
+- Pressure-tuning experiments and theoretical modeling (first-principles calculations, model Hamiltonian dynamics).
+
+**Authors:** 
+- Andrea Cavalleri (frequently mentioned as lead or co-author)
+- S. Fava, G. De Vecchi, G. Jotzu, M. Buzzi, T. Gebert, Y. Liu, B. Keimer, E. Rowe, B. Yuan, M. Fechner, M. Först, D. Pontiroli, M. Riccò, E. Wang, J. Adelinia, M. Chavez-Cervantes, T. Matsuyama, G. Meier, A. von Hoegen, N. Taherian, A. Ribak, J. Porras, M. Michael, E. Demler, M. Budden, Y. Laplace, F. Schlawin, D. Jaksch, M. Buzzi, D. Nicoletti, N. Tancogne-Dejean, M. A. Sentef, A. Georges, T. Biesner, E. Uykur, M. Dressel, A. Henderson, T. Siegrist, J. A. Schlueter, K. Miyagawa, K. Kanoda, M.-S. Nam, A. Ardavan, J. Coulthard, J. Tindall, A. Cantaluppi, A. Perucchi, P. Di Pietro, S. Kaiser, S. Lupi, P... (and others; see individual publications for full lists)
+
+**Publication Details:** 
+- Multiple high-impact journals: Nature, Nature Physics, Nature Communications, Physical Review X, Contemporary Physics.
+- Key publications span from 2018 to 2024.
+
+**Summary:**  
+This body of research explores the optical control of superconductivity, demonstrating that ultrafast optical pulses can induce superconducting-like states in various unconventional superconductors at temperatures far above their equilibrium Tc. These light-induced states exhibit unique properties such as zero resistance, transient diamagnetism, and enhanced superconducting fluctuations, with some persisting for nanoseconds or longer. The work combines advanced optical techniques, transport measurements, and theoretical modeling to unravel the mechanisms behind these non-equilibrium phases, offering promising avenues for high-speed electronic applications and a deeper understanding of superconductivity beyond equilibrium conditions.

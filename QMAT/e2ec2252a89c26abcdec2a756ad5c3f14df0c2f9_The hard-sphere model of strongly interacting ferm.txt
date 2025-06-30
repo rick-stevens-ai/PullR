@@ -1,0 +1,9 @@
+Title: The hard-sphere model of strongly interacting fermion systems
+Authors: C. Via, T. Rodrigo
+Year: 2016
+Paper ID: e2ec2252a89c26abcdec2a756ad5c3f14df0c2f9
+URL: https://www.semanticscholar.org/paper/e2ec2252a89c26abcdec2a756ad5c3f14df0c2f9
+Venue: 
+
+Abstract:
+None

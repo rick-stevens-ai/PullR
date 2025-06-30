@@ -1,0 +1,22 @@
+Title: Scientists make a surprising discovery about magnetic defects in topological insulators
+Authors: 
+Year: N/A
+Paper ID: web_906357
+URL: https://www.ameslab.gov/news/scientists-make-a-surprising-discovery-about-magnetic-defects-in-topological-insulators
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Magnetic Defects in Topological Insulators
+
+**Key Points:**
+- Scientists discovered that, in dilute magnetic topological insulators, strong antiferromagnetic interactions exist between some pairs of magnetic defects, even in materials that are overall ferromagnetic.
+- These defect-driven interactions are present in both dilute and intrinsic magnetic topological insulators, and they play a crucial role in determining the material's overall magnetic order.
+- The findings suggest that magnetic defects control the magnetic ground state in both families of magnetic topological insulators.
+
+**Methods:** Neutron scattering experiments were conducted at the Spallation Neutron Source to study magnetic interactions at the microscopic level.
+
+**Authors:** Farhan Islam, Yongbin Lee, Daniel M. Pajerowski, JinSu Oh, Wei Tian, Lin Zhou, Jiaqiang Yan, Liqin Ke, Robert J. McQueeney, and David Vaknin.
+
+**Summary:**  
+Researchers at Ames National Laboratory used neutron scattering to investigate the role of magnetic defects in topological insulators. They found that, despite overall ferromagnetism, certain pairs of magnetic defects exhibit strong antiferromagnetic coupling, which significantly influences the material's magnetic properties. These interactions are consistent across both dilute and intrinsic magnetic topological insulators, indicating that magnetic defects are key to controlling the magnetic ground state in these advanced materials.

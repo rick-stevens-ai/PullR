@@ -1,0 +1,9 @@
+Title: Current Trends in Ligand-Based Virtual Screening: Molecular Representations, Data Mining Methods, New Application Areas, and Performance Evaluation
+Authors: H. Geppert, Martin Vogt, J. Bajorath
+Year: 2010
+Paper ID: 1757cbf6cab4ebb41f197968b1c05e5d085d220b
+URL: https://www.semanticscholar.org/paper/1757cbf6cab4ebb41f197968b1c05e5d085d220b
+Venue: Journal of Chemical Information and Modeling
+
+Abstract:
+None

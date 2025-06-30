@@ -1,0 +1,9 @@
+Title: Feasible Route to High-Temperature Ambient-Pressure Hydride Superconductivity.
+Authors: K. Dolui, L. Conway, Christoph Heil, T. Strobel, Rohit P. Prasankumar et al. (and 1 more)
+Year: 2023
+Paper ID: af60fd78de074c8320e49f2dba05fd9f974adadd
+URL: https://www.semanticscholar.org/paper/af60fd78de074c8320e49f2dba05fd9f974adadd
+Venue: Physical Review Letters
+
+Abstract:
+A key challenge in materials discovery is to find high-temperature superconductors. Hydrogen and hydride materials have long been considered promising materials displaying conventional phonon-mediated superconductivity. However, the high pressures required to stabilize these materials have restricted their application. Here, we present results from high-throughput computation, considering a wide range of high-symmetry ternary hydrides from across the periodic table at ambient pressure. This large composition space is then reduced by considering thermodynamic, dynamic, and magnetic stability before direct estimations of the superconducting critical temperature. This approach has revealed a metastable ambient-pressure hydride superconductor, Mg_{2}IrH_{6}, with a predicted critical temperature of 160 K, comparable to the highest temperature superconducting cuprates. We propose a synthesis route via a structurally related insulator, Mg_{2}IrH_{7}, which is thermodynamically stable above 15 GPa, and discuss the potential challenges in doing so.

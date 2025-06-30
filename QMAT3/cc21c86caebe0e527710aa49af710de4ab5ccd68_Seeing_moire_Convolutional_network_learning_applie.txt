@@ -1,0 +1,9 @@
+Title: Seeing moiré: Convolutional network learning applied to twistronics
+Authors: Diyi Liu, M. Luskin, S. Carr
+Year: 2022
+Paper ID: cc21c86caebe0e527710aa49af710de4ab5ccd68
+URL: https://www.semanticscholar.org/paper/cc21c86caebe0e527710aa49af710de4ab5ccd68
+Venue: Physical Review Research
+
+Abstract:
+Moir\'e patterns made of two-dimensional (2D) materials represent highly tunable electronic Hamiltonians, allowing a wide range of quantum phases to emerge in a single material. Current modeling techniques for moir\'e electrons requires significant technical work specific to each material, impeding large-scale searches for useful moir\'e materials. In order to address this difficulty, we have developed a material-agnostic machine learning approach and test it here on prototypical one-dimensional (1D) moir\'e tight-binding models. We utilize the stacking dependence of the local density of states (SD-LDOS) to convert information about electronic bandstructure into physically relevant images. We then train a neural network that successfully predicts moir\'e electronic structure from the easily computed SD-LDOS of aligned bilayers. This network can satisfactorily predict moir\'e electronic structures, even for materials that are not included in its training data.

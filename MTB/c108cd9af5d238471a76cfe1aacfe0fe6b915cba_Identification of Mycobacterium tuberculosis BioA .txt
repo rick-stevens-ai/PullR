@@ -1,0 +1,9 @@
+Title: Identification of Mycobacterium tuberculosis BioA inhibitors by using structure-based virtual screening
+Authors: Swati Singh, Garima Khare, Ritika Kar Bahal, P. Ghosh, A. Tyagi
+Year: 2018
+Paper ID: c108cd9af5d238471a76cfe1aacfe0fe6b915cba
+URL: https://www.semanticscholar.org/paper/c108cd9af5d238471a76cfe1aacfe0fe6b915cba
+Venue: Drug Design, Development and Therapy
+
+Abstract:
+Background 7,8-Diaminopelargonic acid synthase (BioA), an enzyme of biotin biosynthesis pathway, is a well-known promising target for anti-tubercular drug development. Methods In this study, structure-based virtual screening was employed against the active site of BioA to identify new chemical entities for BioA inhibition and top ranking compounds were evaluated for their ability to inhibit BioA enzymatic activity. Results Seven compounds inhibited BioA enzymatic activity by greater than 60% at 100 μg/mL with most potent compounds being A36, A35 and A65, displaying IC50 values of 10.48 μg/mL (28.94 μM), 33.36 μg/mL (88.16 μM) and 39.17 μg/mL (114.42 μM), respectively. Compounds A65 and A35 inhibited Mycobacterium tuberculosis (M. tuberculosis) growth with MIC90 of 20 μg/mL and 80 μg/mL, respectively, whereas compound A36 exhibited relatively weak inhibition of M. tuberculosis growth (83% inhibition at 200 μg/mL). Compound A65 emerged as the most potent compound identified in our study that inhibited BioA enzymatic activity and growth of the pathogen and possessed drug-like properties. Conclusion Our study has identified a few hit molecules against M. tuberculosis BioA that can act as potential candidates for further development of potent anti-tubercular therapeutic agents.

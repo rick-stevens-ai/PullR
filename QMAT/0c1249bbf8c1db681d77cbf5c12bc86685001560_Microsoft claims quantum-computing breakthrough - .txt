@@ -1,0 +1,9 @@
+Title: Microsoft claims quantum-computing breakthrough - but some physicists are sceptical.
+Authors: Davide Castelvecchi
+Year: 2025
+Paper ID: 0c1249bbf8c1db681d77cbf5c12bc86685001560
+URL: https://www.semanticscholar.org/paper/0c1249bbf8c1db681d77cbf5c12bc86685001560
+Venue: Nature
+
+Abstract:
+None

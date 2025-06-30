@@ -1,0 +1,10 @@
+Title: Realizing gapped surface states in the magnetic topological insulator 
+MnBi2−xSbxTe4
+Authors: Wonhee Ko, M. Kolmer, Jiaqiang Yan, A. Pham, Mingming Fu et al. (and 5 more)
+Year: 2020
+Paper ID: 76f4062a1b894d3f7ef96fc94a04f4e38c40378b
+URL: https://www.semanticscholar.org/paper/76f4062a1b894d3f7ef96fc94a04f4e38c40378b
+Venue: 
+
+Abstract:
+The interplay between magnetism and non-trivial topology in magnetic topological insulators (MTI) is expected to give rise to a variety of exotic topological quantum phenomena, such as the quantum anomalous Hall (QAH) effect and the topological axion states. A key to assessing these novel properties is to tune the Fermi level in the exchange gap of the Dirac surface band. MnBi$_2$Te$_4$ possesses non-trivial band topology with intrinsic antiferromagnetic (AFM) state that can enable all of these quantum states, however, highly electron-doped nature of the MnBi$_2$Te$_4$ crystals obstructs the exhibition of the gapped topological surface states. Here, we tailor the material through Sb-substitution to reveal the gapped surface states in MnBi$_{2-x}$Sb$_{x}$Te$_{4}$ (MBST). By shifting the Fermi level into the bulk band gap of MBST, we access the surface states and show a band gap of 50 meV at the Dirac point from quasi-particle interference (QPI) measured by scanning tunneling microscopy/spectroscopy (STM/STS). Surface-dominant conduction is confirmed below the Neel temperature through transport spectroscopy measured by multiprobe STM. The surface band gap is robust against out-of-plane magnetic field despite the promotion of field-induced ferromagnetism. The realization of bulk-insulating MTI with the large exchange gap offers a promising platform for exploring emergent topological phenomena.

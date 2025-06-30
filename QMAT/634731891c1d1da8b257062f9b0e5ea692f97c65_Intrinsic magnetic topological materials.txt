@@ -1,0 +1,9 @@
+Title: Intrinsic magnetic topological materials
+Authors: Yuan Wang, Fayuan Zhang, M. Zeng, Hongyi Sun, Z. Hao et al. (and 11 more)
+Year: 2022
+Paper ID: 634731891c1d1da8b257062f9b0e5ea692f97c65
+URL: https://www.semanticscholar.org/paper/634731891c1d1da8b257062f9b0e5ea692f97c65
+Venue: Frontiers of Physics
+
+Abstract:
+Topological states of matter possess bulk electronic structures categorized by topological invariants and edge/surface states due to the bulk-boundary correspondence. Topological materials hold great potential in the development of dissipationless spintronics, information storage and quantum computation, particularly if combined with magnetic order intrinsically or extrinsically. Here, we review the recent progress in the exploration of intrinsic magnetic topological materials, including but not limited to magnetic topological insulators, magnetic topological metals, and magnetic Weyl semimetals. We pay special attention to their characteristic band features such as the gap of topological surface state, gapped Dirac cone induced by magnetization (either bulk or surface), Weyl nodal point/line and Fermi arc, as well as the exotic transport responses resulting from such band features. We conclude with a brief envision for experimental explorations of new physics or effects by incorporating other orders in intrinsic magnetic topological materials.

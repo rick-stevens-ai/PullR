@@ -1,0 +1,9 @@
+Title: Toward antituberculosis drugs: in silico screening of synthetic compounds against Mycobacterium tuberculosis l,d-transpeptidase 2
+Authors: J. Billones, M. Carrillo, Voltaire G. Organo, S. J. Macalino, J. B. Sy et al. (and 3 more)
+Year: 2016
+Paper ID: 2285f0fb81cfa48df16836268e2a8cb35fc09784
+URL: https://www.semanticscholar.org/paper/2285f0fb81cfa48df16836268e2a8cb35fc09784
+Venue: Drug Design, Development and Therapy
+
+Abstract:
+Mycobacterium tuberculosis (Mtb) the main causative agent of tuberculosis, is the main reason why this disease continues to be a global public health threat. It is therefore imperative to find a novel antitubercular drug target that is unique to the structural machinery or is essential to the growth and survival of the bacterium. One such target is the enzyme l,d-transpeptidase 2, also known as LdtMt2, a protein primarily responsible for the catalysis of 3→3 cross-linkages that make up the mycolyl–arabinogalactan–peptidoglycan complex of Mtb. In this study, structure-based pharmacophore screening, molecular docking, and in silico toxicity evaluations were employed in screening compounds from a database of synthetic compounds. Out of the 4.5 million database compounds, 18 structures were identified as high-scoring, high-binding hits with very satisfactory absorption, distribution, metabolism, excretion, and toxicity properties. Two out of the 18 compounds were further subjected to in vitro bioactivity assays, with one exhibiting a good inhibitory activity against the Mtb H37Ra strain.

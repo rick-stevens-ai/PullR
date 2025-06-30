@@ -1,0 +1,9 @@
+Title: Accurate description of van der Waals complexes by density functional theory including empirical corrections
+Authors: S. Grimme
+Year: 2004
+Paper ID: e32ae40076bca0ec980ad266d021ed60109dbd8a
+URL: https://www.semanticscholar.org/paper/e32ae40076bca0ec980ad266d021ed60109dbd8a
+Venue: Journal of Computational Chemistry
+
+Abstract:
+None

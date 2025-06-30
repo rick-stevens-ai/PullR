@@ -1,0 +1,9 @@
+Title: Drug targeted virtual screening and molecular dynamics of LipU protein of Mycobacterium tuberculosis and Mycobacterium leprae
+Authors: Gurkamaljit Kaur, B. Pandey, Arbind Kumar, N. Garewal, A. Grover et al. (and 1 more)
+Year: 2019
+Paper ID: 2afeb4c236c33b3a6d9e6530335e5ec4d3faee77
+URL: https://www.semanticscholar.org/paper/2afeb4c236c33b3a6d9e6530335e5ec4d3faee77
+Venue: Journal of Biomolecular Structure and Dynamics
+
+Abstract:
+None

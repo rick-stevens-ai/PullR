@@ -1,0 +1,31 @@
+Title: Twistronics and moiré excitonic physics in van der Waals heterostructures
+Authors: 
+Year: N/A
+Paper ID: web_500483
+URL: https://journal.hep.com.cn/fop/EN/10.1007/s11467-023-1355-6
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:**  
+Twistronics and moiré excitonic physics in van der Waals heterostructures
+
+**Key Points:**  
+- The review summarizes recent advances in twistronics and moiré excitonic physics in two-dimensional van der Waals (vdW) heterostructures, focusing on how interlayer twist angles and lattice mismatches affect electronic and excitonic properties.
+- It discusses the impact of moiré superlattices on exciton dynamics, including formation, transport, and relaxation, as well as the emergence of new quantum phenomena such as exciton localization and correlated electronic states.
+- The article highlights the tunability of these systems via external factors (electric field, doping, strain), positioning moiré lattices as promising platforms for optoelectronic applications and quantum physics research.
+
+**Methods:**  
+Systematic topical review of theoretical analyses and experimental observations in the field.
+
+**Authors:**  
+Siwei Li, Ke Wei, Qirui Liu, Yuxiang Tang, Tian Jiang  
+(College of Advanced Interdisciplinary Studies and Institute for Quantum Science and Technology, National University of Defense Technology, Changsha, China)
+
+**Publication Details:**  
+Frontiers of Physics, 2024, Vol. 19, Issue 4, Article 42501  
+DOI: 10.1007/s11467-023-1355-6  
+Received: 20 Aug 2023; Accepted: 11 Oct 2023; Published: 15 Aug 2024; Issue Date: 29 Feb 2024
+
+**Summary:**  
+This topical review provides a comprehensive overview of twistronics and moiré excitonic physics in van der Waals heterostructures, emphasizing the role of interlayer twist angles and atomic registries in tuning electronic and excitonic properties. The authors discuss both theoretical and experimental progress in understanding moiré superlattices, exciton dynamics, and the emergence of correlated quantum phenomena. The review also explores the high tunability of these systems through external modulation, underscoring their potential for advanced optoelectronic devices and fundamental quantum research.

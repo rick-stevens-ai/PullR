@@ -1,0 +1,10 @@
+Title: Native defects in antiferromagnetic topological insulator 
+MnBi2Te4
+Authors: Zengle Huang, M. Du, Jiaqiang Yan, Weida Wu
+Year: 2020
+Paper ID: de56d994adf279bd7d14aa806becda4710f71a1a
+URL: https://www.semanticscholar.org/paper/de56d994adf279bd7d14aa806becda4710f71a1a
+Venue: PHYSICAL REVIEW MATERIALS
+
+Abstract:
+Using scanning tunneling microscopy and spectroscopy, we visualized the native defects in antiferromagnetic topological insulator $\mathrm{MnBi_2Te_4}$. Two native defects $\mathrm{Mn_{Bi}}$ and $\mathrm{Bi_{Te}}$ antisites can be well resolved in the topographic images. $\mathrm{Mn_{Bi}}$ tend to suppress the density of states at conduction band edge. Spectroscopy imaging reveals a localized peak-like local density of state at $\sim80$~meV below the Fermi energy. A careful inspection of topographic and spectroscopic images, combined with density functional theory calculation, suggests this results from $\mathrm{Bi_{Mn}}$ antisites at Mn sites. The random distribution of $\mathrm{Mn_{Bi}}$ and $\mathrm{Bi_{Mn}}$ antisites results in spatial fluctuation of local density of states near the Fermi level in $\mathrm{MnBi_2Te_4}$.

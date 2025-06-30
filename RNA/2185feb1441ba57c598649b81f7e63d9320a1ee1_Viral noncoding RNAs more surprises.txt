@@ -1,0 +1,9 @@
+Title: Viral noncoding RNAs: more surprises
+Authors: K. T. Tycowski, Y. Guo, Nara Lee, Walter N. Moss, Tenaya K Vallery et al. (and 2 more)
+Year: 2015
+Paper ID: 2185feb1441ba57c598649b81f7e63d9320a1ee1
+URL: https://www.semanticscholar.org/paper/2185feb1441ba57c598649b81f7e63d9320a1ee1
+Venue: Genes & Development
+
+Abstract:
+Many viruses make noncoding (nc)RNAs and the challenge is to define their functions. In this review, Tycowski et al. summarize what has been learned so far about the origin and function of virus-encoded ncRNAs.

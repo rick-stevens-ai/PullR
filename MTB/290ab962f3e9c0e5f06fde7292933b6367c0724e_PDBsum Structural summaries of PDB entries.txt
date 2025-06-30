@@ -1,0 +1,9 @@
+Title: PDBsum: Structural summaries of PDB entries
+Authors: R. Laskowski, J. Jabłońska, L. Pravda, Radka Svobodová Vareková, J. Thornton
+Year: 2017
+Paper ID: 290ab962f3e9c0e5f06fde7292933b6367c0724e
+URL: https://www.semanticscholar.org/paper/290ab962f3e9c0e5f06fde7292933b6367c0724e
+Venue: Protein Science
+
+Abstract:
+PDBsum is a web server providing structural information on the entries in the Protein Data Bank (PDB). The analyses are primarily image‐based and include protein secondary structure, protein‐ligand and protein‐DNA interactions, PROCHECK analyses of structural quality, and many others. The 3D structures can be viewed interactively in RasMol, PyMOL, and a JavaScript viewer called 3Dmol.js. Users can upload their own PDB files and obtain a set of password‐protected PDBsum analyses for each. The server is freely accessible to all at: http://www.ebi.ac.uk/pdbsum.

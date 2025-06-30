@@ -1,0 +1,9 @@
+Title: Pharmacophore based drug design approach as a practical process in drug discovery.
+Authors: Q. Gao, Lulu Yang, Yongqiang Zhu
+Year: 2010
+Paper ID: 5b74453484dbb4e29b0e1b21d2c951e4f5217372
+URL: https://www.semanticscholar.org/paper/5b74453484dbb4e29b0e1b21d2c951e4f5217372
+Venue: Current Computer - Aided Drug Design
+
+Abstract:
+This review summarizes the background and updated progress of pharmacophore based drug design and provides the fundamental approach strategies on both structure based and ligand based pharmacophore approaches. The different programs and methodologies enable the implementation of more accurate and sophisticated pharmacophore model generation and application in drug discovery. This review will discuss and illustrate their advantages in pharmacophore based virtual screening and exemplify the detailed application workflow, which can be easily utilized by pharmaceutical bench work medicinal chemists. Pharmacophore based drug design process includes pharmacophore modeling and validation; pharmacophore based virtual screening, virtual hits profiling and lead identification. Strategies and proven methodologies for pharmacophore modeling are described including common feature and 3D QSAR based pharmacophore generation as well as structure based pharmacophore development. Different virtual screening strategies will be described in this review with detailed case studies for supporting practical applications. Representative success examples of pharmacophore based virtual screening for lead generation will be collected to demonstrate capabilities.

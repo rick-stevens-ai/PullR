@@ -1,0 +1,9 @@
+Title: The MycoBrowser portal: a comprehensive and manually annotated resource for mycobacterial genomes.
+Authors: A. Kapopoulou, Jocelyne M. Lew, S. Cole
+Year: 2011
+Paper ID: 1f3e789d866098d8accfbd59b1eafa43540c7177
+URL: https://www.semanticscholar.org/paper/1f3e789d866098d8accfbd59b1eafa43540c7177
+Venue: Tuberculosis
+
+Abstract:
+None

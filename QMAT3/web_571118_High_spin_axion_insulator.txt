@@ -1,0 +1,12 @@
+Title: High spin axion insulator
+Authors: 
+Year: N/A
+Paper ID: web_571118
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11102527/
+Venue: Web Source
+Content Status: WEB_SCRAPED
+
+Abstract:
+Abstract
+Axion insulators possess a quantized axion field θ = π protected by combined lattice and time-reversal symmetry, holding great potential for device applications in layertronics and quantum computing. Here, we propose a high-spin axion insulator (HSAI) defined in large spin-s representation, which maintains the same inherent symmetry but possesses a notable axion field θ = (s + 1/2)2π. Such distinct axion field is confirmed independently by the direct calculation of the axion term using hybrid Wannier functions, layer-resolved Chern numbers, as well as the topological magneto-electric effect. We show that the guaranteed gapless quasi-particle excitation is absent at the boundary of the HSAI despite its integer surface Chern number, hinting an unusual quantum anomaly violating the conventional bulk-boundary correspondence. Furthermore, we ascertain that the axion field θ can be precisely tuned through an external magnetic field, enabling the manipulation of bonded transport properties. The HSAI proposed here can be experimentally verified in ultra-cold atoms by the quantized non-reciprocal conductance or topological magnetoelectric response. Our work enriches the understanding of axion insulators in condensed matter physics, paving the way for future device applications.
+Subject terms: Electronic properties and materials, Topological matter

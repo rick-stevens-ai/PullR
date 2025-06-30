@@ -1,0 +1,9 @@
+Title: 40 years of the quantum Hall effect
+Authors: K. von Klitzing, T. Chakraborty, P. Kim, V. Madhavan, X. Dai et al. (and 8 more)
+Year: 2020
+Paper ID: ebbe85a11607cb2652980b88f587233c76f03eb8
+URL: https://www.semanticscholar.org/paper/ebbe85a11607cb2652980b88f587233c76f03eb8
+Venue: Nature Reviews Physics
+
+Abstract:
+None

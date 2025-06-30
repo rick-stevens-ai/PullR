@@ -1,0 +1,27 @@
+Title: [Literature Review] Boundary Witten effect in multi-axion insulators
+Authors: 
+Year: N/A
+Paper ID: web_609384
+URL: https://www.themoonlight.io/en/review/boundary-witten-effect-in-multi-axion-insulators
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED
+
+Abstract:
+**Topic:** Boundary Witten effect in multi-axion insulators
+
+**Key Points:**
+- The paper introduces and analyzes the "boundary Witten effect" in three-dimensional multi-axion insulators, where multiple spacetime-dependent mass terms (axion fields) lead to novel topological responses.
+- Using dimensional reduction from a (6+1)-dimensional topological field theory, the authors derive a new multi-axion-electromagnetic coupling in (3+1) dimensions, resulting in topological currents and defects such as magnetic monopoles and hopfions.
+- At the boundary, the theory predicts that point-like vortices on the gapped surface can acquire half-integer electric charges, a direct manifestation of the boundary Witten effect.
+
+**Methods:** Dimensional reduction from higher-dimensional (6+1) topological field theory to (3+1) and (2+1) dimensions; effective field theory analysis; derivation of topological terms and currents.
+
+**Authors:** Not specified
+
+**Publication Details:** 
+- Title: Boundary Witten effect in multi-axion insulators
+- arXiv link: https://arxiv.org/pdf/2504.16919
+- Date: 2025-04-22
+
+**Summary:**  
+This paper investigates the topological properties of multi-axion insulators, focusing on the emergence of the boundary Witten effect. By employing dimensional reduction from a (6+1)-dimensional massive Dirac theory, the authors derive new axion-electromagnetic coupling terms in (3+1) dimensions, leading to the prediction of topological currents and defects. Crucially, the analysis reveals that on the gapped boundary of such insulators, point-like vortices can acquire half-integer electric charges, providing a boundary analog of the Witten effect and enriching the understanding of topological phases in condensed matter systems.
