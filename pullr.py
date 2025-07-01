@@ -1672,6 +1672,403 @@ def process_pdf_references(pdf_file, model_shortname, output_dir, ss_api_key=Non
     if verbose:
         print(f"Extracted references saved to: {refs_file}")
 
+def extract_only_mode(input_file, model_shortname, output_dir, verbose=False):
+    """Extract and clean references without downloading papers"""
+    
+    # Load model configuration
+    model_config = load_model_config(model_shortname)
+    client = get_openai_client(model_config)
+    openai_model = model_config.get('openai_model')
+    
+    # Create output directory
+    os.makedirs(output_dir, exist_ok=True)
+    
+    if input_file.lower().endswith('.pdf'):
+        # PDF mode - extract references from PDF
+        if not PDF_SUPPORT:
+            raise ImportError("PyPDF2 is required for PDF processing. Install with: pip install PyPDF2")
+        
+        if verbose:
+            print(f"Extracting references from PDF: {input_file}")
+        
+        # Extract text from PDF
+        try:
+            pdf_text = extract_text_from_pdf(input_file, verbose)
+            if verbose:
+                print(f"Extracted {len(pdf_text)} characters from PDF")
+        except Exception as e:
+            raise Exception(f"Failed to extract text from PDF: {e}")
+        
+        # Extract individual references
+        if verbose:
+            print("Extracting references using LLM...")
+        references = extract_references_from_text(pdf_text, client, openai_model, verbose)
+        
+        if not references:
+            print("No references found in the PDF")
+            return
+        
+        print(f"Found {len(references)} references in PDF")
+        source_type = "pdf"
+        
+    else:
+        # Text file mode - read existing references
+        try:
+            with open(input_file, 'r', encoding='utf-8') as f:
+                references = [line.strip() for line in f if line.strip() and not line.strip().startswith('#')]
+        except FileNotFoundError:
+            raise FileNotFoundError(f"References file '{input_file}' not found.")
+        
+        if verbose:
+            print(f"Read {len(references)} references from file")
+        source_type = "txt"
+    
+    # Preprocess references with LLM for cleaning
+    if verbose:
+        print("Cleaning and processing references with LLM...")
+    
+    cleaned_references = preprocess_references(references, client, openai_model, verbose, source=source_type)
+    
+    # Save original references
+    original_refs_file = os.path.join(output_dir, "original_references.txt")
+    with open(original_refs_file, 'w', encoding='utf-8') as f:
+        for i, ref in enumerate(references, 1):
+            f.write(f"{i}. {ref}\n")
+    
+    # Save cleaned references
+    cleaned_refs_file = os.path.join(output_dir, "cleaned_references.txt")
+    with open(cleaned_refs_file, 'w', encoding='utf-8') as f:
+        f.write("# Cleaned and formatted references processed by PullR\n")
+        f.write(f"# Original file: {input_file}\n")
+        f.write(f"# Processing date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"# Model used: {openai_model}\n")
+        f.write(f"# Total references: {len(cleaned_references)}\n\n")
+        for i, ref in enumerate(cleaned_references, 1):
+            f.write(f"{i}. {ref}\n")
+    
+    # Save summary report
+    summary_file = os.path.join(output_dir, "processing_summary.txt")
+    with open(summary_file, 'w', encoding='utf-8') as f:
+        f.write("PullR Extract-Only Mode Summary\n")
+        f.write("=" * 50 + "\n\n")
+        f.write(f"Input file: {input_file}\n")
+        f.write(f"Input type: {source_type.upper()}\n")
+        f.write(f"Processing date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"Model used: {openai_model}\n")
+        f.write(f"Original references found: {len(references)}\n")
+        f.write(f"Cleaned references output: {len(cleaned_references)}\n")
+        f.write(f"Output directory: {output_dir}\n\n")
+        
+        f.write("Output Files:\n")
+        f.write(f"- Original references: {os.path.basename(original_refs_file)}\n")
+        f.write(f"- Cleaned references: {os.path.basename(cleaned_refs_file)}\n")
+        f.write(f"- This summary: {os.path.basename(summary_file)}\n\n")
+        
+        f.write("Processing Notes:\n")
+        f.write("- References have been cleaned and standardized using AI\n")
+        f.write("- No papers were downloaded (extract-only mode)\n")
+        f.write("- Use cleaned references for further processing or manual review\n")
+    
+    print(f"\n=== Extract-Only Mode Complete ===")
+    print(f"Input: {input_file}")
+    print(f"Original references: {len(references)}")
+    print(f"Cleaned references: {len(cleaned_references)}")
+    print(f"Output directory: {output_dir}")
+    print(f"Files created:")
+    print(f"  - {os.path.basename(original_refs_file)} (original)")
+    print(f"  - {os.path.basename(cleaned_refs_file)} (cleaned)")
+    print(f"  - {os.path.basename(summary_file)} (summary)")
+    
+    if verbose:
+        print(f"\nUse the cleaned references for:")
+        print(f"  - Manual review and editing")
+        print(f"  - Input to other reference managers")
+        print(f"  - Further processing with PullR (without --extract-only)")
+        print(f"  - Citation formatting in documents")
+
+def find_pdf_files(directory_path, verbose=False, sample_size=None):
+    """Find all PDF files in a directory, optionally sampling a subset"""
+    pdf_files = []
+    
+    if not os.path.isdir(directory_path):
+        return pdf_files
+    
+    # Find all PDF files
+    for root, dirs, files in os.walk(directory_path):
+        for file in files:
+            if file.lower().endswith('.pdf'):
+                pdf_path = os.path.join(root, file)
+                pdf_files.append(pdf_path)
+    
+    # Sort for consistent ordering
+    pdf_files = sorted(pdf_files)
+    total_pdfs = len(pdf_files)
+    
+    # Apply sampling if requested
+    if sample_size is not None and sample_size < total_pdfs:
+        import random
+        # Set seed for reproducible sampling (based on directory path)
+        random.seed(hash(directory_path) % 2**32)
+        pdf_files = random.sample(pdf_files, sample_size)
+        # Re-sort sampled files for consistent processing order
+        pdf_files = sorted(pdf_files)
+        
+        if verbose:
+            print(f"Found {total_pdfs} PDF files in {directory_path}")
+            print(f"Randomly sampled {sample_size} PDFs for processing:")
+            for pdf in pdf_files[:5]:  # Show first 5 sampled
+                print(f"  - {os.path.basename(pdf)}")
+            if len(pdf_files) > 5:
+                print(f"  ... and {len(pdf_files) - 5} more sampled files")
+    else:
+        if verbose:
+            print(f"Found {len(pdf_files)} PDF files in {directory_path}")
+            for pdf in pdf_files[:5]:  # Show first 5
+                print(f"  - {os.path.basename(pdf)}")
+            if len(pdf_files) > 5:
+                print(f"  ... and {len(pdf_files) - 5} more")
+    
+    return pdf_files
+
+def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_key=None, verbose=False, parallel_threads=1, extract_only=False, sample_size=None):
+    """Process all PDFs in a directory, optionally sampling a subset"""
+    
+    if not PDF_SUPPORT:
+        raise ImportError("PyPDF2 is required for PDF processing. Install with: pip install PyPDF2")
+    
+    # Find all PDF files (with optional sampling)
+    pdf_files = find_pdf_files(directory_path, verbose, sample_size)
+    total_pdfs_found = len(find_pdf_files(directory_path, verbose=False))  # Get total count for reporting
+    
+    if not pdf_files:
+        print(f"No PDF files found in directory: {directory_path}")
+        return
+    
+    if sample_size and sample_size < total_pdfs_found:
+        print(f"Processing {len(pdf_files)} randomly sampled PDF files from {total_pdfs_found} total PDFs in directory: {directory_path}")
+    else:
+        print(f"Processing {len(pdf_files)} PDF files from directory: {directory_path}")
+    
+    # Load model configuration
+    model_config = load_model_config(model_shortname)
+    client = get_openai_client(model_config)
+    openai_model = model_config.get('openai_model')
+    
+    # Create main output directory
+    os.makedirs(output_dir, exist_ok=True)
+    
+    # Statistics tracking
+    total_pdfs = len(pdf_files)
+    successful_pdfs = 0
+    total_references = 0
+    total_papers_found = 0
+    total_abstracts = 0
+    total_pdfs_downloaded = 0
+    processing_errors = []
+    
+    # Progress tracking
+    pdf_progress = tqdm(total=total_pdfs, desc="Processing PDFs", position=0, leave=True)
+    
+    for i, pdf_file in enumerate(pdf_files, 1):
+        pdf_name = os.path.basename(pdf_file)
+        pdf_progress.set_description(f"Processing PDF {i}/{total_pdfs}: {pdf_name[:30]}...")
+        
+        try:
+            if verbose:
+                print(f"\n[{i}/{total_pdfs}] Processing: {pdf_name}")
+            
+            # Create subdirectory for this PDF
+            pdf_safe_name = sanitize_filename(os.path.splitext(pdf_name)[0], max_length=50)
+            pdf_output_dir = os.path.join(output_dir, f"pdf_{i:03d}_{pdf_safe_name}")
+            os.makedirs(pdf_output_dir, exist_ok=True)
+            
+            if extract_only:
+                # Extract-only mode for this PDF
+                if verbose:
+                    print(f"  Extract-only mode for: {pdf_name}")
+                
+                # Use the existing extract_only_mode function for this PDF
+                extract_only_mode(pdf_file, model_shortname, pdf_output_dir, verbose)
+                successful_pdfs += 1
+                
+                # Count references from the cleaned file
+                cleaned_refs_file = os.path.join(pdf_output_dir, "cleaned_references.txt")
+                if os.path.exists(cleaned_refs_file):
+                    with open(cleaned_refs_file, 'r', encoding='utf-8') as f:
+                        ref_count = len([line for line in f if line.strip() and not line.strip().startswith('#') and re.match(r'^\d+\.', line.strip())])
+                        total_references += ref_count
+                
+            else:
+                # Full processing mode for this PDF
+                if verbose:
+                    print(f"  Full processing mode for: {pdf_name}")
+                
+                # Extract text from PDF
+                pdf_text = extract_text_from_pdf(pdf_file, verbose)
+                
+                # Extract references
+                references = extract_references_from_text(pdf_text, client, openai_model, verbose)
+                
+                if not references:
+                    if verbose:
+                        print(f"  No references found in {pdf_name}")
+                    processing_errors.append(f"{pdf_name}: No references found")
+                    pdf_progress.update(1)
+                    continue
+                
+                pdf_ref_count = len(references)
+                total_references += pdf_ref_count
+                
+                if verbose:
+                    print(f"  Found {pdf_ref_count} references")
+                
+                # Save extracted references for this PDF
+                refs_file = os.path.join(pdf_output_dir, f"extracted_references_{pdf_safe_name}.txt")
+                with open(refs_file, 'w', encoding='utf-8') as f:
+                    f.write(f"# References extracted from: {pdf_name}\n")
+                    f.write(f"# Extraction date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+                    f.write(f"# Total references: {pdf_ref_count}\n\n")
+                    for j, ref in enumerate(references, 1):
+                        f.write(f"{j}. {ref}\n")
+                
+                # Preprocess references
+                cleaned_references = preprocess_references(references, client, openai_model, verbose, source="pdf")
+                
+                # Process references with search and download
+                pdf_abstracts = 0
+                pdf_downloads = 0
+                pdf_papers_found = 0
+                
+                # Initialize counters for this PDF
+                counters = {
+                    'successful_searches': ThreadSafeCounter(),
+                    'abstracts': ThreadSafeCounter(),
+                    'pdfs': ThreadSafeCounter()
+                }
+                
+                # Process each reference (simplified version of the main processing)
+                for j, reference in enumerate(cleaned_references):
+                    try:
+                        papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, pdf_output_dir)
+                        
+                        if papers:
+                            pdf_papers_found += len(papers)
+                            # Take the best match
+                            paper = papers[0]
+                            
+                            # Save abstract
+                            abstract_file = save_abstract(paper, pdf_output_dir)
+                            if abstract_file:
+                                pdf_abstracts += 1
+                            
+                            # Try to download PDF
+                            if paper.get('openAccessPdf') and paper['openAccessPdf'].get('url'):
+                                pdf_url = paper['openAccessPdf']['url']
+                                paper_id = paper.get('paperId', 'unknown')
+                                pdf_filename = f"{paper_id}.pdf"
+                                pdf_path = os.path.join(pdf_output_dir, pdf_filename)
+                                
+                                if not os.path.exists(pdf_path):
+                                    if download_pdf(pdf_url, pdf_path):
+                                        pdf_downloads += 1
+                                else:
+                                    pdf_downloads += 1
+                            
+                            # Rate limiting
+                            time.sleep(1)
+                        
+                    except Exception as e:
+                        if verbose:
+                            print(f"    Error processing reference {j+1}: {e}")
+                        continue
+                
+                total_papers_found += pdf_papers_found
+                total_abstracts += pdf_abstracts
+                total_pdfs_downloaded += pdf_downloads
+                
+                if verbose:
+                    print(f"  Results: {pdf_papers_found} papers found, {pdf_abstracts} abstracts, {pdf_downloads} PDFs")
+                
+                successful_pdfs += 1
+            
+        except Exception as e:
+            error_msg = f"{pdf_name}: {str(e)}"
+            processing_errors.append(error_msg)
+            if verbose:
+                print(f"  Error processing {pdf_name}: {e}")
+        
+        pdf_progress.update(1)
+    
+    pdf_progress.close()
+    
+    # Create summary report
+    summary_file = os.path.join(output_dir, "batch_processing_summary.txt")
+    with open(summary_file, 'w', encoding='utf-8') as f:
+        f.write("PullR Batch PDF Processing Summary\n")
+        f.write("=" * 50 + "\n\n")
+        f.write(f"Input directory: {directory_path}\n")
+        f.write(f"Processing mode: {'Extract-only' if extract_only else 'Full processing'}\n")
+        f.write(f"Processing date: {time.strftime('%Y-%m-%d %H:%M:%S')}\n")
+        f.write(f"Model used: {openai_model}\n")
+        f.write(f"Parallel threads: {parallel_threads}\n")
+        f.write(f"Output directory: {output_dir}\n\n")
+        
+        f.write("Processing Statistics:\n")
+        f.write(f"Total PDFs found in directory: {total_pdfs_found}\n")
+        if sample_size and sample_size < total_pdfs_found:
+            f.write(f"PDFs sampled for processing: {total_pdfs}\n")
+            f.write(f"Sampling method: Random sampling\n")
+        f.write(f"Successfully processed: {successful_pdfs}\n")
+        f.write(f"Processing errors: {len(processing_errors)}\n")
+        f.write(f"Success rate: {successful_pdfs/total_pdfs*100:.1f}%\n\n")
+        
+        f.write("Reference Statistics:\n")
+        f.write(f"Total references extracted: {total_references}\n")
+        f.write(f"Average references per PDF: {total_references/max(successful_pdfs,1):.1f}\n\n")
+        
+        if not extract_only:
+            f.write("Paper Discovery Statistics:\n")
+            f.write(f"Total papers found: {total_papers_found}\n")
+            f.write(f"Total abstracts saved: {total_abstracts}\n")
+            f.write(f"Total PDFs downloaded: {total_pdfs_downloaded}\n")
+            f.write(f"Average papers per PDF: {total_papers_found/max(successful_pdfs,1):.1f}\n\n")
+        
+        if processing_errors:
+            f.write("Processing Errors:\n")
+            for error in processing_errors:
+                f.write(f"- {error}\n")
+        
+        f.write(f"\nOutput Structure:\n")
+        f.write(f"Each PDF created a subdirectory: pdf_XXX_[filename]/\n")
+        if extract_only:
+            f.write(f"Each subdirectory contains: original_references.txt, cleaned_references.txt, processing_summary.txt\n")
+        else:
+            f.write(f"Each subdirectory contains: extracted references, abstracts, and downloaded PDFs\n")
+    
+    # Print final summary
+    print(f"\n=== Batch PDF Processing Complete ===")
+    print(f"Directory: {directory_path}")
+    print(f"Mode: {'Extract-only' if extract_only else 'Full processing'}")
+    if sample_size and sample_size < total_pdfs_found:
+        print(f"Sampling: {total_pdfs} randomly selected from {total_pdfs_found} total PDFs")
+    print(f"PDFs processed: {successful_pdfs}/{total_pdfs} ({successful_pdfs/total_pdfs*100:.1f}%)")
+    print(f"Total references: {total_references}")
+    if not extract_only:
+        print(f"Papers found: {total_papers_found}")
+        print(f"Abstracts saved: {total_abstracts}")
+        print(f"PDFs downloaded: {total_pdfs_downloaded}")
+    print(f"Output directory: {output_dir}")
+    print(f"Summary report: {os.path.basename(summary_file)}")
+    
+    if processing_errors:
+        print(f"\nProcessing errors ({len(processing_errors)}):")
+        for error in processing_errors[:5]:  # Show first 5 errors
+            print(f"  - {error}")
+        if len(processing_errors) > 5:
+            print(f"  ... and {len(processing_errors) - 5} more (see summary file)")
+    
+    return successful_pdfs, total_references
+
 def process_references(references_file, model_shortname, output_dir, mode='exact', ss_api_key=None, max_papers_per_ref=5, verbose=False, parallel_threads=1):
     """Process references file and download papers"""
     
@@ -1901,6 +2298,9 @@ Examples:
   # PDF mode - extract references from PDF and download them with fallbacks
   python pullr.py paper.pdf --model gpt41 --output-dir ./papers --mode pdf
   
+  # Directory mode - process all PDFs in a directory
+  python pullr.py ./pdf_directory --model gpt41 --output-dir ./papers --mode pdf
+  
   # Exact mode - download papers that exactly match each reference
   python pullr.py mtb-refs.txt --model gpt41 --output-dir ./papers --mode exact
   
@@ -1912,9 +2312,17 @@ Examples:
   
   # Verbose mode with parallel processing
   python pullr.py refs.txt --model gpt41 --output-dir ./papers --parallel 3 --verbose
+  
+  # Extract and clean references only (no downloading)
+  python pullr.py paper.pdf --model gpt41 --output-dir ./refs --mode pdf --extract-only
+  python pullr.py ./pdf_directory --model gpt41 --output-dir ./refs --mode pdf --extract-only
+  python pullr.py refs.txt --model gpt41 --output-dir ./cleaned --extract-only
+  
+  # Sample processing - randomly select N PDFs from directory
+  python pullr.py ./pdf_directory --model gpt41 --output-dir ./papers --mode pdf --sample 5
         """)
     
-    parser.add_argument('input_file', help='Input file: PDF file for reference extraction, or text file with references (one per line)')
+    parser.add_argument('input_file', help='Input: PDF file, directory of PDFs, or text file with references (one per line)')
     parser.add_argument('--model', required=True, help='Model shortname from model_servers.yaml')
     parser.add_argument('--output-dir', required=True, help='Directory to save abstracts and papers')
     parser.add_argument('--mode', choices=['pdf', 'exact', 'fuzzy'], default='exact',
@@ -1926,12 +2334,16 @@ Examples:
                         help='Show detailed progress and debugging information')
     parser.add_argument('--parallel', type=int, default=1, metavar='N',
                         help='Number of parallel threads for downloading (default: 1, max recommended: 10)')
+    parser.add_argument('--extract-only', action='store_true',
+                        help='Extract and clean references only, do not download papers or search databases')
+    parser.add_argument('--sample', type=int, metavar='N',
+                        help='When processing a directory, randomly sample N PDFs instead of processing all')
     
     args = parser.parse_args()
     
-    # Validate inputs
+    # Validate inputs - can be file or directory
     if not os.path.exists(args.input_file):
-        print(f"Error: Input file '{args.input_file}' not found.")
+        print(f"Error: Input path '{args.input_file}' not found.")
         sys.exit(1)
     
     if not os.path.exists(MODEL_CONFIG_FILE):
@@ -1946,21 +2358,70 @@ Examples:
         print("Warning: Using more than 10 parallel threads may overwhelm APIs and cause rate limiting issues")
         print(f"Recommended maximum is 10, but you specified {args.parallel}")
     
+    # Validate sample parameter
+    if args.sample is not None:
+        if args.sample < 1:
+            print("Error: --sample must be at least 1")
+            sys.exit(1)
+        if not os.path.isdir(args.input_file):
+            print("Error: --sample can only be used with directory input")
+            sys.exit(1)
+    
     # Check PDF mode requirements
     if args.mode == 'pdf':
         if not PDF_SUPPORT:
             print("Error: PDF mode requires PyPDF2. Install with: pip install PyPDF2")
             sys.exit(1)
-        if not args.input_file.lower().endswith('.pdf'):
-            print("Error: PDF mode requires a PDF file as input.")
+        # PDF mode can accept either a PDF file or a directory
+        if os.path.isfile(args.input_file) and not args.input_file.lower().endswith('.pdf'):
+            print("Error: PDF mode requires a PDF file or directory containing PDFs as input.")
             sys.exit(1)
+        elif os.path.isdir(args.input_file):
+            # Check if directory contains any PDFs
+            pdf_files = find_pdf_files(args.input_file)
+            if not pdf_files:
+                print(f"Error: No PDF files found in directory '{args.input_file}'.")
+                sys.exit(1)
+            # Additional validation for sampling
+            if args.sample is not None and args.sample > len(pdf_files):
+                print(f"Warning: Requested sample size ({args.sample}) is larger than available PDFs ({len(pdf_files)}). Processing all PDFs.")
+                args.sample = None
     
     # Get Semantic Scholar API key from environment if not provided
     ss_api_key = args.ss_api_key or os.environ.get('SS-API-KEY') or os.environ.get('SEMANTIC_SCHOLAR_API_KEY')
     if not ss_api_key:
         print("Warning: No Semantic Scholar API key provided. Rate limits may apply.")
     
-    # Show mode information
+    # Check for extract-only mode
+    if args.extract_only:
+        print(f"Running in EXTRACT-ONLY mode - will extract and clean references without downloading")
+        try:
+            if os.path.isdir(args.input_file):
+                # Directory processing in extract-only mode
+                process_pdf_directory(
+                    args.input_file,
+                    args.model,
+                    args.output_dir,
+                    ss_api_key,
+                    args.verbose,
+                    args.parallel,
+                    extract_only=True,
+                    sample_size=args.sample
+                )
+            else:
+                # Single file processing in extract-only mode
+                extract_only_mode(
+                    args.input_file,
+                    args.model,
+                    args.output_dir,
+                    args.verbose
+                )
+        except Exception as e:
+            print(f"Error: {e}")
+            sys.exit(1)
+        return
+    
+    # Show mode information for normal processing
     if args.mode == 'pdf':
         print(f"Running in PDF mode - will extract references from PDF and download them with fallback strategies")
     elif args.mode == 'exact':
@@ -1973,15 +2434,30 @@ Examples:
     
     try:
         if args.mode == 'pdf':
-            process_pdf_references(
-                args.input_file,
-                args.model,
-                args.output_dir,
-                ss_api_key,
-                args.verbose,
-                args.parallel
-            )
+            if os.path.isdir(args.input_file):
+                # Directory processing in full mode
+                process_pdf_directory(
+                    args.input_file,
+                    args.model,
+                    args.output_dir,
+                    ss_api_key,
+                    args.verbose,
+                    args.parallel,
+                    extract_only=False,
+                    sample_size=args.sample
+                )
+            else:
+                # Single PDF processing
+                process_pdf_references(
+                    args.input_file,
+                    args.model,
+                    args.output_dir,
+                    ss_api_key,
+                    args.verbose,
+                    args.parallel
+                )
         else:
+            # Text file processing (exact/fuzzy modes)
             process_references(
                 args.input_file,
                 args.model,

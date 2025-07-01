@@ -61,6 +61,20 @@ Extract references from an academic paper and download related papers:
 python pullr.py paper.pdf --model gpt4 --output-dir ./papers --mode pdf
 ```
 
+### Directory Mode - Batch PDF Processing
+Process all PDFs in a directory:
+
+```bash
+python pullr.py ./pdf_directory --model gpt4 --output-dir ./papers --mode pdf
+```
+
+### Sampling Mode - Test on Subsets
+Randomly sample N PDFs from a large directory:
+
+```bash
+python pullr.py ./large_directory --model gpt4 --output-dir ./sample_results --mode pdf --sample 10
+```
+
 ### Exact Mode - Precise Paper Matching
 Find papers that exactly match each reference in a file:
 
@@ -73,6 +87,16 @@ Find multiple similar papers for each reference:
 
 ```bash
 python pullr.py references.txt --model gpt4 --output-dir ./papers --mode fuzzy --max-papers 5
+```
+
+### Extract-Only Mode - Reference Cleaning
+Extract and clean references without downloading papers:
+
+```bash
+python pullr.py paper.pdf --model gpt4 --output-dir ./refs --extract-only
+python pullr.py ./pdf_directory --model gpt4 --output-dir ./batch_refs --extract-only
+python pullr.py ./large_directory --model gpt4 --output-dir ./sample_refs --extract-only --sample 5
+python pullr.py references.txt --model gpt4 --output-dir ./cleaned --extract-only
 ```
 
 ### Parallel Processing
@@ -95,6 +119,28 @@ python pullr.py "machine_learning_survey.pdf" \
   --verbose
 ```
 
+### Batch Processing Multiple PDFs
+```bash
+# Process all PDFs in a directory
+python pullr.py "./research_papers/" \
+  --model gpt4 \
+  --output-dir ./batch_results \
+  --mode pdf \
+  --parallel 4 \
+  --verbose
+```
+
+### Sample Testing on Large Collections
+```bash
+# Test processing with a random sample of 10 PDFs
+python pullr.py "./large_collection/" \
+  --model gpt4 \
+  --output-dir ./test_sample \
+  --mode pdf \
+  --sample 10 \
+  --verbose
+```
+
 ### Building a Research Collection
 ```bash
 # Process a list of references to build a comprehensive collection
@@ -105,16 +151,52 @@ python pullr.py "ai_references.txt" \
   --ss-api-key "your-semantic-scholar-key"
 ```
 
+### Cleaning Reference Lists
+```bash
+# Extract and clean references from a PDF without downloading
+python pullr.py "research_paper.pdf" \
+  --model gpt4 \
+  --output-dir ./cleaned_refs \
+  --extract-only \
+  --verbose
+
+# Batch clean references from multiple PDFs
+python pullr.py "./papers_to_clean/" \
+  --model gpt4 \
+  --output-dir ./batch_cleaned \
+  --extract-only
+
+# Sample and clean references from a large collection
+python pullr.py "./large_paper_collection/" \
+  --model gpt4 \
+  --output-dir ./sample_cleaned \
+  --extract-only \
+  --sample 20
+
+# Clean an existing reference list
+python pullr.py "messy_references.txt" \
+  --model gpt4 \
+  --output-dir ./cleaned_refs \
+  --extract-only
+```
+
 ## 📁 Output Structure
 
 PullR creates organized output with detailed metadata:
 
 ```
 output_dir/
-├── extracted_references.txt          # References found in PDF
-├── cleaned_references.txt            # LLM-processed references
-├── [paperID]_[title].txt             # Paper abstracts with metadata
-└── [paperID].pdf                     # Downloaded PDFs when available
+├── extracted_references.txt          # References found in PDF (single file)
+├── cleaned_references.txt            # LLM-processed references (single file)
+├── original_references.txt           # Original references (extract-only mode)
+├── processing_summary.txt            # Processing report (extract-only mode)
+├── batch_processing_summary.txt      # Summary for directory processing
+├── pdf_001_filename/                 # Individual PDF results (directory mode)
+│   ├── extracted_references.txt      
+│   ├── [paperID]_[title].txt         
+│   └── [paperID].pdf                 
+├── pdf_002_filename/                 # Second PDF results
+└── [paperID]_[title].txt             # Paper abstracts with metadata (single mode)
 ```
 
 ### Sample Output File
