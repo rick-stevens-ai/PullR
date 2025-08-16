@@ -1,0 +1,9 @@
+Title: Aurora kinase A drives the evolution of resistance to third generation EGFR inhibitors in lung cancer
+Authors: K. Shah, R. Bhatt, J. Rotow, Julia Rohrberg, V. Olivas et al. (and 20 more)
+Year: 2018
+Paper ID: 496a80d58bce56cb58900a3317611f712b83e3f6
+URL: https://www.semanticscholar.org/paper/496a80d58bce56cb58900a3317611f712b83e3f6
+Venue: Nature Network Boston
+
+Abstract:
+Although targeted therapies often elicit profound initial patient responses, these effects are transient due to residual disease leading to acquired resistance. How tumors transition between drug responsiveness, tolerance and resistance, especially in the absence of preexisting subclones, remains unclear. In epidermal growth factor receptor (EGFR)-mutant lung adenocarcinoma cells, we demonstrate that residual disease and acquired resistance in response to EGFR inhibitors requires Aurora kinase A (AURKA) activity. Nongenetic resistance through the activation of AURKA by its coactivator TPX2 emerges in response to chronic EGFR inhibition where it mitigates drug-induced apoptosis. Aurora kinase inhibitors suppress this adaptive survival program, increasing the magnitude and duration of EGFR inhibitor response in preclinical models. Treatment-induced activation of AURKA is associated with resistance to EGFR inhibitors in vitro, in vivo and in most individuals with EGFR-mutant lung adenocarcinoma. These findings delineate a molecular path whereby drug resistance emerges from drug-tolerant cells and unveils a synthetic lethal strategy for enhancing responses to EGFR inhibitors by suppressing AURKA-driven residual disease and acquired resistance. Nongenetic activation of Aurora kinase A in the majority of patients with non-small-cell lung cancer mediates adaptive resistance to EGFR inhibition and offers an opportunity for combination treatment.

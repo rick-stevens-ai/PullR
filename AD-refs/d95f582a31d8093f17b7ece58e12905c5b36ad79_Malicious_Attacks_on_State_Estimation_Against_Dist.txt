@@ -1,0 +1,9 @@
+Title: Malicious Attacks on State Estimation Against Distributed Control Systems
+Authors: An-Yang Lu, Guang‐Hong Yang
+Year: 2020
+Paper ID: d95f582a31d8093f17b7ece58e12905c5b36ad79
+URL: https://www.semanticscholar.org/paper/d95f582a31d8093f17b7ece58e12905c5b36ad79
+Venue: IEEE Transactions on Automatic Control
+
+Abstract:
+This article investigates malicious attacks against distributed control systems. The objective of this article is to analyze the potential attack mechanisms, which worsen the estimation performance through compromising partial communication links. Two regimes of attacks (perfect and nonperfect attacks) are considered. First, a necessary and sufficient condition for the existence of perfect attack is provided in the form of null space. Based on the obtained conditions, a perfect attack design strategy is proposed. Second, for the case that the adversary cannot compromise enough communication links to implement the perfect attack, an offline nonperfect attack design strategy is proposed. Besides, by intercepting the system measurements, an online nonperfect attack design strategy is provided to enlarge the influence of the designed attacks. Finally, the simulation results demonstrate the correctness and effectiveness of the proposed conditions and methods.

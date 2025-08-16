@@ -1,0 +1,12 @@
+Title: Dynamic Software Aging Detection-Based Fault Tolerant Software Rejuvenation Model for Virtualized Environment
+Authors: I. Umesh, G. Srinivasan
+Year: 2017
+Paper ID: bd404003329e56fa2feecaa56baabd02afae2b66
+URL: https://www.semanticscholar.org/paper/bd404003329e56fa2feecaa56baabd02afae2b66
+Venue: 
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/bd404003329e56fa2feecaa56baabd02afae2b66

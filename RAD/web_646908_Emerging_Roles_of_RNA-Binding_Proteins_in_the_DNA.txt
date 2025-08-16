@@ -1,0 +1,10 @@
+Title: Emerging Roles of RNA-Binding Proteins in the DNA Double-Strand Break Response
+Authors: Julie A. Klaric, Stas Wüst, Stephanie Panier
+Year: 2021
+Paper ID: web_646908
+URL: https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2021.668821/full
+Venue: Frontiers in Molecular Biosciences
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+RNA-binding proteins (RBPs), traditionally recognized for their roles in gene expression, have recently been identified as key players in the cellular response to DNA double-strand breaks (DSBs). Beyond their canonical functions, RBPs directly participate in DSB signal transduction, amplification, and repair at sites of damaged chromatin. Their integration into DSB signaling and repair networks is essential for maintaining genome stability, with significant implications for diseases such as cancer, neurodegeneration, and premature aging. This review synthesizes current literature on the non-canonical functions of RBPs in DSB response, emphasizing the regulatory interplay between RBPs, both coding and non-coding RNAs, and the influence of complex post-translational modifications. The authors highlight how this emerging regulatory network modulates DSB repair pathways and discuss the broader impact of these findings on our understanding of genome maintenance and disease etiology.

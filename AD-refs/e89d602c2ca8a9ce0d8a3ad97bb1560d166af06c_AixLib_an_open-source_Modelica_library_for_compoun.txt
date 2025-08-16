@@ -1,0 +1,9 @@
+Title: AixLib: an open-source Modelica library for compound building energy systems from component to district level with automated quality management
+Authors: Laura Maier, D. Jansen, Fabian Wüllhorst, Martin Kremer, A. Kümpel et al. (and 2 more)
+Year: 2023
+Paper ID: e89d602c2ca8a9ce0d8a3ad97bb1560d166af06c
+URL: https://www.semanticscholar.org/paper/e89d602c2ca8a9ce0d8a3ad97bb1560d166af06c
+Venue: Journal of Building Performance Simulation, Taylor & Francis
+
+Abstract:
+Open-source modelling libraries facilitate the standardization and harmonization of model development. In the context of building energy systems, Modelica is a suitable modelling language as it is equation-based and object-oriented. As an outcome of the IBPSA project 1 cooperation, four open-source modelling libraries have been successfully deployed which all share the core library Modelica IBPSA. One of them is the AixLib modelling library. AixLib supports different modelling depths ranging from component to district level and covers all relevant domains in the context of building energy systems. To ensure high-quality simulations, continuous integration has been successfully added to automatically compare simulation results with existing validation data. This paper presents AixLib's key features, scope, and associated tools. We present three use cases that highlight the broad application range of AixLib models. Furthermore, an overview of relevant research and industry projects is provided. Finally, we give an outlook on future development goals.

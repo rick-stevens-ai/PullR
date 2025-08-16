@@ -1,0 +1,9 @@
+Title: Pharmacologic Inhibitor of DNA-PK, M3814, Potentiates Radiotherapy and Regresses Human Tumors in Mouse Models
+Authors: F. Zenke, A. Zimmermann, C. Sirrenberg, H. Dahmen, V. Kirkin et al. (and 7 more)
+Year: 2020
+Paper ID: 0016c664858aa0eb4644445d7726c785ddd7b82f
+URL: https://www.semanticscholar.org/paper/0016c664858aa0eb4644445d7726c785ddd7b82f
+Venue: Molecular Cancer Therapeutics
+
+Abstract:
+Physical and chemical DNA-damaging agents are used widely in the treatment of cancer. Double-strand break (DSB) lesions in DNA are the most deleterious form of damage and, if left unrepaired, can effectively kill cancer cells. DNA-dependent protein kinase (DNA-PK) is a critical component of nonhomologous end joining (NHEJ), one of the two major pathways for DSB repair. Although DNA-PK has been considered an attractive target for cancer therapy, the development of pharmacologic DNA-PK inhibitors for clinical use has been lagging. Here, we report the discovery and characterization of a potent, selective, and orally bioavailable DNA-PK inhibitor, M3814 (peposertib), and provide in vivo proof of principle for DNA-PK inhibition as a novel approach to combination radiotherapy. M3814 potently inhibits DNA-PK catalytic activity and sensitizes multiple cancer cell lines to ionizing radiation (IR) and DSB-inducing agents. Inhibition of DNA-PK autophosphorylation in cancer cells or xenograft tumors led to an increased number of persistent DSBs. Oral administration of M3814 to two xenograft models of human cancer, using a clinically established 6-week fractionated radiation schedule, strongly potentiated the antitumor activity of IR and led to complete tumor regression at nontoxic doses. Our results strongly support DNA-PK inhibition as a novel approach for the combination radiotherapy of cancer. M3814 is currently under investigation in combination with radiotherapy in clinical trials.

@@ -1,0 +1,9 @@
+Title: Innovations in Infrastructure Automation: Advancing IAM in Cloud Security
+Authors: Kiran Kumar Suram
+Year: 2025
+Paper ID: 7050a776b4c2a78cf7ea5a47c1ecdf785696464d
+URL: https://www.semanticscholar.org/paper/7050a776b4c2a78cf7ea5a47c1ecdf785696464d
+Venue: International Journal of Scientific Research in Computer Science Engineering and Information Technology
+
+Abstract:
+This article explores recent innovations in infrastructure automation that enhance cloud security and Identity and Access Management (IAM) systems. The focus lies on adopting AI-driven IAM solutions that enable dynamic role evolution and access management, along with integrating advanced technologies for automated incident response. The implementation significantly improves threat detection, response times, and security posture. The article encompasses the emergence of serverless IAM architectures, their benefits in access control, and their contribution to data privacy. Through examining integration challenges and future directions, this work provides insights into cutting-edge technologies that enhance security and compliance in cloud environments.

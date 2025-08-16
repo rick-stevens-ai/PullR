@@ -1,0 +1,9 @@
+Title: A Simple Statistical Parameter for Use in Evaluation and Validation of High Throughput Screening Assays
+Authors: Ji-Hu Zhang, T. Chung, K. Oldenburg
+Year: 1999
+Paper ID: c7b7027659ffe67670d41a5a73b7eece8f0ff493
+URL: https://www.semanticscholar.org/paper/c7b7027659ffe67670d41a5a73b7eece8f0ff493
+Venue: Journal of biomolecular screening
+
+Abstract:
+The ability to identify active compounds ("hits") from large chemical libraries accurately and rapidly has been the ultimate goal in developing high-throughput screening (HTS) assays. The ability to identify hits from a particular HTS assay depends largely on the suitability or quality of the assay used in the screening. The criteria or parameters for evaluating the "suitability" of an HTS assay for hit identification are not well defined and hence it still remains difficult to compare the quality of assays directly. In this report, a screening window coefficient, called "Z- factor," is defined. This coefficient is reflective of both the assay signal dynamic range and the data variation associated with the signal measurements, and therefore is suitable for assay quality assessment. The Z-factor is a dimensionless, simple statistical characteristic for each HTS assay. The Z-factor provides a useful tool for comparison and evaluation of the quality of assays, and can be utilized in assay optimization and validation.

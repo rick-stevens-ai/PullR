@@ -1,0 +1,9 @@
+Title: Mechanism of Microhomology-Mediated End-Joining Promoted by Human DNA Polymerase Theta
+Authors: T. Kent, Gurushankar Chandramouly, Shane McDevitt, Ahmet Y. Ozdemir, R. Pomerantz
+Year: 2014
+Paper ID: 9760abdb9d1aff6c3236676c357ef2b3f161a6c8
+URL: https://www.semanticscholar.org/paper/9760abdb9d1aff6c3236676c357ef2b3f161a6c8
+Venue: Nature Structural &Molecular Biology
+
+Abstract:
+Microhomology-mediated end-joining (MMEJ) is an error-prone alternative double-strand break–repair pathway that uses sequence microhomology to recombine broken DNA. Although MMEJ has been implicated in cancer development, the mechanism of this pathway is unknown. We demonstrate that purified human DNA polymerase θ (Polθ) performs MMEJ of DNA containing 3′ single-strand DNA overhangs with ≥2 bp of homology, including DNA modeled after telomeres, and show that MMEJ is dependent on Polθ in human cells. Our data support a mechanism whereby Polθ facilitates end-joining and microhomology annealing, then uses the opposing overhang as a template in trans to stabilize the DNA synapse. Polθ exhibits a preference for DNA containing a 5′-terminal phosphate, similarly to polymerases involved in nonhomologous end-joining. Finally, we identify a conserved loop domain that is essential for MMEJ and higher-order structures of Polθ that probably promote DNA synapse formation.

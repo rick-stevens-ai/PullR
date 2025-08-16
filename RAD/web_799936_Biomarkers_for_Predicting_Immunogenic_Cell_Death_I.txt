@@ -1,0 +1,10 @@
+Title: Biomarkers for Predicting Immunogenic Cell Death Induced by Radiotherapy in Cancer Patients
+Authors: Unknown
+Year: N/A
+Paper ID: web_799936
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8073519/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Radiation therapy (RT) has the capacity to induce an immunogenic form of regulated cell death, known as immunogenic cell death (ICD), which can trigger clinically significant tumor-targeting immune responses. ICD is characterized by the exposure and release of damage-associated molecular patterns (DAMPs), the secretion of chemokines, and the activation of type I interferon (IFN-I) responses. Recent research has elucidated key mechanistic aspects of RT-induced ICD and identified several immunogenic factors released by irradiated tumor cells. Despite these advances, relatively few studies have focused on identifying biomarkers capable of predicting whether irradiated tumor cells will undergo ICD that leads to effective anti-tumor immunity. This article reviews the current literature on potential biomarkers of RT-induced ICD that have been evaluated in cancer patients. Furthermore, it discusses the clinical relevance of these biomarkers and highlights important considerations for future research in this area.

@@ -1,0 +1,10 @@
+Title: Genome-Wide Association Study Identifies Chromosome 5 Susceptibility Locus for Radiotherapy-Induced Mucositis in Head and Neck Cancer Patients
+Authors: Unknown
+Year: N/A
+Paper ID: web_195774
+URL: https://www.nature.com/articles/s41416-021-01670-w
+Venue: British Journal of Cancer
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Radiotherapy-induced mucositis is a common and debilitating toxicity among patients with head and neck cancer, yet the genetic factors underlying individual susceptibility remain poorly understood. In this study, a two-stage genome-wide association study (GWAS) was conducted involving 1,780 patients with laryngeal or oro/hypopharyngeal cancers treated with primary radiotherapy. The discovery cohort comprised 1,183 European patients, with replication in an additional 597 European patients and validation in 235 Asian patients. Genotyping was performed using the Infinium OncoArray-500K Bead Chip, and rigorous quality control, imputation, and statistical analyses were applied. The study identified a significant association between the rs1131769*C allele on chromosome 5 and increased risk of developing mucositis following radiotherapy. This association was consistently observed across both European and Asian cohorts, highlighting its broader relevance. These findings underscore the importance of genetic predisposition in radiotherapy-induced toxicity and suggest that genetic markers such as rs1131769*C could inform personalized risk assessment and management strategies for head and neck cancer patients undergoing radiotherapy.

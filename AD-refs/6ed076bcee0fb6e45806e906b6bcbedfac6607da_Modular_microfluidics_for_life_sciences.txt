@@ -1,0 +1,9 @@
+Title: Modular microfluidics for life sciences
+Authors: Jialin Wu, Hui Fang, Jun Zhang, Sheng Yan
+Year: 2023
+Paper ID: 6ed076bcee0fb6e45806e906b6bcbedfac6607da
+URL: https://www.semanticscholar.org/paper/6ed076bcee0fb6e45806e906b6bcbedfac6607da
+Venue: Journal of Nanobiotechnology
+
+Abstract:
+The advancement of microfluidics has enabled numerous discoveries and technologies in life sciences. However, due to the lack of industry standards and configurability, the design and fabrication of microfluidic devices require highly skilled technicians. The diversity of microfluidic devices discourages biologists and chemists from applying this technique in their laboratories. Modular microfluidics, which integrates the standardized microfluidic modules into a whole, complex platform, brings the capability of configurability to conventional microfluidics. The exciting features, including portability, on-site deployability, and high customization motivate us to review the state-of-the-art modular microfluidics and discuss future perspectives. In this review, we first introduce the working mechanisms of the basic microfluidic modules and evaluate their feasibility as modular microfluidic components. Next, we explain the connection approaches among these microfluidic modules, and summarize the advantages of modular microfluidics over integrated microfluidics in biological applications. Finally, we discuss the challenge and future perspectives of modular microfluidics.

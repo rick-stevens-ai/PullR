@@ -1,0 +1,9 @@
+Title: Polθ inhibitors elicit BRCA-gene synthetic lethality and target PARP inhibitor resistance
+Authors: D. Zatreanu, H. Robinson, Omar Alkhatib, M. Boursier, H. Finch et al. (and 56 more)
+Year: 2021
+Paper ID: da362b42a7e8cbf531c3ffde198030fcfb68db2f
+URL: https://www.semanticscholar.org/paper/da362b42a7e8cbf531c3ffde198030fcfb68db2f
+Venue: Nature Communications
+
+Abstract:
+To identify approaches to target DNA repair vulnerabilities in cancer, we discovered nanomolar potent, selective, low molecular weight (MW), allosteric inhibitors of the polymerase function of DNA polymerase Polθ, including ART558. ART558 inhibits the major Polθ-mediated DNA repair process, Theta-Mediated End Joining, without targeting Non-Homologous End Joining. In addition, ART558 elicits DNA damage and synthetic lethality in BRCA1- or BRCA2-mutant tumour cells and enhances the effects of a PARP inhibitor. Genetic perturbation screening revealed that defects in the 53BP1/Shieldin complex, which cause PARP inhibitor resistance, result in in vitro and in vivo sensitivity to small molecule Polθ polymerase inhibitors. Mechanistically, ART558 increases biomarkers of single-stranded DNA and synthetic lethality in 53BP1-defective cells whilst the inhibition of DNA nucleases that promote end-resection reversed these effects, implicating these in the synthetic lethal mechanism-of-action. Taken together, these observations describe a drug class that elicits BRCA-gene synthetic lethality and PARP inhibitor synergy, as well as targeting a biomarker-defined mechanism of PARPi-resistance. Polθ has been recently identified as a therapeutic target in cancer but specific inhibitors are currently unavailable. Here, the authors identify small molecule inhibitors of Polθ’s polymerase activity which elicit BRCA1/2 synthetic lethality, enhance the effect of PARP inhibitors and target PARP inhibitor resistance caused by 53BP1/Shieldin pathway defects.

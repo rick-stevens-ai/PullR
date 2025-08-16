@@ -1,0 +1,1894 @@
+<!DOCTYPE html>
+<html lang="pl" >
+    <head>
+                    <title>Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</title>
+        
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="description" content="Wolność i zło w polityce. Rozważania wok&amp;oacute;ł wojny i totalitaryzmu w myśli Jana Patočki">
+        <meta name="keywords" content="wolność, zło, polityka, totalitaryzm, wojn">
+
+            <meta name="citation_title" content="
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki">
+            <meta name="citation_author" content=" Marek Drwięga ">
+                <meta name="citation_publication_date" content="12.2022">
+        <meta name="citation_volume" content="2022">
+    <meta name="citation_issue" content="Tom 69, Polityka i zło">
+    <meta name="citation_journal_title" content="Principia">
+            <meta name="citation_firstpage" content="5">
+                <meta name="citation_lastpage" content="22">
+    
+                        <meta name="citation_pdf_url" content="https://ejournals.eu/pliki_artykulu_czasopisma/pelny_tekst/018e9e35-920a-7182-b8a5-307e5d7fd4ca/pobierz">
+            
+        
+
+    <meta property="og:url" content="https://ejournals.eu/czasopismo/principia/artykul/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki"/>
+<meta property="og:description" content="Wolność i zło w polityce. Rozważania wok&amp;oacute;ł wojny i totalitaryzmu w myśli Jana Patočki"/>
+
+
+
+        <link rel="stylesheet" href="/build/assets/bundle-cdf3d789.css"></link>
+
+
+        
+                                    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y7GJLDNPQR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y7GJLDNPQR');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDTZPV');</script>
+<!-- End Google Tag Manager -->
+
+
+            </head>
+    <body class="page-journal page-journal-article palette-accent" id="">
+        
+                    
+        
+        
+
+<header class="header-area header-area--magazine js-header-area header-journal">
+    <a class="header-area__logo" href="/">
+                    <img src="/build/assets/logo-3ac1decb.svg" alt="logotyp eJournals. Portalu Czasopism Naukowych">
+            </a>
+
+    
+    	    <a class="faq js-faq ico-dark justify-c" href="/faq">    <svg width="20" height="20" viewbox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>FAQ</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10 18.8889C14.9092 18.8889 18.8889 14.9092 18.8889 10C18.8889 5.0908 14.9092 1.11111 10 1.11111C5.0908 1.11111 1.11111 5.0908 1.11111 10C1.11111 14.9092 5.0908 18.8889 10 18.8889ZM10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20Z" fill="#070707"/>
+        <path d="M9.39667 12.0711C9.39667 11.5126 9.46889 11.0504 9.61333 10.6844C9.76741 10.3089 9.94556 10.0152 10.1478 9.80333C10.3596 9.59148 10.6341 9.36037 10.9711 9.11C11.2407 8.91741 11.4478 8.74889 11.5922 8.60444C11.7463 8.46 11.8715 8.28185 11.9678 8.07C12.0737 7.85815 12.1267 7.60296 12.1267 7.30445C12.1267 6.72667 11.9389 6.2837 11.5633 5.97556C11.1974 5.66741 10.6919 5.51333 10.0467 5.51333C9.36296 5.51333 8.82852 5.6963 8.44333 6.06222C8.05815 6.42815 7.84148 6.9337 7.79333 7.57889H6.66667C6.72444 6.6063 7.05185 5.84074 7.64889 5.28222C8.25556 4.7237 9.03074 4.44444 9.97445 4.44444C10.9278 4.44444 11.7126 4.69963 12.3289 5.21C12.9452 5.72037 13.2533 6.43778 13.2533 7.36222C13.2533 7.76667 13.1907 8.11333 13.0656 8.40222C12.95 8.68148 12.8007 8.91259 12.6178 9.09556C12.4444 9.27852 12.2085 9.48074 11.91 9.70222C11.6115 9.93333 11.3707 10.1404 11.1878 10.3233C11.0144 10.5063 10.8652 10.7422 10.74 11.0311C10.6148 11.3104 10.5522 11.657 10.5522 12.0711V12.4756H9.39667V12.0711ZM9.96 15.74C9.72889 15.74 9.52667 15.6581 9.35333 15.4944C9.18963 15.3211 9.10778 15.1141 9.10778 14.8733C9.10778 14.6519 9.18963 14.4593 9.35333 14.2956C9.52667 14.1222 9.72889 14.0356 9.96 14.0356C10.1911 14.0356 10.3885 14.1174 10.5522 14.2811C10.7256 14.4448 10.8122 14.6422 10.8122 14.8733C10.8122 15.1141 10.7256 15.3211 10.5522 15.4944C10.3885 15.6581 10.1911 15.74 9.96 15.74Z" fill="#070707"/>
+    </svg>
+</a>
+        <button class="icon-contrast ico-dark">    <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Wersja kontrastowa</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0781 18.6667C14.8646 18.6667 18.7448 14.7865 18.7448 10C18.7448 5.21353 14.8646 1.33333 10.0781 1.33333C5.29166 1.33333 1.41146 5.21353 1.41146 10C1.41146 14.7865 5.29166 18.6667 10.0781 18.6667ZM10.0781 20C15.601 20 20.0781 15.5228 20.0781 10C20.0781 4.47715 15.601 0 10.0781 0C4.55528 0 0.078125 4.47715 0.078125 10C0.078125 15.5228 4.55528 20 10.0781 20Z" fill="#070707"/>
+        <path d="M10.0781 20C15.601 20 20.0781 15.5228 20.0781 10C20.0781 4.47715 15.601 0 10.0781 0V20Z" fill="#070707"/>
+    </svg>
+</button>
+    <button class="icon-typo ico-dark">    <svg width="37" height="18" viewBox="0 0 37 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Zmień wielkość tekstu</title>
+        <path d="M0.078125 18L6.88084 0H9.39858L16.2013 18H13.9499L12.3279 13.5885H3.95156L2.32956 18H0.078125ZM11.5774 11.654L8.76914 3.93971C8.62389 3.5308 8.51091 3.19266 8.43022 2.92529C8.36566 2.65793 8.33338 2.35911 8.33338 2.02883H7.94604C7.94604 2.35911 7.90569 2.65793 7.82499 2.92529C7.76044 3.19266 7.65553 3.5308 7.51028 3.93971L4.70204 11.654H11.5774Z" fill="#070707"/>
+        <path d="M24.1979 18L29.2104 4.73684H31.0656L36.0781 18H34.4192L33.224 14.7494H27.052L25.8568 18H24.1979ZM32.671 13.324L30.6018 7.63979C30.4948 7.33848 30.4115 7.08933 30.3521 6.89232C30.3045 6.69532 30.2807 6.47513 30.2807 6.23177H29.9953C29.9953 6.47513 29.9656 6.69532 29.9061 6.89232C29.8585 7.08933 29.7812 7.33848 29.6742 7.63979L27.605 13.324H32.671Z" fill="#070707"/>
+    </svg>
+</button>
+
+    
+<button class="profile ico-dark justify-c js-profile-open">
+    <span>    <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Konto Użytkownika</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M0.305219 18.5C0.0880497 19.1132 0 19.5 0 19.5H21C21 19.5 20.8899 19.1132 20.647 18.5C19.7181 16.1552 16.8463 10.5 10.7561 10.5C3.85388 10.5 1.13562 16.1552 0.305219 18.5ZM1.32895 18.5H19.6076C19.2676 17.7037 18.7408 16.6477 17.9938 15.5976C16.4974 13.4941 14.1884 11.5 10.7561 11.5C6.77386 11.5 4.34499 13.5356 2.87818 15.5976C2.13803 16.638 1.64635 17.6837 1.34017 18.471C1.3364 18.4807 1.33266 18.4904 1.32895 18.5Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.5 10.5C12.9853 10.5 15 8.48528 15 6C15 3.51472 12.9853 1.5 10.5 1.5C8.01472 1.5 6 3.51472 6 6C6 8.48528 8.01472 10.5 10.5 10.5ZM10.5 11.5C13.5376 11.5 16 9.03757 16 6C16 2.96243 13.5376 0.5 10.5 0.5C7.46243 0.5 5 2.96243 5 6C5 9.03757 7.46243 11.5 10.5 11.5Z" fill="black"/>
+    </svg>
+</span>
+    <span class="profile__arrow">    <svg width="13" height="8" viewBox="0 0 13 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title></title>
+        <path d="M0.20728 0.963224L6.12129 6.87443L11.9985 0.999975" stroke="#070707" stroke-width="0.590546"/>
+    </svg>
+</span>
+</button>
+
+<div class="header-area__full-screen header-area__full-screen--profile js-profile-area">
+    <div class="profile-bar">
+                    <a href="/strefa-klienta/zaloguj"  class="link">
+                    <svg width="23" height="20" viewBox="0 0 23 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>T_LOGIN</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M11.4986 1.5C9.56557 1.5 7.99857 3.067 7.99857 5C7.99857 6.933 9.56557 8.5 11.4986 8.5C13.4316 8.5 14.9986 6.933 14.9986 5C14.9986 3.067 13.4316 1.5 11.4986 1.5ZM6.99857 5C6.99857 2.51472 9.01328 0.5 11.4986 0.5C13.9838 0.5 15.9986 2.51472 15.9986 5C15.9986 7.48528 13.9838 9.5 11.4986 9.5C9.01328 9.5 6.99857 7.48528 6.99857 5Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M2.26364 18.5H20.7335C20.6801 18.391 20.619 18.2712 20.55 18.1424C20.2124 17.5121 19.6871 16.6718 18.9381 15.833C17.4448 14.1605 15.0717 12.5 11.4986 12.5C7.92542 12.5 5.5523 14.1605 4.05903 15.833C3.31007 16.6718 2.78475 17.5121 2.44712 18.1424C2.3781 18.2712 2.31704 18.391 2.26364 18.5ZM21.4986 19C21.9694 18.8318 21.9693 18.8313 21.9693 18.8313L21.9683 18.8288L21.9663 18.8232L21.9594 18.8046C21.9535 18.7889 21.9451 18.7668 21.934 18.7386C21.9119 18.6822 21.8792 18.6016 21.8352 18.5003C21.7474 18.2977 21.6145 18.0117 21.4315 17.6701C21.066 16.9879 20.4976 16.0782 19.684 15.167C18.0523 13.3395 15.4254 11.5 11.4986 11.5C7.57171 11.5 4.94483 13.3395 3.3131 15.167C2.49956 16.0782 1.93113 16.9879 1.56564 17.6701C1.38263 18.0117 1.24976 18.2977 1.16191 18.5003C1.11797 18.6016 1.08525 18.6822 1.0631 18.7386C1.05202 18.7668 1.04359 18.7889 1.03771 18.8046L1.03081 18.8232L1.02878 18.8288L1.02812 18.8306C1.02812 18.8306 1.02769 18.8318 1.49856 19L1.02769 18.8318L0.789062 19.5H22.2081L21.9693 18.8313L21.4986 19Z" fill="black"/>
+    </svg>
+
+                Zaloguj się
+            </a>
+
+            <p>Nie masz jeszcze konta?</p>
+
+            <a class="link" href="/strefa-klienta/rejestracja">
+                    <svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>T_REGISTER</title>
+        <path d="M17.1625 19.3269L23.8266 12.6632M23.8266 12.6632L17.1625 5.99951M23.8266 12.6632L7 12.6632" stroke="#070707"/>
+        <path d="M12.5 0.5L4.5 0.5C2.29086 0.5 0.5 2.29086 0.5 4.5L0.5 20.5C0.5 22.7091 2.29086 24.5 4.5 24.5L12.5 24.5" stroke="black"/>
+    </svg>
+
+                Zarejestruj się
+            </a>
+            </div>
+</div>
+
+<button class="close close--profile ico-light justify-c js-profile-close">
+        <svg width="28" height="28" viewbox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_CLOSE_PROFILE</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.8111 28L0.230952 1.84918L2.18359 0L27.7637 26.1508L25.8111 28Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.48121e-07 25.8892L26.0836 0.224407L28 2.10999L1.91635 27.7748L6.48121e-07 25.8892Z" fill="black"/>
+    </svg>
+
+</button>
+    <div class="lang js-lang ico-dark justify-c">
+    
+    <img src="/build/assets/flag-pl-5652982d.svg" alt="">
+
+    <select id="languageChanger" autocomplete="off">
+                                    <option value="/czasopismo/principia/artykul/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki" selected="selected">
+                    PL
+                </option>
+                                                <option value="/en/journal/principia/article/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki" >
+                    EN
+                </option>
+                        </select>
+</div>
+
+            
+
+
+<div class="journal-bar">
+    <div class="journal-bar__content">
+                
+        <h3 class="journal-bar__title">
+            <a class="journal-bar__title-link" href="/czasopismo/principia">Principia</a>
+        </h3>
+    </div>
+
+    
+        </div>
+
+<button class="menu ico-light justify-c js-menu-open " >
+        <svg width="41" height="13" viewbox="0 0 41 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> Rozwiń menu</title>
+        <line y1="0.5" x2="41" y2="0.5" stroke="#fff"/>
+        <line y1="6.5" x2="41" y2="6.5" stroke="#fff"/>
+        <line y1="12.5" x2="41" y2="12.5" stroke="#fff"/>
+    </svg>
+
+</button>
+
+<div class="header-area__full-screen header-area__full-screen--short js-menu-area">
+    <div class="header-area__mobile-panel">
+        <div class="header-area__mobile-icons">
+            <button class="icon-contrast ico-dark">    <svg width="21" height="20" viewBox="0 0 21 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Wersja kontrastowa</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M10.0781 18.6667C14.8646 18.6667 18.7448 14.7865 18.7448 10C18.7448 5.21353 14.8646 1.33333 10.0781 1.33333C5.29166 1.33333 1.41146 5.21353 1.41146 10C1.41146 14.7865 5.29166 18.6667 10.0781 18.6667ZM10.0781 20C15.601 20 20.0781 15.5228 20.0781 10C20.0781 4.47715 15.601 0 10.0781 0C4.55528 0 0.078125 4.47715 0.078125 10C0.078125 15.5228 4.55528 20 10.0781 20Z" fill="#070707"/>
+        <path d="M10.0781 20C15.601 20 20.0781 15.5228 20.0781 10C20.0781 4.47715 15.601 0 10.0781 0V20Z" fill="#070707"/>
+    </svg>
+</button>
+            <button class="icon-typo ico-dark">    <svg width="37" height="18" viewBox="0 0 37 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Zmień wielkość tekstu</title>
+        <path d="M0.078125 18L6.88084 0H9.39858L16.2013 18H13.9499L12.3279 13.5885H3.95156L2.32956 18H0.078125ZM11.5774 11.654L8.76914 3.93971C8.62389 3.5308 8.51091 3.19266 8.43022 2.92529C8.36566 2.65793 8.33338 2.35911 8.33338 2.02883H7.94604C7.94604 2.35911 7.90569 2.65793 7.82499 2.92529C7.76044 3.19266 7.65553 3.5308 7.51028 3.93971L4.70204 11.654H11.5774Z" fill="#070707"/>
+        <path d="M24.1979 18L29.2104 4.73684H31.0656L36.0781 18H34.4192L33.224 14.7494H27.052L25.8568 18H24.1979ZM32.671 13.324L30.6018 7.63979C30.4948 7.33848 30.4115 7.08933 30.3521 6.89232C30.3045 6.69532 30.2807 6.47513 30.2807 6.23177H29.9953C29.9953 6.47513 29.9656 6.69532 29.9061 6.89232C29.8585 7.08933 29.7812 7.33848 29.6742 7.63979L27.605 13.324H32.671Z" fill="#070707"/>
+    </svg>
+</button>
+        </div>
+
+        <div class="lang js-lang ico-dark justify-c">
+    
+    <img src="/build/assets/flag-pl-5652982d.svg" alt="">
+
+    <select id="languageChangerMenu" autocomplete="off">
+                                    <option value="/czasopismo/principia/artykul/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki" selected="selected">
+                    PL
+                </option>
+                                                <option value="/en/journal/principia/article/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki" >
+                    EN
+                </option>
+                        </select>
+</div>
+    </div>
+
+    <div class="header-area__full-screen-wrapper" id="menu-main">
+        <div class="menu-sw menu-sw--ml">
+            <button
+                class="menu-sw__btn js-magazine-menu-open"
+                aria-expanded="false"
+            >
+                <span>CZASOPISMO</span>
+                    <svg class="svg-arrow" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_ARROW_DOWN</title>
+        <path d="M0.355888 11.8553L9.16406 20.6635M9.16406 20.6635L17.9722 11.8553M9.16406 20.6635V0.336914" stroke="white"/>
+    </svg>
+
+            </button>
+        </div>
+
+        
+                                            
+                            <nav class="md md--ml">
+                                            <a
+            href="/lista-czasopism"
+            class="md__link"
+                    >
+    
+    Lista czasopism
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/aktualnosci"
+            class="md__link"
+                    >
+    
+    Aktualności
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/partnerzy/uniwersytet-jagiellonski-w-krakowie"
+            class="md__link"
+                    >
+    
+    Czasopisma UJ
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/partnerzy"
+            class="md__link"
+                    >
+    
+    Partnerzy
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/autorzy"
+            class="md__link"
+                    >
+    
+    Autorzy
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/o-ejournals"
+            class="sm__link"
+                    >
+    
+    O nas
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/wspolpraca"
+            class="md__link"
+                    >
+    
+    Współpraca
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/marketing-naukowy"
+            class="md__link"
+                    >
+    
+    Marketing naukowy
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/kontakt"
+            class="md__link"
+                    >
+    
+    Kontakt
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="/polityka-prywatnosci"
+            class="sm__link"
+                    >
+    
+    Polityka prywatności
+
+            </a>
+    
+                </nav>
+                                                        
+                            <nav class="md md--ml">
+                                            <a
+            href="https://wuj.pl/"
+            class="sm__link"
+                    >
+    
+    Wydawnictwo UJ
+
+            </a>
+    
+                </nav>
+                        </div>
+
+    <div class="header-area__full-screen-wrapper open" id="menu-magazine">
+        <div class="menu-sw menu-sw--mr">
+            <button
+                class="menu-sw__btn js-main-menu-open"
+                aria-expanded="false"
+            >
+                    <svg class="svg-arrow" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_ARROW_DOWN</title>
+        <path d="M0.355888 11.8553L9.16406 20.6635M9.16406 20.6635L17.9722 11.8553M9.16406 20.6635V0.336914" stroke="white"/>
+    </svg>
+
+                <span>menu główne</span>
+            </button>
+        </div>
+
+                                    <ul class="md md--mr js-accordion" role="tablist">
+                    <li class="md__link">
+                        <div class="md__link-wrapper">
+                            <a href="/czasopismo/principia/strona/o-czasopismie">O czasopiśmie</a>
+
+                            <button
+                                id="menu-btn-0"
+                                role="tab"
+                                aria-controls="menu-panel-0"
+                                aria-expanded="false"
+                            >    <svg class="svg-arrow" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_ARROW_DOWN</title>
+        <path d="M0.355888 11.8553L9.16406 20.6635M9.16406 20.6635L17.9722 11.8553M9.16406 20.6635V0.336914" stroke="#fff"/>
+    </svg>
+</button>
+                        </div>
+
+                        <ul class="md--sub" role="tabpanel" aria-hidden="true" id="menu-panel-0" aria-labelledby="menu-btn-0">
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/o-czasopismie-principia">O czasopiśmie Principia</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/zespol-redakcyjny">Zespół redakcyjny</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/rada-naukowa">Rada Naukowa</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/zasady-etyczne-obowiazujace-w-czasopismie">Zasady etyczne obowiązujące w czasopiśmie</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/prawa-autorskie-udostepnianie-archiwizacja">Prawa autorskie, udostępnianie, archiwizacja</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/procedura-recenzowania">Procedura recenzowania</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/recenzenci">Lista recenzentów</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/indeksowanie-czasopisma">Indeksowanie czasopisma</a>
+                                </li>
+                                                    </ul>
+                    </li>
+                </ul>
+                                                <ul class="md md--mr js-accordion" role="tablist">
+                    <li class="md__link">
+                        <div class="md__link-wrapper">
+                            <a href="/czasopismo/principia/strona/dla-autorow-i-recenzentow">Dla Autorów i Recenzentów</a>
+
+                            <button
+                                id="menu-btn-1"
+                                role="tab"
+                                aria-controls="menu-panel-1"
+                                aria-expanded="false"
+                            >    <svg class="svg-arrow" width="19" height="22" viewBox="0 0 19 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_ARROW_DOWN</title>
+        <path d="M0.355888 11.8553L9.16406 20.6635M9.16406 20.6635L17.9722 11.8553M9.16406 20.6635V0.336914" stroke="#fff"/>
+    </svg>
+</button>
+                        </div>
+
+                        <ul class="md--sub" role="tabpanel" aria-hidden="true" id="menu-panel-1" aria-labelledby="menu-btn-1">
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/informacje-dla-autorow">Informacje dla Autorów</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/call-for-papers">Call for papers</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/procedura-recenzowania">Procedura recenzowania</a>
+                                </li>
+                                                            <li class="md__sublink">
+                                    <a href="/czasopismo/principia/strona/umowy-i-formularze">Umowy i formularze</a>
+                                </li>
+                                                    </ul>
+                    </li>
+                </ul>
+                                                <nav class="md md--mr">
+                    <a class="md__link" href="/czasopismo/principia/strona/wydania-czasopisma">Wydania Czasopisma</a>
+                </nav>
+                                                <nav class="md md--mr">
+                    <a class="md__link" href="/czasopismo/principia/strona/kontakt">Kontakt</a>
+                </nav>
+                        </div>
+</div>
+
+<button class="close ico-light ico-light--custom justify-c menu-close js-menu-close">
+        <svg width="28" height="28" viewbox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Zamknij menu</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.8111 28L0.230952 1.84918L2.18359 0L27.7637 26.1508L25.8111 28Z" fill="#fff"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.48121e-07 25.8892L26.0836 0.224407L28 2.10999L1.91635 27.7748L6.48121e-07 25.8892Z" fill="#fff"/>
+    </svg>
+
+</button>
+
+<nav class="header-area__menu">
+    <div class="header-area__menu-wrapper js-header-area__menu-wrapper">
+                    <a href="/czasopismo/principia/strona/o-czasopismie">O czasopiśmie </a>
+                    <a href="/czasopismo/principia/strona/wydania-czasopisma">Wydania Czasopisma</a>
+                    <a href="/czasopismo/principia/strona/dla-autorow-i-recenzentow">Dla Autorów</a>
+                    <a href="/czasopismo/principia/strona/aktualnosci">Call for papers</a>
+                    <a href="/czasopismo/principia/strona/kontakt">Kontakt</a>
+            </div>
+</nav>
+
+
+<div class="search ico-light"></div>
+
+    <button class="search ico-light justify-c js-search-open">
+            <svg class="svg-search" width="30" height="32" viewbox="0 0 30 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>szukaj</title>
+        <path d="M24.9998 12.9999C24.9998 17.274 22.7659 21.0271 19.3973 23.1542C17.5461 24.3232 15.3535 24.9998 12.9999 24.9998C6.37252 24.9998 0.999991 19.6272 0.999991 12.9999C0.999991 6.37252 6.37252 0.999991 12.9999 0.999991C19.6272 0.999991 24.9998 6.37252 24.9998 12.9999Z" stroke="#fff" stroke-width="1.99998"/>
+        <line x1="20.7071" y1="23.2931" x2="28.707" y2="31.293" stroke="#fff" stroke-width="1.99998"/>
+    </svg>
+
+    </button>
+
+    
+<div class="header-area__full-screen header-area__full-screen--search js-search-area header-area__full-screen--search-journal">
+    <form class="search-form search-form--center" method="post" action="/czasopismo/principia/wyniki-wyszukiwania">
+        <h2 class="search-form__title">Wyniki wyszukiwania</h2>
+        <p class="search-form__subtitle">wyszukiwarka prosta</p>
+        <div class="search-form__input-wrapper">
+            <input class="search-form__input" type="text" id="search" name="text" value="">
+            <label class="search-form__label" for="search">wpisz szukaną frazę</label>
+                <svg class="svg-search" width="30" height="32" viewbox="0 0 30 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>szukaj</title>
+        <path d="M24.9998 12.9999C24.9998 17.274 22.7659 21.0271 19.3973 23.1542C17.5461 24.3232 15.3535 24.9998 12.9999 24.9998C6.37252 24.9998 0.999991 19.6272 0.999991 12.9999C0.999991 6.37252 6.37252 0.999991 12.9999 0.999991C19.6272 0.999991 24.9998 6.37252 24.9998 12.9999Z" stroke="black" stroke-width="1.99998"/>
+        <line x1="20.7071" y1="23.2931" x2="28.707" y2="31.293" stroke="black" stroke-width="1.99998"/>
+    </svg>
+
+            <span class="search-form__subinput">np. “cognitive architectures” AND 1993-200 NOT Urban</span>
+        </div>
+        <div class="search-form__advanced js-search-form__advanced">
+            wyszukiwanie zaawansowane
+            <button type="button" class="search-form__toggle js-search-form__toggle">
+                <span>rozwiń</span>
+                <span>zwiń</span>
+                    <svg width="18" height="11" viewbox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>T_TOOGLE_SEARCH</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M9 10.5L8.12783e-07 1.20284L0.680381 0.499998L9 9.09431L17.3196 0.5L18 1.20284L9 10.5Z" fill="#070707"/>
+    </svg>
+
+            </button>
+        </div>
+        <div class="grid-form">
+                        <div class="form__item">
+                <label for="article-type" class="form__label">typ artykułu</label>
+                <select id="article-type" class="form__select" name="articleType">
+                    <option value="" selected="">wszystkie typy artykułu</option>
+                                            <option value="others_of_citable_nature" >Inne o charakterze cytowalnym</option>
+                                            <option value="others_of_non_citable_nature" >Inne o charakterze niecytowalnym</option>
+                                            <option value="popular_science_article" >Artykuł popularnonaukowy</option>
+                                            <option value="guidelines_recommendations" >Wytyczne/zalecenia</option>
+                                            <option value="case_study" > Studium przypadku</option>
+                                            <option value="scientific_review" >Artykuł recenzyjny (recenzja naukowa)</option>
+                                            <option value="gloss_or_legal_commentary" >Glosa lub komentarz prawniczy</option>
+                                            <option value="research_results_announcement" >Komunikat o wynikach badań</option>
+                                            <option value="review_article" > Artykuł przeglądowy</option>
+                                            <option value="original_research_article" >Oryginalny artykuł naukowy</option>
+                                    </select>
+            </div>
+            <div class="form__item">
+                <label for="volume" class="form__label">tytuł tomu/numeru</label>
+                <input type="text" id="volume" name="issueTitle" class="form__input" value="">
+            </div>
+            <div class="form__item">
+                <label for="ISSN" class="form__label">numer ISSN/eISSN</label>
+                <input type="text" id="ISSN" name="issn" class="form__input" value="">
+                <span class="form__subinput">np. 1234-6789</span>
+            </div>
+            <div class="form__item">
+                <label for="article-title" class="form__label">tytuł artykułu</label>
+                <input type="text" id="article-title" name="articleTitle" class="form__input" value="">
+            </div>
+            <div class="form__item">
+                <label for="DOI" class="form__label">
+numer DOI</label>
+                <input type="text" id="DOI" name="doi" class="form__input" value="">
+                <span class="form__subinput">np. 10.4467/16890027AP.16.022.6009</span>
+            </div>
+            <div class="form__item">
+                <label for="author" class="form__label">autor</label>
+                <input type="text" id="author" name="author" class="form__input" value="">
+            </div>
+            <div class="form__item">
+                <label for="affiliation" class="form__label">afilacja autora</label>
+                <input type="text" id="affiliation" name="authorAffiliation" class="form__input" value="">
+                <span class="form__subinput">np. Uniwersytet Jagielloński</span>
+            </div>
+            <div class="form__item">
+                <label for="keywords" class="form__label">słowa kluczowe</label>
+                <input type="text" id="keywords" name="keywords" class="form__input" value="">
+            </div>
+            <div class="form__item form__item--columns">
+                <label for="dateFrom" class="form__label">data publikacji</label>
+                <input type="date" id="dateFrom" name="releaseDateFrom" class="form__input" placeholder="od">
+                <input type="date" name="releaseDateTo" class="form__input" placeholder="do">
+            </div>
+        </div>
+        <button type="submit" class="btn btn--purple"><span>szukaj</span></button>
+    </form>
+</div>
+
+<div class="close close--search"></div>
+
+<button class="close close--search ico-light justify-c js-search-close">
+        <svg width="28" height="28" viewbox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Zamknij</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.8111 28L0.230952 1.84918L2.18359 0L27.7637 26.1508L25.8111 28Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.48121e-07 25.8892L26.0836 0.224407L28 2.10999L1.91635 27.7748L6.48121e-07 25.8892Z" fill="black"/>
+    </svg>
+
+</button>
+    
+
+            
+<style>
+    body {
+        --header-bg-color: #2c352c;
+        --menu-bg-color: #000;
+        --menu-bg-color-opacity: #00026;
+        --submenu-bg-color: #000;
+        --header-text-color: #fff;
+        --menu-text-color: #fff;
+        --submenu-text-color: #fff;
+        --header-text-font: Arial;
+        --menu-text-font: Arial;
+        --submenu-text-font: Arial;
+                --journal-color-accent-font-light: #fff;
+        --journal-color-accent-light: #2c352c26;
+        --journal-color-accent-font: #fff;
+        --journal-color-accent: #2c352c;
+            }
+</style>
+    </header>
+
+<div class="header-area-bottom">
+    <div class="js-header-area-bottom js-b1"></div>
+    <div class="js-header-area-bottom js-b2 header-area-bottom-2"></div>
+    <div class="js-header-area-bottom js-b3 header-area-bottom-3"></div>
+</div>
+
+            
+
+    
+<template id="article-share-modal-html" class="swal2-html-container__wrapper" style="display:none;">
+    <swal-html>
+        <p>
+            <b><p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p></b>
+        </p>
+        <div class="select-wrapper">
+            Udostępnij:
+        </div>
+
+
+        <div class="swal2-html-container__actions swal2-html-container__actions--share">
+            <button class="link" data-id="customer-directory-item-share-facebook-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Facebook</title>
+        <path d="M9.04525 5.865V8.613H7.03125V11.973H9.04525V21.959H13.1792V11.974H15.9543C15.9543 11.974 16.2143 10.363 16.3403 8.601H13.1962V6.303C13.1962 5.96 13.6462 5.498 14.0922 5.498H16.3463V2H13.2822C8.94225 2 9.04525 5.363 9.04525 5.865Z" fill="black"/>
+    </svg>
+
+                Facebook
+            </button>
+            <button class="link" data-id="customer-directory-item-share-x-btn" data-title="<p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p>">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>X</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M19.5678 4.69791C19.6563 4.5967 19.724 4.47906 19.7671 4.35169C19.8101 4.22432 19.8277 4.08972 19.8187 3.95558C19.8097 3.82143 19.7744 3.69037 19.7147 3.56988C19.6551 3.44938 19.5723 3.34181 19.4711 3.25331C19.3699 3.1648 19.2523 3.0971 19.1249 3.05406C18.9975 3.01102 18.8629 2.99349 18.7288 3.00248C18.5946 3.01146 18.4636 3.04677 18.3431 3.1064C18.2226 3.16604 18.115 3.24882 18.0265 3.35002L12.7967 9.327L8.35792 3.40938C8.26259 3.28227 8.13897 3.17911 7.99686 3.10805C7.85475 3.03699 7.69804 3 7.53916 3H3.44533C3.25526 3 3.06895 3.05293 2.90727 3.15285C2.74559 3.25278 2.61493 3.39575 2.52992 3.56575C2.44492 3.73575 2.40894 3.92607 2.42601 4.11536C2.44308 4.30466 2.51253 4.48547 2.62657 4.63753L9.21456 13.4208L3.69813 19.7253C3.60962 19.8265 3.54192 19.9442 3.49888 20.0716C3.45584 20.1989 3.43831 20.3335 3.4473 20.4677C3.45628 20.6018 3.49159 20.7329 3.55122 20.8534C3.61086 20.9739 3.69364 21.0814 3.79484 21.1699C3.89605 21.2585 4.01369 21.3262 4.14106 21.3692C4.26843 21.4122 4.40303 21.4298 4.53718 21.4208C4.67132 21.4118 4.80238 21.3765 4.92288 21.3169C5.04338 21.2572 5.15095 21.1744 5.23945 21.0732L10.4693 15.0952L14.908 21.0128C15.0034 21.14 15.127 21.2431 15.2691 21.3142C15.4112 21.3852 15.5679 21.4222 15.7268 21.4222H19.8206C20.0107 21.4222 20.197 21.3693 20.3587 21.2694C20.5204 21.1695 20.651 21.0265 20.736 20.8565C20.821 20.6865 20.857 20.4962 20.84 20.3069C20.8229 20.1176 20.7534 19.9368 20.6394 19.7847L14.0514 11.0014L19.5678 4.69791ZM16.2385 19.3753L5.49224 5.04691H7.02743L17.7737 19.3753H16.2385Z" fill="#030303"/>
+    </svg>
+
+                X
+            </button>
+            <button class="link" data-id="customer-directory-item-share-copy-btn">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_COPY</title>
+        <g clip-path="url(#clip0_4041_16074)">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M2 3.5C2 2.11928 3.11929 1 4.5 1H12.1999L18.1474 6.94757L17.4403 7.65468L12.4927 2.70711V4.40056H11.4927V2H4.5C3.67157 2 3 2.67157 3 3.5V18.6613C3 19.4897 3.67157 20.1613 4.5 20.1613H5.5V21.1613H4.5C3.11929 21.1613 2 20.042 2 18.6613V3.5Z" fill="#070707"/>
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M4.83789 6.33886C4.83789 4.95815 5.95718 3.83887 7.33789 3.83887H15.0377L21.1318 9.93289V21.5002C21.1318 22.8809 20.0125 24.0002 18.6318 24.0002H7.33789C5.95718 24.0002 4.83789 22.8809 4.83789 21.5002V6.33886ZM7.33789 4.83887C6.50946 4.83887 5.83789 5.51044 5.83789 6.33886V21.5002C5.83789 22.3286 6.50946 23.0002 7.33789 23.0002H18.6318C19.4602 23.0002 20.1318 22.3286 20.1318 21.5002V10.64H16.8306C15.4499 10.64 14.3306 9.52071 14.3306 8.13999V4.83887H7.33789ZM15.3306 5.54597L19.4247 9.63999H16.8306C16.0022 9.63999 15.3306 8.96842 15.3306 8.13999V5.54597Z" fill="#070707"/>
+        </g>
+        <defs>
+            <clipPath id="clip0_4041_16074">
+                <rect width="24" height="24" fill="white"/>
+            </clipPath>
+        </defs>
+    </svg>
+
+                Kopiuj
+            </button>
+        </div>
+
+    </swal-html>
+</template>
+    
+<template id="article-bibliography-modal-html" class="swal2-html-container__wrapper" style="display:none;">
+    <swal-title>Pobierz bibliografię</swal-title>
+    <swal-html>
+        <p><b> Wybierz format</b></p>
+        <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/ris" download class="link">
+            RIS
+        </a>
+        <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/bib" download class="link">
+            BIB
+        </a>
+        <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/enw" download class="link">
+            ENDNOTE
+        </a>
+    </swal-html>
+</template>
+
+        
+            
+    
+    <div class="journal-side-layout journal-side-layout--reverse container-xxl" data-anchor="TOP_ANCHOR">
+        <aside class="journal-side-layout__aside journal-side-layout__aside--fill">
+            
+    <div role="tablist" class="journal-tabs-side">
+        <nav class="journal-tabs-nav journal-tabs-nav--side">
+            <button
+                id="tab-1"
+                role="tab"
+                class="journal-tabs-btn journal-tabs-btn--side"
+                aria-controls="panel-1"
+                aria-expanded="true"
+            >
+                Sekcje
+            </button>
+            <button
+                id="tab-2"
+                role="tab"
+                class="journal-tabs-btn journal-tabs-btn--side"
+                aria-controls="panel-2"
+                aria-expanded="false"
+            >
+                Info
+            </button>
+            <button
+                id="tab-3"
+                role="tab"
+                class="journal-tabs-btn journal-tabs-btn--side"
+                aria-controls="panel-3"
+                aria-expanded="false"
+            >
+                Spis rycin, tabel, ilustracji
+            </button>
+        </nav>
+
+        <div class="journal-tabs-content">
+            <div role="tabpanel" aria-hidden="false" id="panel-1" aria-labelledby="tab-1">
+                <a
+    class="accordion__item"
+    href="#TOP"
+    data-anchor-targer="TOP_ANCHOR"
+>
+    Informacje podstawowe
+</a>
+
+    <a
+        class="accordion__item"
+        href="# Abstrakt"
+        data-anchor-target="ABSTRACT_ANCHOR"
+    >
+        Abstrakt
+    </a>
+
+
+                                
+    <a
+        class="accordion__item"
+        href="# Słowa kluczowe"
+        data-anchor-target="KEYWORDS_ANCHOR"
+    >
+        Słowa kluczowe
+    </a>
+
+
+
+    <a
+        class="accordion__item"
+        href="# Bibliografia"
+        data-anchor-target="BIBLIOGRAPHY_ANCHOR"
+    >
+        Bibliografia
+    </a>
+<a
+    class="accordion__item"
+    href="# Bibliografia"
+    data-anchor-target="journal-article-information"
+>
+    Informacje dodatkowe
+</a>
+            </div>
+        </div>
+        <div class="journal-tabs-content">
+            <div role="tabpanel" aria-hidden="true" id="panel-2" aria-labelledby="tab-2" >
+                
+
+<b>czasopismo</b>
+
+<p>
+    Principia,
+    2022,
+    Tom 69, Polityka i zło,
+             s. 5-22    </p>
+
+    <a class="article__link" href="https://doi.org/10.4467/20843887PI.22.001.17312">https://doi.org/10.4467/20843887PI.22.001.17312</a>
+
+
+    <div>
+                    <div>
+                <p>
+                    <b> Publikacja:</b>
+
+                    12.2022
+                </p>
+            </div>
+        
+        
+        
+            </div>
+
+<p class="paragraph paragraph--ico">
+    <b> Licencja:</b>
+
+    CC BY
+
+        <img class="licence-icon" src="/build/assets/cc-by-633aae44.png" alt=" ikona licencji">
+</p>
+
+<p>
+    <b> Typ artykułu:</b>
+
+    Oryginalny artykuł naukowy
+</p>
+
+<p class="paragraph--ico">
+    <b> Status artykułu:</b>
+
+             Otwarte     <svg width="14" height="21" viewBox="0 0 14 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_UNLOCK</title>
+        <mask id="path-1-inside-1_1510_23296" fill="white">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.10584 9.43029C1.10532 9.42293 1.10474 9.41444 1.10413 9.40487C1.10135 9.3614 1.09776 9.29558 1.09495 9.21023C1.08932 9.0394 1.08679 8.79112 1.09974 8.48799C1.12573 7.87979 1.21365 7.06095 1.45824 6.20788C1.94633 4.50561 3.03424 2.72398 5.46822 2.1179C6.68928 1.81385 7.73617 1.93082 8.62658 2.26973C9.28986 2.52219 9.87657 2.90192 10.3873 3.33925L11.0377 2.57966C10.4581 2.08336 9.77382 1.63641 8.9823 1.33514C7.90638 0.92562 6.65117 0.792806 5.22659 1.14754C2.32354 1.87041 1.04304 4.02777 0.496979 5.93226C0.224501 6.88256 0.0362099 7.78326 0.00795515 8.44453C-0.00621394 8.77613 0.00160947 9.05789 0.00795517 9.25041C0.01113 9.34673 0.0363667 9.45594 0.0397691 9.50906C0.0414707 9.53563 0.0429983 9.55645 0.0441491 9.57115L0.045568 9.58859L0.0460184 9.5938L0.0461707 9.5955L0.0395943 9.55835L0.046271 9.59661L0.0497608 9.63469L0.60866 11.5723L1.57903 11.3306L1.10584 9.43029Z"/>
+        <path d="M0.0395943 9.55835L13.0395 9.55802V18.058C13.0395 19.1626 12.1441 20.058 11.0395 20.058H2.03953C0.934959 20.058 0.0395287 19.1626 0.0395287 18.058L0.0395943 9.55835Z"/>
+        </mask>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.10584 9.43029C1.10532 9.42293 1.10474 9.41444 1.10413 9.40487C1.10135 9.3614 1.09776 9.29558 1.09495 9.21023C1.08932 9.0394 1.08679 8.79112 1.09974 8.48799C1.12573 7.87979 1.21365 7.06095 1.45824 6.20788C1.94633 4.50561 3.03424 2.72398 5.46822 2.1179C6.68928 1.81385 7.73617 1.93082 8.62658 2.26973C9.28986 2.52219 9.87657 2.90192 10.3873 3.33925L11.0377 2.57966C10.4581 2.08336 9.77382 1.63641 8.9823 1.33514C7.90638 0.92562 6.65117 0.792806 5.22659 1.14754C2.32354 1.87041 1.04304 4.02777 0.496979 5.93226C0.224501 6.88256 0.0362099 7.78326 0.00795515 8.44453C-0.00621394 8.77613 0.00160947 9.05789 0.00795517 9.25041C0.01113 9.34673 0.0363667 9.45594 0.0397691 9.50906C0.0414707 9.53563 0.0429983 9.55645 0.0441491 9.57115L0.045568 9.58859L0.0460184 9.5938L0.0461707 9.5955L0.0395943 9.55835L0.046271 9.59661L0.0497608 9.63469L0.60866 11.5723L1.57903 11.3306L1.10584 9.43029Z" fill="#070707"/>
+        <path d="M0.0395943 9.55835L13.0395 9.55802V18.058C13.0395 19.1626 12.1441 20.058 11.0395 20.058H2.03953C0.934959 20.058 0.0395287 19.1626 0.0395287 18.058L0.0395943 9.55835Z" fill="#070707"/>
+        <path d="M1.10584 9.43029L0.108305 9.50053L0.114422 9.58741L0.135466 9.67192L1.10584 9.43029ZM1.10413 9.40487L2.10208 9.34095V9.34095L1.10413 9.40487ZM1.09495 9.21023L0.0954941 9.24317L0.0954941 9.24317L1.09495 9.21023ZM1.09974 8.48799L2.09883 8.53068L1.09974 8.48799ZM1.45824 6.20788L2.41951 6.4835V6.4835L1.45824 6.20788ZM5.46822 2.1179L5.70985 3.08827L5.46822 2.1179ZM8.62658 2.26973L8.27085 3.20432L8.62658 2.26973ZM10.3873 3.33925L9.73691 4.09884L10.4965 4.74924L11.1469 3.98966L10.3873 3.33925ZM11.0377 2.57966L11.7973 3.23007L12.4477 2.47048L11.6881 1.82008L11.0377 2.57966ZM8.9823 1.33514L9.33803 0.400549V0.400549L8.9823 1.33514ZM5.22659 1.14754L5.46822 2.1179L5.22659 1.14754ZM0.496979 5.93226L1.45825 6.20788L0.496979 5.93226ZM0.00795515 8.44453L-0.991133 8.40184H-0.991133L0.00795515 8.44453ZM0.00795517 9.25041L1.00741 9.21746H1.00741L0.00795517 9.25041ZM0.0397691 9.50906L-0.958186 9.57298L-0.958186 9.57298L0.0397691 9.50906ZM0.0441491 9.57115L-0.952808 9.64917L-0.952558 9.65225L0.0441491 9.57115ZM0.045568 9.58859L-0.951152 9.66969L-0.950705 9.67485L0.045568 9.58859ZM0.0460184 9.5938L-0.950258 9.68005L-0.950028 9.68263L0.0460184 9.5938ZM0.0461707 9.5955L-0.93852 9.76981L1.04222 9.50667L0.0461707 9.5955ZM0.0395943 9.55835L0.039569 8.55835L-0.960398 8.55838L-0.960406 9.55834L0.0395943 9.55835ZM0.046271 9.59661L1.0421 9.50534L1.03838 9.46479L1.03138 9.42468L0.046271 9.59661ZM0.0497608 9.63469L-0.946066 9.72595L-0.937395 9.82056L-0.911065 9.91184L0.0497608 9.63469ZM0.60866 11.5723L-0.352166 11.8494L-0.0850246 12.7755L0.850287 12.5426L0.60866 11.5723ZM1.57903 11.3306L1.82066 12.301L2.79103 12.0594L2.5494 11.089L1.57903 11.3306ZM13.0395 9.55802H14.0395V8.558L13.0395 8.55802L13.0395 9.55802ZM0.0395287 18.058L-0.960471 18.058V18.058H0.0395287ZM2.10337 9.36006C2.10299 9.35476 2.10256 9.34838 2.10208 9.34095L0.106174 9.46878C0.106924 9.4805 0.107641 9.49109 0.108305 9.50053L2.10337 9.36006ZM2.10208 9.34095C2.09992 9.30714 2.09686 9.25166 2.09441 9.17728L0.0954941 9.24317C0.0986691 9.33949 0.102772 9.41567 0.106174 9.46879L2.10208 9.34095ZM2.09441 9.17729C2.08949 9.02815 2.08709 8.80533 2.09883 8.53068L0.100653 8.4453C0.086484 8.77691 0.0891484 9.05066 0.0954941 9.24317L2.09441 9.17729ZM2.09883 8.53068C2.12255 7.97552 2.20279 7.23933 2.41951 6.4835L0.496978 5.93226C0.224498 6.88257 0.128907 7.78405 0.100653 8.4453L2.09883 8.53068ZM2.41951 6.4835C2.84924 4.98475 3.74398 3.57779 5.70985 3.08827L5.22659 1.14754C2.32451 1.87017 1.04342 4.02647 0.496978 5.93226L2.41951 6.4835ZM5.70985 3.08827C6.72741 2.83489 7.56597 2.93603 8.27085 3.20432L8.9823 1.33514C7.90637 0.925613 6.65116 0.792811 5.22659 1.14754L5.70985 3.08827ZM8.27085 3.20432C8.8059 3.40797 9.29505 3.72049 9.73691 4.09884L11.0377 2.57966C10.4581 2.08336 9.77382 1.63641 8.9823 1.33514L8.27085 3.20432ZM11.1469 3.98966L11.7973 3.23007L10.2781 1.92926L9.62773 2.68884L11.1469 3.98966ZM11.6881 1.82008C11.0397 1.26481 10.2578 0.750636 9.33803 0.400549L8.62658 2.26973C9.28985 2.52219 9.87656 2.90191 10.3873 3.33925L11.6881 1.82008ZM9.33803 0.400549C8.07661 -0.0795745 6.61308 -0.228244 4.98497 0.177167L5.46822 2.1179C6.68927 1.81386 7.73615 1.93081 8.62658 2.26973L9.33803 0.400549ZM4.98497 0.177167C1.61202 1.01705 0.139443 3.55104 -0.464288 5.65664L1.45825 6.20788C1.94665 4.50451 3.03506 2.72378 5.46822 2.1179L4.98497 0.177167ZM-0.464288 5.65664C-0.743693 6.6311 -0.957801 7.62174 -0.991133 8.40184L1.00704 8.48721C1.03022 7.94479 1.1927 7.13402 1.45825 6.20788L-0.464288 5.65664ZM-0.991133 8.40184C-1.00696 8.77216 -0.998064 9.08429 -0.991502 9.28335L1.00741 9.21746C1.00128 9.03149 0.994529 8.7801 1.00704 8.48721L-0.991133 8.40184ZM-0.991502 9.28335C-0.987781 9.39625 -0.97226 9.49857 -0.96441 9.54919C-0.962243 9.56316 -0.960058 9.57682 -0.958527 9.58644C-0.95681 9.59723 -0.955793 9.60371 -0.955037 9.60872C-0.95251 9.6255 -0.956084 9.6058 -0.958186 9.57298L1.03772 9.44514C1.0356 9.41197 1.03241 9.3834 1.02999 9.36384C1.02747 9.34349 1.02478 9.32497 1.02266 9.31084C1.02052 9.29665 1.0183 9.28269 1.01662 9.27211C1.01475 9.26036 1.01336 9.2517 1.01196 9.24268C1.00555 9.20133 1.00687 9.20088 1.00741 9.21746L-0.991502 9.28335ZM-0.958186 9.57298C-0.956174 9.60439 -0.95431 9.6299 -0.952803 9.64917L1.0411 9.49314C1.04031 9.48299 1.03912 9.46687 1.03772 9.44514L-0.958186 9.57298ZM-0.952558 9.65225L-0.951139 9.66969L1.04227 9.5075L1.04086 9.49006L-0.952558 9.65225ZM-0.950705 9.67485L-0.950254 9.68005L1.04229 9.50754L1.04184 9.50234L-0.950705 9.67485ZM-0.950028 9.68263L-0.949876 9.68433L1.04222 9.50667L1.04207 9.50496L-0.950028 9.68263ZM1.03086 9.42119L1.02428 9.38404L-0.945096 9.73266L-0.93852 9.76981L1.03086 9.42119ZM-0.945516 9.73028L-0.938839 9.76854L1.03138 9.42468L1.0247 9.38643L-0.945516 9.73028ZM-0.949555 9.68788L-0.946066 9.72595L1.04559 9.54342L1.0421 9.50534L-0.949555 9.68788ZM0.850287 12.5426L1.82066 12.301L1.3374 10.3603L0.367032 10.6019L0.850287 12.5426ZM2.5494 11.089L2.0762 9.18867L0.135466 9.67192L0.60866 11.5723L2.5494 11.089ZM-0.911065 9.91184L-0.352166 11.8494L1.56949 11.2951L1.01059 9.35753L-0.911065 9.91184ZM0.0396195 10.5584L13.0396 10.558L13.0395 8.55802L0.039569 8.55835L0.0396195 10.5584ZM12.0395 9.55802V18.058H14.0395V9.55802H12.0395ZM11.0395 19.058H2.03953V21.058H11.0395V19.058ZM1.03953 18.058L1.03959 9.55836L-0.960406 9.55834L-0.960471 18.058L1.03953 18.058ZM2.03953 19.058C1.48724 19.058 1.03953 18.6103 1.03953 18.058H-0.960471C-0.960471 19.7149 0.382674 21.058 2.03953 21.058V19.058ZM12.0395 18.058C12.0395 18.6103 11.5918 19.058 11.0395 19.058V21.058C12.6964 21.058 14.0395 19.7149 14.0395 18.058H12.0395Z" fill="#070707" mask="url(#path-1-inside-1_1510_23296)"/>
+    </svg>
+
+    </p>
+
+<p>
+    <b> Języki publikacji</b>:
+
+             Polski    </p>
+
+<div class="paragraph">
+    <p> Liczba wyświetleń: 881</p>
+    <p> Liczba pobrań: 691</p>
+</div>
+
+<div class="paragraph">
+    <a href="#journal-article-information" data-anchor-target="journal-article-information"> Przejdź do metryczki artykułu</a>
+</div>
+
+
+
+            </div>
+        </div>
+        <div class="journal-tabs-content">
+            <div role="tabpanel" aria-hidden="true" id="panel-3" aria-labelledby="tab-3" >
+                
+
+    <span class="journal-tabs-content">Brak danych graficznych</span>
+            </div>
+        </div>
+    </div>
+
+<div class="photo-wrapper">
+    <a
+        href="/czasopismo/principia/numer/tom-69-polityka-i-zlo"
+        class="link"
+    >
+            <svg class="svg-arrow" width="22" height="19" viewBox="0 0 22 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_ARROW_PREV</title>
+        <path d="M10.4816 1.02849L1.67344 9.83667M1.67344 9.83667L10.4816 18.6448M1.67344 9.83667L22 9.83667" stroke="black"/>
+    </svg>
+  Powrót do numeru
+    </a>
+
+        </div>
+        </aside>
+        <div class="journal-side-layout__main">
+            <div class="container-md container-md--side article">
+                                                                                        
+                <nav class="breadcrumbs container">
+    
+                        <a class="breadcrumbs__item" href="/czasopismo/principia">Principia</a>
+                    <a class="breadcrumbs__item" href="/czasopismo/principia/tomy-i-numery">Wydania Czasopisma</a>
+                    <a class="breadcrumbs__item" href="/czasopismo/principia/numer/tom-69-polityka-i-zlo">Tom 69, Polityka i zło</a>
+            
+    
+    <span class="breadcrumbs__item breadcrumbs__item--active"><p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p></span>
+</nav>
+                <header class="article__header">
+                    <div class="article__wrapper">
+                        <div class="article__header-title">
+                            <h2 class="block-title"><p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p></h2>
+                            
+                            
+                        </div>
+
+                                            </div>
+
+                                            <p class="article__text-light article__text-light--mb">
+                             Data publikacji: 12.2022
+                        </p>
+                    
+                    
+                    <p class="article__text-light">
+                        Principia,
+                        2022,
+                        Tom 69, Polityka i zło,
+                         s. 5-22
+                    </p>
+
+                                            <a class="article__link" href="https://doi.org/10.4467/20843887PI.22.001.17312">
+                            https://doi.org/10.4467/20843887PI.22.001.17312
+                        </a>
+                    
+                    
+    <p class="article__subtitle">
+         Autorzy
+    </p>
+
+<div class="article__links">
+                    
+        <div class="article__links-wrap">
+            <button class="article__link-ico js-dialog-trigger" type="button">
+                <span> Marek Drwięga </span>
+
+                                    <span>    <svg width="36" height="37" viewbox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> Orcid</title>
+        <g clip-path="url(#clip0_819_9348)">
+            <path d="M36 18.5C36 28.4422 27.9422 36.5 18 36.5C8.05781 36.5 0 28.4422 0 18.5C0 8.55781 8.05781 0.5 18 0.5C27.9422 0.5 36 8.55781 36 18.5Z" fill="#A6CE39"/>
+            <path d="M12.1344 26.6844H9.96875V11.6234H12.1344V18.4297V26.6844Z" fill="white"/>
+            <path d="M15.3125 11.6234H21.1625C26.7312 11.6234 29.1781 15.6031 29.1781 19.1609C29.1781 23.0281 26.1547 26.6984 21.1906 26.6984H15.3125V11.6234ZM17.4781 24.7437H20.9234C25.8313 24.7437 26.9562 21.0172 26.9562 19.1609C26.9562 16.1375 25.0297 13.5781 20.8109 13.5781H17.4781V24.7437Z" fill="white"/>
+            <path d="M12.4734 8.48745C12.4734 9.26089 11.8406 9.90776 11.0531 9.90776C10.2656 9.90776 9.63281 9.26089 9.63281 8.48745C9.63281 7.69995 10.2656 7.06714 11.0531 7.06714C11.8406 7.06714 12.4734 7.71401 12.4734 8.48745Z" fill="white"/>
+        </g>
+        <defs>
+            <clipPath id="clip0_819_9348">
+                <rect width="36" height="36" fill="white" transform="translate(0 0.5)"/>
+            </clipPath>
+        </defs>
+    </svg>
+</span>
+                            </button>
+
+            <span class="article__links-separator"></span>
+        </div>
+
+        
+<dialog class="article__tooltip modal js-dialog">
+	<button class="modal__close js-dialog-close" type="button">
+		    <svg width="28" height="28" viewbox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Zamknij</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.8111 28L0.230952 1.84918L2.18359 0L27.7637 26.1508L25.8111 28Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.48121e-07 25.8892L26.0836 0.224407L28 2.10999L1.91635 27.7748L6.48121e-07 25.8892Z" fill="black"/>
+    </svg>
+
+	</button>
+
+	<div class="article__tooltip-fullname">
+		<span class="article__tooltip-name">Marek</span>
+		<span class="article__tooltip-surname">Drwięga</span>
+	</div>
+
+	<div class="article__tooltip-title"></div>
+
+			<div class="article__tooltip-affiliations">
+							<div class="article__tooltip-affiliation">
+					<span class="article__tooltip-affiliation-title">
+                                                Instytut Filozofii, Uniwersytet Jagielloński (Kraków, Polska)
+                    </span>
+
+					
+					
+					<address class="article__tooltip-affiliation-address display-i fontstyle-n"></address>
+				</div>
+					</div>
+	
+			<div class="article__tooltip-orcid">
+			<a href="https://orcid.org/0000-0002-7001-8930">https://orcid.org/0000-0002-7001-8930</a>
+			<span>    <svg width="36" height="37" viewbox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> Orcid</title>
+        <g clip-path="url(#clip0_819_9348)">
+            <path d="M36 18.5C36 28.4422 27.9422 36.5 18 36.5C8.05781 36.5 0 28.4422 0 18.5C0 8.55781 8.05781 0.5 18 0.5C27.9422 0.5 36 8.55781 36 18.5Z" fill="#A6CE39"/>
+            <path d="M12.1344 26.6844H9.96875V11.6234H12.1344V18.4297V26.6844Z" fill="white"/>
+            <path d="M15.3125 11.6234H21.1625C26.7312 11.6234 29.1781 15.6031 29.1781 19.1609C29.1781 23.0281 26.1547 26.6984 21.1906 26.6984H15.3125V11.6234ZM17.4781 24.7437H20.9234C25.8313 24.7437 26.9562 21.0172 26.9562 19.1609C26.9562 16.1375 25.0297 13.5781 20.8109 13.5781H17.4781V24.7437Z" fill="white"/>
+            <path d="M12.4734 8.48745C12.4734 9.26089 11.8406 9.90776 11.0531 9.90776C10.2656 9.90776 9.63281 9.26089 9.63281 8.48745C9.63281 7.69995 10.2656 7.06714 11.0531 7.06714C11.8406 7.06714 12.4734 7.71401 12.4734 8.48745Z" fill="white"/>
+        </g>
+        <defs>
+            <clipPath id="clip0_819_9348">
+                <rect width="36" height="36" fill="white" transform="translate(0 0.5)"/>
+            </clipPath>
+        </defs>
+    </svg>
+</span>
+		</div>
+	
+			<div class="article__tooltip-email">
+			<a class="article__contact-with-author" href="mailto:marek.drwiega@uj.edu.pl">
+				    <svg width="39" height="24" viewBox="0 0 39 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title></title>
+        <path d="M2.23333 2.24528L17.5518 13.0361C18.9605 14.0285 20.8464 14.0072 22.2323 12.9833L36.7667 2.24528M38 5V19C38 21.2091 36.2091 23 34 23H5C2.79086 23 1 21.2091 1 19V5C1 2.79086 2.79086 1 5 1H34C36.2091 1 38 2.79086 38 5Z" stroke="black"/>
+    </svg>
+
+				<span>Kontakt z autorem</span>
+			</a>
+		</div>
+	
+	
+	<a class="article__btn" href="/autorzy/marek-drwiega/author#articles">
+		Wszystkie publikacje autora →
+	</a>
+</dialog>
+
+            </div>
+
+
+<div class="article__links">
+    </div>
+                </header>
+
+                <div class="access-bar__buy">
+                    
+<div class="access-bar__buy-content">
+    
+    
+            
+        <h2 class="subheading">Pobierz pełny tekst</h2>
+        <div class="access-bar__actions">
+                            <a
+                    class="access-bar__action"
+                    href="/pliki_artykulu_czasopisma/pelny_tekst/018e9e35-920a-7182-b8a5-307e5d7fd4ca/pobierz"
+                    data-id="customer-directory-item-article-format"
+                    data-format="pdf"
+                    data-file-uuid="018e9e35-920a-7182-b8a5-307e5d7fd4ca"
+                    data-article-uuid="018e9e35-8ecf-707a-a78e-9cc1315c2dcd"
+                    download
+                >
+                        <svg width="34" height="42" viewBox="0 0 34 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Pobierz PDF</title>
+        <path d="M6.1875 24.7031H28.4097M6.1875 27.6661H28.4097" stroke="#070707"/>
+        <path d="M20.8165 1H5C2.79086 1 1 2.79086 1 5V37C1 39.2091 2.79086 41 5 41H28.9266C31.1357 41 32.9266 39.2091 32.9266 37V13.1101M20.8165 1L32.9266 13.1101M20.8165 1V9.11009C20.8165 11.3192 22.6074 13.1101 24.8165 13.1101H32.9266" stroke="#070707"/>
+    </svg>
+PDF
+                </a>
+                    </div>
+    </div>
+                    
+<div class="access-bar__actions">
+    <a href="" class="access-bar__action js-print">
+            <svg width="37" height="32" viewBox="0 0 37 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Drukuj</title>
+        <path d="M29.9464 25.5833H31.7798C33.9889 25.5833 35.7798 23.7925 35.7798 21.5833V10.8333C35.7798 8.62419 33.9889 6.83333 31.7798 6.83333H30.3631M29.9464 25.5833V16.75C29.9464 15.6454 29.051 14.75 27.9464 14.75H8.61312C7.50855 14.75 6.61312 15.6454 6.61312 16.75V26M29.9464 25.5833V29C29.9464 30.1046 29.051 31 27.9464 31H8.61312C7.50855 31 6.61312 30.1046 6.61312 29V26M6.61312 26H4.77979C2.57065 26 0.779785 24.2091 0.779785 22V10.8333C0.779785 8.62419 2.57065 6.83333 4.77979 6.83333H6.19645M6.19645 6.83333V3C6.19645 1.89543 7.09188 1 8.19645 1H28.3631C29.4677 1 30.3631 1.89543 30.3631 3V6.83333M6.19645 6.83333H30.3631M10.3631 19.3333H26.1964M10.3631 21.8333H26.1964M10.3631 24.3333H26.1964M10.3631 26.8333H26.1964" stroke="#070707"/>
+    </svg>
+  drukuj
+    </a>
+    <a href="" class="access-bar__action js-cite" data-id="customer-directory-item-cite-btn">
+            <svg width="40" height="30" viewBox="0 0 40 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Cytuj</title>
+        <path d="M8.51591 3.25186C4.09129 3.39405 0.739767 7.33359 1.01591 11.7519C1.27429 15.8859 4.01562 19.2519 8.51591 19.2519C11.0156 19.2519 12.0156 18.252 12.0156 18.252C12.0156 21.252 10.0156 23.752 6.51562 26.752C6.51562 26.752 16.5159 23.752 16.5159 11.7519C16.5159 7.19342 13.072 3.10545 8.51591 3.25186Z" stroke="#070707"/>
+        <path d="M31.0315 3.25186C26.6069 3.39405 23.2554 7.33359 23.5315 11.7519C23.7899 15.8859 26.5312 19.2519 31.0315 19.2519C33.5312 19.2519 34.5312 18.252 34.5312 18.252C34.5312 21.252 32.5312 23.752 29.0312 26.752C29.0312 26.752 39.0315 23.752 39.0315 11.7519C39.0315 7.19342 35.5876 3.10545 31.0315 3.25186Z" stroke="#070707"/>
+    </svg>
+
+  cytuj
+    </a>
+    <div style="display:none;position:absolute;background-color: white;" id="share-dropdown-1">
+        <div>
+            <a href="https://www.facebook.com/sharer/sharer.php?u=https://ejournals.eu/czasopismo/principia/artykul/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki">facebook</a>
+        </div>
+        <div>
+            <a href="https://twitter.com/share?url=https://ejournals.eu/czasopismo/principia/artykul/wolnosc-i-zlo-w-polityce-rozwazania-wokol-wojny-i-totalitaryzmu-w-mysli-jana-patocki&text=%0D%0A%09Wolno%C5%9B%C4%87%20i%20z%C5%82o%20w%20polityce.%20Rozwa%C5%BCania%20wok%C3%B3%C5%82%20wojny%20i%20totalitaryzmu%20w%20my%C5%9Bli%20Jana%20Pato%C4%8Dki">twitter</a>
+        </div>
+    </div>
+    <a href="" class="access-bar__action" data-dropdown-target="#share-dropdown-1">
+            <svg width="26" height="30" viewBox="0 0 26 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Udostępnij</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0312 4C25.0312 6.20914 23.2404 8 21.0312 8C18.8221 8 17.0312 6.20914 17.0312 4C17.0312 1.79086 18.8221 0 21.0312 0C23.2404 0 25.0312 1.79086 25.0312 4ZM21.0312 7C22.6881 7 24.0312 5.65685 24.0312 4C24.0312 2.34315 22.6881 1 21.0312 1C19.3744 1 18.0312 2.34315 18.0312 4C18.0312 5.65685 19.3744 7 21.0312 7Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.0312 26C25.0312 28.2091 23.2404 30 21.0312 30C18.8221 30 17.0312 28.2091 17.0312 26C17.0312 23.7909 18.8221 22 21.0312 22C23.2404 22 25.0312 23.7909 25.0312 26ZM21.0312 29C22.6881 29 24.0312 27.6569 24.0312 26C24.0312 24.3431 22.6881 23 21.0312 23C19.3744 23 18.0312 24.3431 18.0312 26C18.0312 27.6569 19.3744 29 21.0312 29Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M8.03125 15C8.03125 17.2091 6.24039 19 4.03125 19C1.82211 19 0.03125 17.2091 0.03125 15C0.03125 12.7909 1.82211 11 4.03125 11C6.24039 11 8.03125 12.7909 8.03125 15ZM4.03125 18C5.6881 18 7.03125 16.6569 7.03125 15C7.03125 13.3431 5.6881 12 4.03125 12C2.3744 12 1.03125 13.3431 1.03125 15C1.03125 16.6569 2.3744 18 4.03125 18Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M18.2912 5.92707L6.79119 12.9271L6.27124 12.0729L17.7712 5.07288L18.2912 5.92707ZM6.79119 17.0729L18.2912 24.0729L17.7712 24.9271L6.27124 17.9271L6.79119 17.0729Z" fill="black"/>
+    </svg>
+  udostępnij     <svg width="18" height="11" viewbox="0 0 18 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_ARROW_DOWN</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M9 10.5L8.12783e-07 1.20284L0.680381 0.499998L9 9.09431L17.3196 0.5L18 1.20284L9 10.5Z" fill="#070707"/>
+    </svg>
+
+    </a>
+</div>
+                </div>
+
+                
+    <div class="divider" data-anchor="ABSTRACT_ANCHOR">
+        <h3 class="block-title">
+            Tytuły
+        </h3>
+
+                    <button
+                id="tab-title-translation-pl"
+                role="tab"
+                data-tab-group="title-translation-group"
+                class="title-translation-group journal-tabs-btn"
+                aria-controls="panel-title-translation-pl"
+                aria-expanded="true"
+            >
+                 Polski
+            </button>
+                    <button
+                id="tab-title-translation-en"
+                role="tab"
+                data-tab-group="title-translation-group"
+                class="title-translation-group journal-tabs-btn"
+                aria-controls="panel-title-translation-en"
+                aria-expanded="false"
+            >
+                 Angielski
+            </button>
+        
+                    <div class="journal-tabs-content">
+                <div
+                    id="panel-title-translation-pl"
+                    role="tabpanel"
+                    class="title-translation-group container-xs"
+                    aria-hidden="false"
+                    aria-labelledby="tab-title-translation-pl"
+                >
+                    <p class="paragraph">
+                        <p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p>
+                    </p>
+                </div>
+            </div>
+                    <div class="journal-tabs-content">
+                <div
+                    id="panel-title-translation-en"
+                    role="tabpanel"
+                    class="title-translation-group container-xs"
+                    aria-hidden="true"
+                    aria-labelledby="tab-title-translation-en"
+                >
+                    <p class="paragraph">
+                        <p>
+	Freedom and evil in politics. Reflections on war and totalitarianism in the thought of Jan Patočka</p>
+                    </p>
+                </div>
+            </div>
+            </div>
+                
+    <div class="divider" data-anchor="ABSTRACT_ANCHOR">
+        <h3 class="block-title">
+             Abstrakt
+        </h3>
+
+                    <button
+                id="tab-abstract-pl"
+                role="tab"
+                data-tab-group="abstract-group"
+                class="abstract-group journal-tabs-btn"
+                aria-controls="panel-abstract-pl"
+                aria-expanded="true"
+            >
+                 Polski
+            </button>
+                    <button
+                id="tab-abstract-en"
+                role="tab"
+                data-tab-group="abstract-group"
+                class="abstract-group journal-tabs-btn"
+                aria-controls="panel-abstract-en"
+                aria-expanded="false"
+            >
+                 Angielski
+            </button>
+        
+                    <div class="journal-tabs-content">
+                <div
+                    id="panel-abstract-pl"
+                    role="tabpanel"
+                    class="abstract-group container-xs"
+                    aria-hidden="false"
+                    aria-labelledby="tab-abstract-pl"
+                >
+                    <p class="paragraph">
+                        <p>W artykule autor chciałby, na przykładzie XX‑wiecznego czeskiego filozofa Jana Patočki, przedstawić problem wolności człowieka skonfrontowanej z dwojakiego rodzaju doświadczeniami: wojny oraz przemocy politycznej reprezentowanej przez państwo totalitarne. Te dwa doświadczenia można z pewnością traktować jako historyczne doświadczenia zła. Chodzi więc o konfrontację między ludzką wolnością a złem. W tym kontekście czeski myśliciel starał się odpowiedzieć na pytanie: jakiego rodzaju odpowiedzi moralnej w takiej sytuacji może czy nawet powinien udzielić człowiek? Jak człowiek może lub powinien się zachowywać, doświadczając zła?</p>
+                    </p>
+                </div>
+            </div>
+                    <div class="journal-tabs-content">
+                <div
+                    id="panel-abstract-en"
+                    role="tabpanel"
+                    class="abstract-group container-xs"
+                    aria-hidden="true"
+                    aria-labelledby="tab-abstract-en"
+                >
+                    <p class="paragraph">
+                        <p>Taking the 20th century Czech philosopher Jan Patočka as an example, in this paper, the author would like to illustrate the problem of human freedom when dealing with two kinds of experiences: war and political violence, as exemplified by the totalitarian state. Indeed, it is possible to treat these two types of experiences as historical experiences of evil. What is at stake, then, is the juxtaposition of human freedom and evil. Given this context, the Czech thinker sought to answer the question: in such a situation, with which moral response can or should one reply? When experiencing evil, how can or should a person behave?</p>
+                    </p>
+                </div>
+            </div>
+            </div>
+                
+
+                                
+    
+    <div class="divider" data-anchor="KEYWORDS_ANCHOR">
+        <h3 class="block-title"> Słowa kluczowe</h3>
+
+                    <button
+                id="tab-keywords-pl"
+                role="tab"
+                data-tab-group="keywords-group"
+                class="keywords-group journal-tabs-btn"
+                aria-controls="panel-keywords-pl"
+                aria-expanded="true"
+            >
+                 Polski
+            </button>
+                    <button
+                id="tab-keywords-en"
+                role="tab"
+                data-tab-group="keywords-group"
+                class="keywords-group journal-tabs-btn"
+                aria-controls="panel-keywords-en"
+                aria-expanded="false"
+            >
+                 Angielski
+            </button>
+        
+                    <div class="journal-tabs-content">
+                <div
+                    id="panel-keywords-pl"
+                    role="tabpanel"
+                    class="keywords-group container-xs"
+                    aria-hidden="false"
+                    aria-labelledby="tab-keywords-pl"
+                >
+                    <p class="paragraph">
+                                                    <a href="/wyniki-wyszukiwania?keyword=wolno%C5%9B%C4%87">
+                                wolność,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=z%C5%82o">
+                                zło,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=polityka">
+                                polityka,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=totalitaryzm">
+                                totalitaryzm,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=wojna">
+                                wojna                            </a>
+                                            </p>
+                </div>
+            </div>
+                    <div class="journal-tabs-content">
+                <div
+                    id="panel-keywords-en"
+                    role="tabpanel"
+                    class="keywords-group container-xs"
+                    aria-hidden="true"
+                    aria-labelledby="tab-keywords-en"
+                >
+                    <p class="paragraph">
+                                                    <a href="/wyniki-wyszukiwania?keyword=Freedom">
+                                Freedom,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=Evil">
+                                Evil,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=Politics">
+                                Politics,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=Totalitarianism">
+                                Totalitarianism,                             </a>
+                                                    <a href="/wyniki-wyszukiwania?keyword=War">
+                                War                            </a>
+                                            </p>
+                </div>
+            </div>
+            </div>
+
+                
+                                    <div class="js-blocks-list">
+                                            </div>
+                
+                
+
+                
+    <div class="" data-anchor="BIBLIOGRAPHY_ANCHOR">
+                                    <h3 class="block-title">
+                     Bibliografia
+                </h3>
+                <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/pobierz-txt" target="_blank" class="link">
+                     Pobierz bibliografię
+                </a>
+                            
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Arendt Hannah, <em>Korzenie totalitaryzmu</em>, przeł. M. Szawiel, D. Grinberg, NOWA, Warszawa 1993.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Čapek Jakub, <em>O povinnosti člověka vů</em>č<em>i sobě samemu: Patočka, Kant a Charta 77</em>, „Filosofický Časopis” 2009, nr 4, r. 57.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Drwięga Marek, <em>Odpowiedzialna wolność</em>, Księgarnia Akademicka, Kraków 2020.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Gondek Hans‑Dieter, Tengelyi László, <em>Neue Phanomenologie in Frankreich</em>, Suhrkamp, Berlin 2011.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Kroupa Daniel, <em>Masaryk, Patočka, Havel. Uvahy a studie z let 1979</em><em>– </em><em>2017</em>, OIKOYMENH, Praha, 2018.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Marion Jean‑Luc, <em>Etant donne. Essai d</em><em>’</em><em>une phenomenologie de la donation</em>, PUF, Paris 1997.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Patočka Jan, <em>Čim je a </em>č<em>im neni Charta 77 </em>oraz <em>Co můžeme očekavat od Charty 77?</em>, [w:] tenże, <em>Češi</em>, t. 1, <em>Sebrane spisy Jana Patočky</em>, t. 12, wyd. K. Palek, I. Chvatík, OIKOYMENH, Praha 2006.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Patočka Jan, <em>Deux etudes sur Masaryk</em>, [w:] tenże, <em>La crise du sens</em>, t. 1: <em>Comte, Masaryk, Husserl. Deux etudes sur Masaryk</em>, przeł. E. Abrams, Ousia, Bruxelles 1985.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Patočka Jan, <em>Kaciřske eseje o filosofii dĕjin</em>, [w:] tenże, <em>Peče o duši</em>, t. 3, <em>Sebrane spisy Jana Pato</em>č<em>ky</em>, t. 3, wyd. I. Chvatík, P. Kouba, OIKOYMENH, Praha 2002; wydanie polskie: <em>Eseje heretyckie z filozofii dziejow</em>, przeł. A. Czcibor‑Piotrowski, E. Szczepańska, J. Zychowicz, Fundacja Aletheia, Warszawa 1998.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Patočka Jan, <em>Negativni platonismus. O vzniku, problematice, zaniku metafyziky a otazce, zda filosofie může žit i po ni</em>, OIKOYMENH, Praha 2007; wydanie polskie: <em>Negatywny platonizm. O genezie, problematyce i zaniku metafizyki oraz pytaniu, czy filozofia może istnieć bez niej</em>, przeł. M. Borys, „Kwartalnik Filozoficzny” 2015, z. 4.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Patočka Jan, <em>Platόn a Evropa</em>, [w:] tenże, <em>Peče o duši</em>, t. 2, <em>Sebrane spisy Jana Patočky</em>, t. 2, wyd. I. Chvatík, P. Kouba, OIKOYMENH, Praha 1999.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                                
+                            <div class="divider">
+                    <div class="container-xs">
+                        <div><p>Patočka Jan, <em>Seminaire sur l</em><em>’</em><em>ere technique</em>, [w:] tenże, <em>Liberte et sacrifice. </em><em>Ecrits politiques</em>, przeł. [z czeskiego i niemieckiego] E. Abrams, posłowie A.M. Robiello, Grenoble 1990.</p></div>
+
+                        
+                        <div class="article__links article__links--end">
+                            
+                            
+                            
+                                                    </div>
+                    </div>
+                </div>
+                        </div>
+                
+<div class="divider" data-anchor="journal-article-information">
+    <h3 class="block-title"> Informacje</h3>
+    <div class="container-xs">
+        <div>
+            
+            <p class="paragraph">
+                <b> Informacje:</b>
+
+                Principia,
+                2022,
+                Tom 69, Polityka i zło,
+                 s. 5-22
+            </p>
+        </div>
+
+                    <div>
+                <p class="paragraph">
+                    <b> DOI:</b>
+
+                    <a class="article__link" href="https://doi.org/10.4467/20843887PI.22.001.17312">
+                        https://doi.org/10.4467/20843887PI.22.001.17312
+                    </a>
+                </p>
+            </div>
+        
+        <div>
+            <p class="paragraph">
+                <b> Typ artykułu:</b>
+
+                Oryginalny artykuł naukowy
+            </p>
+        </div>
+
+                    <div>
+                <p class="paragraph">
+                    <b> Tytuły:</b>
+
+                    
+                                                                <div>
+                             Polski: <p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p>
+                        </div>
+                                            <div>
+                             Angielski: <p>
+	Freedom and evil in politics. Reflections on war and totalitarianism in the thought of Jan Patočka</p>
+                        </div>
+                                    </p>
+            </div>
+            </div>
+</div>
+                
+<div class="divider">
+    <h4 class="heading-sm"> Autorzy</h4>
+
+    <div class="container-xs">
+                                
+            <div>
+                <div>
+                    
+                    <a class="link" href="/autorzy/marek-drwiega/author">
+                         Marek Drwięga      <svg class="svg-arrow" width="22" height="19" viewbox="0 0 22 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Następne</title>
+        <path d="M11.5184 17.9715L20.3266 9.16333M20.3266 9.16333L11.5184 0.355156M20.3266 9.16333H0" stroke="black"/>
+    </svg>
+
+                    </a>
+                </div>
+
+                                    <p class="article__link-ico article__link-ico--with-button">
+                        <button class="js-dialog-trigger" type="button">    <svg width="36" height="37" viewbox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> Orcid</title>
+        <g clip-path="url(#clip0_819_9348)">
+            <path d="M36 18.5C36 28.4422 27.9422 36.5 18 36.5C8.05781 36.5 0 28.4422 0 18.5C0 8.55781 8.05781 0.5 18 0.5C27.9422 0.5 36 8.55781 36 18.5Z" fill="#A6CE39"/>
+            <path d="M12.1344 26.6844H9.96875V11.6234H12.1344V18.4297V26.6844Z" fill="white"/>
+            <path d="M15.3125 11.6234H21.1625C26.7312 11.6234 29.1781 15.6031 29.1781 19.1609C29.1781 23.0281 26.1547 26.6984 21.1906 26.6984H15.3125V11.6234ZM17.4781 24.7437H20.9234C25.8313 24.7437 26.9562 21.0172 26.9562 19.1609C26.9562 16.1375 25.0297 13.5781 20.8109 13.5781H17.4781V24.7437Z" fill="white"/>
+            <path d="M12.4734 8.48745C12.4734 9.26089 11.8406 9.90776 11.0531 9.90776C10.2656 9.90776 9.63281 9.26089 9.63281 8.48745C9.63281 7.69995 10.2656 7.06714 11.0531 7.06714C11.8406 7.06714 12.4734 7.71401 12.4734 8.48745Z" fill="white"/>
+        </g>
+        <defs>
+            <clipPath id="clip0_819_9348">
+                <rect width="36" height="36" fill="white" transform="translate(0 0.5)"/>
+            </clipPath>
+        </defs>
+    </svg>
+</button>
+
+                        <a class="article__link" href="https://orcid.org/0000-0002-7001-8930">
+                            https://orcid.org/0000-0002-7001-8930
+                        </a>
+
+                        
+<dialog class="article__tooltip modal js-dialog">
+	<button class="modal__close js-dialog-close" type="button">
+		    <svg width="28" height="28" viewbox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Zamknij</title>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M25.8111 28L0.230952 1.84918L2.18359 0L27.7637 26.1508L25.8111 28Z" fill="black"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.48121e-07 25.8892L26.0836 0.224407L28 2.10999L1.91635 27.7748L6.48121e-07 25.8892Z" fill="black"/>
+    </svg>
+
+	</button>
+
+	<div class="article__tooltip-fullname">
+		<span class="article__tooltip-name">Marek</span>
+		<span class="article__tooltip-surname">Drwięga</span>
+	</div>
+
+	<div class="article__tooltip-title"></div>
+
+			<div class="article__tooltip-affiliations">
+							<div class="article__tooltip-affiliation">
+					<span class="article__tooltip-affiliation-title">
+                                                Instytut Filozofii, Uniwersytet Jagielloński (Kraków, Polska)
+                    </span>
+
+					
+					
+					<address class="article__tooltip-affiliation-address display-i fontstyle-n"></address>
+				</div>
+					</div>
+	
+			<div class="article__tooltip-orcid">
+			<a href="https://orcid.org/0000-0002-7001-8930">https://orcid.org/0000-0002-7001-8930</a>
+			<span>    <svg width="36" height="37" viewbox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> Orcid</title>
+        <g clip-path="url(#clip0_819_9348)">
+            <path d="M36 18.5C36 28.4422 27.9422 36.5 18 36.5C8.05781 36.5 0 28.4422 0 18.5C0 8.55781 8.05781 0.5 18 0.5C27.9422 0.5 36 8.55781 36 18.5Z" fill="#A6CE39"/>
+            <path d="M12.1344 26.6844H9.96875V11.6234H12.1344V18.4297V26.6844Z" fill="white"/>
+            <path d="M15.3125 11.6234H21.1625C26.7312 11.6234 29.1781 15.6031 29.1781 19.1609C29.1781 23.0281 26.1547 26.6984 21.1906 26.6984H15.3125V11.6234ZM17.4781 24.7437H20.9234C25.8313 24.7437 26.9562 21.0172 26.9562 19.1609C26.9562 16.1375 25.0297 13.5781 20.8109 13.5781H17.4781V24.7437Z" fill="white"/>
+            <path d="M12.4734 8.48745C12.4734 9.26089 11.8406 9.90776 11.0531 9.90776C10.2656 9.90776 9.63281 9.26089 9.63281 8.48745C9.63281 7.69995 10.2656 7.06714 11.0531 7.06714C11.8406 7.06714 12.4734 7.71401 12.4734 8.48745Z" fill="white"/>
+        </g>
+        <defs>
+            <clipPath id="clip0_819_9348">
+                <rect width="36" height="36" fill="white" transform="translate(0 0.5)"/>
+            </clipPath>
+        </defs>
+    </svg>
+</span>
+		</div>
+	
+			<div class="article__tooltip-email">
+			<a class="article__contact-with-author" href="mailto:marek.drwiega@uj.edu.pl">
+				    <svg width="39" height="24" viewBox="0 0 39 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title></title>
+        <path d="M2.23333 2.24528L17.5518 13.0361C18.9605 14.0285 20.8464 14.0072 22.2323 12.9833L36.7667 2.24528M38 5V19C38 21.2091 36.2091 23 34 23H5C2.79086 23 1 21.2091 1 19V5C1 2.79086 2.79086 1 5 1H34C36.2091 1 38 2.79086 38 5Z" stroke="black"/>
+    </svg>
+
+				<span>Kontakt z autorem</span>
+			</a>
+		</div>
+	
+	
+	<a class="article__btn" href="/autorzy/marek-drwiega/author#articles">
+		Wszystkie publikacje autora →
+	</a>
+</dialog>
+                    </p>
+                
+                                    <div>
+                        <p class="paragraph">
+                            
+                            Instytut Filozofii, Uniwersytet Jagielloński (Kraków, Polska)
+
+                            <br/>
+
+                            
+                            
+                                                    </p>
+                    </div>
+                            </div>
+            </div>
+</div>
+                                
+    <div class="divider">
+        <div class="container-xs">
+                            <div>
+                    <p>
+                        <b> Publikacja:</b>
+                        12.2022
+                    </p>
+                </div>
+            
+            
+            
+                    </div>
+    </div>
+                
+<div class="divider">
+    <div class="container-xs">
+        <p class="paragraph paragraph--ico">
+            <b> Status artykułu:</b>
+
+                             Otwarte     <svg width="14" height="21" viewBox="0 0 14 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_UNLOCK</title>
+        <mask id="path-1-inside-1_1510_23296" fill="white">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.10584 9.43029C1.10532 9.42293 1.10474 9.41444 1.10413 9.40487C1.10135 9.3614 1.09776 9.29558 1.09495 9.21023C1.08932 9.0394 1.08679 8.79112 1.09974 8.48799C1.12573 7.87979 1.21365 7.06095 1.45824 6.20788C1.94633 4.50561 3.03424 2.72398 5.46822 2.1179C6.68928 1.81385 7.73617 1.93082 8.62658 2.26973C9.28986 2.52219 9.87657 2.90192 10.3873 3.33925L11.0377 2.57966C10.4581 2.08336 9.77382 1.63641 8.9823 1.33514C7.90638 0.92562 6.65117 0.792806 5.22659 1.14754C2.32354 1.87041 1.04304 4.02777 0.496979 5.93226C0.224501 6.88256 0.0362099 7.78326 0.00795515 8.44453C-0.00621394 8.77613 0.00160947 9.05789 0.00795517 9.25041C0.01113 9.34673 0.0363667 9.45594 0.0397691 9.50906C0.0414707 9.53563 0.0429983 9.55645 0.0441491 9.57115L0.045568 9.58859L0.0460184 9.5938L0.0461707 9.5955L0.0395943 9.55835L0.046271 9.59661L0.0497608 9.63469L0.60866 11.5723L1.57903 11.3306L1.10584 9.43029Z"/>
+        <path d="M0.0395943 9.55835L13.0395 9.55802V18.058C13.0395 19.1626 12.1441 20.058 11.0395 20.058H2.03953C0.934959 20.058 0.0395287 19.1626 0.0395287 18.058L0.0395943 9.55835Z"/>
+        </mask>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M1.10584 9.43029C1.10532 9.42293 1.10474 9.41444 1.10413 9.40487C1.10135 9.3614 1.09776 9.29558 1.09495 9.21023C1.08932 9.0394 1.08679 8.79112 1.09974 8.48799C1.12573 7.87979 1.21365 7.06095 1.45824 6.20788C1.94633 4.50561 3.03424 2.72398 5.46822 2.1179C6.68928 1.81385 7.73617 1.93082 8.62658 2.26973C9.28986 2.52219 9.87657 2.90192 10.3873 3.33925L11.0377 2.57966C10.4581 2.08336 9.77382 1.63641 8.9823 1.33514C7.90638 0.92562 6.65117 0.792806 5.22659 1.14754C2.32354 1.87041 1.04304 4.02777 0.496979 5.93226C0.224501 6.88256 0.0362099 7.78326 0.00795515 8.44453C-0.00621394 8.77613 0.00160947 9.05789 0.00795517 9.25041C0.01113 9.34673 0.0363667 9.45594 0.0397691 9.50906C0.0414707 9.53563 0.0429983 9.55645 0.0441491 9.57115L0.045568 9.58859L0.0460184 9.5938L0.0461707 9.5955L0.0395943 9.55835L0.046271 9.59661L0.0497608 9.63469L0.60866 11.5723L1.57903 11.3306L1.10584 9.43029Z" fill="#070707"/>
+        <path d="M0.0395943 9.55835L13.0395 9.55802V18.058C13.0395 19.1626 12.1441 20.058 11.0395 20.058H2.03953C0.934959 20.058 0.0395287 19.1626 0.0395287 18.058L0.0395943 9.55835Z" fill="#070707"/>
+        <path d="M1.10584 9.43029L0.108305 9.50053L0.114422 9.58741L0.135466 9.67192L1.10584 9.43029ZM1.10413 9.40487L2.10208 9.34095V9.34095L1.10413 9.40487ZM1.09495 9.21023L0.0954941 9.24317L0.0954941 9.24317L1.09495 9.21023ZM1.09974 8.48799L2.09883 8.53068L1.09974 8.48799ZM1.45824 6.20788L2.41951 6.4835V6.4835L1.45824 6.20788ZM5.46822 2.1179L5.70985 3.08827L5.46822 2.1179ZM8.62658 2.26973L8.27085 3.20432L8.62658 2.26973ZM10.3873 3.33925L9.73691 4.09884L10.4965 4.74924L11.1469 3.98966L10.3873 3.33925ZM11.0377 2.57966L11.7973 3.23007L12.4477 2.47048L11.6881 1.82008L11.0377 2.57966ZM8.9823 1.33514L9.33803 0.400549V0.400549L8.9823 1.33514ZM5.22659 1.14754L5.46822 2.1179L5.22659 1.14754ZM0.496979 5.93226L1.45825 6.20788L0.496979 5.93226ZM0.00795515 8.44453L-0.991133 8.40184H-0.991133L0.00795515 8.44453ZM0.00795517 9.25041L1.00741 9.21746H1.00741L0.00795517 9.25041ZM0.0397691 9.50906L-0.958186 9.57298L-0.958186 9.57298L0.0397691 9.50906ZM0.0441491 9.57115L-0.952808 9.64917L-0.952558 9.65225L0.0441491 9.57115ZM0.045568 9.58859L-0.951152 9.66969L-0.950705 9.67485L0.045568 9.58859ZM0.0460184 9.5938L-0.950258 9.68005L-0.950028 9.68263L0.0460184 9.5938ZM0.0461707 9.5955L-0.93852 9.76981L1.04222 9.50667L0.0461707 9.5955ZM0.0395943 9.55835L0.039569 8.55835L-0.960398 8.55838L-0.960406 9.55834L0.0395943 9.55835ZM0.046271 9.59661L1.0421 9.50534L1.03838 9.46479L1.03138 9.42468L0.046271 9.59661ZM0.0497608 9.63469L-0.946066 9.72595L-0.937395 9.82056L-0.911065 9.91184L0.0497608 9.63469ZM0.60866 11.5723L-0.352166 11.8494L-0.0850246 12.7755L0.850287 12.5426L0.60866 11.5723ZM1.57903 11.3306L1.82066 12.301L2.79103 12.0594L2.5494 11.089L1.57903 11.3306ZM13.0395 9.55802H14.0395V8.558L13.0395 8.55802L13.0395 9.55802ZM0.0395287 18.058L-0.960471 18.058V18.058H0.0395287ZM2.10337 9.36006C2.10299 9.35476 2.10256 9.34838 2.10208 9.34095L0.106174 9.46878C0.106924 9.4805 0.107641 9.49109 0.108305 9.50053L2.10337 9.36006ZM2.10208 9.34095C2.09992 9.30714 2.09686 9.25166 2.09441 9.17728L0.0954941 9.24317C0.0986691 9.33949 0.102772 9.41567 0.106174 9.46879L2.10208 9.34095ZM2.09441 9.17729C2.08949 9.02815 2.08709 8.80533 2.09883 8.53068L0.100653 8.4453C0.086484 8.77691 0.0891484 9.05066 0.0954941 9.24317L2.09441 9.17729ZM2.09883 8.53068C2.12255 7.97552 2.20279 7.23933 2.41951 6.4835L0.496978 5.93226C0.224498 6.88257 0.128907 7.78405 0.100653 8.4453L2.09883 8.53068ZM2.41951 6.4835C2.84924 4.98475 3.74398 3.57779 5.70985 3.08827L5.22659 1.14754C2.32451 1.87017 1.04342 4.02647 0.496978 5.93226L2.41951 6.4835ZM5.70985 3.08827C6.72741 2.83489 7.56597 2.93603 8.27085 3.20432L8.9823 1.33514C7.90637 0.925613 6.65116 0.792811 5.22659 1.14754L5.70985 3.08827ZM8.27085 3.20432C8.8059 3.40797 9.29505 3.72049 9.73691 4.09884L11.0377 2.57966C10.4581 2.08336 9.77382 1.63641 8.9823 1.33514L8.27085 3.20432ZM11.1469 3.98966L11.7973 3.23007L10.2781 1.92926L9.62773 2.68884L11.1469 3.98966ZM11.6881 1.82008C11.0397 1.26481 10.2578 0.750636 9.33803 0.400549L8.62658 2.26973C9.28985 2.52219 9.87656 2.90191 10.3873 3.33925L11.6881 1.82008ZM9.33803 0.400549C8.07661 -0.0795745 6.61308 -0.228244 4.98497 0.177167L5.46822 2.1179C6.68927 1.81386 7.73615 1.93081 8.62658 2.26973L9.33803 0.400549ZM4.98497 0.177167C1.61202 1.01705 0.139443 3.55104 -0.464288 5.65664L1.45825 6.20788C1.94665 4.50451 3.03506 2.72378 5.46822 2.1179L4.98497 0.177167ZM-0.464288 5.65664C-0.743693 6.6311 -0.957801 7.62174 -0.991133 8.40184L1.00704 8.48721C1.03022 7.94479 1.1927 7.13402 1.45825 6.20788L-0.464288 5.65664ZM-0.991133 8.40184C-1.00696 8.77216 -0.998064 9.08429 -0.991502 9.28335L1.00741 9.21746C1.00128 9.03149 0.994529 8.7801 1.00704 8.48721L-0.991133 8.40184ZM-0.991502 9.28335C-0.987781 9.39625 -0.97226 9.49857 -0.96441 9.54919C-0.962243 9.56316 -0.960058 9.57682 -0.958527 9.58644C-0.95681 9.59723 -0.955793 9.60371 -0.955037 9.60872C-0.95251 9.6255 -0.956084 9.6058 -0.958186 9.57298L1.03772 9.44514C1.0356 9.41197 1.03241 9.3834 1.02999 9.36384C1.02747 9.34349 1.02478 9.32497 1.02266 9.31084C1.02052 9.29665 1.0183 9.28269 1.01662 9.27211C1.01475 9.26036 1.01336 9.2517 1.01196 9.24268C1.00555 9.20133 1.00687 9.20088 1.00741 9.21746L-0.991502 9.28335ZM-0.958186 9.57298C-0.956174 9.60439 -0.95431 9.6299 -0.952803 9.64917L1.0411 9.49314C1.04031 9.48299 1.03912 9.46687 1.03772 9.44514L-0.958186 9.57298ZM-0.952558 9.65225L-0.951139 9.66969L1.04227 9.5075L1.04086 9.49006L-0.952558 9.65225ZM-0.950705 9.67485L-0.950254 9.68005L1.04229 9.50754L1.04184 9.50234L-0.950705 9.67485ZM-0.950028 9.68263L-0.949876 9.68433L1.04222 9.50667L1.04207 9.50496L-0.950028 9.68263ZM1.03086 9.42119L1.02428 9.38404L-0.945096 9.73266L-0.93852 9.76981L1.03086 9.42119ZM-0.945516 9.73028L-0.938839 9.76854L1.03138 9.42468L1.0247 9.38643L-0.945516 9.73028ZM-0.949555 9.68788L-0.946066 9.72595L1.04559 9.54342L1.0421 9.50534L-0.949555 9.68788ZM0.850287 12.5426L1.82066 12.301L1.3374 10.3603L0.367032 10.6019L0.850287 12.5426ZM2.5494 11.089L2.0762 9.18867L0.135466 9.67192L0.60866 11.5723L2.5494 11.089ZM-0.911065 9.91184L-0.352166 11.8494L1.56949 11.2951L1.01059 9.35753L-0.911065 9.91184ZM0.0396195 10.5584L13.0396 10.558L13.0395 8.55802L0.039569 8.55835L0.0396195 10.5584ZM12.0395 9.55802V18.058H14.0395V9.55802H12.0395ZM11.0395 19.058H2.03953V21.058H11.0395V19.058ZM1.03953 18.058L1.03959 9.55836L-0.960406 9.55834L-0.960471 18.058L1.03953 18.058ZM2.03953 19.058C1.48724 19.058 1.03953 18.6103 1.03953 18.058H-0.960471C-0.960471 19.7149 0.382674 21.058 2.03953 21.058V19.058ZM12.0395 18.058C12.0395 18.6103 11.5918 19.058 11.0395 19.058V21.058C12.6964 21.058 14.0395 19.7149 14.0395 18.058H12.0395Z" fill="#070707" mask="url(#path-1-inside-1_1510_23296)"/>
+    </svg>
+
+                    </p>
+
+        <div class="article__wrapper">
+            <p class="paragraph paragraph--ico">
+                <b> Licencja:</b> CC BY
+
+                    <img class="licence-icon" src="/build/assets/cc-by-633aae44.png" alt=" ikona licencji">
+            </p>
+
+                    </div>
+    </div>
+</div>
+
+                
+                
+                
+                
+    <div class="divider">
+        <div class="container-xs">
+            <p class="paragraph">
+                <b> Udział procentowy autorów</b>:
+            </p>
+
+                                                            
+                <div>
+                    <span> Marek Drwięga  (Autor)</span>
+                    <span> - </span>
+                    <span>100%</span>
+
+                                    </div>
+                                    </div>
+    </div>
+
+                
+                
+                
+                <div class="divider">
+                    <div class="container-xs">
+                        <p class="paragraph">
+                            <b> Korekty artykułu</b>:
+                        </p>
+
+                        -                    </div>
+                </div>
+
+                <div class="divider">
+                    <div class="container-xs">
+                        <p class="paragraph">
+                            <b> Języki publikacji</b>:
+                        </p>
+
+                                                     Polski                                            </div>
+                </div>
+
+                            <script type="text/javascript" src="//cdn.plu.mx/widget-summary.js"></script>
+    
+<div class="divider">
+    <div class="container-xs">
+        <div>
+            <p class="paragraph">
+                <b> Liczba wyświetleń</b>:
+
+                881
+            </p>
+        </div>
+        <div>
+            <p class="paragraph">
+                <b> Liczba pobrań</b>:
+
+                691
+            </p>
+        </div>
+
+                    <a 
+                href="//plu.mx/plum/a/?doi=10.4467/20843887PI.22.001.17312" 
+                class="plumx-summary" 
+                data-site="plum" 
+                data-hide-when-empty="true" 
+                data-theme="liberty"
+                data-hide-logo="true"
+                data-show-if-metrics="true"
+                data-filters-on-plumx="true"
+            >&lt;p&gt;
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki&lt;/p&gt;</a>
+            </div>
+</div>
+                                
+
+                <div class="container-xs">
+                    <a class="file-item" href="/plik-xml-artykulu/018e9e35-8ecf-707a-a78e-9cc1315c2dcd">    <svg width="34" height="42" viewBox="0 0 34 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Pobierz PDF</title>
+        <path d="M6.1875 24.7031H28.4097M6.1875 27.6661H28.4097" stroke="#070707"/>
+        <path d="M20.8165 1H5C2.79086 1 1 2.79086 1 5V37C1 39.2091 2.79086 41 5 41H28.9266C31.1357 41 32.9266 39.2091 32.9266 37V13.1101M20.8165 1L32.9266 13.1101M20.8165 1V9.11009C20.8165 11.3192 22.6074 13.1101 24.8165 13.1101H32.9266" stroke="#070707"/>
+    </svg>
+ Pobierz xml</a>
+                </div>
+
+                
+            </div>
+        </div>
+        <div style="display: none;">
+          
+
+    <div class="swal2-html-container__wrapper" id="article-quote-modal-html">
+        <p>
+            <b><p>
+	Wolność i zło w polityce. Rozważania wokół wojny i totalitaryzmu w myśli Jana Patočki</p></b>
+        </p>
+        <p>
+            <b>cytuj</b>
+        </p>
+        <div class="select-wrapper">
+            <label for="style">styl bibliografii</label>
+
+            <select id="style" data-id="customer-directory-item-citation-choose">
+                <option value="" selected disabled hidden>wybierz</option>
+                <option value="apa" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/apa">apa</option>
+                <option value="mla" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/mla">mla</option>
+                <option value="harvard" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/harvard">harvard</option>
+                <option value="chicago" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/chicago">chicago</option>
+                <option value="turabian" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/turabian">turabian</option>
+                <option value="ieee" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/ieee">ieee</option>
+                <option value="vancouver" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/vancouver">vancouver</option>
+                <option value="abnt" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/abnt">abnt</option>
+                <option value="nature" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/nature">nature</option>
+                <option value="acs" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/acs">acs</option>
+                <option value="cse" data-url="/api-front/pl/journal_articles/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/citation/cse">cse</option>
+            </select>
+        </div>
+
+        <p class="swal2-html-container__text" data-id="customer-directory-item-current-citation"></p>
+
+        <div class="swal2-html-container__actions">
+            <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/txt" data-url-template="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/:TYPE/pobierz/txt" class="link" data-id="customer-directory-item-citation-download-btn">
+                    <svg width="34" height="42" viewBox="0 0 34 42" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title>Pobierz PDF</title>
+        <path d="M6.1875 24.7031H28.4097M6.1875 27.6661H28.4097" stroke="#070707"/>
+        <path d="M20.8165 1H5C2.79086 1 1 2.79086 1 5V37C1 39.2091 2.79086 41 5 41H28.9266C31.1357 41 32.9266 39.2091 32.9266 37V13.1101M20.8165 1L32.9266 13.1101M20.8165 1V9.11009C20.8165 11.3192 22.6074 13.1101 24.8165 13.1101H32.9266" stroke="#070707"/>
+    </svg>
+
+                Pobierz
+            </a>
+            <button class="link" data-id="customer-directory-item-citation-copy-btn">
+                    <svg width="20" height="23" viewBox="0 0 20 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <title> __T_COPY</title>
+        <path d="M10.8619 0.499939H1.36914V19.6612H4.36914M10.8619 0.499939L16.663 6.30106M10.8619 0.499939V3.4005" stroke="black"/>
+        <path d="M13.6998 3.33881H4.20703V22.5001H19.5009V9.13993M13.6998 3.33881L19.5009 9.13993M13.6998 3.33881V9.13993H19.5009" stroke="black"/>
+    </svg>
+
+                Kopiuj
+            </button>
+        </div>
+
+        <p><b>pobierz pliki</b></p>
+        <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/ris" download class="link">
+            RIS
+        </a>
+        <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/bib" download class="link">
+            BIB
+        </a>
+        <a href="/artykuly_czasopisma/018e9e35-8ecf-707a-a78e-9cc1315c2dcd/cytowanie/apa/pobierz/enw" download class="link">
+            ENDNOTE
+        </a>
+    </div>
+
+        </div>
+
+         <template id="customer-directory-item-quote-modal-template">
+            <swal-html></swal-html>
+            <swal-button type="confirm">
+                Zamknij
+            </swal-button>
+            <swal-param
+                name="customClass"
+                value='{ "popup": "custom-2" }'
+            />
+            <swal-param
+                name="showCloseButton"
+                value='true'
+            />
+        </template>
+    </div>
+
+
+            
+<footer class="footer footer--journal">
+    <div class="container footer-grid-journal text-block">
+                    <div class="text-block__content">
+                <h5 class="footer-grid-journal__header">
+                    Principia. Pisma koncepcyjne z filozofii i socjologii teoretycznej
+                </h5>
+                <div>ISSN 0867-5392<br />e-ISSN 2084-3887</div>
+            </div>
+        
+                    <div class="text-block__content">
+                <h5 class="footer-grid-journal__header">
+                    Adres Redakcji
+                </h5>
+                <div>Instytut Filozofii UJ</div>
+<div>ul. Grodzka 52</div>
+<div>31-044 Kraków<br /><br />e-mail: <a title="Email do Redakcji" href="mailto:principia@uj.edu.pl">principia@uj.edu.pl</a> <br /><br /></div>
+            </div>
+        
+        
+            </div>
+
+    <div class="subfooter-wrapper">
+        <div class="container subfooter subfooter--journal text-block">
+                            <img src="/build/assets/logo-3ac1decb.svg" alt="">
+            
+            
+                                                                <nav class="subfooter__nav">
+                                                                                            
+                                                                                    <a  href="https://ejournals.eu/zglos-blad">
+                                    Zgłoś błąd na stronie
+                                </a>
+                                                                                                                                                
+                                                                                    <a  href="/polityka-prywatnosci">Polityka prywatności</a>
+                                                                                                                                                
+                                                                                    <a  href="/cookies">Polityka cookies</a>
+                                                                                                                                                
+                                                                                    <a  href="/deklaracja-dostepnosci">Deklaracja dostępności</a>
+                                                                                                                                                
+                                                                                    <a  href="/regulamin-strefy-klienta">Regulamin</a>
+                                                                                            </nav>
+                                    </div>
+
+        <div class="container subfooter subfooter--journal text-block">
+            <span class="subfooter__copy">© Copyright by Wydawnictwo Uniwersytetu Jagiellońskiego</span>
+            <span class="subfooter__link">created by <a href="https://openform.pl/">OPENFORM</a></span>
+        </div>
+    </div>
+</footer>
+
+            <script>
+        const API_CUSTOMER_RESET_PASSWORD_LINK_URL = '/api/customers/reset_password/link';
+
+        const TRANSLATIONS = {
+            LIGHTBOX_NEXT_BTN: ' __Poprzedni',
+            LIGHTBOX_PREV_BTN: ' __Następny',
+            LIGHTBOX_CLOSE_BTN: ' __Zamknij pop-up',
+            HIDE: ' Ukryj',
+            SHOW: ' Pokaż',
+            RESET_PASSWORD_LINK_SUCCESS: 'Wysłaliśmy na Twój adres e-mail link do resetu hasła',
+        }
+    </script>
+
+        <script type="module" src="/build/assets/scripts-d2edd7c3.js"></script>
+
+                    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TDTZPV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+            </body>
+</html>

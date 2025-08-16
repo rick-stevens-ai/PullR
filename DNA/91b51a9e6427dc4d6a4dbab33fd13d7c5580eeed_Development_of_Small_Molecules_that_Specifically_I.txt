@@ -1,0 +1,9 @@
+Title: Development of Small Molecules that Specifically Inhibit the D-loop Activity of RAD51.
+Authors: Wei-Ke Lv, B. Budke, Michał Pawłowski, P. Connell, A. Kozikowski
+Year: 2016
+Paper ID: 91b51a9e6427dc4d6a4dbab33fd13d7c5580eeed
+URL: https://www.semanticscholar.org/paper/91b51a9e6427dc4d6a4dbab33fd13d7c5580eeed
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+RAD51 is the central protein in homologous recombination (HR) DNA repair and represents a therapeutic target in oncology. Herein we report a novel class of RAD51 inhibitors that were identified by high throughput screening. In contrast to many previously reported RAD51 inhibitors, our lead compound 1 is capable of blocking RAD51-mediated D-loop formation (IC50 21.3 ± 7.8 μM) at concentrations that do not influence RAD51 binding to ssDNA. In human cells, 1 inhibits HR (IC50 13.1 ± 1.6 μM) without blocking RAD51's ability to assemble into subnuclear foci at sites of DNA damage. We determined that the active constituent of 1 is actually an oxidized derivative (termed RI(dl)-1 or 8) of the original screening compound. Our SAR campaign also yielded RI(dl)-2 (hereafter termed 9h), which effectively blocks RAD51's D-loop activity in biochemical systems (IC50 11.1 ± 1.3 μM) and inhibits HR activity in human cells (IC50 3.0 ± 1.8 μM).

@@ -1,0 +1,9 @@
+Title: Interpretation by physicians of clinical laboratory results.
+Authors: W. Casscells, A. Schoenberger, T. Graboys
+Year: 1978
+Paper ID: 981dedb0a4e4f72fb6b531badd3f782c6a5156b7
+URL: https://www.semanticscholar.org/paper/981dedb0a4e4f72fb6b531badd3f782c6a5156b7
+Venue: New England Journal of Medicine
+
+Abstract:
+AS both the number and cost of clinical laboratory tests continue to increase at an accelerating rate,1 physicians are faced with the task of comprehending and acting on a rising flood tide of information. We conducted a small survey to obtain some idea of how physicians do, in fact, interpret a laboratory result. Methods We asked 20 house officers, 20 fourth-year medical students and 20 attending physicians, selected in 67 consecutive hallway encounters at four Harvard Medical School teaching hospitals, the following question: "If a test to detect a disease whose prevalence is 1/1000 has a false positive rate of . . .

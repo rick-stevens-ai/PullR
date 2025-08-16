@@ -1,0 +1,9 @@
+Title: Non-contact Massively Parallel Manipulation of Micro-objects by Optoelectronic Tweezers*
+Authors: Chunyuan Gan, Shuzhang Liang, Fenghui Wang, Yuqing Cao, Yiming Ji et al. (and 3 more)
+Year: 2021
+Paper ID: fd238cd281c81f6b3c4daa9b9f8f45546f9bf805
+URL: https://www.semanticscholar.org/paper/fd238cd281c81f6b3c4daa9b9f8f45546f9bf805
+Venue: 2021 WRC Symposium on Advanced Robotics and Automation (WRC SARA)
+
+Abstract:
+Optoelectronic tweezers (OET) system is a novel platform, by changing the projection pattern it can achieve the real-time precise control of the micro-objects. Due to its outstanding biocompatibility to cells and other biological materials, such as no damage, less heat generation, no contact and other characteristics, it has attracted wide attention in the field of micro-nano robots and micro-operation. Here we present a low power, high precision operation control method which can achieve a large operating range. Firstly, the properties of dielectrophoresis (DEP) force were calculated by using polarization theory and Maxwell stress tensor (MST) method, and the precise control of the single particle of polystyrene beads was completed by transforming and upgrading the projection light path and observation light path and using visual feedback control method. In addition, a custom-designed pattern scheme was used to achieve the rapid aggregation of polystyrene beads in a short time according to the image model and the classification of different particle sizes. This study provides a very effective technical method for precise single particle operation and large-scale parallel operation at micro-nano scale.

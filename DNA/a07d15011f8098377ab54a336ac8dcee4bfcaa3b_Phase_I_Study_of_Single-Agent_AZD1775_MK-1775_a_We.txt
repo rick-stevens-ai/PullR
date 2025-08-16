@@ -1,0 +1,22 @@
+Title: Phase I Study of Single-Agent AZD1775 (MK-1775), a Wee1 Kinase Inhibitor, in Patients With Refractory Solid Tumors.
+Authors: K. Do, D. Wilsker, J. Ji, Jennifer Zlott, T. Freshwater et al. (and 5 more)
+Year: 2015
+Paper ID: a07d15011f8098377ab54a336ac8dcee4bfcaa3b
+URL: https://www.semanticscholar.org/paper/a07d15011f8098377ab54a336ac8dcee4bfcaa3b
+Venue: Journal of Clinical Oncology
+
+Abstract:
+PURPOSE
+Wee1 tyrosine kinase phosphorylates and inactivates cyclin-dependent kinase (Cdk) 1/2 in response to DNA damage. AZD1775 is a first-in-class inhibitor of Wee1 kinase with single-agent antitumor activity in preclinical models. We conducted a phase I study of single-agent AZD1775 in adult patients with refractory solid tumors to determine its maximum-tolerated dose (MTD), pharmacokinetics, and modulation of phosphorylated Tyr15-Cdk (pY15-Cdk) and phosphorylated histone H2AX (γH2AX) levels in paired tumor biopsies.
+
+
+PATIENTS AND METHODS
+AZD1775 was administered orally twice per day over 2.5 days per week for up to 2 weeks per 21-day cycle (3 + 3 design). At the MTD, paired tumor biopsies were obtained at baseline and after the fifth dose to determine pY15-Cdk and γH2AX levels. Six patients with BRCA-mutant solid tumors were also enrolled at the MTD.
+
+
+RESULTS
+Twenty-five patients were enrolled. The MTD was established as 225 mg twice per day orally over 2.5 days per week for 2 weeks per 21-day cycle. Confirmed partial responses were observed in two patients carrying BRCA mutations: one with head and neck cancer and one with ovarian cancer. Common toxicities were myelosuppression and diarrhea. Dose-limiting toxicities were supraventricular tachyarrhythmia and myelosuppression. Accumulation of drug (t1/2 approximately 11 hours) was observed. Reduction in pY15-Cdk levels (two of five paired biopsies) and increases in γH2AX levels (three of five paired biopsies) were demonstrated.
+
+
+CONCLUSION
+This is the first report of AZD1775 single-agent activity in patients carrying BRCA mutations. Proof-of-mechanism was demonstrated by target modulation and DNA damage response in paired tumor biopsies.

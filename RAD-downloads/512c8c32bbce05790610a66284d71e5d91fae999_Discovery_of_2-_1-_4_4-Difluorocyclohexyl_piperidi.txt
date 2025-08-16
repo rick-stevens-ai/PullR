@@ -1,0 +1,9 @@
+Title: Discovery of 2-[1-(4,4-Difluorocyclohexyl)piperidin-4-yl]-6-fluoro-3-oxo-2,3-dihydro-1H-isoindole-4-carboxamide (NMS-P118): A Potent, Orally Available, and Highly Selective PARP-1 Inhibitor for Cancer Therapy.
+Authors: G. Papeo, Helena Posteri, D. Borghi, A. A. Busel, F. Caprera et al. (and 24 more)
+Year: 2015
+Paper ID: 512c8c32bbce05790610a66284d71e5d91fae999
+URL: https://www.semanticscholar.org/paper/512c8c32bbce05790610a66284d71e5d91fae999
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+The nuclear protein poly(ADP-ribose) polymerase-1 (PARP-1) has a well-established role in the signaling and repair of DNA and is a prominent target in oncology, as testified by the number of candidates in clinical testing that unselectively target both PARP-1 and its closest isoform PARP-2. The goal of our program was to find a PARP-1 selective inhibitor that would potentially mitigate toxicities arising from cross-inhibition of PARP-2. Thus, an HTS campaign on the proprietary Nerviano Medical Sciences (NMS) chemical collection, followed by SAR optimization, allowed us to discover 2-[1-(4,4-difluorocyclohexyl)piperidin-4-yl]-6-fluoro-3-oxo-2,3-dihydro-1H-isoindole-4-carboxamide (NMS-P118, 20by). NMS-P118 proved to be a potent, orally available, and highly selective PARP-1 inhibitor endowed with excellent ADME and pharmacokinetic profiles and high efficacy in vivo both as a single agent and in combination with Temozolomide in MDA-MB-436 and Capan-1 xenograft models, respectively. Cocrystal structures of 20by with both PARP-1 and PARP-2 catalytic domain proteins allowed rationalization of the observed selectivity.

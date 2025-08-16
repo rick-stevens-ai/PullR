@@ -1,0 +1,10 @@
+Title: NRF2 Promotes Radiation Resistance in Lung Cancer by Cooperating with TOPBP1 to Activate the ATR-CHK1 Signaling Pathway
+Authors: Unknown
+Year: N/A
+Paper ID: web_49231
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10758056/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Radiation resistance remains a major obstacle in the effective application of radiotherapy for cancer treatment. Ionizing radiation (IR) primarily exerts its cytotoxic effects by inducing DNA damage, particularly double-strand breaks (DSBs). However, radioresistant cancer cells have developed enhanced DNA damage repair mechanisms that enable their survival following IR exposure. Nuclear factor erythroid 2-related factor 2 (NRF2) has been implicated in radiation resistance, but the precise mechanisms by which NRF2 regulates DNA repair and contributes to this phenotype are not fully understood. In this study, analysis of The Cancer Genome Atlas (TCGA) database and clinical lung cancer tissue samples revealed that high NRF2 expression correlates with poor prognosis in lung cancer patients. Radioresistant lung cancer cell lines with elevated NRF2 expression demonstrated increased antioxidant capacity and enhanced DNA repair ability. Importantly, NRF2 was found to participate in the DNA damage response independently of its antioxidant function. Mechanistically, NRF2 promoted the phosphorylation of replication protein A 32 (RPA32) and facilitated the recruitment of DNA topoisomerase 2-binding protein 1 (TOPBP1) to DSB sites in an NRF2-dependent manner, thereby activating the ATR-CHK1 signaling pathway. These findings provide novel insights into the molecular mechanisms underlying radiation resistance in lung cancer cells and identify NRF2 as a potential therapeutic target to improve the efficacy of radiotherapy.

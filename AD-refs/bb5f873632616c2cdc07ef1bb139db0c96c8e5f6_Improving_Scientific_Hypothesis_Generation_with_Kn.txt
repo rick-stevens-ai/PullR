@@ -1,0 +1,9 @@
+Title: Improving Scientific Hypothesis Generation with Knowledge Grounded Large Language Models
+Authors: Guangzhi Xiong, Eric Xie, Amir Hassan Shariatmadari, Sikun Guo, Stefan Bekiranov et al. (and 1 more)
+Year: 2024
+Paper ID: bb5f873632616c2cdc07ef1bb139db0c96c8e5f6
+URL: https://www.semanticscholar.org/paper/bb5f873632616c2cdc07ef1bb139db0c96c8e5f6
+Venue: arXiv.org
+
+Abstract:
+Large language models (LLMs) have demonstrated remarkable capabilities in various scientific domains, from natural language processing to complex problem-solving tasks. Their ability to understand and generate human-like text has opened up new possibilities for advancing scientific research, enabling tasks such as data analysis, literature review, and even experimental design. One of the most promising applications of LLMs in this context is hypothesis generation, where they can identify novel research directions by analyzing existing knowledge. However, despite their potential, LLMs are prone to generating ``hallucinations'', outputs that are plausible-sounding but factually incorrect. Such a problem presents significant challenges in scientific fields that demand rigorous accuracy and verifiability, potentially leading to erroneous or misleading conclusions. To overcome these challenges, we propose KG-CoI (Knowledge Grounded Chain of Ideas), a novel system that enhances LLM hypothesis generation by integrating external, structured knowledge from knowledge graphs (KGs). KG-CoI guides LLMs through a structured reasoning process, organizing their output as a chain of ideas (CoI), and includes a KG-supported module for the detection of hallucinations. With experiments on our newly constructed hypothesis generation dataset, we demonstrate that KG-CoI not only improves the accuracy of LLM-generated hypotheses but also reduces the hallucination in their reasoning chains, highlighting its effectiveness in advancing real-world scientific research.

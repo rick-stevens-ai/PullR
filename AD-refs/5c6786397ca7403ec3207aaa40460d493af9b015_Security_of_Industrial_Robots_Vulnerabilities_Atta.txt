@@ -1,0 +1,9 @@
+Title: Security of Industrial Robots: Vulnerabilities, Attacks, and Mitigations
+Authors: Hongyi Pu, Liang He, Peng Cheng, Mingyang Sun, Jiming Chen
+Year: 2023
+Paper ID: 5c6786397ca7403ec3207aaa40460d493af9b015
+URL: https://www.semanticscholar.org/paper/5c6786397ca7403ec3207aaa40460d493af9b015
+Venue: IEEE Network
+
+Abstract:
+Industrial robots are prototypical cyber-physical systems that are widely deployed in smart and automated manufacturing systems. Industrial robots perform physical operations (picking-and-placing) based on their interactions with other devices in manufacturing systems via the manufacturing network. However, the networking of industrial robots also magnifies their risks to cyber attacks that endanger the physical world, for example, damaging manufacturing devices, degrading production quality/efficiency, or even hurting human operators. To protect industrial robots, a variety of security solutions have been proposed based on the robot's physical model, operation data, side channel information, and so on. In this article, we first summarize the literature of industrial robot security from perspectives of vulnerabilities, attacks, and existing security solutions. We also analyze the main challenges and difficulties hindering the development of robot security, including the lack of security awareness, lack of testbeds, the usually proprietary robot firmware/protocols, and limited on-board computing resources. Moreover, in order to facilitate the security research of industrial robots, we provide a dataset containing both normal and abnormal operation data of robots.

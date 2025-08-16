@@ -1,0 +1,9 @@
+Title: Priorities to accelerate workflow automation in health care
+Authors: Teresa Zayas-Cabán, Tracy H. Okubo, Steven Posnack
+Year: 2022
+Paper ID: 20ca4d51ee38d3a69ac658e46256d8d7519cefd1
+URL: https://www.semanticscholar.org/paper/20ca4d51ee38d3a69ac658e46256d8d7519cefd1
+Venue: J. Am. Medical Informatics Assoc.
+
+Abstract:
+Inefficient workflows affect many health care stakeholders including patients, caregivers, clinicians, and staff. Widespread health information technology adoption and modern computing provide opportunities for more efficient health care workflows through automation. The Office of the National Coordinator for Health Information Technology (ONC) led a multidisciplinary effort with stakeholders across health care and experts in industrial engineering, computer science, and finance to explore opportunities for automation in health care. The effort included semistructured key informant interviews, a review of relevant literature, and a workshop to understand automation lessons across nonhealth care industries that could be applied to health care. In this article, we describe considerations for advancing workflow automation in health care that were identified through these activities. We also discuss a set of six priorities and related strategies developed through the ONC-led effort and highlight the role the informatics and research communities have in advancing each priority and the strategies.

@@ -1,0 +1,12 @@
+Title: Management of experimental workflows in robotic cultivation platforms.
+Authors: L. Kaspersetz, Britta Englert, Fabian Krah, E. C. Martinez, P. Neubauer et al. (and 1 more)
+Year: 2024
+Paper ID: 89d2f89f7d968d5e8ed82f4e29fe5a04450b5dbf
+URL: https://www.semanticscholar.org/paper/89d2f89f7d968d5e8ed82f4e29fe5a04450b5dbf
+Venue: SLAS technology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/89d2f89f7d968d5e8ed82f4e29fe5a04450b5dbf

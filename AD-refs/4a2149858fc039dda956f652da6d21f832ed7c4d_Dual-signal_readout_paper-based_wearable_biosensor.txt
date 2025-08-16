@@ -1,0 +1,9 @@
+Title: Dual-signal readout paper-based wearable biosensor with a 3D origami structure for multiplexed analyte detection in sweat
+Authors: Yuemeng Cheng, S. Feng, Qihong Ning, Tangan Li, Hao Xu et al. (and 3 more)
+Year: 2023
+Paper ID: 4a2149858fc039dda956f652da6d21f832ed7c4d
+URL: https://www.semanticscholar.org/paper/4a2149858fc039dda956f652da6d21f832ed7c4d
+Venue: Microsystems & Nanoengineering
+
+Abstract:
+In this research, we design and implement a small, convenient, and noninvasive paper-based microfluidic sweat sensor that can simultaneously detect multiple key biomarkers in human sweat. The origami structure of the chip includes colorimetric and electrochemical sensing regions. Different colorimetric sensing regions are modified with specific chromogenic reagents to selectively identify glucose, lactate, uric acid, and magnesium ions in sweat, as well as the pH value. The regions of electrochemical sensing detect cortisol in sweat by molecular imprinting. The entire chip is composed of hydrophilically and hydrophobically treated filter paper, and 3D microfluidic channels are constructed by using folding paper. The thread-based channels formed after the hydrophilic and hydrophobic modifications are used to control the rate of sweat flow, which in turn can be used to control the sequence of reactions in the differently developing colored regions to ensure that signals of the best color can be captured simultaneously by the colorimetric sensing regions. Finally, the results of on-body experiments verify the reliability of the proposed sweat sensor and its potential for the noninvasive identification of a variety of sweat biomarkers.

@@ -1,0 +1,9 @@
+Title: Towards Robotic Laboratory Automation Plug & Play: Teaching-free Robot Integration with the LAPP Digital Twin
+Authors: Ádám Wolf, S. Romeder-Finger, K. Széll, P. Galambos
+Year: 2022
+Paper ID: 3ab5a3ec23c714feadd8c31fc3bdb670641a47b1
+URL: https://www.semanticscholar.org/paper/3ab5a3ec23c714feadd8c31fc3bdb670641a47b1
+Venue: arXiv.org
+
+Abstract:
+The Laboratory Automation Plug & Play (LAPP) framework is a high-level abstraction layer that makes the autonomous operation of life science laboratory robots possible. The plug & play nature lies in the fact that the manual teaching and conﬁguration of robots is not required. A digital twin (DT) based concept is proposed that outlines the types of information that has to be provided for each relevant component of the system. In particular, for the devices that the robot interfaces with, the robot positions have to be deﬁned beforehand in a device-attached coordinate system (CS) by the vendor. This CS has to be detectable by the vision system of the robot by means of optical markers placed on the front side of the device. With that, the robot is capable of tending the machine by performing the pick-and-place type transportation of standard sample carriers. This basic use case is the primary scope of the LAPP-DT framework. The hardware scope is limited to simple benchtop and mobile manipulators with parallel grippers at this stage. This paper ﬁrst provides an overview of relevant literature and state-of-the-art solutions, after which it outlines the framework on the conceptual level, followed by the speciﬁcation of the relevant DT parameters for the robot, for the devices and for the facility. Finally, appropriate technologies and strategies are identiﬁed for the implementation.

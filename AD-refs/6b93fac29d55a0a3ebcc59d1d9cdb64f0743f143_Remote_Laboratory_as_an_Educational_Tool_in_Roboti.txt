@@ -1,0 +1,9 @@
+Title: Remote Laboratory as an Educational Tool in Robotics Experimental Course
+Authors: D. Pang, S. Cui, Genghuang Yang
+Year: 2022
+Paper ID: 6b93fac29d55a0a3ebcc59d1d9cdb64f0743f143
+URL: https://www.semanticscholar.org/paper/6b93fac29d55a0a3ebcc59d1d9cdb64f0743f143
+Venue: International Journal of Emerging Technologies in Learning (iJET)
+
+Abstract:
+A remote lab is a technology that allows participants to efficiently conduct experimental teaching where users can connect to lab equipment from anywhere without being in a specific physical location. The COVID-19 pandemic affects all areas of human activity. ​As a result, students did not receive face-to-face instruction, and access to the laboratory was limited or practically impossible, and access to laboratory facilities has been limited or nearly impossible. Especially in engineering education, students’ practical abilities cannot be developed comprehensively. In this paper, this paper built an online remote robotics experiment system using digital twin (DT) technology and IoT technology and adopted ADDIE (Analysis, Design, Development, Implementation, and Evaluation) teaching method. With these measures, students can design and debug robot programs at home, just like in the laboratory. This study sent questionnaires to 64 students, and 58 were returned. The results show that more than 80% of students believe that the remote labs for industrial robotics courses have improved the efficiency and quality of students' skills training as opposed to virtual simulation and watching videos on the computer.

@@ -1,0 +1,828 @@
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html
+      xmlns="http://www.w3.org/1999/xhtml"
+      xml:lang="en"
+      lang="en">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+      <title>Methylation of histone H3 lysine 36 is a barrier for therapeutic interventions of head and neck squamous cell carcinoma </title>
+      <meta name="googlebot" content="NOODP" />
+      <meta name="description"
+            content="A biweekly scientific journal publishing high-quality research in molecular biology and genetics, cancer biology, biochemistry, and related fields" />
+      <meta content="/genesdev/38/1-2/46.atom" name="HW.identifier" />
+      <meta name="DC.Format" content="text/html" />
+      <meta name="DC.Language" content="en" />
+      <meta content="Methylation of histone H3 lysine 36 is a barrier for therapeutic interventions of head and neck squamous cell carcinoma"
+            name="DC.Title" />
+      <meta content="10.1101/gad.351408.123" name="DC.Identifier" />
+      <meta content="2024-01-01" name="DC.Date" />
+      <meta content="Cold Spring Harbor Laboratory Press" name="DC.Publisher" />
+      <meta content="Lucas D. Caeiro" name="DC.Contributor" />
+      <meta content="Yuichiro Nakata" name="DC.Contributor" />
+      <meta content="Rodrigo L. Borges" name="DC.Contributor" />
+      <meta content="Mengsheng Zha" name="DC.Contributor" />
+      <meta content="Liliana Garcia-Martinez" name="DC.Contributor" />
+      <meta content="Carolina P. Bañuelos" name="DC.Contributor" />
+      <meta content="Stephanie Stransky" name="DC.Contributor" />
+      <meta content="Tong Liu" name="DC.Contributor" />
+      <meta content="Ho Lam Chan" name="DC.Contributor" />
+      <meta content="John Brabson" name="DC.Contributor" />
+      <meta content="Diana Domínguez" name="DC.Contributor" />
+      <meta content="Yusheng Zhang" name="DC.Contributor" />
+      <meta content="Peter W. Lewis" name="DC.Contributor" />
+      <meta content="Salvador Aznar Benitah" name="DC.Contributor" />
+      <meta content="Luisa Cimmino" name="DC.Contributor" />
+      <meta content="Daniel Bilbao" name="DC.Contributor" />
+      <meta content="Simone Sidoli" name="DC.Contributor" />
+      <meta content="Zheng Wang" name="DC.Contributor" />
+      <meta content="Ramiro E. Verdun" name="DC.Contributor" />
+      <meta content="Lluis Morey" name="DC.Contributor" />
+      <meta content="Genes &amp; Development" name="citation_journal_title" />
+      <meta content="Genes Dev." name="citation_journal_abbrev" />
+      <meta content="Cold Spring Harbor Lab" name="citation_publisher" />
+      <meta content="0890-9369" name="citation_issn" />
+      <meta content="1549-5477" name="citation_issn" />
+      <meta name="citation_author" content="Lucas D. Caeiro" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="2Division of Hematology, Department of Medicine, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Yuichiro Nakata" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Rodrigo L. Borges" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Mengsheng Zha" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Liliana Garcia-Martinez" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Carolina P. Bañuelos" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="2Division of Hematology, Department of Medicine, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Stephanie Stransky" />
+      <meta name="citation_author_institution"
+            content="4Department of Biochemistry, Albert Einstein College of Medicine, Bronx, New York 10461, USA;" />
+      <meta name="citation_author" content="Tong Liu" />
+      <meta name="citation_author_institution"
+            content="5Department of Computer Science, University of Miami, Coral Gables, Florida 33124, USA;" />
+      <meta name="citation_author" content="Ho Lam Chan" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="John Brabson" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="6Department of Biochemistry and Molecular Biology, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Diana Domínguez" />
+      <meta name="citation_author_institution"
+            content="7Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute of Science and Technology (BIST), Barcelona 08028, Spain;" />
+      <meta name="citation_author" content="Yusheng Zhang" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Peter W. Lewis" />
+      <meta name="citation_author_orcid" content="0000-0002-9816-7823" />
+      <meta name="citation_author_institution"
+            content="8Department of Biomolecular Chemistry, School of Medicine and Public Health, University of Wisconsin, Madison, Wisconsin 53706, USA;" />
+      <meta name="citation_author" content="Salvador Aznar Benitah" />
+      <meta name="citation_author_institution"
+            content="7Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute of Science and Technology (BIST), Barcelona 08028, Spain;" />
+      <meta name="citation_author_institution"
+            content="9Institució Catalana de Recerca i Estudis Avançats, Barcelona 08010, Spain;" />
+      <meta name="citation_author" content="Luisa Cimmino" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="6Department of Biochemistry and Molecular Biology, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Daniel Bilbao" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author" content="Simone Sidoli" />
+      <meta name="citation_author_institution"
+            content="4Department of Biochemistry, Albert Einstein College of Medicine, Bronx, New York 10461, USA;" />
+      <meta name="citation_author" content="Zheng Wang" />
+      <meta name="citation_author_institution"
+            content="5Department of Computer Science, University of Miami, Coral Gables, Florida 33124, USA;" />
+      <meta name="citation_author" content="Ramiro E. Verdun" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="2Division of Hematology, Department of Medicine, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="10Geriatric Research, Education, and Clinical Center, Miami Veterans Affairs Healthcare System, Miami, Florida 33125, USA" />
+      <meta name="citation_author" content="Lluis Morey" />
+      <meta name="citation_author_orcid" content="0000-0001-9851-4066" />
+      <meta name="citation_author_institution"
+            content="1Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;" />
+      <meta name="citation_author_institution"
+            content="3Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;" />
+      <meta content="Methylation of histone H3 lysine 36 is a barrier for therapeutic interventions of head and neck squamous cell carcinoma"
+            name="citation_title" />
+      <meta content="01/01/2024" name="citation_date" />
+      <meta content="38" name="citation_volume" />
+      <meta content="1-2" name="citation_issue" />
+      <meta content="46" name="citation_firstpage" />
+      <meta content="69" name="citation_lastpage" />
+      <meta content="38/1-2/46" name="citation_id" />
+      <meta content="38/1-2/46" name="citation_id_from_sass_path" />
+      <meta content="genesdev;38/1-2/46" name="citation_mjid" />
+      <meta content="10.1101/gad.351408.123" name="citation_doi" />
+      <meta content="http://genesdev.cshlp.org/content/38/1-2/46.abstract"
+            name="citation_abstract_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/38/1-2/46.full"
+            name="citation_fulltext_html_url" />
+      <meta content="http://genesdev.cshlp.org/content/38/1-2/46.full.pdf"
+            name="citation_pdf_url" />
+      <meta content="/content/38/1-2.cover.gif" name="issue_cover_image" />
+      <meta content="http://genesdev.cshlp.org/content/38/1-2/46"
+            name="citation_public_url" />
+      <meta content="38286657" name="citation_pmid" />
+      <meta name="citation_section" content="RESEARCH PAPER" />
+      <meta name="robots" content="noarchive" />
+      <link href="/content/38/1-2/31.short" rel="prev" />
+      <link href="/content/38/1-2/70.short" rel="next" />
+      <link rel="stylesheet" type="text/css" media="all" href="/shared/css/hw-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/standard-designs/design2/main.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/local/css/hw-journal-global.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-citation-2.0-hacks.css" />
+      <link rel="stylesheet" type="text/css" media="print" href="/shared/css/hw-print.css" />
+      <link rel="stylesheet" type="text/css" media="print"
+            href="/publisher/css/hw-cshljnls-print.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/shared/css/hw-page-content.css" />
+      <link rel="stylesheet" type="text/css" media="all"
+            href="/publisher/css/hw-cshljnls-page-content.css" /><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5VXGQJCX');</script><link rel="stylesheet" type="text/css" media="all"
+            href="/site/misc/custom-global.css" /><script type="text/javascript" id="session-d-1914149513e1">var callbackToken='5067D403A258092';</script><script type="text/javascript" src="/shared/js/jquery-min.js"></script><script type="text/javascript" src="/shared/js/fingerprint.js"></script><script type="text/javascript" src="/shared/js/hw-shared.js"></script><script type="text/javascript" src="/shared/js/design/hw-design1.js"></script><script type="text/javascript" src="/publisher/js/cshl-shared.js"></script><script type="text/javascript" src="/shared/js/pages/hw-content.js"></script><script type="text/javascript" src="/publisher/js/cshl-content.js"></script><script type="text/javascript" async="async"
+              src="https://scholar.google.com/scholar_js/casa.js"></script><script type="text/javascript" src="/site/misc/csh-library.js"></script><script type="text/javascript" src="/site/misc/custom-global.js"></script></head>
+   <body>
+      <div class="hw-gen-page pagetype-content" id="pageid-content" itemscope="itemscope"
+           itemtype="http://schema.org/ScholarlyArticle">
+         <div id="header">
+            
+            <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5VXGQJCX" height="0"
+                       width="0"
+                       style="display:none;visibility:hidden"></iframe></noscript><a href="http://www.cshlpress.com" rel="external-nw"><img src="/local/img/society_logo.gif" width="74" height="83" alt="Publisher Logo"
+                    id="main-logo" /></a><a href="/"><img title="Genes &amp; Development" alt="Genes &amp; Development" width="313" height="83"
+                    src="/local/img/journal_logo_standalone.gif" /></a>
+            
+            <p id="skip-link">
+               <a href="#content-block">Skip to main page content</a>
+               
+            </p>
+            
+            <ul class="button-list header-buttons">
+               <li class="first"><a href="/" title="HOME"><span>HOME</span></a></li>
+               <li><a href="/site/misc/about.xhtml" title="ABOUT"><span>ABOUT</span></a></li>
+               <li><a href="http://submit.genesdev.org/" rel="external-nw" title="SUBMIT"><span>SUBMIT</span></a></li>
+               <li><a href="/site/subscriptions/" title="SUBSCRIBE"><span>SUBSCRIBE</span></a></li>
+               <li><a href="/site/misc/adinfo.xhtml" title="ADVERTISE"><span>ADVERTISE</span></a></li>
+               <li><a href="/site/misc/ifora.xhtml" title="AUTHOR INFO"><span>AUTHOR INFO</span></a></li>
+               <li><a href="/content/by/year" title="ARCHIVE"><span>ARCHIVE</span></a></li>
+               <li><a href="/feedback" title="CONTACT"><span>CONTACT</span></a></li>
+               <li class="last"><a href="/help/" title="HELP"><span>HELP</span></a></li>
+            </ul>
+            
+            
+            <div class="header-qs">
+               
+               <form class="searchbox" action="/search" method="get">
+                  <div>
+                     	<label for="header-qs-input" id="header-qs-search-label">Search for Keyword:</label>
+                     	<input value="" title="Search Genes &amp; Development" type="text" name="fulltext"
+                            id="header-qs-input" /><input type="hidden" name="submit" value="yes" /><label for="header-qs-search" id="header-qs-search-label">GO</label><input value="GO" alt="Link: Go" type="image" id="header-qs-search-go"
+                            src="/shared/img/standard-design/design2/go.gif" />
+                     
+                  </div>
+                  <div class="adv-search-link"><a href="/search">Advanced Search</a></div>
+               </form>
+               
+               
+            </div>
+            
+            <div class="header-ac-elements">
+               
+               <div class="inst-branding">
+                  
+               </div>
+               
+               <div id="authstring" class="suppress-header-login">
+                  
+                  
+               </div> 
+               
+               
+               <div id="hdr-login" class="suppress-header-login"></div>
+               
+            </div>
+            
+            <div class="banner-ads">
+               
+               <ul>
+                  <li><a href="/cgi/adclick/?ad=57960&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fprofessionals%2Fmeetings%2Fmeetings-and-workshops-calendar%2F%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_campaign%3Dupcomingconf25"
+                        target="_blank"><img class="adborder0" title="AACR Annual Meeting"
+                             src="//genesdev.cshlp.org/adsystem/graphics/6950995319792491/genesdev/2501044D_MCS_25_26Upcom_SpecConf_CSHL_468x60_012.jpg?ad=57960&amp;adview=true"
+                             alt="AACR Annual Meeting" /></a></li>
+               </ul>
+               
+            </div>
+            
+            <div class="bar">
+               
+               <div class="bar-inner"></div>
+               
+            </div>
+            
+         </div>
+         <div id="content-block">
+            <div class="article abstract-view " itemprop="articleBody"><span class="highwire-journal-article-marker-start"></span><h1 id="article-title-1" itemprop="headline">Methylation of histone H3 lysine 36 is a barrier for therapeutic interventions of head and neck squamous cell carcinoma</h1>
+               <div class="contributors">
+                  <ol class="contributor-list" id="contrib-group-1">
+                     <li class="contributor" id="contrib-1" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Lucas+D.+Caeiro&amp;sortspec=date&amp;submit=Submit">Lucas D. Caeiro</a></span><a id="xref-aff-1-1" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-1" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-fn-1-1" class="xref-fn" href="#fn-1">11</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-2" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Yuichiro+Nakata&amp;sortspec=date&amp;submit=Submit">Yuichiro Nakata</a></span><a id="xref-aff-1-2" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-1" class="xref-aff" href="#aff-3">3</a><span class="xref-sep">,</span><a id="xref-fn-1-2" class="xref-fn" href="#fn-1">11</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-3" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Rodrigo+L.+Borges&amp;sortspec=date&amp;submit=Submit">Rodrigo L. Borges</a></span><a id="xref-aff-1-3" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-2" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-4" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Mengsheng+Zha&amp;sortspec=date&amp;submit=Submit">Mengsheng Zha</a></span><a id="xref-aff-1-4" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-3" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-5" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Liliana+Garcia-Martinez&amp;sortspec=date&amp;submit=Submit">Liliana Garcia-Martinez</a></span><a id="xref-aff-1-5" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-4" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-6" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Carolina+P.+Ba%C3%B1uelos&amp;sortspec=date&amp;submit=Submit">Carolina P. Bañuelos</a></span><a id="xref-aff-1-6" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-2" class="xref-aff" href="#aff-2">2</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-7" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Stephanie+Stransky&amp;sortspec=date&amp;submit=Submit">Stephanie Stransky</a></span><a id="xref-aff-4-1" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-8" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search" href="/search?author1=Tong+Liu&amp;sortspec=date&amp;submit=Submit">Tong Liu</a></span><a id="xref-aff-5-1" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-9" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ho+Lam+Chan&amp;sortspec=date&amp;submit=Submit">Ho Lam Chan</a></span><a id="xref-aff-1-7" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-5" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-10" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=John+Brabson&amp;sortspec=date&amp;submit=Submit">John Brabson</a></span><a id="xref-aff-1-8" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-6-1" class="xref-aff" href="#aff-6">6</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-11" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Diana+Dom%C3%ADnguez&amp;sortspec=date&amp;submit=Submit">Diana Domínguez</a></span><a id="xref-aff-7-1" class="xref-aff" href="#aff-7">7</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-12" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Yusheng+Zhang&amp;sortspec=date&amp;submit=Submit">Yusheng Zhang</a></span><a id="xref-aff-1-9" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-6" class="xref-aff" href="#aff-3">3</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-13" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Peter+W.+Lewis&amp;sortspec=date&amp;submit=Submit">Peter W. Lewis</a></span><a id="xref-aff-8-1" class="xref-aff" href="#aff-8">8</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-14" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Salvador+Aznar+Benitah&amp;sortspec=date&amp;submit=Submit">Salvador Aznar Benitah</a></span><a id="xref-aff-7-2" class="xref-aff" href="#aff-7">7</a><span class="xref-sep">,</span><a id="xref-aff-9-1" class="xref-aff" href="#aff-9">9</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-15" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Luisa+Cimmino&amp;sortspec=date&amp;submit=Submit">Luisa Cimmino</a></span><a id="xref-aff-1-10" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-6-2" class="xref-aff" href="#aff-6">6</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-16" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Daniel+Bilbao&amp;sortspec=date&amp;submit=Submit">Daniel Bilbao</a></span><a id="xref-aff-1-11" class="xref-aff" href="#aff-1">1</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-17" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Simone+Sidoli&amp;sortspec=date&amp;submit=Submit">Simone Sidoli</a></span><a id="xref-aff-4-2" class="xref-aff" href="#aff-4">4</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-18" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Zheng+Wang&amp;sortspec=date&amp;submit=Submit">Zheng Wang</a></span><a id="xref-aff-5-2" class="xref-aff" href="#aff-5">5</a>, 
+                     </li>
+                     <li class="contributor" id="contrib-19" itemprop="author" itemscope="itemscope"
+                         itemtype="http://schema.org/Person"><span class="name" itemprop="name"><a class="name-search"
+                              href="/search?author1=Ramiro+E.+Verdun&amp;sortspec=date&amp;submit=Submit">Ramiro E. Verdun</a></span><a id="xref-aff-1-12" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-2-3" class="xref-aff" href="#aff-2">2</a><span class="xref-sep">,</span><a id="xref-aff-10-1" class="xref-aff" href="#aff-10">10</a> and 
+                     </li>
+                     <li class="last" id="contrib-20"><span class="name"><a class="name-search"
+                              href="/search?author1=Lluis+Morey&amp;sortspec=date&amp;submit=Submit">Lluis Morey</a></span><a id="xref-aff-1-13" class="xref-aff" href="#aff-1">1</a><span class="xref-sep">,</span><a id="xref-aff-3-7" class="xref-aff" href="#aff-3">3</a></li>
+                  </ol>
+                  <ol class="affiliation-list">
+                     <li class="aff"><a id="aff-1" name="aff-1"></a><address><sup>1</sup>Sylvester Comprehensive Cancer Center, Biomedical Research Building, Miami, Florida 33136, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-2" name="aff-2"></a><address><sup>2</sup>Division of Hematology, Department of Medicine, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-3" name="aff-3"></a><address><sup>3</sup>Department of Human Genetics, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-4" name="aff-4"></a><address><sup>4</sup>Department of Biochemistry, Albert Einstein College of Medicine, Bronx, New York 10461, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-5" name="aff-5"></a><address><sup>5</sup>Department of Computer Science, University of Miami, Coral Gables, Florida 33124, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-6" name="aff-6"></a><address><sup>6</sup>Department of Biochemistry and Molecular Biology, University of Miami Miller School of Medicine, Miami, Florida 33136, USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-7" name="aff-7"></a><address><sup>7</sup>Institute for Research in Biomedicine (IRB Barcelona), The Barcelona Institute of Science and Technology (BIST), Barcelona
+                           08028, Spain;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-8" name="aff-8"></a><address><sup>8</sup>Department of Biomolecular Chemistry, School of Medicine and Public Health, University of Wisconsin, Madison, Wisconsin 53706,
+                           USA;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-9" name="aff-9"></a><address><sup>9</sup>Institució Catalana de Recerca i Estudis Avançats, Barcelona 08010, Spain;
+                        </address>
+                     </li>
+                     <li class="aff"><a id="aff-10" name="aff-10"></a><address><sup>10</sup>Geriatric Research, Education, and Clinical Center, Miami Veterans Affairs Healthcare System, Miami, Florida 33125, USA
+                        </address>
+                     </li>
+                  </ol>
+                  <ol class="corresp-list">
+                     <li class="corresp" id="corresp-1">Corresponding authors: <span class="em-link"><span class="em-addr">lmorey{at}med.miami.edu</span></span>, <span class="em-link"><span class="em-addr">rverdun{at}med.miami.edu</span></span></li>
+                  </ol>
+                  <ol class="fn-track">
+                     <li class="fn-equal" id="fn-1">
+                        <p id="p-1"><a class="rev-xref" href="#xref-fn-1-1">↵</a><span class="fn-label">11</span> These authors contributed equally to this work.
+                        </p>
+                     </li>
+                  </ol>
+               </div>
+               <div class="section abstract" id="abstract-2">
+                  <h2>Abstract</h2>
+                  <p id="p-4">Approximately 20% of head and neck squamous cell carcinomas (HNSCCs) exhibit reduced methylation on lysine 36 of histone H3
+                     (H3K36me) due to mutations in histone methylase NSD1 or a lysine-to-methionine mutation in histone H3 (H3K36M). Whether such
+                     alterations of H3K36me can be exploited for therapeutic interventions is still unknown. Here, we show that HNSCC models expressing
+                     H3K36M can be divided into two groups: those that display aberrant accumulation of H3K27me3 and those that maintain steady
+                     levels of H3K27me3. The former group exhibits reduced proliferation, genome instability, and heightened sensitivity to genotoxic
+                     agents like PARP1/2 inhibitors. Conversely, H3K36M HNSCC models with constant H3K27me3 levels lack these characteristics unless
+                     H3K27me3 is elevated by DNA hypomethylating agents or inhibiting H3K27me3 demethylases KDM6A/B. Mechanistically, H3K36M reduces
+                     H3K36me by directly impeding the activities of the histone methyltransferase NSD3 and the histone demethylase LSD2. Notably,
+                     aberrant H3K27me3 levels induced by H3K36M expression are not a bona fide epigenetic mark because they require continuous
+                     expression of H3K36M to be inherited. Moreover, increased sensitivity to PARP1/2 inhibitors in H3K36M HNSCC models depends
+                     solely on elevated H3K27me3 levels and diminishing BRCA1- and FANCD2-dependent DNA repair. Finally, a PARP1/2 inhibitor alone
+                     reduces tumor burden in a H3K36M HNSCC xenograft model with elevated H3K27me3, whereas in a model with consistent H3K27me3,
+                     a combination of PARP1/2 inhibitors and agents that up-regulate H3K27me3 proves to be successful. These findings underscore
+                     the crucial balance between H3K36 and H3K27 methylation in maintaining genome instability, offering new therapeutic options
+                     for patients with H3K36me-deficient tumors.
+                  </p>
+               </div>
+               <h3 class="kwd-header">Keywords</h3>
+               <ul class="kwd-group">
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=H3K36M&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">H3K36M</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=HNSCC&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">HNSCC</a></span></li>
+                  <li class="kwd"><span><a class="kwd-search"
+                           href="/search?fulltext=Polycomb&amp;sortspec=date&amp;submit=Submit&amp;andorexactfulltext=phrase">Polycomb</a></span></li>
+               </ul>
+               <div class="section fn-group" id="fn-group-1">
+                  <h2>Footnotes</h2>
+                  <ul>
+                     <li class="fn-supplementary-material" id="fn-2">
+                        <p id="p-79">Supplemental material is available for this article.</p>
+                     </li>
+                     <li class="fn" id="fn-3">
+                        <p id="p-80">Article published online ahead of print. Article and publication date are online at <a href="http://www.genesdev.org/cgi/doi/10.1101/gad.351408.123">http://www.genesdev.org/cgi/doi/10.1101/gad.351408.123</a>.
+                        </p>
+                     </li>
+                  </ul>
+               </div>
+               <ul class="history-list">
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="received"
+                      hwp:start="2023-12-01"><span class="received-label">Received </span>December 1, 2023.
+                  </li>
+                  <li xmlns:hwp="http://schema.highwire.org/Journal" class="accepted"
+                      hwp:start="2024-01-16"><span class="accepted-label">Accepted </span>January 16, 2024.
+                  </li>
+               </ul>
+               <ul class="copyright-statement">
+                  <li class="fn" id="copyright-statement-1"><a href="/site/misc/terms.xhtml">© 2024 Caeiro et al.; Published by Cold Spring Harbor Laboratory Press</a></li>
+               </ul>
+               <div class="license" id="license-1">
+                  <p id="p-2">This article is distributed exclusively by Cold Spring Harbor Laboratory Press for the first six months after the full-issue
+                     publication date (see <a rel="license" href="/site/misc/terms.xhtml">http://genesdev.cshlp.org/site/misc/terms.xhtml</a>). After six months, it is available under a Creative Commons License (Attribution-NonCommercial 4.0 International), as described
+                     at <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">http://creativecommons.org/licenses/by-nc/4.0/</a>.
+                  </p>
+               </div><span class="highwire-journal-article-marker-end"></span></div>
+            <div class="social-bookmarking">
+               
+               <ul class="social-bookmark-links">
+                  <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                             alt="Add to CiteULike"
+                             title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                             alt="Add to Delicious"
+                             title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                             title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=FACEBOOK"
+                        class="sb-facebook"
+                        rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                             title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                             title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                  <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                             title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+               </ul>
+               
+               <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+               
+            </div><span id="related-urls"></span><div id="content-end-sb" class="sb-div"></div>
+         </div>
+         <div id="col-2">
+            
+            <div class="article-nav sidebar-nav">
+               <a href="/content/38/1-2/31.short" title="Previous article" class="previous">« Previous</a><span class="article-nav-sep"> | </span><a href="/content/38/1-2/70.short" title="Next article" class="next">Next Article »</a>
+               
+               <span class="toc-link">
+                  				<a href="/content/38/1-2.toc" title="Table of Contents">Table of Contents</a>
+                  			</span>
+               
+               
+            </div>
+            <div class="content-box" id="article-cb-main">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>This Article</span></h3>
+                  <div class="cb-section cb-slug">
+                     <ol>
+                        <li>
+                           <div id="slugline">
+                              
+                              
+                              	    <span class="slug-metadata-note ahead-of-print">
+                                 	
+                                 Published in Advance
+                                 
+                                 <span class="slug-ahead-of-print-date">January 29, 2024</span>,
+                                 doi:
+                                 <span title="10.1101/gad.351408.123" class="slug-doi">10.1101/gad.351408.123
+                                    </span>
+                                 </span>
+                              
+                              <cite>
+                                 	    <abbr title="Genes &amp; Development" class="slug-jnl-abbrev">
+                                    Genes &amp; Dev.</abbr><span class="slug-pub-date" itemprop="datePublished">
+                                    2024.
+                                    </span>
+                                 	    <span class="slug-vol">
+                                    38: 
+                                    </span><span class="slug-pages">
+                                    46-69
+                                    </span>
+                                 		
+                                 </cite>
+                              
+                              	           
+                              
+                              <a href="/site/misc/terms.xhtml">
+                                 <nlm:copyright-statement xmlns:nlm="http://schema.highwire.org/NLM/Journal"
+                                                          xmlns:hwp="http://schema.highwire.org/Journal"
+                                                          hwp:id="copyright-statement-1">
+                                    <nlm:ext-link xmlns:l="http://schema.highwire.org/Linking"
+                                                  xmlns:xlink="http://www.w3.org/1999/xlink"
+                                                  l:rel="related"
+                                                  l:ref-type="uri"
+                                                  l:ref="http://genesdev.cshlp.org/site/misc/terms.xhtml"
+                                                  ext-link-type="uri"
+                                                  xlink:href="http://genesdev.cshlp.org/site/misc/terms.xhtml"
+                                                  hwp:id="ext-link-1">© 2024 Caeiro et al.; Published by Cold Spring Harbor Laboratory Press</nlm:ext-link>
+                                 </nlm:copyright-statement></a>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section" id="cb-art-links">
+                     <ol>
+                        <li><span class="variant-indicator">» <span>Abstract</span></span><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/38/1-2/46.full" rel="view-full-text">Full Text</a><span class="free">Free</span></li>
+                        <li class="notice"><a href="/content/38/1-2/46.full.pdf+html" rel="view-full-text.pdf">Full Text (PDF)</a><span class="free">Free</span></li>
+                        <li><a href="/content/38/1-2/46/suppl/DC1" rel="supplemental-data"
+                              class="dslink-supplemental-material">Supplemental Material</a></li>
+                        <li class="cb-versions">
+                           <div><span id="pap-all-versions-label">All Versions of this Article:</span><ol class="version-list">
+                                 <li><a href="/content/early/2024/01/29/gad.351408.123">gad.351408.123v1</a></li>
+                                 <li class="current-li"><span>38/1-2/46</span> <span class="current-version">most recent</span></li>
+                              </ol>
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible" id="cb-art-cat">
+                     <h4 class="cb-section-header"><span>Article Category</span></h4>
+                     <ol>
+                        <li>
+                           <ul class="subject-headings last-child">
+                              <li><a class="tocsection-search"
+                                    href="/search?tocsectionid=RESEARCH+PAPERS&amp;sortspec=date&amp;submit=Submit">RESEARCH PAPER</a></li>
+                           </ul>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-svcs">
+                     <h4 class="cb-section-header"><span>Services</span></h4>
+                     <ol>
+                        <li><a href="/cgi/alerts/ctalert?alertType=citedby&amp;addAlert=cited_by&amp;cited_by_criteria_resid=genesdev%3B38%2F1-2%2F46&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/38/1-2/46">Alert me when this article is cited</a></li>
+                        <li><a href="/cgi/alerts/ctalert?alertType=correction&amp;addAlert=correction&amp;correction_criteria_value=38/1-2/46&amp;saveAlert=no&amp;return-type=article&amp;return_url=http://genesdev.cshlp.org/content/38/1-2/46">Alert me if a correction is posted</a></li>
+                        <li><a href="/search?qbe=genesdev%3Bgad.351408.123&amp;citation=Caeiro%20et%20al.%2038%20%281-2%29:%2046&amp;submit=yes">Similar articles in this journal</a></li>
+                        <li><a href="/external-ref?access_num=genesdev%3B38%2F1-2%2F46&amp;link_type=ISI_RELATEDRECORDS"
+                              id="cb-isi-similar-articles">Similar articles in Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=38286657&amp;link_type=MED_NBRS">Similar articles in PubMed</a></li>
+                        <li><a href="/citmgr?gca=genesdev%3B38%2F1-2%2F46">Download to citation manager</a></li>
+                        <li><a href="/site/misc/permissions_landing.xhtml">
+                              Permissions
+                              </a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-cit">
+                     <h4 class="cb-section-header"><span>Citing Articles</span></h4>
+                     <ol>
+                        <li><a href="/content/38/1-2/46?cited-by=yes&amp;legid=genesdev;38/1-2/46#cited-by"
+                              id="cb-hw-citing-articles">Load citing article information</a></li>
+                        <li><a href="/external-ref?access_num=%2Fgenesdev%2F38%2F1-2%2F46&amp;link_type=ISI_CITING&amp;accnum_type=native"
+                              rel="external-nw"
+                              id="cb-isi-citing-articles">Citing articles via Web of Science</a></li>
+                        <li><a href="/external-ref?access_num=http://genesdev.cshlp.org/content/38/1-2/46.abstract&amp;link_type=GOOGLESCHOLAR">Citing articles via Google Scholar</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs">
+                     <h4 class="cb-section-header"><span>Google Scholar</span></h4>
+                     <ol>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3ACaeiro%20author%3AL.D.%22">Articles by  Caeiro, L. D.</a></li>
+                        <li><a href="http://scholar.google.com/scholar?q=%22author%3AMorey%20author%3AL.%22">Articles by  Morey, L.</a></li>
+                        <li><a href="/external-ref?access_num=http://genesdev.cshlp.org/content/38/1-2/46.abstract&amp;link_type=GOOGLESCHOLARRELATED">Search for related content</a></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-pm">
+                     <h4 class="cb-section-header"><span>PubMed/NCBI</span></h4>
+                     <ol>
+                        <li><a href="/external-ref?access_num=38286657&amp;link_type=PUBMED">PubMed citation</a></li>
+                        <li><a href="/external-ref?access_num=Caeiro%20LD&amp;link_type=AUTHORSEARCH">Articles by  Caeiro, L. D.</a></li>
+                        <li><a href="/external-ref?access_num=Morey%20L&amp;link_type=AUTHORSEARCH">Articles by  Morey, L.</a></li>
+                        <li>
+                           <div id="cb-entrez-links-placeholder"><a href="/entrez-links/38286657"></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-orcid">
+                     <h4 class="cb-section-header"><span>ORCID</span></h4>
+                     <ol>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Lewis, P. W.<a class="orcid-link" href="http://orcid.org/0000-0002-9816-7823">http://orcid.org/0000-0002-9816-7823</a></span>
+                        </li>
+                        <li class="cb-art-orcid-auth author-link">
+                           <span xmlns="" class="orcid-author">Profile for Morey, L.<a class="orcid-link" href="http://orcid.org/0000-0001-9851-4066">http://orcid.org/0000-0001-9851-4066</a></span>
+                        </li>
+                     </ol>
+                  </div>
+                  <div class="cb-section collapsible default-closed" id="cb-art-soc">
+                     <h4 class="cb-section-header"><span>Share</span></h4>
+                     <ol>
+                        <li><a href="/email?gca=genesdev%3B38%2F1-2%2F46&amp;current-view-path=/content/38/1-2/46"></a></li>
+                        <li>
+                           <div class="social-bookmarking">
+                              
+                              <ul class="social-bookmark-links">
+                                 <li class="social-bookmarking-item social-bookmarking-item-citeulike"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=CITEULIKE"><img src="/shared/img/common/social-bookmarking/citeulike.gif"
+                                            alt="Add to CiteULike"
+                                            title="CiteULike" /></a><span class="soc-bm-link-text">CiteULike</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-delicious"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=DEL_ICIO_US"><img src="/shared/img/common/social-bookmarking/delicious.gif"
+                                            alt="Add to Delicious"
+                                            title="Delicious" /></a><span class="soc-bm-link-text">Delicious</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-digg"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=DIGG"><img src="/shared/img/common/social-bookmarking/digg.gif" alt="Add to Digg"
+                                            title="Digg" /></a><span class="soc-bm-link-text">Digg</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-facebook"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/short/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=FACEBOOK"
+                                       class="sb-facebook"
+                                       rel="external-nw"><img src="/shared/img/common/social-bookmarking/facebook.gif" alt="Add to Facebook"
+                                            title="Facebook" /></a><span class="soc-bm-link-text">Facebook</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-reddit"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=REDDIT"><img src="/shared/img/common/social-bookmarking/reddit.gif" alt="Add to Reddit"
+                                            title="Reddit" /></a><span class="soc-bm-link-text">Reddit</span></li>
+                                 <li class="social-bookmarking-item social-bookmarking-item-twitter"><a href="/external-ref?tag_url=http://genesdev.cshlp.org/cgi/content/long/38/1-2/46&amp;title=Methylation%20of%20histone%20H3%20lysine%2036%20is%20a%20barrier%20for%20therapeutic%20interventions%20of%20head%20and%20neck%20squamous%20cell%20carcinoma+--+Caeiro%20et%20al.%2038%20%281-2%29%3A%2046+--+GAD&amp;doi=10.1101/gad.351408.123&amp;link_type=TWITTER"><img src="/shared/img/common/social-bookmarking/twitter.gif" alt="Add to Twitter"
+                                            title="Twitter" /></a><span class="soc-bm-link-text">Twitter</span></li>
+                              </ul>
+                              
+                              <p class="social-bookmarking-help"><a href="/help/social_bookmarks.dtl">What's this?</a></p>
+                              
+                           </div>
+                        </li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            
+            
+            
+            <div id="col-2-widget-placeholder"></div>
+            
+            <div class="content-box" id="article-cb-main">
+               
+               <div class="cb-contents">
+                  
+                  <div class="cb-section collapsible default-closed" id="cb-art-gs-cshl"></div>
+                  
+               </div>
+               
+            </div>
+            
+            <ul class="tower-ads">
+               <li class="no-ad tower_col_2"><span>  </span></li>
+            </ul>
+            
+         </div>
+         <div id="col-3">
+            
+            <div class="content-box" id="sidebar-current-issue">
+               <div class="cb-contents">
+                  <h3 class="cb-contents-header"><span>Current Issue</span></h3>
+                  <div class="cb-section">
+                     <ol>
+                        <li><span><a href="/content/current" rel="current-issue">June 1, 2025, 39 (11-12)</a></span></li>
+                     </ol>
+                  </div>
+                  <div class="cb-section">
+                     <ol>
+                        <li>
+                           <div class="current-issue"><a href="/content/current" rel="current-issue"><img src="/content/39/11-12.cover.gif" width="67" height="89" alt="Current Issue" /></a></div>
+                        </li>
+                     </ol>
+                  </div>
+                  
+                  <cb:item xmlns:cb="http://schema.highwire.org/Site/Content-Box">
+                     <div class="cb-section collapsible default-closed" id="sidebar-cur-issue-coverlines">
+                        
+                        <h4 class="cb-section-header">
+                           <span>In This Issue</span>
+                           
+                        </h4>
+                        
+                        <ul>
+                           <li>
+                              <a href="/content/39/11-12/770">Metabolic consequences of aneuploidy in breast cancer</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/39/11-12/706">Meta-domains dictate neuronal genome architecture</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/39/11-12/697">Independent mechanisms of β-catenin regulation in pediatric gliomas</a>
+                              
+                           </li>
+                           <li>
+                              <a href="/content/39/11-12/679">Review: Cohesin function during development and disease</a>
+                              
+                           </li>
+                        </ul>
+                        
+                     </div>
+                  </cb:item>
+                  
+                  <div class="cb-section sidebar-etoc-link">
+                     <ol>
+                        <li><a href="/cgi/alerts/etoc">Alert me to new issues of G&amp;D</a></li>
+                     </ol>
+                  </div>
+               </div>
+            </div>
+            <div id="sidebar-global-nav">
+               
+               
+               <ul class="button-list pub-links">
+                  <li class="first"><a href="/content/early/recent" title="Advance Online Articles "><span>Advance Online Articles </span></a></li>
+                  <li><a href="http://submit.genesdev.org" rel="external-nw" title="Submit a Manuscript"><span>Submit a Manuscript</span></a></li>
+                  <li><a href="/site/misc/press_releases.xhtml" title="G&amp;D in the News"><span>G&amp;D in the News</span></a></li>
+                  <li><a href="/site/misc/edboard.xhtml" title="Editorial Board"><span>Editorial Board</span></a></li>
+                  <li><a href="/site/misc/ifora.xhtml" title="Author Information"><span>Author Information</span></a></li>
+                  <li><a href=" /site/misc/alertland.xhtml" title="E-mail Alerts &amp; RSS Feeds"><span>E-mail Alerts &amp; RSS Feeds</span></a></li>
+                  <li><a href="http://www.cshlpress.com/library/?hwinfo"
+                        title="Recommend to Your Library"><span>Recommend to Your Library</span></a></li>
+                  <li class="last"><a href="/site/misc/careertracks.xhtml" title="Job Opportunities"><span>Job Opportunities</span></a></li>
+               </ul>
+               
+            </div>
+            
+            
+            <ul class="tower-ads">
+               <li><a href="/cgi/adclick/?ad=57961&amp;adclick=true&amp;url=https%3A%2F%2Fwww.aacr.org%2Fmeeting%2Faacr-annual-meeting-2025%2F%3Futm_source%3Dcshl%26utm_medium%3Dwebbanner%26utm_campaign%3Daacr2025"
+                     target="_blank"><img class="adborder0" title="AACR Annual Meeting"
+                          src="//genesdev.cshlp.org/adsystem/graphics/7958749546135931/genesdev/2501044D_MCS_25_26Upcom_SpecConf_CSHL_160x800_012.jpg?ad=57961&amp;adview=true"
+                          alt="AACR Annual Meeting" /></a></li>
+            </ul>
+            
+            <div id="col-3-widget-placeholder" style="padding-top:12px;">
+               
+               <p style="text-align:center;font-weight:bold;font-size:12px;line-height:15px;margin-top:0;padding-top:0;margin-bottom:0px;color:black;">
+                  <a href="https://www.life-science-alliance.org/?v=genes_and_development">
+                     <img src="/site/misc/images/LSA120x600.jpg" alt="Life Science Alliance" />
+                     </a>
+                  
+               </p>
+               
+               <div id="ads3" style="padding:0p;margin:0;">
+                   
+               </div>
+               <script type="text/javascript" src="/site/misc/figure_lib.js"></script>
+               </div>
+            
+            
+         </div>
+         <div id="footer">
+            
+            <div class="bar">
+               	  
+               <div class="footer-group footer-col-left">
+                  	    
+                  <ul class="button-list footer-buttons">
+                     <li class="first"><a href="/" title="Home"><span>Home</span></a></li>
+                     <li><a href="/site/misc/about.xhtml" title="About"><span>About</span></a></li>
+                     <li><a href="http://submit.genesdev.org/" rel="external-nw" title="Submit"><span>Submit</span></a></li>
+                     <li><a href="/site/subscriptions/" title="Subscribe"><span>Subscribe</span></a></li>
+                     <li><a href="/site/misc/adinfo.xhtml" title="Advertise"><span>Advertise</span></a></li>
+                     <li><a href="/site/misc/ifora.xhtml" title="Author Info"><span>Author Info</span></a></li>
+                     <li><a href="/content/by/year" title="Archive"><span>Archive</span></a></li>
+                     <li><a href="/feedback" title="Contact"><span>Contact</span></a></li>
+                     <li class="last"><a href="/help/" title="Help"><span>Help</span></a></li>
+                  </ul>
+                  	    
+                  <p class="copyright"><a href="http://www.cshlpress.com/" rel="external-nw">Copyright © 2025 by Cold Spring Harbor Laboratory Press</a></p>
+                  	  
+               </div>
+               	  
+               <div class="footer-group footer-col-right">
+                  	    
+                  <ul class="issns">
+                     <li>
+                        <span>Print ISSN: </span>
+                        <span class="issn">0890-9369</span>
+                        
+                     </li>
+                     <li>
+                        <span>Online ISSN: </span>
+                        <span class="issn">1549-5477</span>
+                        
+                     </li>
+                  </ul>
+                  	  
+               </div>
+               	
+            </div>
+            
+            
+            
+            <div class="block-2 sb-div"></div>
+            <script type="text/javascript">
+document.write(unescape("%3Cscript async src='https://www.googletagmanager.com/gtag/js?id=G-PVCB8E488B'%3E%3C/script%3E"));
+</script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-PVCB8E488B');
+</script>
+            </div><script type="text/javascript">
+document.write(unescape("%3Cscript async src='https://www.googletagmanager.com/gtag/js?id=G-1CWXPJ6EVC'%3E%3C/script%3E"));
+</script><script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1CWXPJ6EVC');
+</script></div>
+   </body>
+</html>

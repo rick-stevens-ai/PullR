@@ -1,0 +1,10 @@
+Title: The MRE11-RAD50-NBS1 Complex Promotes RNA Polymerase II Transcription at DNA Double-Strand Breaks by Melting DNA Ends
+Authors: Unknown
+Year: N/A
+Paper ID: web_688145
+URL: https://pubmed.ncbi.nlm.nih.gov/33406426/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+The MRE11-RAD50-NBS1 (MRN) complex facilitates the synthesis of damage-induced long non-coding RNA (dilncRNA) by RNA polymerase II (RNAPII) at sites of DNA double-strand breaks (DSBs), though the underlying mechanism has remained unclear. In this study, we demonstrate that recombinant human MRN and native RNAPII are sufficient to reconstitute a minimal functional transcriptional apparatus at DSBs in vitro. The MRN complex recruits and stabilizes RNAPII at DSBs, promoting transcription independently of its nuclease activities. Instead, transcriptional activation relies on the MRN complex's ability to melt DNA ends, as evidenced by experiments using MRN mutants and specific allosteric inhibitors. Single-molecule FRET assays reveal a strong correlation between the DNA melting capability of MRN and its capacity to stimulate transcription. Furthermore, the addition of replication protein A (RPA) enhances MRN-mediated transcription, and the presence of unpaired DNA ends enables RNAPII to transcribe independently of MRN. These findings support a model in which the MRN complex generates single-stranded DNA ends that facilitate the initiation of transcription by RNAPII at DSBs.

@@ -1,0 +1,9 @@
+Title: DdrC, a unique DNA repair factor from D. radiodurans, senses and stabilizes DNA breaks through a novel lesion-recognition mechanism
+Authors: R. Szabla, Mingyi Li, Victoria Warner, Yifeng Song, Murray Junop
+Year: 2024
+Paper ID: 28aafcf5c41af6c5cd747f9262cba3fcf3d744c7
+URL: https://www.semanticscholar.org/paper/28aafcf5c41af6c5cd747f9262cba3fcf3d744c7
+Venue: Nucleic Acids Research
+
+Abstract:
+Abstract The bacterium Deinococcus radiodurans is known to survive high doses of DNA damaging agents. This resistance is the result of robust antioxidant systems which protect efficient DNA repair mechanisms that are unique to Deinococcus species. The protein DdrC has been identified as an important component of this repair machinery. DdrC is known to bind to DNA in vitro and has been shown to circularize and compact DNA fragments. The mechanism and biological relevance of this activity is poorly understood. Here, we show that the DdrC homodimer is a lesion-sensing protein that binds to two single-strand (ss) or double-strand (ds) breaks. The immobilization of DNA breaks in pairs consequently leads to the circularization of linear DNA and the compaction of nicked DNA. The degree of compaction is directly proportional with the number of available nicks. Previously, the structure of the DdrC homodimer was solved in an unusual asymmetric conformation. Here, we solve the structure of DdrC under different crystallographic environments and confirm that the asymmetry is an endogenous feature of DdrC. We propose a dynamic structural mechanism where the asymmetry is necessary to trap a pair of lesions. We support this model with mutant disruption and computational modeling experiments.

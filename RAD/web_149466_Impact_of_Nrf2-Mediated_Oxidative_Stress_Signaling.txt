@@ -1,0 +1,10 @@
+Title: Impact of Nrf2-Mediated Oxidative Stress Signaling on Survival and Differentiation of Human Adipose-Derived Stem Cells Exposed to X-rays, Protons, and Carbon Ions
+Authors: Unknown
+Year: N/A
+Paper ID: web_149466
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11429097/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Certain cancers, such as glioblastoma, are characterized by poor prognosis and frequent local recurrence due to resistance to conventional treatments, including radiotherapy. Strategies to enhance tumor radiosensitivity often target resistance pathways, such as the Nrf2 signaling pathway. While inhibiting Nrf2 has been shown to increase radiosensitivity in glioblastoma stem cells, the effects on normal cells remain unclear. This study investigates the role of the Nrf2 pathway in the survival and differentiation potential of normal human adipose-derived stem cells (ADSCs) following exposure to different types of ionizing radiation—X-rays, protons, and carbon ions—all commonly used in cancer therapy. ADSCs were treated with an Nrf2 inhibitor prior to irradiation, and subsequent analyses assessed cell survival and differentiation capacity. The results demonstrate that the effect of Nrf2 inhibition on cell survival is dependent on the radiation type, with the greatest impact observed for X-rays, followed by protons and carbon ions. Additionally, Nrf2 inhibition significantly reduced the differentiation of ADSCs into adipogenic and osteogenic lineages by 35% and 28%, respectively, across all radiation types. Notably, ADSCs surviving proton and carbon ion irradiation exhibited a greater capacity for differentiation compared to those exposed to X-rays. These findings suggest that proton and carbon ion therapies may better preserve the stemness of irradiated ADSCs than X-rays, which could be particularly advantageous for long-term cancer survivors, such as pediatric patients.

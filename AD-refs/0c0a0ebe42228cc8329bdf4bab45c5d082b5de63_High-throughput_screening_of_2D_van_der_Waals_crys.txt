@@ -1,0 +1,9 @@
+Title: High-throughput screening of 2D van der Waals crystals with plastic deformability
+Authors: Zhiqian Gao, Tian‐Ran Wei, Tingting Deng, P. Qiu, Wei Xu et al. (and 3 more)
+Year: 2022
+Paper ID: 0c0a0ebe42228cc8329bdf4bab45c5d082b5de63
+URL: https://www.semanticscholar.org/paper/0c0a0ebe42228cc8329bdf4bab45c5d082b5de63
+Venue: Nature Communications
+
+Abstract:
+Inorganic semiconductors exhibit multifarious physical properties, but they are prevailingly brittle, impeding their application in flexible and hetero-shaped electronics. The exceptional plasticity discovered in InSe crystal indicates the existence of abundant plastically deformable two-dimensional van der Waals (2D vdW) materials, but the conventional trial-and-error method is too time-consuming and costly. Here we report on the discovery of tens of potential 2D chalcogenide crystals with plastic deformability using a nearly automated and efficient high-throughput screening methodology. Seven candidates e.g., famous MoS2, GaSe, and SnSe2 2D materials are carefully verified to show largely anisotropic plastic deformations, which are contributed by both interlayer and cross-layer slips involving continuous breaking and reconstruction of chemical interactions. The plasticity becomes a new facet of 2D materials for deformable or flexible electronics. It is still challenging to discover plastically deformable inorganic semiconductors. Here, the authors report a high-throughput screening of tens of potential 2D van der Waals crystals that can deform plastically accompanied with experimental verification.

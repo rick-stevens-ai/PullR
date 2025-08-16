@@ -1,0 +1,25 @@
+Title: B-013 Improving the Workflow of Blood and Coagulation Tests in clinical laboratory through the Utilization of Laboratory Automation Track Systems
+Authors: M. Yang, H. Hsieh, C. Lee
+Year: 2024
+Paper ID: 4a7d1874a16bd3981d1b9ab4be84d9c0f81cdb89
+URL: https://www.semanticscholar.org/paper/4a7d1874a16bd3981d1b9ab4be84d9c0f81cdb89
+Venue: Clinical Chemistry
+
+Abstract:
+
+ 
+ 
+ The Laboratory Automation Track System (TLA) is an automated system designed for executing highly repetitive tasks within a laboratory, commonly applied in biochemical and immunological testing systems. It aims to reduce human errors in specimen handling, enhance the overall process quality, and provide better Turnaround Time (TAT) from specimen collection to result reporting. For the first time in our laboratory, we have integrated the blood and coagulation systems with TLA. Consequently, we seek to evaluate the differences in the testing workflow and reporting efficiency of the blood and coagulation systems after being connected to TLA.
+ 
+ 
+ 
+ Abbott GLP systems Track was the TLA system for connecting with blood and coagulation systems. Two Sysmex XN-9100 fully automatic hematology systems and two Sysmex CS-5100 fully automatic coagulation analyzers were developed for blood and coagulation system, respectively. TUNYEN Laboratory Information System was established for Laboratory information system (LIS).
+ 
+ 
+ 
+ Through the analysis of quality indicators and integration with intelligent information systems, improvements have been made, including the reduction of blood collection tube usage, efficient manpower utilization management, tracking of specimen progress and achievement of timely reporting rates.(1)Approximately 2,915 blood collection test tubes are saved every month, with a converted cost of 0.15 USD per tube, and a total saving of 437 USD. And reduce the carbon emissions of 32 kgCO2e, comply with the spirit of ESG sustainable development.(2)The TLA no longer requires staff to collect and deliver specimens as in the past,reducing staff and enhancing work efficiency.One of manpower was saved and new inspection items were developed.(3)Tracking of specimen progress:The laboratory has set up a specimen tracking system to monitor the specimen delivery location and provide timely response to the clinical status.The one-hour TAT for blood and coagulation increased from 82.0% and 76.9% before improvement to 91.8% and 93.3% after improvement respectively.
+ 
+ 
+ 
+ The implementation of Laboratory Automation Track Systems (TLA) leads to a reduction in medical errors and specimen sample volume, while also enhancing accuracy and precision, thereby improving the safety of laboratory staff. Although the introduction of TLA may require an initial investment, it brings the benefits of automation, offering ease and efficiency to laboratory processes.
+

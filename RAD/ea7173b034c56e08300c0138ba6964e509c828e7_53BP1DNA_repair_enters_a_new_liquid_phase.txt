@@ -1,0 +1,9 @@
+Title: 53BP1—DNA repair enters a new liquid phase
+Authors: Rossana Piccinno, Vera Minneker, Vassilis Roukos
+Year: 2019
+Paper ID: ea7173b034c56e08300c0138ba6964e509c828e7
+URL: https://www.semanticscholar.org/paper/ea7173b034c56e08300c0138ba6964e509c828e7
+Venue: EMBO Journal
+
+Abstract:
+In response to DNA damage, transient repair compartments in the nucleus concentrate repair proteins and activate downstream signaling factors. In this issue of The EMBO Journal, Kilic et al show that DNA repair focal assemblies marked by accumulation of 53BP1 are phase separated liquid compartments. This liquid droplet‐like behavior of 53BP1 compartments might help to coordinate local lesion recognition with global gene activation in response to DNA damage.

@@ -1,0 +1,412 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+				<link rel="icon" type="image/png" href="/_assets/icons/phil/favicon-96x96.png" sizes="96x96" />
+<link rel="icon" type="image/svg+xml" href="/_assets/icons/phil/favicon.svg" />
+<link rel="shortcut icon" href="/_assets/icons/phil/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/_assets/icons/phil/apple-touch-icon.png" />
+<meta name="apple-mobile-web-app-title" content="Philology" />
+<link rel="manifest" href="/_assets/icons/phil/site.webmanifest" />	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	
+<link rel="stylesheet" href="/assets/journal/styles/minireset.min-ac764d84849d81d12bd6ae135d4ea5ff.css">
+<link rel="stylesheet" href="/assets/journal/styles/journal-356425490737bea94b33d032b7c61acc.css">
+<script type="importmap">
+{
+    "imports": {
+        "journal": "/assets/journal/journal-665037d3e1c1aeac3cb6289864aee605.js",
+        "/assets/journal/styles/minireset.min.css": "data:application/javascript,",
+        "/assets/journal/styles/journal.css": "data:application/javascript,",
+        "/assets/journal/js/journal.js": "/assets/journal/js/journal-2443b839ed6d530e728c099d17fcf18b.js",
+        "/assets/journal/js/svgxuse.js": "/assets/journal/js/svgxuse-c4fa2cf7246e2aa352b68c873be4d404.js",
+        "publisher": "/assets/publisher/gramota-8156f625d1f2dd5cab0e5208c942fdd2.js",
+        "/assets/publisher/styles/gramota.css": "data:application/javascript,document.head.appendChild%28Object.assign%28document.createElement%28%22link%22%29%2C%7Brel%3A%22stylesheet%22%2Chref%3A%22%2Fassets%2Fpublisher%2Fstyles%2Fgramota-04a6644d237267f8acd1647ddd5463f7.css%22%7D%29%29",
+        "/assets/publisher/js/gramota.js": "/assets/publisher/js/gramota-d0c546fb1ad7773efe8f0e47b0d1b4aa.js",
+        "jquery": "/assets/vendor/jquery/jquery.index-17f151906f0d33fd08ba595868b9eb54.js"
+    }
+}
+</script>
+<!-- ES Module Shims: Import maps polyfill for modules browsers without import maps support -->
+<script async src="https://ga.jspm.io/npm:es-module-shims@1.10.0/dist/es-module-shims.js"></script>
+<link rel="modulepreload" href="/assets/journal/journal-665037d3e1c1aeac3cb6289864aee605.js">
+<link rel="modulepreload" href="/assets/journal/js/journal-2443b839ed6d530e728c099d17fcf18b.js">
+<link rel="modulepreload" href="/assets/journal/js/svgxuse-c4fa2cf7246e2aa352b68c873be4d404.js">
+<script type="module">import 'journal';</script>	<link rel="stylesheet" href="/assets/journal/styles/phil-1dedf64bef0f6188ce7495949548e98d.css">
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>“The Hermit. A Pendant to Werther’s Sorrows” by J. M. R. Lenz: An early attempt at therapeutic writing – Philology. Theory &amp; Practice</title>
+	<meta name="language" content="en" />
+<meta name="author" content="Gramota Publishing, LLC" />
+<meta name="copyright" content="Gramota Publishing, LLC" />
+<meta name="publisher" content="Gramota Publishing, LLC" />
+<meta name="description" content="The article is devoted to the epistolary short novel “The Hermit. A Pendant to Werther’s Sorrows” (1776) by J. M. R. Lenz, insufficiently explored by Russian literary studies, in its comparison to the obvious “praetext”, the novel “The Sorrows of Young Werther” (1774) by J. W. von Goethe. The author of the article assumes
+that both the short novel by Lenz and the novel by Goethe need to be analysed through the lens of the Sturm und Drang revolutionary aesthetics. The aim of the research is to identify the degree of relevance in intertextual references between the two works. Special emphasis is placed on the reason why Lenz, a fairly original writer, had had to follow the path trodden by Goethe. The article offers a contrastive-comparative analysis of Goethe’s and Lenz’s texts, clarifies the biographical background that prompted the two writers to create these texts. The scientific originality of the research lies in detecting autotherapy among the authors’ intentions; it is determined by a new early modern personality concept formed in the last third of the XVIII century, in particular by representatives of the Sturm und Drang movement. As a result, it has been proved that, especially in Lenz’s case, we deal with the early attempts at therapeutic writing to overcome individual psychological traumas.
+" />
+<meta name="keywords" content="Original research article, Я. М. Р. Ленц, И. В. Гете, движение «Буря и натиск», ранний модерн, терапевтическое письмо, J. M. R. Lenz, J. W. von Goethe, Sturm und Drang movement, early modern, therapeutic writing, philology, theory &amp; practice, issn 2782-4543, peer-review, scientific, scholar, on-line journal, open access, philology, linguistics, literary studies, education, languages, literature, article, Gramota publishing" />
+<meta property="og:title" content="“The Hermit. A Pendant to Werther’s Sorrows” by J. M. R. Lenz: An early attempt at therapeutic writing" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://philology-journal.ru/en/article/phil20230440/fulltext" />
+<meta property="og:description" content="The article is devoted to the epistolary short novel “The Hermit. A Pendant to Werther’s Sorrows” (1776) by J. M. R. Lenz, insufficiently explored by Russian literary studies, in its comparison to the obvious “praetext”, the novel “The Sorrows of Young Werther” (1774) by J. W. von Goethe. The author of the article assumes
+that both the short novel by Lenz and the novel by Goethe need to be analysed through the lens of the Sturm und Drang revolutionary aesthetics. The aim of the research is to identify the degree of relevance in intertextual references between the two works. Special emphasis is placed on the reason why Lenz, a fairly original writer, had had to follow the path trodden by Goethe. The article offers a contrastive-comparative analysis of Goethe’s and Lenz’s texts, clarifies the biographical background that prompted the two writers to create these texts. The scientific originality of the research lies in detecting autotherapy among the authors’ intentions; it is determined by a new early modern personality concept formed in the last third of the XVIII century, in particular by representatives of the Sturm und Drang movement. As a result, it has been proved that, especially in Lenz’s case, we deal with the early attempts at therapeutic writing to overcome individual psychological traumas.
+" />
+<meta property="og:site_name" content="Philology. Theory &amp; Practice" />
+<meta property="og:image" content="https://philology-journal.ru/assets/journal/images/og/og_phil_en-9ed16b7f3b24e4fd9b4136e974ee8d7c.jpg" />
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="“The Hermit. A Pendant to Werther’s Sorrows” by J. M. R. Lenz: An early attempt at therapeutic writing" />
+<meta name="twitter:description" content="The article is devoted to the epistolary short novel “The Hermit. A Pendant to Werther’s Sorrows” (1776) by J. M. R. Lenz, insufficiently explored by Russian literary studies, in its comparison to the obvious “praetext”, the novel “The Sorrows of Young Werther” (1774) by J. W. von Goethe. The author of the article assumes
+that both the short novel by Lenz and the novel by Goethe need to be analysed through the lens of the Sturm und Drang revolutionary aesthetics. The aim of the research is to identify the degree of relevance in intertextual references between the two works. Special emphasis is placed on the reason why Lenz, a fairly original writer, had had to follow the path trodden by Goethe. The article offers a contrastive-comparative analysis of Goethe’s and Lenz’s texts, clarifies the biographical background that prompted the two writers to create these texts. The scientific originality of the research lies in detecting autotherapy among the authors’ intentions; it is determined by a new early modern personality concept formed in the last third of the XVIII century, in particular by representatives of the Sturm und Drang movement. As a result, it has been proved that, especially in Lenz’s case, we deal with the early attempts at therapeutic writing to overcome individual psychological traumas.
+" />
+<meta name="twitter:url" content="https://philology-journal.ru/en/article/phil20230440/fulltext" />
+<meta name="twitter:image" content="https://philology-journal.ru/assets/journal/images/og/og_phil_en-9ed16b7f3b24e4fd9b4136e974ee8d7c.jpg" />
+<meta name="DOI" content="10.30853/phil20230440">
+<link rel="canonical" href="https://philology-journal.ru/en/article/phil20230440/fulltext" />
+<link rel="alternate" hreflang="en" href="https://philology-journal.ru/en/article/phil20230440/fulltext">
+<link rel="alternate" hreflang="ru" href="https://philology-journal.ru/article/phil20230440/fulltext">
+<link rel="alternate" hreflang="x-default" href="https://philology-journal.ru/article/phil20230440/fulltext" />
+
+
+</head>
+
+
+<body>
+		<script type="text/javascript">
+    (function (m, e, t, r, i, k, a) {
+        m[i] = m[i] || function () { (m[i].a = m[i].a || []).push(arguments) };
+        m[i].l = 1 * new Date();
+        for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; } }
+        k = e.createElement(t), a = e.getElementsByTagName(t)[0], k.async = 1, k.src = r, a.parentNode.insertBefore(k, a)
+    })
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+    ym(93999744, "init", {
+        clickmap: true,
+        trackLinks: true,
+        accurateTrackBounce: true
+    });
+</script>
+<noscript>
+    <div><img src="https://mc.yandex.ru/watch/93999744" style="position:absolute; left:-9999px;" alt="" /></div>
+</noscript>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-J2YKR9EF76"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-J2YKR9EF76');
+</script>
+	
+	<header>
+
+		<div id="top" class="top-bar">
+			<div class="top-bar-wrapper mw-960">
+
+				<a class="logo a-decor-none" href="https://www.gramota.net">
+					<img src="/assets/journal/images/logo-47ce40221eb3615431382cb19666c966.svg" alt="Издательство Грамота">
+				</a>
+
+				<div class="top-bar-menu">
+																				<a class="lang-selector a-decor-none" href="/article/phil20230440/fulltext">RU</a>
+														</div>
+
+			</div>
+		</div>
+
+		<div class="j-title">
+			<div class="j-title-wrapper mw-960">
+
+												<div class="j-title-h">
+					<a class="j-title-link a-decor-none" href="/en/">Philology. Theory&nbsp;&&nbsp;Practice</a>
+				</div>
+				
+			</div>
+		</div>
+
+		<div class="j-navbar">
+			<nav class="j-navbar-wrapper mw-960">
+
+				<div class="j-menu-battons">
+					<div class="j-menu-burger">
+						<svg class="icon">
+							<use xlink:href="/assets/journal/images/icons-e021f3cb7475d7ca7b38cd1cc2c9474d.svg#icon-menu"></use>
+						</svg>
+					</div>
+					<div class="j-menu-close">
+						<svg class="icon">
+							<use xlink:href="/assets/journal/images/icons-e021f3cb7475d7ca7b38cd1cc2c9474d.svg#icon-close"></use>
+						</svg>
+					</div>
+				</div>
+
+				<ul class="j-menu">
+					<li class="j-menu-item j-mi-hide">
+    <a class=" a-decor-none" href="/en/">Home</a>
+</li>
+<li class="j-menu-item ">
+    <a class=" a-decor-none" href="/en/about">About</a>
+</li>
+<li class="j-menu-item ">
+    <a class=" a-decor-none" href="/en/articles">Articles</a>
+</li>
+<li class="j-menu-item j-mi-hide">
+    <a class=" a-decor-none" href="/en/for-authors">For authors</a>
+</li>				</ul>
+
+				<div class="j-search">
+
+					
+					
+				</div>
+			</nav>
+		</div>
+
+	</header>
+
+	<main>
+
+		<article class="a-wrapper mw-960">
+
+			<header class="a-header">
+
+				<div class="a-title">
+					<ul class="a-header-meta mb-sm">
+        <li class="a-header-meta-item">Original research article</li>
+    <li class="a-header-meta-item">August 31, 2023</li>    <li class="a-header-meta-item openaccess">Open access</li> </ul>
+<h1 class="a-title-h">“The Hermit. A Pendant to Werther’s Sorrows” by J. M. R. Lenz: An early attempt at therapeutic writing</h1>
+				</div>
+
+								
+				<div class="a-announce">
+					<ul class="a-content-authors a-authors">
+            <li class="a-content-authors-item"><a class="a-decor-mirror" href="#a1">N. V. Gladilin</a></li>
+        </ul>
+<ul class="a-header-meta mt-md">
+    <li class="a-header-meta-item mt-sm">
+        <svg class="icon jrn-color">
+            <use xlink:href="/assets/journal/images/icons-e021f3cb7475d7ca7b38cd1cc2c9474d.svg#icon-circle"></use>
+        </svg>
+        <a class="a-decor-mirror" href="/en/collection/113">Foreign Literature</a>
+    </li>
+    <li class="a-header-meta-item mt-sm"><a class="a-decor-mirror" href="/en/issue/phil.2023.16.9">2023. Volume 16. Issue 9</a></li>
+    <li class="a-header-meta-item mt-sm"><a class="a-decor-mirror" href="https://doi.org/10.30853/phil20230440">https://doi.org/10.30853/phil20230440</a></li></ul>
+				</div>
+
+				<div style="clear: both;"></div>
+
+			</header>
+
+			<div class="a-navbar">
+				<div class="a-navbar-wrap">
+
+										<div class="a-navbar-menu d-none">
+						<div class="a-btn-burger">
+							<svg class="icon">
+								<use xlink:href="/assets/journal/images/icons-e021f3cb7475d7ca7b38cd1cc2c9474d.svg#icon-list"></use>
+							</svg>
+						</div>
+					</div>
+
+					<div class="a-navbar-file">
+    <a class="a-navbar-file-link  a-decor-none" href="/article/phil20230440/pdf">
+        <div class="icon-pdf"></div>
+        <div class="title-pdf">Full<br>text <b>RU</b></div>
+    </a>
+</div>
+
+
+															<div class="a-navbar-socials">
+						<div class="socials-links-wrapper">
+							<ul class="a-socials-items">
+								<li>
+									<a class="socials-item socials-item-telegram a-decor-none" href="https://t.me/share/url?url=https%3A%2F%2Fphilology-journal.ru%2Fen%2Farticle%2Fphil20230440%2Ffulltext" target="_blank"></a>
+								</li>
+								<li>
+									<a class="socials-item socials-item-whatsapp a-decor-none" href="https://api.whatsapp.com/send?text=https%3A%2F%2Fphilology-journal.ru%2Fen%2Farticle%2Fphil20230440%2Ffulltext" target="_blank"></a>
+								</li>
+								<li>
+									<a class="socials-item socials-item-vk a-decor-none" href="https://vk.com/share.php?url=https%3A%2F%2Fphilology-journal.ru%2Fen%2Farticle%2Fphil20230440%2Ffulltext" target="_blank"></a>
+								</li>
+								<li>
+									<a class="socials-item socials-item-ok a-decor-none" href="https://connect.ok.ru/offer?url=https%3A%2F%2Fphilology-journal.ru%2Fen%2Farticle%2Fphil20230440%2Ffulltext" target="_blank"></a>
+								</li>
+								<li class="d-none">
+									<a class="socials-item socials-item-twitter a-decor-none" href=""></a>
+								</li>
+								<li class="d-none">
+									<a class="socials-item socials-item-email a-decor-none" href=""></a>
+								</li>
+							</ul>
+						</div>
+						<div class="socials-links-overlay"></div>
+						<div class="a-btn-share">
+							<svg class="icon">
+								<use xlink:href="/assets/journal/images/icons-e021f3cb7475d7ca7b38cd1cc2c9474d.svg#icon-share-alt"></use>
+							</svg>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+
+			<div class="a-body">
+
+								<div class="a-toc-container d-none enable">
+					<nav class="a-table-of-contents">
+						<div class="a-btn-close-wrap">
+							<div class="a-btn-close">
+								<svg class="icon">
+									<use xlink:href="/assets/journal/images/icons-e021f3cb7475d7ca7b38cd1cc2c9474d.svg#icon-close"></use>
+								</svg>
+							</div>
+						</div>
+						<ul class="a-toc-items">
+							<li class="a-toc-item">
+								<a class="a-toc-link a-decor-none" href="#top">Top</a>
+							</li>
+						</ul>
+					</nav>
+				</div>
+
+
+								<div class="a-content ">
+					
+<h2 id="abst">Abstract</h2>
+<p class="mt-md">The article is devoted to the epistolary short novel “The Hermit. A Pendant to Werther’s Sorrows” (1776) by J. M. R. Lenz, insufficiently explored by Russian literary studies, in its comparison to the obvious “praetext”, the novel “The Sorrows of Young Werther” (1774) by J. W. von Goethe. The author of the article assumes
+that both the short novel by Lenz and the novel by Goethe need to be analysed through the lens of the Sturm und Drang revolutionary aesthetics. The aim of the research is to identify the degree of relevance in intertextual references between the two works. Special emphasis is placed on the reason why Lenz, a fairly original writer, had had to follow the path trodden by Goethe. The article offers a contrastive-comparative analysis of Goethe’s and Lenz’s texts, clarifies the biographical background that prompted the two writers to create these texts. The scientific originality of the research lies in detecting autotherapy among the authors’ intentions; it is determined by a new early modern personality concept formed in the last third of the XVIII century, in particular by representatives of the Sturm und Drang movement. As a result, it has been proved that, especially in Lenz’s case, we deal with the early attempts at therapeutic writing to overcome individual psychological traumas.
+</p>
+
+
+<h2 id="ref">References</h2>
+<ol class="a-ref-items mt-md">
+        <li class="a-ref-item" refnum="1.">Бурикова С. А. «Новая эстетика» в драматургии Я. М. Р. Ленца: автореф. дисс. ... к. филол. н. М., 2008. </li>
+        <li class="a-ref-item" refnum="2.">Кемпер Д. Гете и проблема индивидуальности в культуре эпохи модерна / пер. с нем. А. И. Жеребина. М.: Языки славянской культуры, 2009.</li>
+        <li class="a-ref-item" refnum="3.">Лойкель Ю. В. Жанр трагикомедии в драматургии Я. М. Р. Ленца: автореф. дисс. ... к. филол. н. М., 1992. </li>
+        <li class="a-ref-item" refnum="4.">Пронин В. А. История немецкой литературы: учеб. пособие. М.: Университетская книга; Логос, 2007.</li>
+        <li class="a-ref-item" refnum="5.">Розанов М. Н. Поэт периода «бурных стремлений» Якоб Ленц, его жизнь и произведения: критич. исследование: с прил. неизд. материалов. М.: Унив. тип., 1901.</li>
+        <li class="a-ref-item" refnum="6.">Сафрански Р. Гете: жизнь как произведение искусства / пер. с нем. К. Тимофеевой. М.: Дело, 2018.</li>
+        <li class="a-ref-item" refnum="7.">Фокеева М. П. Терапевтическое в романах В. Г. Зебальда // Вестник Литературного института имени А. М. Горького. 2017. № 4.</li>
+        <li class="a-ref-item" refnum="8.">Фортунатова В. А. Драматургия Я. М. Р. Ленца (к вопросу эволюции творчества): автореф. дисс. ... к. филол. н. Горький, 1973. </li>
+        <li class="a-ref-item" refnum="9.">Damm S. Vögel, die verkünden Land. Das Leben des Jakob Michael Reinhold Lenz. 3. korrig. Aufl. Frankfurt am Main: Insel, 1989.</li>
+        <li class="a-ref-item" refnum="10.">Korff H. A. Geist der Goethezeit. Versuch einer ideellen Entwicklung der klassisch-romantischen Literaturgeschichte: in 5 Bdn. Leipzig: Weber, 1923. Bd. 1. Sturm und Drang.</li>
+        <li class="a-ref-item" refnum="11.">Luserke M. Sturm und Drang. Autoren, Texte, Themen. Stuttgart: Reclam, 1997.</li>
+        <li class="a-ref-item" refnum="12.">Madland H. S. Image und Text: J. M. R. Lenz. Amsterdam – Atlanta: Rodopi, 1994.</li>
+        <li class="a-ref-item" refnum="13.">Smoljan O. Friedrich Maximilian Klinger: Leben und Werk. Weimar: Arion, 1962.</li>
+        <li class="a-ref-item" refnum="14.">Stephan I., Winter H.-G. Ein vorübergehendes Meteor? J. M. R. Lenz und seine Rezeption in Deutschland. Stuttgart: Melzer, 1984.</li>
+        <li class="a-ref-item" refnum="15.">Thüring H. „[A]uf meinem bloßen Herzen“. Kollektive Produktivität in Jakob Michael Reinhold Lenz’ „Der Waldbruder“ // Kollektives Schreiben / hrsg. von D. Ehrmann, T. Traupmann. Paderborn: Brill; Fink, 2022.</li>
+        <li class="a-ref-item" refnum="16.">Weinhold K. Ein Brieflein Goethes an Lenz // Chronik des Wiener Goethe-Vereins. 1887. Bd. I.</li>
+        <li class="a-ref-item" refnum="17.">Wurst K. A. J. M. R. Lenz’ Poetik der Bedingungsverhältnisse: „Werther“, die „Werther-Briefe“ und „Der Waldbruder, ein Pendant zu Werthers Leiden“ // J. R. M. Lenz als Alternative? Positionsanalysen zum 200. Todestag / hrsg. von K. A. Wurst. Köln – Weimar – Wien – Böhlau, 1992.</li>
+    </ol>
+
+
+
+
+
+
+<h2 id="auth">Author information</h2>
+
+<div id="a1" class="a-author mt-md">
+    <p class="a-author-name">Nikita Valer’evich Gladilin</p>
+    <p class="a-author-sci mt-0">Dr</p>    <p class="a-author-affil mt-0">A. M. Gorki Literature Institute, Moscow</p>        <ul class="a-author-tools">
+        <li class="a-author-orcid"><span><a href="https://orcid.org/0009-0006-7676-3663">https://orcid.org/0009-0006-7676-3663</a></span></li>
+            </ul>
+    </div>
+
+
+
+<h2 id="info">About this article</h2>
+
+
+<h3>Publication history</h3>
+<ul class="a-history">
+    <li class="a-history-item">Received: July 2, 2023.</li>        <li class="a-history-item">Published: August 31, 2023.</li>
+    </ul>
+
+
+<h3>Keywords</h3>
+<ul class="a-keywords">
+        <li class="a-keywords-item">Я. М. Р. Ленц</li>
+        <li class="a-keywords-item">И. В. Гете</li>
+        <li class="a-keywords-item">движение «Буря и натиск»</li>
+        <li class="a-keywords-item">ранний модерн</li>
+        <li class="a-keywords-item">терапевтическое письмо</li>
+        <li class="a-keywords-item">J. M. R. Lenz</li>
+        <li class="a-keywords-item">J. W. von Goethe</li>
+        <li class="a-keywords-item">Sturm und Drang movement</li>
+        <li class="a-keywords-item">early modern</li>
+        <li class="a-keywords-item">therapeutic writing</li>
+    </ul>
+
+<h3>Copyright</h3>
+<p>© 2023 The Author(s)<br />© 2023 Gramota Publishing, LLC</p>
+
+<h3>User license</h3>
+<p><a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International (CC BY 4.0)</a></p>
+
+				</div>
+
+			</div>
+
+		</article>
+
+	</main>
+
+	<footer>
+
+		<div class="footer-title">
+			<div class="footer-title-wrapper mw-960">
+				<div class="footer-j-title">
+					<a class="footer-j-title-link a-decor-none" href="/en/">Philology. Theory&nbsp;&&nbsp;Practice</a>
+				</div>
+				<div class="footer-j-issn">
+										<div class="footer-j-issn-item">ISSN 2782-4543 (online)</div>
+															<div class="footer-j-issn-item">ISSN 1997-2911 (print)</div>
+									</div>
+			</div>
+		</div>
+
+		<div class="footer-links">
+			<div class="footer-links-wrapper mw-960">
+
+				<h3 class="footer-links-title">
+					Contact us
+				</h3>
+
+				<div class="footer-links-block">
+
+					<div class="footer-link-item">
+						Submission enquiries:
+						<a class="a-decor-mirror" href="mailto:phil@gramota.net">phil@gramota.net</a>
+					</div>
+					<div class="footer-link-item">
+						General enquiries:
+						<a class="a-decor-mirror" href="mailto:glavred@gramota.net">glavred@gramota.net</a>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="footer-bottom">
+			<div class="footer-bottom-wrapper mw-960">
+
+				 				<div class="footer-bottom-logo">
+					<a class="a-decor-none" href="https://www.gramota.net">
+						<img src="/assets/journal/images/logo-47ce40221eb3615431382cb19666c966.svg" alt="Gramota Publishing, LLC">
+					</a>
+				</div>
+
+				<div class="mt-md footer-bottom-copyright">
+					Copyright © 2025 Gramota Publishing, LLC
+				</div>
+
+			</div>
+		</div>
+
+	</footer>
+</body>
+
+</html>

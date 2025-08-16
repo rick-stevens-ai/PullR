@@ -1,0 +1,9 @@
+Title: Implementing laboratory automation for next-generation sequencing: benefits and challenges for library preparation
+Authors: Jillian N. Socea, V. N. Stone, Xiaorong Qian, Paula L. Gibbs, Kara J. Levinson
+Year: 2023
+Paper ID: 85b19a6f5597689fe4dedb3954aff3026e75ea20
+URL: https://www.semanticscholar.org/paper/85b19a6f5597689fe4dedb3954aff3026e75ea20
+Venue: Frontiers in Public Health
+
+Abstract:
+In the wake of COVID-19, the importance of next-generation sequencing (NGS) for diagnostic testing and surveillance-based screening has never been more evident. Considering this, continued investment is critical to ensure more public health laboratories can adopt these advanced molecular technologies. However, many facilities may face potential barriers such as limited staff available to routinely prepare, test, and analyze samples, lack of expertise or experience in sequencing, difficulties in assay standardization, and an inability to handle throughput within expected turnaround times. Workflow automation provides an opportunity to overcome many of these challenges. By identifying these types of sustainable solutions, laboratories can begin to utilize more advanced molecular-based approaches for routine testing. Nevertheless, the introduction of automation, while valuable, does not come without its own challenges. This perspective article aims to highlight the benefits and difficulties of implementing laboratory automation used for sequencing. We discuss strategies for implementation, including things to consider when selecting instrumentation, how to approach validations, staff training, and troubleshooting.

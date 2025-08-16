@@ -1,0 +1,9 @@
+Title: Exploration of the Combination of PLK1 Inhibition with Immunotherapy in Cancer Treatment
+Authors: Mengyuan Li, Zhixian Liu, Xiaosheng Wang
+Year: 2018
+Paper ID: 5a56656ff89d6e07ce258656470715d1b085b123
+URL: https://www.semanticscholar.org/paper/5a56656ff89d6e07ce258656470715d1b085b123
+Venue: Journal of Oncology
+
+Abstract:
+Background PLK1 overexpression is oncogenic and is associated with poor prognosis in various cancers. However, the current PLK1 inhibitors have achieved limited clinical successes. On the other hand, although immunotherapies are demonstrating efficacy in treating many refractory cancers, a substantial number of patients do not respond to such therapies. The potential of combining PLK1 inhibition with immunotherapy for cancer treatment is worthy of exploration. Methods We analyzed the associations of PLK1 expression with tumor immunity in 33 different cancer types. Moreover, we analyzed the associations of the drug sensitivities of PLK1 inhibitors with tumor immunity in cancer cell lines. Furthermore, we explored the mechanism underlying the significant associations between PLK1 and tumor immunity. Finally, we experimentally verified some findings from bioinformatics analysis. Results The cancers with higher PLK1 expression levels tended to have lower immune activities, such as lower HLA expression and decreased B cells, NK cells and tumor-infiltrating lymphocytes infiltration. On the other side, elevated tumor immunity likely increased the sensitivity of cancer cells to PLK1 inhibitors. The main mechanism underlying the associations between PLK1 and tumor immunity may lie in the aberrant cell cycle and p53 pathways in cancers. Conclusions Our findings implicate that the PLK1 inhibition and immunotherapy combination may achieve a synergistic antitumor efficacy.

@@ -1,0 +1,12 @@
+Title: Incremental recompilation of laboratory workflows
+Authors: Georg Hinkel
+Year: 2021
+Paper ID: c7b16c7111032e612d0a08ef04c56eba9c13ceb2
+URL: https://www.semanticscholar.org/paper/c7b16c7111032e612d0a08ef04c56eba9c13ceb2
+Venue: Transformation Tool Contest
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/c7b16c7111032e612d0a08ef04c56eba9c13ceb2

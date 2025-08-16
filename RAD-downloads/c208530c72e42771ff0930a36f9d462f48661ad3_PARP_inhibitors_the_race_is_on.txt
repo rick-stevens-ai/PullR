@@ -1,0 +1,9 @@
+Title: PARP inhibitors: the race is on
+Authors: Jessica Brown, S. Kaye, T. Yap
+Year: 2016
+Paper ID: c208530c72e42771ff0930a36f9d462f48661ad3
+URL: https://www.semanticscholar.org/paper/c208530c72e42771ff0930a36f9d462f48661ad3
+Venue: British Journal of Cancer
+
+Abstract:
+Since the seminal publications in 2005 that demonstrated the exquisite sensitivity of BRCA1 and BRCA2 (BRCA1/2) mutant cell lines and xenografts to poly(ADP-ribose) polymerase (PARP) inhibition (Bryant et al, 2005; Farmer et al, 2005), the race has been on to exploit single-agent PARP inhibitors for clinical use through the concept of tumour-specific synthetic lethality (Yap et al., 2011; O’Connor, 2015). In 2014, olaparib (Lynparza; AstraZeneca, London, UK) was the first PARP inhibitor to be approved by the European Medicines Agency as maintenance therapy for responding patients with BRCA1/2 mutant ovarian cancer following platinum-based chemotherapy, and the first to obtain accelerated approval by the US Food and Drug Administration (FDA) for advanced BRCA1/2 mutant ovarian cancer while confirmatory trials are completed. There are, however, several other potent and bona fide PARP inhibitors, including rucaparib (AGO14699; Clovis, Boulder, CO, USA), niraparib (MK4827; Tesaro, Waltham, MA, USA), talazoparib (BMN-673; Medivation, San Francisco, CA, USA) and veliparib (ABT-888; Abbvie, North Chicago, IL, USA), which are all currently in late phase clinical trial development (Table 1). Rucaparib was granted breakthrough therapy designation by the FDA in April 2015, following the results of the ARIEL2 trial (Kristeleit et al., 2015) for use as monotherapy in patients with BRCA1/2 mutant (germline or somatic) advanced ovarian cancer after at least two prior lines of platinum-containing therapy.

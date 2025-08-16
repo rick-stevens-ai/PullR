@@ -1,0 +1,12 @@
+Title: The state of the art of testing standards for integrated robotic systems
+Authors: Z. Bi, Zhonghua Miao, Bin Zhang, Chris W. J. Zhang
+Year: 2020
+Paper ID: 413307423fdc4c0a86a86ba5872b4f8bc9ac1f8a
+URL: https://www.semanticscholar.org/paper/413307423fdc4c0a86a86ba5872b4f8bc9ac1f8a
+Venue: Robotics Comput. Integr. Manuf.
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/413307423fdc4c0a86a86ba5872b4f8bc9ac1f8a

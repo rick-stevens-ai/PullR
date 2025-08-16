@@ -1,0 +1,9 @@
+Title: Mass spectrometry‐based high‐throughput proteomics and its role in biomedical studies and systems biology
+Authors: Christoph B. Messner, V. Demichev, Z. Wang, Johannes Hartl, Georg Kustatscher et al. (and 2 more)
+Year: 2022
+Paper ID: 5d79b28866768ce62ba07fbbfa459cd2dfb16809
+URL: https://www.semanticscholar.org/paper/5d79b28866768ce62ba07fbbfa459cd2dfb16809
+Venue: Proteomics
+
+Abstract:
+There are multiple reasons why the next generation of biological and medical studies require increasing numbers of samples. Biological systems are dynamic, and the effect of a perturbation depends on the genetic background and environment. As a consequence, many conditions need to be considered to reach generalizable conclusions. Moreover, human population and clinical studies only reach sufficient statistical power if conducted at scale and with precise measurement methods. Finally, many proteins remain without sufficient functional annotations, because they have not been systematically studied under a broad range of conditions. In this review, we discuss the latest technical developments in mass spectrometry (MS)‐based proteomics that facilitate large‐scale studies by fast and efficient chromatography, fast scanning mass spectrometers, data‐independent acquisition (DIA), and new software. We further highlight recent studies which demonstrate how high‐throughput (HT) proteomics can be applied to capture biological diversity, to annotate gene functions or to generate predictive and prognostic models for human diseases.

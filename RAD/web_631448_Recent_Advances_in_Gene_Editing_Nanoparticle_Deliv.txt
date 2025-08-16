@@ -1,0 +1,10 @@
+Title: Recent Advances in Gene Editing, Nanoparticle Delivery, and Cancer Therapeutics: Research Highlights from the Glazer Lab at Yale University
+Authors: Glazer PM, Saltzman WM, Stitelman DH, Egan ME, and collaborators
+Year: N/A
+Paper ID: web_631448
+URL: https://medicine.yale.edu/lab/glazer/pubs/
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+The Glazer Lab at Yale University is at the forefront of biomedical research, focusing on innovative strategies in gene editing, nanoparticle-based delivery systems, cancer therapy, and DNA repair mechanisms. Their multidisciplinary approach integrates molecular biology, nanotechnology, and translational medicine to address critical challenges in genetic diseases and oncology. Recent research highlights include the development of systemic in utero gene editing techniques for the treatment of cystic fibrosis, the creation of tumor-targeted therapies utilizing pH-sensitive peptides, and the refinement of CRISPR-Cas9 specificity. The lab employs a diverse array of methodologies, such as in vivo and in vitro experiments, nanoparticle synthesis and biodistribution studies, advanced genome editing technologies (including CRISPR and peptide nucleic acids), clinical trials, and molecular biology assays. Through both fundamental mechanistic studies and translational applications, the Glazer Lab continues to make significant contributions to the advancement of biomedical science.

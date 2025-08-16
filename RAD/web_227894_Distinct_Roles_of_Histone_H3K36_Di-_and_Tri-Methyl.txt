@@ -1,0 +1,10 @@
+Title: Distinct Roles of Histone H3K36 Di- and Tri-Methylation in Regulating DNA Double-Strand Break Repair Pathways
+Authors: Unknown
+Year: N/A
+Paper ID: web_227894
+URL: https://pubmed.ncbi.nlm.nih.gov/38842635/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Histone H3 lysine 36 (H3K36) methylation and its associated modifiers are essential for the repair of DNA double-strand breaks (DSBs), yet the specific mechanisms by which different methylation states influence repair pathway choice remain unclear. In this study, we delineate the distinct functions of H3K36 dimethylation (H3K36me2) and trimethylation (H3K36me3) in DSB repair via non-homologous end joining (NHEJ) and homologous recombination (HR). Using yeast models, we demonstrate that loss of H3K36me2 or H3K36me3 selectively impairs NHEJ or HR efficiency, respectively. The repair factors yKu70 and Rfa1 preferentially bind to H3K36me2- or H3K36me3-modified peptides and chromatin. Disruption of these interactions hinders the recruitment of yKu70 and Rfa1 to damaged chromatin enriched in H3K36me2 or H3K36me3, resulting in increased DNA damage sensitivity and reduced repair efficiency. Furthermore, H3K36me2-enriched intergenic regions and H3K36me3-enriched gene bodies independently facilitate the recruitment of yKu70 or Rfa1 under DSB stress. Notably, the human homologs KU70 and RPA1 exhibit conserved, exclusive associations with H3K36me2 and H3K36me3, respectively. These findings provide new insights into the regulatory roles of H3K36 methylation in DSB repair pathway selection, underscoring its importance in genome stability.

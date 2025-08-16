@@ -1,0 +1,10 @@
+Title: The Impact of Gut Microbiota on the Development and Management of Radiation-Induced Enteritis
+Authors: Yongping Jian, Dan Zhang, Mingdi Liu, Yishu Wang, Zhi-Xiang Xu
+Year: 2021
+Paper ID: web_660183
+URL: https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.586392/full
+Venue: Frontiers in Cellular and Infection Microbiology
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Radiation-induced enteritis is a common and serious complication of abdominal radiotherapy, significantly affecting patient quality of life and treatment outcomes. Recent research has revealed that gut microbiota dysbiosis plays a crucial role in the onset and severity of this condition. Radiation exposure disrupts the composition and diversity of the gut microbiome, notably reducing beneficial bacteria such as Lactobacillus and Bifidobacterium while increasing pathogenic species like Escherichia coli and Staphylococcus. These alterations exacerbate intestinal injury and inflammation. This review synthesizes findings from clinical and animal studies, including analyses using 16S rRNA sequencing, to elucidate the mechanisms by which microbiota changes contribute to radiation-induced enteritis. Furthermore, the article discusses emerging microbiome-targeted interventions—such as probiotics, fecal microbiota transplantation, and antibiotics—as promising strategies for prevention and treatment. The authors emphasize the need for further research to clarify the underlying mechanisms and to optimize therapeutic approaches targeting the gut microbiome in patients undergoing radiotherapy.

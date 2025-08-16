@@ -1,0 +1,10 @@
+Title: Distinct Mutational Signatures and Genomic Alterations in Trp53-Deficient Mouse Tumors Induced by High- and Low-Energy Radiation
+Authors: Unknown
+Year: N/A
+Paper ID: web_400732
+URL: https://www.nature.com/articles/s41467-019-14261-4
+Venue: Nature Communications
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study investigates the mutational consequences of exposure to high-energy (Fe-ion) and low-energy (gamma) radiation in Trp53-deficient mice, a model relevant to cancer therapy and environmental exposures such as space travel. Using mouse models hemizygous and homozygous for Trp53 loss-of-function alleles, researchers exposed animals to low doses (50 cGy) of either radiation type and monitored tumor development over more than 400 days. Tumors were subsequently analyzed using whole-genome and whole-exome sequencing to characterize mutational signatures and structural variants. The results reveal that high-energy Fe-ion radiation induces focal structural variants and genomic instability, including Met amplification, whereas gamma radiation leads to large-scale structural variants and a point mutation signature associated with oxidative stress. The study further demonstrates that the interplay between radiation type, Trp53 germline status, and tissue or cell of origin shapes the genomic landscape and tumor spectrum, with mammary tumors being most prevalent. These findings underscore the complex mechanisms underlying radiation-induced carcinogenesis and highlight the importance of considering both radiation quality and genetic background in assessing cancer risk.

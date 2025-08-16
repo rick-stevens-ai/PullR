@@ -1,0 +1,9 @@
+Title: A Branching-Process-Based Method to Check Soundness of Workflow Systems
+Authors: Guanjun Liu, W. Reisig, Changjun Jiang, Mengchu Zhou
+Year: 2016
+Paper ID: be3a919e8bce2601b92f2b80daabed242de8fd65
+URL: https://www.semanticscholar.org/paper/be3a919e8bce2601b92f2b80daabed242de8fd65
+Venue: IEEE Access
+
+Abstract:
+Workflow nets (WF-nets) as a class of Petri nets are widely used to model and analyze workflow systems. Soundness is an important property of WF-nets, which guarantees that the systems are deadlock- and livelock-free and each task has a chance to be performed. Van der Aalst has proven that the soundness problem is decidable for WF-nets and we have also shown that it is PSPACE-complete for bounded ones. Since the definition of soundness is based on reachability and Van der Aalst has proven that a sound WF-net must be bounded, the soundness detection can be carried out via the reachability graph analysis. However, the state explosion problem is a big obstacle to this technique. The unfolding technique of Petri nets can effectively avoid/alleviate this problem. This paper proposes an algorithm to generate a finite prefix of the unfolding of a WF-net, called basic unfolding. Furthermore, a necessary and sufficient condition is proposed to decide soundness based on basic unfolding. In addition, some examples illustrate that the unfolding technique can save the storage space effectively.

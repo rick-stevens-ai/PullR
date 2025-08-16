@@ -1,0 +1,9 @@
+Title: Modeling of Distributed Control System for Network of Mineral Water Wells
+Authors: I. Pershin, E. G. Papush, T. V. Kukharova, V. Utkin
+Year: 2023
+Paper ID: 920e1280ec3e5c2cd7b169750cc7a88467353476
+URL: https://www.semanticscholar.org/paper/920e1280ec3e5c2cd7b169750cc7a88467353476
+Venue: Water
+
+Abstract:
+The article is devoted to solving the problem of designing a distributed control system for a network of production wells on the example of mineral water deposits in the Caucasus Mineral Waters region, Russia. The purpose was to determine the set of parameters of the control system to ensure technologically effective and safe operating modes of mineral water deposits. A mathematical model of the deposit was developed taking into account the given configuration and production rate of the network of the wells. The detailed algorithm is presented for designing the control system under consideration based on the frequency concept of analysis and synthesis for distributed control systems. The experimental tests and model validation were performed at the production wells facility of “Narzan”, Kislovodsk, Russia. The results of modeling and field experiments confirmed the adequacy of the mathematical model and the effectiveness of the proposed algorithm. The authors came to the conclusion that the adapted mathematical model can be used to create a regional automated field cluster management system for monitoring, operational management and forecasting the nature of real hydrogeological processes and ensuring their stability.

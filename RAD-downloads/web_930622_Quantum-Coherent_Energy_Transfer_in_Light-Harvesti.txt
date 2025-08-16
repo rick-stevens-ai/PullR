@@ -1,0 +1,10 @@
+Title: Quantum-Coherent Energy Transfer in Light-Harvesting Proteins of Marine Algae at Ambient Temperature
+Authors: Elisabetta Collini, Cathy Y. Wong, Krystyna E. Wilk, Paul M. G. Curmi, Paul Brumer, Gregory D. Scholes
+Year: 2010
+Paper ID: web_930622
+URL: https://doi.org/10.1038/nature08811
+Venue: Nature
+Content Status: EXTERNAL_URL, LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study provides direct evidence that light-harvesting proteins from marine cryptophyte algae exhibit long-lived quantum coherence in electronic excitation transfer, even at room temperature. Using two-dimensional photon echo spectroscopy, the excitation dynamics of two related proteins, PC645 and PE545, were investigated. The results reveal that quantum coherence enables efficient sharing of excitation energy across distant molecules within these protein complexes, effectively creating a 'wired' network optimized for light harvesting under biologically relevant conditions. These findings challenge the traditional view that quantum coherence cannot be sustained in complex biological systems at ambient temperatures, offering new insights into the mechanisms underlying photosynthetic energy transfer.

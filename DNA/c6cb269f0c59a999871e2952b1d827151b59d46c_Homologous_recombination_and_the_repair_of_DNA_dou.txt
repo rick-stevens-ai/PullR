@@ -1,0 +1,9 @@
+Title: Homologous recombination and the repair of DNA double-strand breaks
+Authors: W. D. Wright, S. Shah, W. Heyer
+Year: 2018
+Paper ID: c6cb269f0c59a999871e2952b1d827151b59d46c
+URL: https://www.semanticscholar.org/paper/c6cb269f0c59a999871e2952b1d827151b59d46c
+Venue: Journal of Biological Chemistry
+
+Abstract:
+Homologous recombination enables the cell to access and copy intact DNA sequence information in trans, particularly to repair DNA damage affecting both strands of the double helix. Here, we discuss the DNA transactions and enzymatic activities required for this elegantly orchestrated process in the context of the repair of DNA double-strand breaks in somatic cells. This includes homology search, DNA strand invasion, repair DNA synthesis, and restoration of intact chromosomes. Aspects of DNA topology affecting individual steps are highlighted. Overall, recombination is a dynamic pathway with multiple metastable and reversible intermediates designed to achieve DNA repair with high fidelity.

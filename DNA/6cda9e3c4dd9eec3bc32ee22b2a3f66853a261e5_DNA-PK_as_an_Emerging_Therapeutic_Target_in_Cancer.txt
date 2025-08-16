@@ -1,0 +1,9 @@
+Title: DNA-PK as an Emerging Therapeutic Target in Cancer
+Authors: Ismail S. Mohiuddin, Min H. Kang
+Year: 2019
+Paper ID: 6cda9e3c4dd9eec3bc32ee22b2a3f66853a261e5
+URL: https://www.semanticscholar.org/paper/6cda9e3c4dd9eec3bc32ee22b2a3f66853a261e5
+Venue: Frontiers in Oncology
+
+Abstract:
+The DNA-dependent protein kinase (DNA-PK) plays an instrumental role in the overall survival and proliferation of cells. As a member of the phosphatidylinositol 3-kinase-related kinase (PIKK) family, DNA-PK is best known as a mediator of the cellular response to DNA damage. In this context, DNA-PK has emerged as an intriguing therapeutic target in the treatment of a variety of cancers, especially when used in conjunction with genotoxic chemotherapy or ionizing radiation. Beyond the DNA damage response, DNA-PK activity is necessary for multiple cellular functions, including the regulation of transcription, progression of the cell cycle, and in the maintenance of telomeres. Here, we review what is currently known about DNA-PK regarding its structure and established roles in DNA repair. We also discuss its lesser-known functions, the pharmacotherapies inhibiting its function in DNA repair, and its potential as a therapeutic target in a broader context.

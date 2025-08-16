@@ -1,0 +1,9 @@
+Title: AZD7648 is a potent and selective DNA-PK inhibitor that enhances radiation, chemotherapy and olaparib activity
+Authors: Jacqueline H. L. Fok, A. Ramos-Montoya, M. Vázquez-Chantada, P. Wijnhoven, Valeria Follia et al. (and 20 more)
+Year: 2019
+Paper ID: 49402a49770799d1988e8f12ba9249a2d248f849
+URL: https://www.semanticscholar.org/paper/49402a49770799d1988e8f12ba9249a2d248f849
+Venue: Nature Communications
+
+Abstract:
+DNA-dependent protein kinase (DNA-PK) is a critical player in the DNA damage response (DDR) and instrumental in the non-homologous end-joining pathway (NHEJ) used to detect and repair DNA double-strand breaks (DSBs). We demonstrate that the potent and highly selective DNA-PK inhibitor, AZD7648, is an efficient sensitizer of radiation- and doxorubicin-induced DNA damage, with combinations in xenograft and patient-derived xenograft (PDX) models inducing sustained regressions. Using ATM-deficient cells, we demonstrate that AZD7648, in combination with the PARP inhibitor olaparib, increases genomic instability, resulting in cell growth inhibition and apoptosis. AZD7648 enhanced olaparib efficacy across a range of doses and schedules in xenograft and PDX models, enabling sustained tumour regression and providing a clear rationale for its clinical investigation. Through its differentiated mechanism of action as an NHEJ inhibitor, AZD7648 complements the current armamentarium of DDR-targeted agents and has potential in combination with these agents to achieve deeper responses to current therapies. DNA-dependent protein kinase (DNA-PK) plays a major role in the DNA damage response upon double-strand break formation. Here, the authors show that the DNA-PK inhibitor AZD7648, enhances the activity of radiotherapy, chemotherapy and the PARP inhibitor olaparib in multiple mouse tumour models.

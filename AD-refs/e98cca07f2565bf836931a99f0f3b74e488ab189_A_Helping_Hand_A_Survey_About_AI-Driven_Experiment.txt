@@ -1,0 +1,9 @@
+Title: A Helping Hand: A Survey About AI-Driven Experimental Design for Accelerating Scientific Research
+Authors: Lukas Nolte, Sven Tomforde
+Year: 2025
+Paper ID: e98cca07f2565bf836931a99f0f3b74e488ab189
+URL: https://www.semanticscholar.org/paper/e98cca07f2565bf836931a99f0f3b74e488ab189
+Venue: Applied Sciences
+
+Abstract:
+Designing and conducting experiments is a fundamental process across various scientific disciplines, such as materials science, biology, medicine, and chemistry. However, experimental research still predominantly relies on traditional, time-consuming, resource-intensive, and costly trial-and-error experimentation approaches that hinder rapid discovery, reproducibility, and scalability. Recent advances in artificial intelligence (AI) and machine learning (ML) offer promising alternatives, but a comprehensive overview of their implementations in experimental design is lacking. This research fills this gap by providing a structured overview and analysis of existing frameworks for AI-driven experimental design, supporting researchers in selecting and developing suitable AI-driven approaches to automate and accelerate their experimental research. Moreover, it discusses the current limitations and challenges of AI techniques and ethical issues related to AI-driven experimental design frameworks. A search and filter strategy is developed and applied to appropriate databases with the objective of identifying the relevant literature. Here, active learning, particularly Bayesian optimization, stands out as the predominantly used methodology. The majority of frameworks are partially autonomous, while fully autonomous frameworks are underrepresented. However, more research is needed in the field of AI-driven experimental design due to the low number of relevant papers obtained.

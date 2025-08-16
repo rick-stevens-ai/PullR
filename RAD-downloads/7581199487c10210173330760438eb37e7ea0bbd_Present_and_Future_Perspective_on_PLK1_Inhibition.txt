@@ -1,0 +1,9 @@
+Title: Present and Future Perspective on PLK1 Inhibition in Cancer Treatment
+Authors: M. Chiappa, Serena Petrella, G. Damia, M. Broggini, F. Guffanti et al. (and 1 more)
+Year: 2022
+Paper ID: 7581199487c10210173330760438eb37e7ea0bbd
+URL: https://www.semanticscholar.org/paper/7581199487c10210173330760438eb37e7ea0bbd
+Venue: Frontiers in Oncology
+
+Abstract:
+Polo-like kinase 1 (PLK1) is the principle member of the well conserved serine/threonine kinase family. PLK1 has a key role in the progression of mitosis and recent evidence suggest its important involvement in regulating the G2/M checkpoint, in DNA damage and replication stress response, and in cell death pathways. PLK1 expression is tightly spatially and temporally regulated to ensure its nuclear activation at the late S-phase, until the peak of expression at the G2/M-phase. Recently, new roles of PLK1 have been reported in literature on its implication in the regulation of inflammation and immunological responses. All these biological processes are altered in tumors and, considering that PLK1 is often found overexpressed in several tumor types, its targeting has emerged as a promising anti-cancer therapeutic strategy. In this review, we will summarize the evidence suggesting the role of PLK1 in response to DNA damage, including DNA repair, cell cycle progression, epithelial to mesenchymal transition, cell death pathways and cancer-related immunity. An update of PLK1 inhibitors currently investigated in preclinical and clinical studies, in monotherapy and in combination with existing chemotherapeutic drugs and targeted therapies will be discussed.

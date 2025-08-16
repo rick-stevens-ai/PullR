@@ -1,0 +1,9 @@
+Title: Skeletal muscle blood flow independently modulates insulin-mediated glucose uptake.
+Authors: A. Baron, H. Steinberg, G. Brechtel, A. Johnson
+Year: 1994
+Paper ID: 817d1b7da9c9195365adc44798e2ab3e7fff6743
+URL: https://www.semanticscholar.org/paper/817d1b7da9c9195365adc44798e2ab3e7fff6743
+Venue: American Journal of Physiology
+
+Abstract:
+Insulin-mediated glucose uptake (IMGU) occurs principally in skeletal muscle. To directly examine whether skeletal muscle perfusion (F) can directly and independently modulate IMGU, we combined the hyperinsulinemic euglycemic clamp and leg balance techniques [leg glucose uptake (LGU) = arteriovenous glucose difference (delta AVG) x F]. Young (< 40 yr) healthy lean subjects were studied during euglycemic hyperinsulinemia of approximately 23 microU/ml (group I, n = 8) and approximately 950 microU/ml (group II, n = 6). Femoral delta AVG and leg F were measured, and LGU was calculated at baseline after approximately 200 min of steady-state hyperinsulinemia alone and during a superimposed intrafemoral artery infusion of methacholine hydrochloride designed to increase leg F two- to threefold. In groups I and II, insulin raised the delta AVG approximately 4- and 14-fold, respectively (P < 0.0001). Leg F was unchanged during the low-dose insulin infusion (group I) but increased 112 +/- 35% in group II (P < 0.001). During methacholine infusion the delta AVG narrowed 35.9 +/- 6.8% (P < 0.01) and 20.5 +/- 4.8% (P < 0.05) in groups I and II, respectively. Leg F rose 224 +/- 30% (P < 0.01) and 79 +/- 13% (P < 0.05) above the flow rate achieved with insulin alone. Thus, during methacholine flow modulation, LGU increased 116 +/- 36% (P < 0.01) and 47 +/- 11% (P < 0.05) in groups I and II, respectively. In conclusion, skeletal muscle perfusion during hyperinsulinemia can act as an independent determinant of IMGU.

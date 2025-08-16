@@ -1,0 +1,9 @@
+Title: PARP Inhibitors – Trapped in a Toxic Love Affair
+Authors: Dragomir B. Krastev, Andrew J. Wicks, C. Lord
+Year: 2021
+Paper ID: 239c3b6b304b9f39325bdf93cb578a4cb54affea
+URL: https://www.semanticscholar.org/paper/239c3b6b304b9f39325bdf93cb578a4cb54affea
+Venue: Cancer Research
+
+Abstract:
+It is often the case that when an investigational cancer drug first enters clinical development, its precise mechanism of action is unclear. This was the case for PARP inhibitors (PARPi) used to treat homologous recombination–defective cancers. In 2012, nearly a decade after the first PARPi entered clinical development, work from Murai and colleagues demonstrated that clinical PARPi not only inhibit the catalytic activity of PARP1, PARylation, but also “trap” PARP1 on DNA; this latter effect being responsible for much of the tumor cell cytotoxicity caused by these drugs. We discuss how this work not only changed our understanding about how PARPi work, but also stimulated subsequent dissection of how PARP1 carries out its normal function in the absence of inhibitor. See related article by Murai and colleagues, Cancer Res 2012;72:5588–99

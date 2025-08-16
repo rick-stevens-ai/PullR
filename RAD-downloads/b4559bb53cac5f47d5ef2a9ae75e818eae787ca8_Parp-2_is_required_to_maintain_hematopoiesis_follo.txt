@@ -1,0 +1,9 @@
+Title: Parp-2 is required to maintain hematopoiesis following sublethal γ-irradiation in mice.
+Authors: J. Farrés, J. Martı́n-Caballero, Carlos Martínez, J. Lozano, Laura Llacuna et al. (and 7 more)
+Year: 2013
+Paper ID: b4559bb53cac5f47d5ef2a9ae75e818eae787ca8
+URL: https://www.semanticscholar.org/paper/b4559bb53cac5f47d5ef2a9ae75e818eae787ca8
+Venue: Blood
+
+Abstract:
+Hematopoietic stem cells self-renew for life to guarantee the continuous supply of all blood cell lineages. Here we show that Poly(ADP-ribose) polymerase-2 (Parp-2) plays an essential role in hematopoietic stem/progenitor cells (HSPC) survival under steady-state conditions and in response to stress. Increased levels of cell death were observed in HSPC from untreated Parp-2-/- mice, but this deficit was compensated by increased rates of self-renewal, associated with impaired reconstitution of hematopoiesis upon serial bone marrow transplantation. Cell death after γ-irradiation correlated with an impaired capacity to repair DNA damage in the absence of Parp-2. Upon exposure to sublethal doses of γ-irradiation, Parp-2-/- mice exhibited bone marrow failure that correlated with reduced long-term repopulation potential of irradiated Parp-2-/- HSPC under competitive conditions. In line with a protective role of Parp-2 against irradiation-induced apoptosis, loss of p53 or the pro-apoptotic BH3-only protein Puma restored survival of irradiated Parp-2-/- mice, whereas loss of Noxa had no such effect. Our results show that Parp-2 plays essential roles in the surveillance of genome integrity of HSPC by orchestrating DNA repair and restraining p53-induced and Puma-mediated apoptosis. The data may affect the design of drugs targeting Parp proteins and the improvement of radiotherapy-based therapeutic strategies.

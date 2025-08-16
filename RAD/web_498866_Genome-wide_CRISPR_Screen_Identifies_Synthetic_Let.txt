@@ -1,0 +1,10 @@
+Title: Genome-wide CRISPR Screen Identifies Synthetic Lethality Between BCL2L1 Inhibition and Radiotherapy in Cancer
+Authors: Unknown
+Year: N/A
+Paper ID: web_498866
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10844523/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+A comprehensive whole-genome CRISPR/Cas9 screen has identified that the loss of BCL2L1 induces synthetic lethality when combined with radiation treatment. This finding was further validated using pharmacological inhibition of BCL2L1, demonstrating that targeting this protein enhances the cytotoxic effects of radiotherapy. These results suggest that combining radiotherapy with inhibitors of BCL2 family proteins represents a promising therapeutic strategy for cancer treatment.

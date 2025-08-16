@@ -1,0 +1,9 @@
+Title: THE DISAPPEARANCE OF THYMINE DIMERS FROM DNA: AN ERROR-CORRECTING MECHANISM.
+Authors: R. Setlow, W. Carrier
+Year: 1964
+Paper ID: 8aed5332bac2e38efab42467b45924670fd4e74c
+URL: https://www.semanticscholar.org/paper/8aed5332bac2e38efab42467b45924670fd4e74c
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+
+Abstract:
+The state of thymine dimers during the time in which resistant strains of Escherichia coli recover from uvinduced delays in DNA synthesis was investigated. Five strains of E. coli were labeled by growth in Mg medium containing tritiated thymidine. At various times after uv irradiation (200 ergs/ mm2 at 265 m μ ), 1 ml aliquots of cell suspension were centrifuged, trichloracetic acid (TCA) supernatants were removed, and samples were prepared for chromatographic and counting procedures. Photoreactivating illumination was provided by black-light lamps. The radiation dose used stopped DNA synthesis and virtually eliminated colony-formation in two of the five strains. In the other three strains DNA synthesis was inhibited for 60 minutes and colony formation yields were reduced to 0.1 to 10 percent. The dimers disappeared from the acid- soluble fraction of the cells and appeared in the oligonucleotides. In a sensitive strain the dimers remained in the insoluble phase and were photoreactivable. Thus, the onset of DNA synthesis is associated with thymine dimer removal, which is suggested to be one step in cell recovery.

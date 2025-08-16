@@ -1,0 +1,9 @@
+Title: Multiplexed detection of foodborne pathogens using one-pot CRISPR/Cas12a combined with recombinase aided amplification on a finger-actuated microfluidic biosensor.
+Authors: Gaowa Xing, Yuting Shang, Xiaorui Wang, Haifeng Lin, Shulang Chen et al. (and 2 more)
+Year: 2022
+Paper ID: 0e28a0653df40cad215cd734f1e226cab0a40f23
+URL: https://www.semanticscholar.org/paper/0e28a0653df40cad215cd734f1e226cab0a40f23
+Venue: Biosensors & bioelectronics
+
+Abstract:
+Foodborne pathogens have raised significant concerns in human public health. Rapid, high-sensitive, low-cost, and easy-to-use testing methods for food safety are needed. In this study, we developed a finger-actuated microfluidic biosensor (FA-MB) for multiplexed detection of Bacillus cereus and other six common foodborne pathogens based on one-pot CRISPR/Cas12a combined with recombinase aided amplification (RAA). Wells for RAA and CRISPR/Cas12a were isolated to avoid interference, while finger-actuated one-way control valves were incorporated to fulfill the unidirectional flow of RAA products to the CRISPR/Cas12a reaction wells, realizing one-pot RAA-CRISPR/Cas12a assay. The final fluorescent signal was acquired and processed by a smartphone. Under selected experimental conditions, seven pathogenic bacteria could be tested in about 1 h with the limits of detection (LODs) below 500 CFU/mL. Recoveries ranged from 90% to 116% of the spiked samples were readily achieved. The proposed FA-MB is highly integrated and easy-to-use, and could be used for rapid, high-sensitive point of care (POC) testing without the external driving device, suitable for resource-constrained settings.

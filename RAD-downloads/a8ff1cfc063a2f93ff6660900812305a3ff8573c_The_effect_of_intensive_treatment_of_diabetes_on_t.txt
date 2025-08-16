@@ -1,0 +1,22 @@
+Title: The effect of intensive treatment of diabetes on the development and progression of long-term complications in insulin-dependent diabetes mellitus.
+Authors: Diabetes Control, D. Nathan, S. Genuth, J. Lachin, P. Cleary et al. (and 4 more)
+Year: 1993
+Paper ID: a8ff1cfc063a2f93ff6660900812305a3ff8573c
+URL: https://www.semanticscholar.org/paper/a8ff1cfc063a2f93ff6660900812305a3ff8573c
+Venue: New England Journal of Medicine
+
+Abstract:
+BACKGROUND
+Long-term microvascular and neurologic complications cause major morbidity and mortality in patients with insulin-dependent diabetes mellitus (IDDM). We examined whether intensive treatment with the goal of maintaining blood glucose concentrations close to the normal range could decrease the frequency and severity of these complications.
+
+
+METHODS
+A total of 1441 patients with IDDM--726 with no retinopathy at base line (the primary-prevention cohort) and 715 with mild retinopathy (the secondary-intervention cohort) were randomly assigned to intensive therapy administered either with an external insulin pump or by three or more daily insulin injections and guided by frequent blood glucose monitoring or to conventional therapy with one or two daily insulin injections. The patients were followed for a mean of 6.5 years, and the appearance and progression of retinopathy and other complications were assessed regularly.
+
+
+RESULTS
+In the primary-prevention cohort, intensive therapy reduced the adjusted mean risk for the development of retinopathy by 76 percent (95 percent confidence interval, 62 to 85 percent), as compared with conventional therapy. In the secondary-intervention cohort, intensive therapy slowed the progression of retinopathy by 54 percent (95 percent confidence interval, 39 to 66 percent) and reduced the development of proliferative or severe nonproliferative retinopathy by 47 percent (95 percent confidence interval, 14 to 67 percent). In the two cohorts combined, intensive therapy reduced the occurrence of microalbuminuria (urinary albumin excretion of > or = 40 mg per 24 hours) by 39 percent (95 percent confidence interval, 21 to 52 percent), that of albuminuria (urinary albumin excretion of > or = 300 mg per 24 hours) by 54 percent (95 percent confidence interval 19 to 74 percent), and that of clinical neuropathy by 60 percent (95 percent confidence interval, 38 to 74 percent). The chief adverse event associated with intensive therapy was a two-to-threefold increase in severe hypoglycemia.
+
+
+CONCLUSIONS
+Intensive therapy effectively delays the onset and slows the progression of diabetic retinopathy, nephropathy, and neuropathy in patients with IDDM.

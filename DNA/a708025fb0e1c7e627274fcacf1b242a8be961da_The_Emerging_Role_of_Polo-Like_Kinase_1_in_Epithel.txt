@@ -1,0 +1,9 @@
+Title: The Emerging Role of Polo-Like Kinase 1 in Epithelial-Mesenchymal Transition and Tumor Metastasis
+Authors: Z. Fu, D. Wen
+Year: 2017
+Paper ID: a708025fb0e1c7e627274fcacf1b242a8be961da
+URL: https://www.semanticscholar.org/paper/a708025fb0e1c7e627274fcacf1b242a8be961da
+Venue: Cancers
+
+Abstract:
+Polo-like kinase 1 (PLK1) is a serine/threonine kinase that plays a key role in the regulation of the cell cycle. PLK1 is overexpressed in a variety of human tumors, and its expression level often correlates with increased cellular proliferation and poor prognosis in cancer patients. It has been suggested that PLK1 controls cancer development through multiple mechanisms that include canonical regulation of mitosis and cytokinesis, modulation of DNA replication, and cell survival. However, emerging evidence suggests novel and previously unanticipated roles for PLK1 during tumor development. In this review, we will summarize the recent advancements in our understanding of the oncogenic functions of PLK1, with a focus on its role in epithelial-mesenchymal transition and tumor invasion. We will further discuss the therapeutic potential of these functions.

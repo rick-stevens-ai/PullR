@@ -1,0 +1,9 @@
+Title: Xeroderma pigmentosum: a human disease in which an initial stage of DNA repair is defective.
+Authors: By J. E. Cleaver
+Year: 1969
+Paper ID: 3a6595c460b99c4ef28eba52a06f56e82d6f9115
+URL: https://www.semanticscholar.org/paper/3a6595c460b99c4ef28eba52a06f56e82d6f9115
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+
+Abstract:
+Homozygous xeroderma pigmentosum fibroblasts cannot repair damage to DNA bases, but can repair damage that involves chain breaks. In xeroderma pigmentosum, therefore, there is a defect in an early step in repair at which base damage is recognized and the polynucleotide chain broken enzymatically (by an endonuclease). Heterozygous fibroblasts repair base damage to normal extents. Carcinogenesis in xeroderma pigmentosum, and perhaps in some normal individuals, may be the result of somatic mutations caused by unrepaired damage.

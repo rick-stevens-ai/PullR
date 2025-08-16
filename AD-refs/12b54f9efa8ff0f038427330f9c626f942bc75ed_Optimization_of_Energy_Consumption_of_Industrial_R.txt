@@ -1,0 +1,9 @@
+Title: Optimization of Energy Consumption of Industrial Robots Using Classical PID and MPC Controllers
+Authors: Rabab Benotsmane, G. Kovács
+Year: 2023
+Paper ID: 12b54f9efa8ff0f038427330f9c626f942bc75ed
+URL: https://www.semanticscholar.org/paper/12b54f9efa8ff0f038427330f9c626f942bc75ed
+Venue: Energies
+
+Abstract:
+Industrial robots have a key role in the concept of Industry 4.0. On the one hand, these systems improve quality and productivity, but on the other hand, they require a huge amount of energy. Energy saving solutions have to be developed and applied to provide sustainable production. The purpose of this research is to develop the optimal control strategy for industrial robots in order to minimize energy consumption. Therefore, a case study was conducted for the development of two control strategies to be applied to the RV-2AJ Mitsubishi robot arm with 5 DOF, where the system is a nonlinear one. The first examined controller is the classical linear proportional integral derivative (PID) controller, while the second one is the linear model predictive control (MPC) controller. In our study, the performances of both the classical PID model and the linear MPC controller were compared. As a result, it was found that the MPC controller in the execution of the three defined reference trajectories [(1) curve motion, (2) N-shaped motion, and (3) circle motion] was always faster and required less energy consumption, whereas in terms of precision the PID succeeded in executing the trajectory more precisely than the MPC but with higher energy consumption. The main contribution of the research is that the performances of the two control strategies with regard to a complex dynamic system were compared in the case of the execution of three different trajectories. The evaluations show that the MPC controller is, on the one hand, more energy efficient; on the other hand, it provides a shorter cycle time compared to the PID controller.

@@ -1,0 +1,9 @@
+Title: Halogen-Enriched Fragment Libraries as Leads for Drug Rescue of Mutant p53
+Authors: R. Wilcken, Xiangrui Liu, M. Zimmermann, T. Rutherford, A. Fersht et al. (and 2 more)
+Year: 2012
+Paper ID: a609bba3a80f1d03a14db599db1161203e433b61
+URL: https://www.semanticscholar.org/paper/a609bba3a80f1d03a14db599db1161203e433b61
+Venue: Journal of the American Chemical Society
+
+Abstract:
+The destabilizing p53 cancer mutation Y220C creates a druggable surface crevice. We developed a strategy exploiting halogen bonding for lead discovery to stabilize the mutant with small molecules. We designed halogen-enriched fragment libraries (HEFLibs) as starting points to complement classical approaches. From screening of HEFLibs and subsequent structure-guided design, we developed substituted 2-(aminomethyl)-4-ethynyl-6-iodophenols as p53-Y220C stabilizers. Crystal structures of their complexes highlight two key features: (i) a central scaffold with a robust binding mode anchored by halogen bonding of an iodine with a main-chain carbonyl and (ii) an acetylene linker, enabling the targeting of an additional subsite in the crevice. The best binders showed induction of apoptosis in a human cancer cell line with homozygous Y220C mutation. Our structural and biophysical data suggest a more widespread applicability of HEFLibs in drug discovery.

@@ -1,0 +1,9 @@
+Title: Polo-like Kinase 1 Inhibitors in Human Cancer Therapy: Development and Therapeutic Potential.
+Authors: Jifa Zhang, Lele Zhang, Jiaxing Wang, L. Ouyang, Yuxi Wang
+Year: 2022
+Paper ID: 59dc62affa1562a2cdd3e8980d3f8d373c0a195b
+URL: https://www.semanticscholar.org/paper/59dc62affa1562a2cdd3e8980d3f8d373c0a195b
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+Polo-like kinase 1 (PLK1) plays an important role in a variety of cellular functions, including the regulation of mitosis, DNA replication, autophagy, and the epithelial-mesenchymal transition (EMT). PLK1 overexpression is often associated with cell proliferation and poor prognosis in cancer patients, making it a promising antitumor target. To date, at least 10 PLK1 inhibitors (PLK1i) have been entered into clinical trials, among which the typical kinase domain (KD) inhibitor BI 6727 (volasertib) was granted "breakthrough therapy designation" by the FDA in 2013. Unfortunately, many other KD inhibitors showed poor specificity, resulting in dose-limiting toxicity, which has greatly impeded their development. Researchers recently discovered many PLK1i with higher selectivity, stronger potency, and better absorption, distribution, metabolism, and elimination (ADME) characteristics. In this review, we emphasize the structure-activity relationships (SARs) of PLK1i, providing insights into new drugs targeting PLK1 for antitumor clinical practice.

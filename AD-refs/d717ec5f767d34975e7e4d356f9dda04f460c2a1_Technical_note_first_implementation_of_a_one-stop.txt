@@ -1,0 +1,26 @@
+Title: Technical note: first implementation of a one-stop solution of radiotherapy with full-workflow automation based on CT-linac combination.
+Authors: Leijun Yu, Jun Zhao, F. Xia, Zhiyuan Zhang, Yanfang Liu et al. (and 5 more)
+Year: 2023
+Paper ID: d717ec5f767d34975e7e4d356f9dda04f460c2a1
+URL: https://www.semanticscholar.org/paper/d717ec5f767d34975e7e4d356f9dda04f460c2a1
+Venue: Medical Physics (Lancaster)
+
+Abstract:
+BACKGROUND
+Radiotherapy initiation is a laborious and time-consuming process that involves multiple steps and units. Workflow automation is in demand to improve the work efficiency and patient experience.
+
+
+PURPOSE
+The purposes of this study are to describe the technical characteristics and clinical performance of an AI-powered one-stop radiotherapy workflow for initial treatment based on CT-linac combination, and provide insight into the behavior of full-workflow automation in radiotherapy.
+
+
+METHODS
+Based on a CT-integrated linear accelerator and AI model implementation, the so-called "All-in-One" workflow incorporates routine procedures from simulation, autosegmentation, autoplanning, image guidance, beam delivery, and in vivo quality assurance (QA) into one scheme, while the patient is on the treatment couch. Clinical outcomes of the new workflow were evaluated for 10 enrolled patients with rectal cancer.
+
+
+RESULTS
+For the enrolled patients, manual modifications of the autosegmented target volumes were necessary. The Dice similarity coefficient and 95% Hausdorff distance before and after the modifications were 0.892±0.061 and 18.2±13.0 mm, respectively. The autosegmented normal tissues and automatic plans were clinically acceptable without any modifications or reoptimization. The pretreatment IGRT corrections were within 2 mm in all directions, and the EPID-based in vivo QA showed γ passing rate of above 97% (3%/3 mm/10% threshold) at all the checkpoints, better than the results of rectal patients who followed a routine workflow. The duration of the whole process was 23.2±3.5 minutes for the enrolled patients, depending mostly on the time required for manual modification and plan evaluation.
+
+
+CONCLUSIONS
+The All-in-One workflow enables full-process automation of radiotherapy via seamless procedure integration. Compared to the routine workflow, the one-stop solution shortens the time scale it takes to ready the first treatment from days to minutes, significantly improving the patient experience and the workflow efficiency, and it also shows potential to facilitate clinical application of online adaptive replanning. This article is protected by copyright. All rights reserved.

@@ -1,0 +1,10 @@
+Title: Chromothripsis: Mechanisms, Prevalence, Detection, and Role in Oncogenesis
+Authors: Unknown
+Year: N/A
+Paper ID: web_631473
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8147837/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Chromothripsis is characterized by complex patterns of alternating gene copy number changes—normal, gain, or loss—along the length of a chromosome or chromosome segment, as defined by the International System for Human Cytogenomic Nomenclature (2020). First identified in 2011, chromothripsis has significantly altered our understanding of genome variability, the mechanisms underlying oncogenic transformation, and the development of hereditary diseases. This review provides an overview of the chromothripsis phenomenon, including its prevalence within genomes, the molecular mechanisms that drive it, and the current methods available for its detection. Given that chromothripsis most frequently occurs in cancer cells, particular attention is devoted to its contribution to oncogenesis and cancer progression.

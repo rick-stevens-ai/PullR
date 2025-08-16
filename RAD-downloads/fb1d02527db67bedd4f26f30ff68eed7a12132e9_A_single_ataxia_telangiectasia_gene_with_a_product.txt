@@ -1,0 +1,9 @@
+Title: A single ataxia telangiectasia gene with a product similar to PI-3 kinase.
+Authors: K. Savitsky, A. Bar‐Shira, S. Gilad, G. Rotman, Y. Ziv et al. (and 25 more)
+Year: 1995
+Paper ID: fb1d02527db67bedd4f26f30ff68eed7a12132e9
+URL: https://www.semanticscholar.org/paper/fb1d02527db67bedd4f26f30ff68eed7a12132e9
+Venue: Science
+
+Abstract:
+A gene, ATM, that is mutated in the autosomal recessive disorder ataxia telangiectasia (AT) was identified by positional cloning on chromosome 11q22-23. AT is characterized by cerebellar degeneration, immunodeficiency, chromosomal instability, cancer predisposition, radiation sensitivity, and cell cycle abnormalities. The disease is genetically heterogeneous, with four complementation groups that have been suspected to represent different genes. ATM, which has a transcript of 12 kilobases, was found to be mutated in AT patients from all complementation groups, indicating that it is probably the sole gene responsible for this disorder. A partial ATM complementary DNA clone of 5.9 kilobases encoded a putative protein that is similar to several yeast and mammalian phosphatidylinositol-3' kinases that are involved in mitogenic signal transduction, meiotic recombination, and cell cycle control. The discovery of ATM should enhance understanding of AT and related syndromes and may allow the identification of AT heterozygotes, who are at increased risk of cancer.

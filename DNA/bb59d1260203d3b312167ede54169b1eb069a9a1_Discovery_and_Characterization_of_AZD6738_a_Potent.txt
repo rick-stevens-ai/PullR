@@ -1,0 +1,9 @@
+Title: Discovery and Characterization of AZD6738, a Potent Inhibitor of Ataxia Telangiectasia Mutated and Rad3 Related (ATR) Kinase with Application as an Anticancer Agent.
+Authors: K. Foote, J. W. M. Nissink, T. McGuire, P. Turner, Sylvie M. Guichard et al. (and 9 more)
+Year: 2018
+Paper ID: bb59d1260203d3b312167ede54169b1eb069a9a1
+URL: https://www.semanticscholar.org/paper/bb59d1260203d3b312167ede54169b1eb069a9a1
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+The kinase ataxia telangiectasia mutated and rad3 related (ATR) is a key regulator of the DNA-damage response and the apical kinase which orchestrates the cellular processes that repair stalled replication forks (replication stress) and associated DNA double-strand breaks. Inhibition of repair pathways mediated by ATR in a context where alternative pathways are less active is expected to aid clinical response by increasing replication stress. Here we describe the development of the clinical candidate 2 (AZD6738), a potent and selective sulfoximine morpholinopyrimidine ATR inhibitor with excellent preclinical physicochemical and pharmacokinetic (PK) characteristics. Compound 2 was developed improving aqueous solubility and eliminating CYP3A4 time-dependent inhibition starting from the earlier described inhibitor 1 (AZ20). The clinical candidate 2 has favorable human PK suitable for once or twice daily dosing and achieves biologically effective exposure at moderate doses. Compound 2 is currently being tested in multiple phase I/II trials as an anticancer agent.

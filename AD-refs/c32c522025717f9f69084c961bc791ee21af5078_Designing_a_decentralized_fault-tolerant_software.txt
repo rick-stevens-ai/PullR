@@ -1,0 +1,12 @@
+Title: Designing a decentralized fault-tolerant software framework for smart grids and its applications
+Authors: Purboday Ghosh, Scott Eisele, A. Dubey, Mary Metelko, I. Madari et al. (and 2 more)
+Year: 2020
+Paper ID: c32c522025717f9f69084c961bc791ee21af5078
+URL: https://www.semanticscholar.org/paper/c32c522025717f9f69084c961bc791ee21af5078
+Venue: Journal of systems architecture
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/c32c522025717f9f69084c961bc791ee21af5078

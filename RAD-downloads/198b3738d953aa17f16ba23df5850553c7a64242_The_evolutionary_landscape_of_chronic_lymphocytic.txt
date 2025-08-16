@@ -1,0 +1,9 @@
+Title: The evolutionary landscape of chronic lymphocytic leukemia treated with ibrutinib targeted therapy
+Authors: D. Landau, Clare Sun, D. Rosebrock, S. E. Herman, J. Fein et al. (and 17 more)
+Year: 2017
+Paper ID: 198b3738d953aa17f16ba23df5850553c7a64242
+URL: https://www.semanticscholar.org/paper/198b3738d953aa17f16ba23df5850553c7a64242
+Venue: Nature Communications
+
+Abstract:
+Treatment of chronic lymphocytic leukemia (CLL) has shifted from chemo-immunotherapy to targeted agents. To define the evolutionary dynamics induced by targeted therapy in CLL, we perform serial exome and transcriptome sequencing for 61 ibrutinib-treated CLLs. Here, we report clonal shifts (change >0.1 in clonal cancer cell fraction, Q < 0.1) in 31% of patients during the first year of therapy, associated with adverse outcome. We also observe transcriptional downregulation of pathways mediating energy metabolism, cell cycle, and B cell receptor signaling. Known and previously undescribed mutations in BTK and PLCG2, or uncommonly, other candidate alterations are present in seventeen subjects at the time of progression. Thus, the frequently observed clonal shifts during the early treatment period and its potential association with adverse outcome may reflect greater evolutionary capacity, heralding the emergence of drug-resistant clones.In a subset of patients with chronic lymphocytic leukemia (CLL) treated with targeted agents, such as ibrutinib, drug resistant subclones emerge. Here, the authors report on transcriptional changes in CLL patients treated with ibrutinib and identify early clonal shifts associated with evolution of resistant clones.

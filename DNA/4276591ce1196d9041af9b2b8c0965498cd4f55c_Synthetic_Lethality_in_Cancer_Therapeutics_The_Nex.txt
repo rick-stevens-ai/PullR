@@ -1,0 +1,9 @@
+Title: Synthetic Lethality in Cancer Therapeutics: The Next Generation.
+Authors: J. Setton, M. Zinda, N. Riaz, D. Durocher, Michal Zimmermann et al. (and 3 more)
+Year: 2021
+Paper ID: 4276591ce1196d9041af9b2b8c0965498cd4f55c
+URL: https://www.semanticscholar.org/paper/4276591ce1196d9041af9b2b8c0965498cd4f55c
+Venue: Cancer Discovery
+
+Abstract:
+Synthetic lethality (SL) provides a conceptual framework for tackling targets that are not classically "druggable," including loss-of-function mutations in tumor suppressor genes required for carcinogenesis. Recent technological advances have led to an inflection point in our understanding of genetic interaction networks and ability to identify a wide array of novel SL drug targets. Here, we review concepts and lessons emerging from first-generation trials aimed at testing SL drugs, discuss how the nature of the targeted lesion can influence therapeutic outcomes, and highlight the need to develop clinical biomarkers distinct from those based on the paradigms developed to target activated oncogenes. SIGNIFICANCE: SL offers an approach for the targeting of loss of function of tumor suppressor and DNA repair genes, as well as of amplification and/or overexpression of genes that cannot be targeted directly. A next generation of tumor-specific alterations targetable through SL has emerged from high-throughput CRISPR technology, heralding not only new opportunities for drug development, but also important challenges in the development of optimal predictive biomarkers.

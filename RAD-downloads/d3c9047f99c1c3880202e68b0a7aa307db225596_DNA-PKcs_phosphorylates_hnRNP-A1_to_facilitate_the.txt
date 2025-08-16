@@ -1,0 +1,9 @@
+Title: DNA-PKcs phosphorylates hnRNP-A1 to facilitate the RPA-to-POT1 switch and telomere capping after replication
+Authors: Jiangdong Sui, Yu-Fen Lin, Kangling Xu, Kyung-jong Lee, Dong Wang et al. (and 1 more)
+Year: 2015
+Paper ID: d3c9047f99c1c3880202e68b0a7aa307db225596
+URL: https://www.semanticscholar.org/paper/d3c9047f99c1c3880202e68b0a7aa307db225596
+Venue: Nucleic Acids Research
+
+Abstract:
+The heterogeneous nuclear ribonucleoprotein A1 (hnRNP-A1) has been implicated in telomere protection and telomerase activation. Recent evidence has further demonstrated that hnRNP-A1 plays a crucial role in maintaining newly replicated telomeric 3′ overhangs and facilitating the switch from replication protein A (RPA) to protection of telomeres 1 (POT1). The role of hnRNP-A1 in telomere protection also involves DNA-dependent protein kinase catalytic subunit (DNA-PKcs), although the detailed regulation mechanism has not been clear. Here we report that hnRNP-A1 is phosphorylated by DNA-PKcs during the G2 and M phases and that DNA-PK-dependent hnRNP-A1 phosphorylation promotes the RPA-to-POT1 switch on telomeric single-stranded 3′ overhangs. Consequently, in cells lacking hnRNP-A1 or DNA-PKcs-dependent hnRNP-A1 phosphorylation, impairment of the RPA-to-POT1 switch results in DNA damage response at telomeres during mitosis as well as induction of fragile telomeres. Taken together, our results indicate that DNA-PKcs-dependent hnRNP-A1 phosphorylation is critical for capping of the newly replicated telomeres and prevention of telomeric aberrations.

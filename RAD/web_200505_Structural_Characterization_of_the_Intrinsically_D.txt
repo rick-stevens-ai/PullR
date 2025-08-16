@@ -1,0 +1,10 @@
+Title: Structural Characterization of the Intrinsically Disordered Tardigrade Damage Suppressor Protein (Dsup) and Its Dynamic Complex with DNA
+Authors: Unknown
+Year: 2024
+Paper ID: web_200505
+URL: https://www.nature.com/articles/s41598-024-74335-2
+Venue: Scientific Reports (Nature Publishing Group)
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+The damage suppressor protein (Dsup) from the extremotolerant tardigrade Ramazzottius varieornatus plays a crucial role in protecting DNA from damage caused by reactive oxygen species (ROS). This study provides a comprehensive structural characterization of Dsup, revealing that it is an intrinsically disordered and highly flexible protein. Using a combination of small angle X-ray scattering (SAXS), circular dichroism (CD) spectroscopy, and computational analyses—including sequence-based disorder prediction, in silico modeling, and phase separation propensity tools—the research demonstrates that Dsup forms a dynamic, "fuzzy" complex with DNA. Low-resolution structural models are presented, and specific regions within Dsup important for DNA binding and potential phase separation are identified. These findings refine our understanding of Dsup’s protective mechanism and offer structural insights that may inform future applications in biotechnology, medicine, and space research.

@@ -1,0 +1,12 @@
+Title: Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead
+Authors: C. Rudin
+Year: 2018
+Paper ID: bc00ff34ec7772080c7039b17f7069a2f7df0889
+URL: https://www.semanticscholar.org/paper/bc00ff34ec7772080c7039b17f7069a2f7df0889
+Venue: Nature Machine Intelligence
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/bc00ff34ec7772080c7039b17f7069a2f7df0889

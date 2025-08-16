@@ -1,0 +1,9 @@
+Title: Inhibition of homologous recombination in human cells by targeting RAD51 recombinase.
+Authors: F. Huang, O. Mazina, Isaac Zentner, S. Cocklin, A. Mazin
+Year: 2012
+Paper ID: ea94ffc22bd9cbb1e9e7eff25814b47fb4fd0601
+URL: https://www.semanticscholar.org/paper/ea94ffc22bd9cbb1e9e7eff25814b47fb4fd0601
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+The homologous recombination (HR) pathway plays a crucial role in the repair of DNA double-strand breaks (DSBs) and interstrand cross-links (ICLs). RAD51, a key protein of HR, possesses a unique activity: DNA strand exchange between homologous DNA sequences. Recently, using a high-throughput screening (HTS), we identified compound 1 (B02), which specifically inhibits the DNA strand exchange activity of human RAD51. Here, we analyzed the mechanism of inhibition and found that 1 disrupts RAD51 binding to DNA. We then examined the effect of 1 on HR and DNA repair in the cell. The results show that 1 inhibits HR and increases cell sensitivity to DNA damage. We propose to use 1 for analysis of cellular functions of RAD51. Because DSB- and ICL-inducing agents are commonly used in anticancer therapy, specific inhibitors of RAD51 may also help to increase killing of cancer cells.

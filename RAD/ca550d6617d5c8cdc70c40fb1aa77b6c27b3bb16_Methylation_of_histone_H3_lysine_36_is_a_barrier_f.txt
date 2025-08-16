@@ -1,0 +1,9 @@
+Title: Methylation of histone H3 lysine 36 is a barrier for therapeutic interventions of head and neck squamous cell carcinoma
+Authors: Lucas D. Caeiro, Yuichiro Nakata, Rodrigo L. Borges, M. Zha, Liliana Garcia-Martinez et al. (and 15 more)
+Year: 2024
+Paper ID: ca550d6617d5c8cdc70c40fb1aa77b6c27b3bb16
+URL: https://www.semanticscholar.org/paper/ca550d6617d5c8cdc70c40fb1aa77b6c27b3bb16
+Venue: Genes & Development
+
+Abstract:
+In this study, Caeiro et al. describe the relationship between H3K36me deficiency, like that observed with H3K36M mutations, and H3K27me3 distribution in head and neck squamous cell carcinoma. Increased H3K27me3 promotes genome instability and susceptibility to PARP1/2 inhibitors, highlighting the therapeutic potential of this strategy in targeting H3K36me-deficient cancers.

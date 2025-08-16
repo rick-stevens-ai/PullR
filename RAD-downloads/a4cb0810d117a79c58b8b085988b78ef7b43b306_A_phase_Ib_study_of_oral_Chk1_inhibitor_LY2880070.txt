@@ -1,0 +1,9 @@
+Title: A phase Ib study of oral Chk1 inhibitor LY2880070 in combination with gemcitabine in patients with advanced or metastatic cancer.
+Authors: Q. Chu, D. Jonker, D. Provencher, W. Miller, N. Bouganim et al. (and 14 more)
+Year: 2020
+Paper ID: a4cb0810d117a79c58b8b085988b78ef7b43b306
+URL: https://www.semanticscholar.org/paper/a4cb0810d117a79c58b8b085988b78ef7b43b306
+Venue: 
+
+Abstract:
+3581Background: LY2880070 (LY) is an oral, selective competitive inhibitor of checkpoint kinase 1 (Chk1). Chk1 inhibitors are known to increase the anti-tumor efficacy of agents such as gemcitabine...

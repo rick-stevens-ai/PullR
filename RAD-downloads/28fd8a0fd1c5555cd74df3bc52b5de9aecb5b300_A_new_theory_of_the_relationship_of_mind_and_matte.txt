@@ -1,0 +1,9 @@
+Title: A new theory of the relationship of mind and matter.
+Authors: D. Bohm
+Year: 1986
+Paper ID: 28fd8a0fd1c5555cd74df3bc52b5de9aecb5b300
+URL: https://www.semanticscholar.org/paper/28fd8a0fd1c5555cd74df3bc52b5de9aecb5b300
+Venue: 
+
+Abstract:
+The relationship of mind and matter is approached in a new way in this article. This approach is based on the causal interpretation of the quantum theory, in which an electron, for example, is regarded as an inseparable union of a particle and afield. This field has, however, some new properties that can be seen to be the main sources of the differences between the quantum theory and the classical (Newtonian) theory. These new properties suggest that the field may be regarded as containing objective and active information, and that the activity of this information is similar in certain key ways to the activity of information in our ordinary subjective experience. The analogy between mind and matter is thus fairly close. This analogy leads to the proposal of the general outlines of a new theory of mind, matter, and their relationship, in which the basic notion is participation rather than interaction. Although the theory, can be developed mathematically in more detail the main emphasis here is to show qualitatively how it provides a way of thinking that does not divide mind from matter, and thus leads to a more coherent understanding of such questions than is possible in the common dualistic and reductionistic approaches. These ideas may be relevant to connectionist theories and might perhaps suggest new directions for their development.

@@ -1,0 +1,9 @@
+Title: Ataxia Telangiectasia-mutated- and Rad3-related Protein Regulates the DNA Damage-induced G2/M Checkpoint through the Aurora A Cofactor Bora Protein*
+Authors: Bo Qin, Bowen Gao, Jia Yu, Jian Yuan, Zhenkun Lou
+Year: 2013
+Paper ID: d2d220f06b34ed80434878367acddd0186d7a275
+URL: https://www.semanticscholar.org/paper/d2d220f06b34ed80434878367acddd0186d7a275
+Venue: Journal of Biological Chemistry
+
+Abstract:
+Background: Polo-like kinase1 (Plk1) activation is inhibited in response to DNA damage, and this inhibition contributes to the activation of the G2/M checkpoint. Results: ATR phosphorylates Bora, leads to its degradation, and inhibits Plk1 activity after DNA damage. Conclusion: Degradation of Bora activates the G2/M checkpoint through Plk1. Significance: Learning how Polo-like kinase1 (Plk1) activation is inhibited in response to DNA damage. Polo-like kinase1 (Plk1) activation is inhibited in response to DNA damage, and this inhibition contributes to the activation of the G2/M checkpoint, although the molecular mechanism by which Plk1 is inhibited is not clear. Here we report that the DNA damage signaling pathway inhibits Plk1 activity through Bora. Following UV irradiation, ataxia telangiectasia-mutated- and Rad3-related protein phosphorylates Bora at Thr-501. The phosphorylated Thr-501 is subsequently recognized by the E3 ubiquitin ligase SCF-β-TRCP, which targets Bora for degradation. The degradation of Bora compromises Plk1 activation and contributes to DNA damage-induced G2 arrest. These findings shed new light on Plk1 regulation by the DNA damage response pathway.

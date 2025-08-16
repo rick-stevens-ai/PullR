@@ -1,0 +1,9 @@
+Title: Nucleotide excision repair in eukaryotes.
+Authors: O. Schärer
+Year: 2013
+Paper ID: 7092dea2d2c1b3b5a8cbc0f46b76f78e8fd67ece
+URL: https://www.semanticscholar.org/paper/7092dea2d2c1b3b5a8cbc0f46b76f78e8fd67ece
+Venue: Cold Spring Harbor Perspectives in Biology
+
+Abstract:
+Nucleotide excision repair (NER) is the main pathway used by mammals to remove bulky DNA lesions such as those formed by UV light, environmental mutagens, and some cancer chemotherapeutic adducts from DNA. Deficiencies in NER are associated with the extremely skin cancer-prone inherited disorder xeroderma pigmentosum. Although the core NER reaction and the factors that execute it have been known for some years, recent studies have led to a much more detailed understanding of the NER mechanism, how NER operates in the context of chromatin, and how it is connected to other cellular processes such as DNA damage signaling and transcription. This review emphasizes biochemical, structural, cell biological, and genetic studies since 2005 that have shed light on many aspects of the NER pathway.

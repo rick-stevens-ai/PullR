@@ -1,0 +1,10 @@
+Title: Radiation-Induced Chromoanagenesis in Populus: Evidence from Gamma-Irradiated Pollen and Genomic Analysis
+Authors: Unknown
+Year: 2021
+Paper ID: web_708427
+URL: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009735
+Venue: PLOS Genetics
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Chromoanagenesis is a genomic catastrophe characterized by chromosomal shattering and reassembly, resulting in extensive structural variation within a single chromosome. Initially identified in cancer, chromoanagenesis has since been observed in various biological systems, but in plants, it has previously been formally documented only in the context of haploid induction crosses. The frequency, origins, consequences, and evolutionary significance of such large-scale chromosomal remodeling in other contexts remain poorly understood. In this study, we demonstrate the occurrence of chromoanagenesis in poplar (Populus sp.) trees derived from gamma-irradiated pollen. Among a population of siblings carrying insertion-deletion (indel) mutations, two individuals exhibited highly frequent copy number variations (CNVs) clustered on a single chromosome—a hallmark of chromoanagenesis. Short-read sequencing confirmed the presence of clustered segmental rearrangements. Additionally, we independently identified and validated novel DNA junctions, which were also clustered and corresponded to these rearrangements. Reconstruction of the novel sequences suggests that chromosomal segments were reorganized in a largely random manner to produce a novel rearranged chromosome, potentially through two distinct mechanisms. Our findings indicate that gamma irradiation can induce chromoanagenesis, implying that similar events may occur following DNA breaks caused by natural or induced mutagens. Furthermore, we show that such chromosomal catastrophes can be tolerated in poplar and even propagated clonally, establishing poplar as a promising system for further investigation into the consequences and mechanisms of chromoanagenesis.

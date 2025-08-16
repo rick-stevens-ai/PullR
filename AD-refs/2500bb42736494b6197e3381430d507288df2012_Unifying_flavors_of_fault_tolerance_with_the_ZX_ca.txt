@@ -1,0 +1,9 @@
+Title: Unifying flavors of fault tolerance with the ZX calculus
+Authors: H. Bombin, D. Litinski, Naomi H. Nickerson, F. Pastawski, Sam Roberts
+Year: 2023
+Paper ID: 2500bb42736494b6197e3381430d507288df2012
+URL: https://www.semanticscholar.org/paper/2500bb42736494b6197e3381430d507288df2012
+Venue: Quantum
+
+Abstract:
+There are several models of quantum computation which exhibit shared fundamental fault-tolerance properties. This article makes commonalities explicit by presenting these different models in a unifying framework based on the ZX calculus. We focus on models of topological fault tolerance – specifically surface codes – including circuit-based, measurement-based and fusion-based quantum computation, as well as the recently introduced model of Floquet codes. We find that all of these models can be viewed as different flavors of the same underlying stabilizer fault-tolerance structure, and sustain this through a set of local equivalence transformations which allow mapping between flavors. We anticipate that this unifying perspective will pave the way to transferring progress among the different views of stabilizer fault-tolerance and help researchers familiar with one model easily understand others.

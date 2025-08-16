@@ -1,0 +1,9 @@
+Title: Using Shiny apps for statistical analyses and laboratory workflows
+Authors: Julian E. Gebauer, Jakob Adler
+Year: 2023
+Paper ID: 41fd1d3b0f3b3823b369ca18d1c366f2afbd0eab
+URL: https://www.semanticscholar.org/paper/41fd1d3b0f3b3823b369ca18d1c366f2afbd0eab
+Venue: Journal of Laboratory Medicine
+
+Abstract:
+Abstract In many areas of healthcare, digitization has progressed only slowly so far. The SARS-CoV-2 pandemic in particular has shown how valuable software solutions that are deployable at short notice, can be. In this review we present some selected possibilities of the easy-to-learn programming language R and demonstrate potential applications of the package Shiny in the fields of statistical analysis and laboratory medicine. In addition to a brief tabular overview of published applications, we present two examples of their use in routine laboratory workflows. The first example demonstrates how a Shiny app can be used to estimate the minimal difference (MD) of laboratory analytes, while the second example illustrates how pre- and post-analytical processing steps can be integrated into a fully automated workflow using R and the Shiny package.

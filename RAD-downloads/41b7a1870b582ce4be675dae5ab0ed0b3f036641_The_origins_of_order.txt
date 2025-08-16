@@ -1,0 +1,9 @@
+Title: The origins of order
+Authors: S. Kauffman
+Year: 1993
+Paper ID: 41b7a1870b582ce4be675dae5ab0ed0b3f036641
+URL: https://www.semanticscholar.org/paper/41b7a1870b582ce4be675dae5ab0ed0b3f036641
+Venue: 
+
+Abstract:
+1. Conceptual outline of current evolutionary theory PART I: ADAPTATION ON THE EDGE OF CHAOS 2. The structure of rugged fitness landscapes 3. Biological implications of rugged fitness landscapes 4. The structure of adaptive landscapes underlying protein evolution 5. Self organization and adaptation in complex systems 6. Coevolving complex systems PART II: THE CRYSTALLIZATION OF LIFE 7. The origins of life: a new view 8. The origin of a connected metabolism 9. Autocatalytic polynucleotide systems: hypercycles, spin glasses and coding 10. Random grammars PART III: ORDER AND ONTOGENY 11. The architecture of genetic regulatory circuits and its evolution 12. Differentiation: the dynamical behaviors of genetic regulatory networks 13. Selection for gene expression in cell type 14. Morphology, maps and the spatial ordering of integrated tissues

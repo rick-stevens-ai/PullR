@@ -1,0 +1,9 @@
+Title: Petabyte-Scale Row-Level Operations in Data Lakehouses
+Authors: Anton Okolnychyi, Chao Sun, Kazuyuki Tanimura, Russell Spitzer, Ryan Blue et al. (and 4 more)
+Year: 2024
+Paper ID: 4ab9b2a5bd62130188ee4bbe94c4d2a76e5e97a3
+URL: https://www.semanticscholar.org/paper/4ab9b2a5bd62130188ee4bbe94c4d2a76e5e97a3
+Venue: Proceedings of the VLDB Endowment
+
+Abstract:
+Data lakehouses combine the almost infinite scale and diverse tooling of a data lake with the reliability and functionality of a data warehouse. This paper presents extensions that enhance data lake-houses using Apache Iceberg and Apache Spark with performant petabyte-scale row-level operations. The framework is capable of handling both high-density and sparse modifications by either materializing changes at the file level during writes or producing equality and position deletes that are lazily merged with existing data during reads. The paper also outlines essential improvements in determining and applying row-level changes: eliminating expensive shuffles with storage-partitioned joins, minimizing write amplification with runtime filtering, and optimizing the layout of output data with adaptive writes. Our evaluation demonstrates the relative strengths and weaknesses of the various materialization strategies, highlighting the use cases that require each technique. We also show an order of magnitude improvement in performance after our enhancements.

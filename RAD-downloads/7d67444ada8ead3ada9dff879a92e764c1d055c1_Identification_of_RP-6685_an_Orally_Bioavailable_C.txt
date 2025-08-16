@@ -1,0 +1,9 @@
+Title: Identification of RP-6685, an Orally Bioavailable Compound that Inhibits the DNA Polymerase Activity of Polθ.
+Authors: Monica Bubenik, Pavel Mader, Philippe Mochirian, F. Vallée, Jill E. Clark et al. (and 37 more)
+Year: 2022
+Paper ID: 7d67444ada8ead3ada9dff879a92e764c1d055c1
+URL: https://www.semanticscholar.org/paper/7d67444ada8ead3ada9dff879a92e764c1d055c1
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+DNA polymerase theta (Polθ) is an attractive synthetic lethal target for drug discovery, predicted to be efficacious against breast and ovarian cancers harboring BRCA-mutant alleles. Here, we describe our hit-to-lead efforts in search of a selective inhibitor of human Polθ (encoded by POLQ). A high-throughput screening campaign of 350,000 compounds identified an 11 micromolar hit, giving rise to the N2-substituted fused pyrazolo series, which was validated by biophysical methods. Structure-based drug design efforts along with optimization of cellular potency and ADME ultimately led to the identification of RP-6685: a potent, selective, and orally bioavailable Polθ inhibitor that showed in vivo efficacy in an HCT116 BRCA2-/- mouse tumor xenograft model.

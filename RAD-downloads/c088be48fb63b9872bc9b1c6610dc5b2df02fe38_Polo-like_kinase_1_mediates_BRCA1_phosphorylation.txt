@@ -1,0 +1,9 @@
+Title: Polo-like kinase 1 mediates BRCA1 phosphorylation and recruitment at DNA double-strand breaks
+Authors: Corinne Chabalier-Taste, L. Brichese, C. Racca, Y. Canitrot, P. Calsou et al. (and 1 more)
+Year: 2016
+Paper ID: c088be48fb63b9872bc9b1c6610dc5b2df02fe38
+URL: https://www.semanticscholar.org/paper/c088be48fb63b9872bc9b1c6610dc5b2df02fe38
+Venue: OncoTarget
+
+Abstract:
+Accurate repair of DNA double-strand breaks (DSB) caused during DNA replication and by exogenous stresses is critical for the maintenance of genomic integrity. There is growing evidence that the Polo-like kinase 1 (Plk1) that plays a number of pivotal roles in cell proliferation can directly participate in regulation of DSB repair. In this study, we show that Plk1 regulates BRCA1, a key mediator protein required to efficiently repair DSB through homologous recombination (HR). Following induction of DSB, BRCA1 concentrates in distinctive large nuclear foci at damage sites where multiple DNA repair factors accumulate. First, we found that inhibition of Plk1 shortly before DNA damage sensitizes cells to ionizing radiation and reduces DSB repair by HR. Second, we provide evidence that BRCA1 foci formation induced by DSB is reduced when Plk1 is inhibited or depleted. Third, we identified BRCA1 as a novel Plk1 substrate and determined that Ser1164 is the major phosphorylation site for Plk1 in vitro. In cells, mutation of Plk1 sites on BRCA1 significantly delays BRCA1 foci formation following DSB, recapitulating the phenotype observed upon Plk1 inhibition. Our data then assign a key function to Plk1 in BRCA1 foci formation at DSB, emphasizing Plk1 importance in the HR repair of human cells.

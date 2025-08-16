@@ -1,0 +1,9 @@
+Title: Human Perception and Building Automation Systems
+Authors: D. Ramsauer, Max Dorfmann, H. Tellioglu, W. Kastner
+Year: 2022
+Paper ID: 8f4c44e396ffb53e9ac03be1a7b300b1034619b9
+URL: https://www.semanticscholar.org/paper/8f4c44e396ffb53e9ac03be1a7b300b1034619b9
+Venue: Energies
+
+Abstract:
+Building automation is concerned with closed- and open-loop control of building services such as heating, cooling, ventilation and air conditioning, lighting and shading. The ultimate goal is to reduce energy consumption while providing comfort for the occupants. However, ensuring human comfort is a complex affair. In case of dissatisfaction, users need to inform the building operators about apparently badly adjusted setpoints. Then, service units of the facility management have to manually analyze how to improve the situation. Due to the complex characteristics of human perception and derived feedback, this can become a troublesome and time-consuming task. This paper describes the main results of our investigations to improve occupant comfort in office buildings using environmental information monitored by a Wireless Sensor Network (WSN) and human perception collected from a feedback tool. A joint information base aligned with static data from building information modeling integrates the information gathered. Reasoning on these data sources allows adjustments of the Building Automation System (BAS) to automatically enhance the tenant’s comfort or suggest necessary adjustments for facility managers. Communication between the different system components is handled via Message Queuing Telemetry Transport (MQTT). A real-world field study shows the potential of the developed approach, proves its feasibility, and demonstrates the functionality of the feedback tool.

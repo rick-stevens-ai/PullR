@@ -1,0 +1,9 @@
+Title: WRN helicase safeguards deprotected replication forks in BRCA2-mutated cancer cells
+Authors: A. Datta, K. Biswas, J. Sommers, Haley Thompson, Sanket Awate et al. (and 6 more)
+Year: 2021
+Paper ID: a9330b7beffef930888395fb947bb596c629eed9
+URL: https://www.semanticscholar.org/paper/a9330b7beffef930888395fb947bb596c629eed9
+Venue: Nature Communications
+
+Abstract:
+The tumor suppressor BRCA2 protects stalled forks from degradation to maintain genome stability. However, the molecular mechanism(s) whereby unprotected forks are stabilized remains to be fully characterized. Here, we demonstrate that WRN helicase ensures efficient restart and limits excessive degradation of stalled forks in BRCA2-deficient cancer cells. In vitro, WRN ATPase/helicase catalyzes fork restoration and curtails MRE11 nuclease activity on regressed forks. We show that WRN helicase inhibitor traps WRN on chromatin leading to rapid fork stalling and nucleolytic degradation of unprotected forks by MRE11, resulting in MUS81-dependent double-strand breaks, elevated non-homologous end-joining and chromosomal instability. WRN helicase inhibition reduces viability of BRCA2-deficient cells and potentiates cytotoxicity of a poly (ADP)ribose polymerase (PARP) inhibitor. Furthermore, BRCA2-deficient xenograft tumors in mice exhibited increased DNA damage and growth inhibition when treated with WRN helicase inhibitor. This work provides mechanistic insight into stalled fork stabilization by WRN helicase when BRCA2 is deficient. The tumor suppressor BRCA2 protects stalled DNA replication forks from unrestrained degradation; however the mechanism whereby unprotected stalled forks are preserved and restarted has remained elusive. Here the authors show that the WRN helicase promotes stalled fork recovery and limits fork hyper-degradation in the absence of BRCA2 protection.

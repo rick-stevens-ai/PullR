@@ -1,0 +1,9 @@
+Title: Kubernetes Orchestration of High Availability Distributed Control Systems
+Authors: Bjarne Johansson, Mats Rågberger, T. Nolte, A. Papadopoulos
+Year: 2022
+Paper ID: 6b5ce28547bdba5b6ab872b6eec78bcdb785985f
+URL: https://www.semanticscholar.org/paper/6b5ce28547bdba5b6ab872b6eec78bcdb785985f
+Venue: International Conference on Industrial Technology
+
+Abstract:
+Distributed control systems transform with the Industry 4.0 paradigm shift. A mesh-like, network-centric topology replaces the traditional controller-centered architecture, enforcing the interest of cloud-, fog-, and edge-computing, where lightweight container-based virtualization is a cornerstone. Kubernetes is a well-known container management system for container orchestration in cloud computing. It is gaining traction in edge- and fog-computing due to its elasticity and failure recovery properties. Orchestrator failure recovery can complement the manual replacement of a failed controller and, combined with controller redundancy, provide a pseudo-one-out-of-many redundancy. This paper investigates the failure recovery performance obtained from an out-of-the-box Kubernetes installation in a distributed control system scenario. We describe a Kubernetes based virtualized controller architecture and the software needed to set up a bare-metal cluster for control systems. Further, we deploy single and redundant configured containerized controllers based on an OPC UA compatible industry middleware software on the bare-metal cluster. The controllers expose variables with OPC UA PubSub. A script-based daemon introduces node failures, and a verification controller measures the downtime when using Kubernetes with an industry redundancy solution.

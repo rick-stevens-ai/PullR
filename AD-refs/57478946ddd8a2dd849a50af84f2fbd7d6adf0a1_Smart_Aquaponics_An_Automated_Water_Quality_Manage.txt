@@ -1,0 +1,9 @@
+Title: Smart Aquaponics: An Automated Water Quality Management System for Sustainable Urban Agriculture
+Authors: C. Kok, Made Bagus, Pradnya Kusuma, Yit Yan Koh, Howard Tang et al. (and 1 more)
+Year: 2024
+Paper ID: 57478946ddd8a2dd849a50af84f2fbd7d6adf0a1
+URL: https://www.semanticscholar.org/paper/57478946ddd8a2dd849a50af84f2fbd7d6adf0a1
+Venue: Electronics
+
+Abstract:
+As the demand for high-quality food rises, especially amidst the COVID-19 pandemic and the continuous development of society meaning that people demand to eat well, ensuring food security has become increasingly urgent. Agricultural technology is evolving, with aquaponic systems emerging as a promising solution to urban food needs. However, these systems present challenges, such as maintaining optimal water quality and minimizing environmental control errors. In this study, we propose a comprehensive approach combining a literature review and controlled experiments. Through the literature review, the recent findings on water management and sustainability in food production were analyzed, providing crucial insights for enhancing aquaponic system performance. Building on this, a series of experiments were conducted to develop and test a water quality management system using PID control. The integration of PID control showed good performance and reduced errors in SIMULINK, and we applied three controls to manage the stability and responsiveness of the aquaponic system. The optimal values obtained from the controller of the vegetable tank system were 4,706,691,503 and −174.418; for the fish tank, they were 36,167, 0.00126, and −174.418; and for the heater system, they were 4.761, 0.0488, and −31.88. This solution is expected to be responsive and provide stable control over various variables.

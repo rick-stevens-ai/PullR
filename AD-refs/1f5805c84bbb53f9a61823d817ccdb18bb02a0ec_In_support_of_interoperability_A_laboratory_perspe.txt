@@ -1,0 +1,9 @@
+Title: In support of interoperability: A laboratory perspective
+Authors: J. Rychert
+Year: 2023
+Paper ID: 1f5805c84bbb53f9a61823d817ccdb18bb02a0ec
+URL: https://www.semanticscholar.org/paper/1f5805c84bbb53f9a61823d817ccdb18bb02a0ec
+Venue: International Journal of Laboratory Hematology
+
+Abstract:
+Healthcare in the United States has become increasingly digital since the passage of the HITECH Act in 2009. As a result, there is a growing need to optimize healthcare IT to allow for the interoperable exchange of data. As a result, the Office of the National Coordinator for Health IT has implemented their Final Rule for the 21st Century Cures Act. This requires certified health IT systems to use modernized messaging standards for the safe and secure exchange of data within health information networks and also requires the use of terminology standards including LOINC, SNOMED CT, and UCUM for coding clinical and laboratory data. Given the critical importance of laboratory results in the delivery of healthcare, laboratorians must become familiar with these principles of interoperability. Their clinical laboratory expertise is needed to appropriately structure and code test results to safeguard against improper aggregation or misinterpretation by downstream users and systems.

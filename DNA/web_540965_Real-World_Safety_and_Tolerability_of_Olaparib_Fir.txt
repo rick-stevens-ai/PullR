@@ -1,0 +1,10 @@
+Title: Real-World Safety and Tolerability of Olaparib First-Line Maintenance Monotherapy in BRCA-Mutated Epithelial Ovarian Cancer: Results from the First French ATUc Programme Study
+Authors: Not specified (AstraZeneca France and collaborating French oncology centers)
+Year: 2022
+Paper ID: web_540965
+URL: https://doi.org/10.1007/s40801-022-00349-9
+Venue: Drugs - Real World Outcomes
+Content Status: EXTERNAL_URL, LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study presents the first real-world data from France on the use of olaparib as first-line maintenance monotherapy in patients with BRCA-mutated epithelial ovarian cancer, utilizing data from the French ATUc programme between March 2019 and January 2020. In this descriptive, observational analysis, clinical and safety data were collected monthly from treatment access request forms for 194 enrolled patients. The results demonstrate that olaparib was well tolerated in a real-world setting, with no new safety signals identified. The adverse events observed, including anaemia, neutropenia, and thrombocytopenia as the most common serious reactions, were consistent with those reported in previous clinical trials. Rapid patient enrolment in the programme highlights a significant unmet need for effective maintenance therapies in this population. These findings support the safety and tolerability of olaparib as a first-line maintenance option for patients with BRCA-mutated epithelial ovarian cancer in routine clinical practice.

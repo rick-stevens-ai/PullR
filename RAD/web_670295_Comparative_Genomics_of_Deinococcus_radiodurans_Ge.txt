@@ -1,0 +1,10 @@
+Title: Comparative Genomics of Deinococcus radiodurans: Genetic Differences and Genome Plasticity Between ATCC 13939K and BAA-816 Strains
+Authors: Soyoung Jeong, Harinder Singh, Jong-Hyun Jung, Kwang-Woo Jung, Sangryeol Ryu, Sangyong Lim
+Year: 2024
+Paper ID: web_670295
+URL: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410024/full
+Venue: Frontiers in Microbiology, Section: Extreme Microbiology
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study presents a comprehensive comparative genomic analysis of two widely studied strains of Deinococcus radiodurans, ATCC 13939K and ATCC BAA-816. Through whole-genome sequencing and bioinformatic analysis, the authors identified 436 DNA sequence differences between the strains, including single nucleotide variations, insertions, and deletions. These genetic discrepancies resulted in frameshifts, gene fusions, and the discovery of novel protein-coding genes, as well as significant structural genome variations attributed to insertion sequence (IS) elements. Notably, the loss of six IS Dra2 elements in the ATCC 13939K strain restored previously fragmented genes and revealed new open reading frames, thereby influencing the bacterium’s metabolic capabilities and resilience strategies. The findings underscore the remarkable genome plasticity of D. radiodurans and provide new insights into the genetic mechanisms underlying its extremophilic adaptations.

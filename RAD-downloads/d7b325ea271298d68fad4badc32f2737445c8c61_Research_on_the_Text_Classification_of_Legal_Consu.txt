@@ -1,0 +1,9 @@
+Title: Research on the Text Classification of Legal Consultation Based on Deep Learning
+Authors: Zuoqian Du
+Year: 2023
+Paper ID: d7b325ea271298d68fad4badc32f2737445c8c61
+URL: https://www.semanticscholar.org/paper/d7b325ea271298d68fad4badc32f2737445c8c61
+Venue: International Journal of Advanced Computer Science and Applications
+
+Abstract:
+—In view of the existing traditional legal service, practitioners are unable to meet the huge demand; a large number of citizens are unable to determine the scope of the problems when they encounter infringement or require various legal assistance. Based on this, an automatic classification model of legal consultation based on Deep Learning is proposed in this paper. A KP+BiLSTM+Attention model is proposed. The Keyword Parser is introduced to extract key information. TF-IDF and part of speech tagging are used to filter out the important information in the user's legal problem description. The extracted keywords are given a weight value, and the other information weights are set to zero. The text information is transferred into two parallel word vector embedding layers. One of the word vector embedding layers transfers the results to the fusion layer for splicing, difference and point multiplication after the key information is converted into vector form. The output results are respectively connected with the results obtained from the other embedding layer as residuals. The final results are transferred to the BiLSTM+Attention model for training. The test results show that KP+BiLSTM+Attention model has significantly improved the accuracy and F1 value of the best benchmark method for text classification tasks of legal consulting. Therefore, KP+BiLSTM+Attention method has better performance in dealing with the classification of legal consulting issues.

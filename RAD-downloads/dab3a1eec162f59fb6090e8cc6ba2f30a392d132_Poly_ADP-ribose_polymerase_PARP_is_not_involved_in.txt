@@ -1,0 +1,9 @@
+Title: Poly (ADP-ribose) polymerase (PARP) is not involved in base excision repair but PARP inhibition traps a single-strand intermediate
+Authors: Cecilia E. Ström, F. Johansson, M. Uhlén, C. Szigyarto,  Klaus Erixon et al. (and 1 more)
+Year: 2010
+Paper ID: dab3a1eec162f59fb6090e8cc6ba2f30a392d132
+URL: https://www.semanticscholar.org/paper/dab3a1eec162f59fb6090e8cc6ba2f30a392d132
+Venue: Nucleic Acids Research
+
+Abstract:
+Base excision repair (BER) represents the most important repair pathway of endogenous DNA lesions. Initially, a base damage is recognized, excised and a DNA single-strand break (SSB) intermediate forms. The SSB is then ligated, a process that employs proteins also involved in SSB repair, e.g. XRCC1, Ligase III and possibly PARP1. Here, we confirm the role of XRCC1 and PARP in direct SSB repair. Interestingly, we uncover a synthetic lethality between XRCC1 deficiency and PARP inhibition. We also treated cells with alkylating agent dimethyl sulfate (DMS) and monitored the SSB intermediates formed during BER. DMS-induced SSBs were quickly repaired in wild-type cells; while a rapid accumulation of SSBs was observed in cells where post-incision repair was blocked by a PARP inhibitor or by XRCC1 deficiency (EM9 cells). Interestingly, DMS-induced SSBs did not accumulate in PARP1 siRNA depleted cells, demonstrating that PARP1 is not required for efficient completion of BER. Based on these results we suggest no immediate role for PARP1 in BER, but that PARP inhibitors trap PARP on the SSB intermediate formed during BER. Unexpectedly, addition of PARP inhibitor 2 h after DMS treatment still increased SSB levels indicating ongoing repair even at this late time point.

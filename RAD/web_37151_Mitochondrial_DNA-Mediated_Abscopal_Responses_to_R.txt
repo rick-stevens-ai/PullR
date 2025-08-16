@@ -1,0 +1,10 @@
+Title: Mitochondrial DNA-Mediated Abscopal Responses to Radiation Are Suppressed by Autophagy in Breast Cancer
+Authors: Unknown
+Year: N/A
+Paper ID: web_37151
+URL: https://www.nature.com/articles/s41590-020-0751-0
+Venue: Nature Immunology
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study investigates the interplay between mitochondrial DNA (mtDNA), autophagy, and the immune response to radiation therapy in breast cancer. Using mouse mammary carcinoma models, the authors demonstrate that inhibition of autophagy sensitizes tumor cells to radiation and enhances systemic anti-tumor immune responses, known as the abscopal effect. Mechanistically, autophagy-deficient cancer cells accumulate cytosolic mtDNA following irradiation, which activates type I interferon (IFN) secretion through the cGAS-STING pathway. This immunogenic response is suppressed by functional autophagy. Gene expression analyses reveal that high autophagic activity in breast cancer patients correlates with poorer prognosis and is inversely associated with mitochondrial abundance, type I IFN signaling, and effector immune responses. The findings suggest that targeting mitochondrial outer membrane permeabilization, rather than autophagy itself, may represent a promising strategy to enhance the efficacy of radiation therapy by promoting mtDNA-driven immune activation in breast cancer.

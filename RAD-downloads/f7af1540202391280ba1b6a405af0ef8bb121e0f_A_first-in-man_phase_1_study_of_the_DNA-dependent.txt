@@ -1,0 +1,9 @@
+Title: A first-in-man phase 1 study of the DNA-dependent protein kinase inhibitor peposertib (formerly M3814) in patients with advanced solid tumours
+Authors: M. V. van Bussel, A. Awada, M. D. de Jonge, M. Mau-Sørensen, D. Nielsen et al. (and 9 more)
+Year: 2020
+Paper ID: f7af1540202391280ba1b6a405af0ef8bb121e0f
+URL: https://www.semanticscholar.org/paper/f7af1540202391280ba1b6a405af0ef8bb121e0f
+Venue: British Journal of Cancer
+
+Abstract:
+This open-label, phase 1 trial (NCT02316197) aimed to determine the maximum-tolerated dose (MTD) and/or recommended phase 2 dose (RP2D) of peposertib (formerly M3814), a DNA-dependent protein kinase (DNA-PK) inhibitor in patients with advanced solid tumours. Secondary/exploratory objectives included safety/tolerability, pharmacokinetic/pharmacodynamic profiles and clinical activity. Adult patients with advanced solid tumours received peposertib 100–200 mg once daily or 150–400 mg twice daily (BID) in 21-day cycles. Thirty-one patients were included (median age 66 years, 61% male). One dose-limiting toxicity, consisting of mainly gastrointestinal, non-serious adverse events (AEs) and long recovery duration, was reported at 300 mg BID. The most common peposertib-related AEs were nausea, vomiting, fatigue and pyrexia. The most common peposertib-related Grade 3 AEs were maculopapular rash and nausea. Peposertib was quickly absorbed systemically (median Tmax 1.1–2.5 h). The p-DNA-PK/t-DNA-PK ratio decreased consistently in peripheral blood mononuclear cells 3–6 h after doses ≥100 mg. The best overall response was stable disease (12 patients), lasting for ≥12 weeks in seven patients. Peposertib was well-tolerated and demonstrated modest efficacy in unselected tumours. The MTD was not reached; the RP2D was declared as 400 mg BID. Further studies, mainly with peposertib/chemo-radiation, are ongoing. NCT02316197

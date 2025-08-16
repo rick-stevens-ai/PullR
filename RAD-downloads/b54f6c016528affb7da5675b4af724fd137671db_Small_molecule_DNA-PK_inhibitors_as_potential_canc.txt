@@ -1,0 +1,9 @@
+Title: Small molecule DNA-PK inhibitors as potential cancer therapy: a patent review (2010–present)
+Authors: Suwen Hu, Zi Hui, F. Lirussi, C. Garrido, X. Ye et al. (and 1 more)
+Year: 2020
+Paper ID: b54f6c016528affb7da5675b4af724fd137671db
+URL: https://www.semanticscholar.org/paper/b54f6c016528affb7da5675b4af724fd137671db
+Venue: Expert Opinion on Therapeutic Patents
+
+Abstract:
+ABSTRACT Introduction: DNA-dependent protein kinase (DNA-PK) plays a crucial role in the repair of DSBs via non-homologous end joining (NHEJ). Several DNA-PK inhibitors are being investigated for potential anticancer treatment in clinical trials. Area covered: This review aims to give an overview of patents published since 2010 by analyzing the patent space and structure features of scaffolds used in those patents. It also discusses the recent clinical developments and provides perspectives on future challenges and directions in this field. Expert opinion: As a key component of the DNA damage response (DDR) pathway, DNA-PK appears to be a viable drug target for anticancer therapy. The clinical investigation of a DNA-PK inhibitor employs both a monotherapy and a combination strategy. In the combination strategy, a DNA-PK inhibitor is typically combined with a DSB inducer, radiation, a chemotherapy agent, or a PARP inhibitor, etc. Patent analyses suggest that diverse structures comprising different scaffolds from mono-heteroaryl to bicyclic heteroaryl to tricyclic heteroaryl are capable to achieve good DNA-PK inhibitory activity and good DNA-PK selectivity over other closely related enzymes. Several DNA-PK inhibitors are currently being evaluated in clinics, with the hope to get approval in the near future.

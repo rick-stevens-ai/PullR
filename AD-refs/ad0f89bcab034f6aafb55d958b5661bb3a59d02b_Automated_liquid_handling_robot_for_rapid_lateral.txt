@@ -1,0 +1,9 @@
+Title: Automated liquid handling robot for rapid lateral flow assay development
+Authors: Unknown
+Year: 2022
+Paper ID: ad0f89bcab034f6aafb55d958b5661bb3a59d02b
+URL: https://www.semanticscholar.org/paper/ad0f89bcab034f6aafb55d958b5661bb3a59d02b
+Venue: Analytical and Bioanalytical Chemistry
+
+Abstract:
+The lateral flow assay (LFA) is one of the most popular technologies on the point-of-care diagnostics market due to its low cost and ease of use, with applications ranging from pregnancy to environmental toxins to infectious disease. While the use of these tests is relatively straightforward, significant development time and effort are required to create tests that are both sensitive and specific. Workflows to guide the LFA development process exist but moving from target selection to an LFA that is ready for field testing can be labor intensive, resource heavy, and time consuming. To reduce the cost and the duration of the LFA development process, we introduce a novel development platform centered on the flexibility, speed, and throughput of an automated robotic liquid handling system. The system comprises LFA-specific hardware and software that enable large optimization experiments with discrete and continuous variables such as antibody pair selection or reagent concentration. Initial validation of the platform was demonstrated during development of a malaria LFA but was readily expanded to encompass development of SARS-CoV-2 and Mycobacterium tuberculosis LFAs. The validity of the platform, where optimization experiments are run directly on LFAs rather than in solution, was based on a direct comparison between the robotic system and a more traditional ELISA-like method. By minimizing hands-on time, maximizing experiment size, and enabling improved reproducibility, the robotic system improved the quality and quantity of LFA assay development efforts.

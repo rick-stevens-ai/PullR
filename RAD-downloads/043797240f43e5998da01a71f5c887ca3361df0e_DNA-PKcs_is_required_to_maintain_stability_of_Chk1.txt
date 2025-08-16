@@ -1,0 +1,9 @@
+Title: DNA-PKcs is required to maintain stability of Chk1 and Claspin for optimal replication stress response
+Authors: Yu-Fen Lin, Hung-ying Shih, Z. Shang, S. Matsunaga, Benjamin P. C. Chen
+Year: 2014
+Paper ID: 043797240f43e5998da01a71f5c887ca3361df0e
+URL: https://www.semanticscholar.org/paper/043797240f43e5998da01a71f5c887ca3361df0e
+Venue: Nucleic Acids Research
+
+Abstract:
+The ataxia telangiectasia mutated and Rad3-related (ATR)-checkpoint kinase 1 (Chk1) axis is the major signaling pathway activated in response to replication stress and is essential for the intra-S checkpoint. ATR phosphorylates and activates a number of molecules to coordinate cell cycle progression. Chk1 is the major effector downstream from ATR and plays a critical role in intra-S checkpoint on replication stress. Activation of Chk1 kinase also requires its association with Claspin, an adaptor protein essential for Chk1 protein stability, recruitment and ATR-dependent Chk1 phosphorylation. We have previously reported that, on replication stress, the catalytic subunit of DNA-dependent protein kinase (DNA-PKcs) is rapidly phosphorylated by ATR at the stalled replication forks and is required for cellular resistance to replication stresses although the impact of DNA-PKcs onto the ATR signaling pathway remains elusive. Here we report that ATR-dependent Chk1 phosphorylation and Chk1 signaling are compromised in the absence of DNA-PKcs. Our investigation reveals that DNA-PKcs is required to maintain Chk1–Claspin complex stability and transcriptional regulation of Claspin expression. The impaired Chk1 activity results in a defective intra-S checkpoint response in DNA-PKcs–deficient cells. Taken together, these results suggest that DNA-PKcs, in addition to its direct role in DNA damage repair, facilitates ATR-Chk1 signaling pathway in response to replication stress.

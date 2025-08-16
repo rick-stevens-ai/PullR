@@ -1,0 +1,9 @@
+Title: Hierarchical Blockchain Design for Distributed Control and Energy Trading Within Microgrids
+Authors: Jiawei Yang, Jiahong Dai, H. Gooi, Hung D. Nguyen, P. Wang
+Year: 2022
+Paper ID: 5a4f8b87ca2a64e9dfc29eed3c8c544c9fb302af
+URL: https://www.semanticscholar.org/paper/5a4f8b87ca2a64e9dfc29eed3c8c544c9fb302af
+Venue: IEEE Transactions on Smart Grid
+
+Abstract:
+Blockchain technology is recognized as a suitable tool to secure the energy trading because it could perfectly match the distributed structure of peer-to-peer (P2P) energy market. But its usage is stuck on the transaction level. Control systems are significant to the microgrid as they ensure a stable power delivery system and regulate the performance of parameters such as active power and frequency. This paper proves that the blockchain technology is also effective in securing the distributed control systems against the false data injection attack. A six-prosumer microgrid is tested with the implementation of the hierarchical blockchain system. The security of both the control system and energy trading system of the microgrid is ensured. Smart contracts are created to calculate the feedback measurements for the control system and execute the energy transactions. According to the hierarchical structure, the private blockchain with static nodes is implemented for the distributed control to match the sampling rate. A Proof-of-Authority based blockchain is utilized to support the energy trading. In addition, a double auction based simple iteration (DA-SI) pricing scheme is designed to improve the social welfare of the microgrid. Finally, case studies are presented to verify the proposed hierarchical blockchain system as an effective method to safeguard the control system and maximize the benefits of prosumers. Numerical results show the effectiveness and feasibility of the proposed approach.

@@ -1,0 +1,9 @@
+Title: PhonMatchNet: Phoneme-Guided Zero-Shot Keyword Spotting for User-Defined Keywords
+Authors: Yong-Hyeok Lee, Namhyun Cho
+Year: 2023
+Paper ID: 60a068271f0bb7d8b171d25a5cc64f44829cd555
+URL: https://www.semanticscholar.org/paper/60a068271f0bb7d8b171d25a5cc64f44829cd555
+Venue: Interspeech
+
+Abstract:
+This study presents a novel zero-shot user-defined keyword spotting model that utilizes the audio-phoneme relationship of the keyword to improve performance. Unlike the previous approach that estimates at utterance level, we use both utterance and phoneme level information. Our proposed method comprises a two-stream speech encoder architecture, self-attention-based pattern extractor, and phoneme-level detection loss for high performance in various pronunciation environments. Based on experimental results, our proposed model outperforms the baseline model and achieves competitive performance compared with full-shot keyword spotting models. Our proposed model significantly improves the EER and AUC across all datasets, including familiar words, proper nouns, and indistinguishable pronunciations, with an average relative improvement of 67% and 80%, respectively. The implementation code of our proposed model is available at https://github.com/ncsoft/PhonMatchNet.

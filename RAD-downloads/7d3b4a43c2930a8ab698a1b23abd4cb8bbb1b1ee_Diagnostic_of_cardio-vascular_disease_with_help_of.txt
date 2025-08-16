@@ -1,0 +1,12 @@
+Title: Diagnostic of cardio-vascular disease with help of largest Lyapunov exponent of RR-sequences
+Authors: A. Pavlov, N. Janson, V. Anishchenko, V. Gridnev, P. Y. Dovgalevsky
+Year: 2000
+Paper ID: 7d3b4a43c2930a8ab698a1b23abd4cb8bbb1b1ee
+URL: https://www.semanticscholar.org/paper/7d3b4a43c2930a8ab698a1b23abd4cb8bbb1b1ee
+Venue: 
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/7d3b4a43c2930a8ab698a1b23abd4cb8bbb1b1ee

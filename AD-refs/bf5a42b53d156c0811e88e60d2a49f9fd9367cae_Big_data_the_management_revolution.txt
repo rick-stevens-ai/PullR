@@ -1,0 +1,12 @@
+Title: Big data: the management revolution.
+Authors: Andrew P. McAfee, Erik Brynjolfsson
+Year: 2012
+Paper ID: bf5a42b53d156c0811e88e60d2a49f9fd9367cae
+URL: https://www.semanticscholar.org/paper/bf5a42b53d156c0811e88e60d2a49f9fd9367cae
+Venue: Harvard Business Review
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/bf5a42b53d156c0811e88e60d2a49f9fd9367cae

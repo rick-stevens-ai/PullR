@@ -1,0 +1,29 @@
+Title: Direct reversal of DNA alkylation damage.
+Authors: Y. Mishina, E. Duguid, Chuan He
+Year: 2006
+Paper ID: a4f751c0f7f69349d8c14454877e2eeea6cc822c
+URL: https://www.semanticscholar.org/paper/a4f751c0f7f69349d8c14454877e2eeea6cc822c
+Venue: Chemical Reviews
+
+Abstract:
+1.1. Overview of Direct Repair of DNA Alkylation Damage 
+Cellular DNA is constantly subjected to modifications by intracellular and extracellular chemicals, which can result in covalent changes. 1,2 Alkylating agents are one group of such chemicals that can lead to DNA damage.3 These agents are prevalent in the environment and are used as anticancer compounds in the clinical setting.4–10 Alkylating agents also exist endogenously inside cells; for instance, S-adenosylmethionine, a methyl donor for many cellular reactions, has been shown to produce methylation damage.11,12 The attack on DNA by these alkylating agents can lead to various types of lesions on the heterocyclic bases or backbone.3,13–15 Most of these resulting adducts are mutagenic or toxic, and cells have evolved various proteins to detect and repair them.9,16,17 Interestingly, many of these alkylation lesions are repaired through the direct removal of the adduct. Other than the photolyase that catalyzes direct reversal of the thymine dimer created by UV light,18,19 all known direct DNA repair proteins are engaged in alkylation DNA damage repair. These are the N-terminal domain of the Escherichia coli (E. coli) Ada protein, the O6-alkylguanine-DNA alkyltransferase family, and the AlkB family.9 
+ 
+ 
+ 
+1.1.1. Alkylation of DNA 
+Alkylating reagents can be divided into SN1 and SN2 types based on the mechanism of the alkylation attack. The alkylation susceptibility of each site on the bases or backbone varies depending on the reagent used (Figure 1); the resulting lesions also have different mutagenic and cytotoxic effects. The N7-position of guanine is the most vulnerable site on DNA; unsurprisingly, it also serves as the best ligand on the DNA for metal ions such as platinum(II).20 Treating double-stranded DNA (dsDNA) with methylating agents such as methylmethane sulfonate (MMS, an SN2 type methylating agent) or N-methyl-N′-nitrosourea (MNU, an SN1 type methylating agent) typically results in 70–80% of the methylation occurring on the N7-position of guanine. Despite being the most abundant product of alkylation damage, N7-methylguanine is relatively innocuous and is removed mostly through spontaneous depurination.21 The resulting abasic site is toxic and repaired enzymatically.22 The N3-methyladenine is the second most abundant alkylation lesion formed in dsDNA. This lesion can block DNA replication and is removed by AlkA in E. coli and 3-methyladenine-DNA-glycosylases.23–25 
+ 
+ 
+ 
+Figure 1 
+ 
+Methylation patterns of the DNA bases and phosphate backbone with MMS and MNU. The blue arrows indicate methylation sites that are repaired by glycosylases; the red arrows are for sites repaired by O6-alkylguanine-DNA alkyltransferases; the purple arrows ... 
+ 
+ 
+ 
+The SN1 type methylating agents such as MNU and N-methyl-N′-nitro-N-nitrosoguanidine (MNNG) are highly mutagenic because they attack the oxygen atoms on DNA bases to give a significant amount of O6-methylguanine (O6-meG) and a small amount of O4-methylthymine (Figure 1).13,14 O6-meG mispairs with thymine during DNA replication, which gives rise to a transition mutation of G:C to A:T.26–29 Thus, this lesion must be rapidly located and removed in order to maintain the integrity of the genome. The O6-alkylguanine-DNA alkyltransferase family of proteins performs this important task in almost all organisms.29–33 
+ 
+The SN2 type methylating agents such as MMS and methyl halides can react with single-stranded DNA (ssDNA) to generate large portions of N1-methyladenine and N3-methylcytosine (Figure 1).3,9,13,14 These two positions are protected by hydrogen bonding in dsDNA but are quite nucleophilic when exposed in ssDNA or replication forks. When these sites are exposed, they are vulnerable to nucleophilic attack; the pKa’s of these two nitrogen sites are 4.1 and 4.5 in ssDNA, which are higher than that of N7-guanine.34–38 The resulting lesions prevent formation of Watson–Crick base pairs which could be toxic for cells. The protein involved in the repair of these lesions has been revealed only very recently. A family of iron(II)-dependent dioxygenases was found to catalytically remove these alkylation lesions.9,39,40 
+ 
+The phosphodiester DNA backbone is also subject to alkylation damage. For instance, 17% of the total methylation occurs on the backbone to yield methylphosphotriesters when dsDNA is treated with MNU (Figure 1). The neutral phosphotriester can be hydrolyzed by water much faster than the diester, which leads to cleavage of the backbone. The Sp-methylphosphotriester is repaired by the N-terminal domain of the Ada protein (N-Ada) in E. coli.17,41 This repair serves mostly as a signaling pathway to induce expression of methylation resistance genes, as will be discussed below. The other diastereomer, Rp-methylphosphotriester, cannot be repaired by N-Ada. There is no homologue of N-Ada found in eukaryotes. It is unclear whether methylphosphotriester is repaired in eukaryotes.

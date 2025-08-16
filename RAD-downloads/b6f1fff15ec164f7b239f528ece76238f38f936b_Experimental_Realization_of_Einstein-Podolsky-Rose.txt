@@ -1,0 +1,9 @@
+Title: Experimental Realization of Einstein-Podolsky-Rosen-Bohm Gedankenexperiment : A New Violation of Bell's Inequalities
+Authors: A. Aspect, P. Grangier, G. Roger
+Year: 1982
+Paper ID: b6f1fff15ec164f7b239f528ece76238f38f936b
+URL: https://www.semanticscholar.org/paper/b6f1fff15ec164f7b239f528ece76238f38f936b
+Venue: 
+
+Abstract:
+The linear-polarization correlation of pairs of photons emitted in a radiative cascade of calcium has been measured. The new experimental scheme, using two-channel polarizers (i.e., optical analogs of Stern-Gerlach filters), is a straightforward transposition of Einstein-Podolsky-Rosen-Bohm gedankenexperiment. The present results, in excellent agreement with the quantum mechanical predictions, lead to the greatest violation of generalized Bell's inequalities ever achieved.

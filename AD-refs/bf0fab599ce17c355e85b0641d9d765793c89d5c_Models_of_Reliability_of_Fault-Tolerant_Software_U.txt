@@ -1,0 +1,12 @@
+Title: Models of Reliability of Fault-Tolerant Software Under Cyber-Attacks
+Authors: P. Popov
+Year: 2017
+Paper ID: bf0fab599ce17c355e85b0641d9d765793c89d5c
+URL: https://www.semanticscholar.org/paper/bf0fab599ce17c355e85b0641d9d765793c89d5c
+Venue: IEEE International Symposium on Software Reliability Engineering
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/bf0fab599ce17c355e85b0641d9d765793c89d5c

@@ -1,0 +1,9 @@
+Title: An Overview of Industrial Robots Control and Programming Approaches
+Authors: Pietro Bilancia, Juliana Schmidt, Roberto Raffaeli, M. Peruzzini, M. Pellicciari
+Year: 2023
+Paper ID: 4cd858c44b89c411dc0f09323dbc318b6f1921d8
+URL: https://www.semanticscholar.org/paper/4cd858c44b89c411dc0f09323dbc318b6f1921d8
+Venue: Applied Sciences
+
+Abstract:
+Nowadays, manufacturing plants are required to be flexible to respond quickly to customer demands, adapting production and processes without affecting their efficiency. In this context, Industrial Robots (IRs) are a primary resource for modern factories due to their versatility which allows the execution of flexible, reconfigurable, and zero-defect manufacturing tasks. Even so, the control and programming of the commercially available IRs are limiting factors for their effective implementation, especially for dynamic production environments or when complex applications are required. These issues have stimulated the development of new technologies that support more efficient methods for robot control and programming. The goal of this research is to identify and evaluate the main approaches proposed in scientific papers and by the robotics industry in the last decades. After a critical review of the standard IR control schematic, the paper discusses the available control alternatives and summarizes their characteristics, range of applications, and remaining limitations.

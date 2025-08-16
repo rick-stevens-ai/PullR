@@ -1,0 +1,9 @@
+Title: Possible Role of Aurora-C in Meiosis
+Authors: Kuo-Tai Yang, Chieh-ju C. Tang, T. Tang
+Year: 2015
+Paper ID: 5146efaa407ed5715072173515e9aa18cde46413
+URL: https://www.semanticscholar.org/paper/5146efaa407ed5715072173515e9aa18cde46413
+Venue: Frontiers in Oncology
+
+Abstract:
+The meiotic generation of haploid gametes with equal contents of genetic material is important for sexual reproduction in mammals. Errors in the transmission of chromosomes during meiosis may lead to aneuploidy, which is the leading cause of miscarriage and congenital birth defects in humans. The Aurora kinases, which include Aurora-A, Aurora-B, and Aurora-C, are highly conserved serine–threonine kinases that play essential roles in centrosome function, chromosome segregation, and cytokinesis during mitosis and meiosis. While Aurora-A and Aurora-B have been extensively studied in mitosis, the role of Aurora-C in meiosis is only now starting to be revealed. For example, the perturbation of Aurora-C kinase activity by microinjection of Aurora-C-kinase-dead mutant mRNAs into mouse oocytes induced multiple defects, including chromosome misalignment, abnormal kinetochore–microtubule attachment, premature chromosome segregation, and failure of cytokinesis during meiotic division. However, the analysis of such defects is complicated by the possibility that Aurora-B may be present in mammalian germ cells. Interestingly, a homozygous mutation of Aurora-C in humans leads to the production of large-headed polyploid spermatozoa and causes male infertility, but homozygous females are fertile. Mouse studies regarding the roles of Aurora-B and Aurora-C in female meiotic divisions have yielded inconsistent results, and it has proven difficult to explain why homozygous human females have no significant clinical phenotype. In this review, we will discuss the controversial status of Aurora-B in oocytes and the possible role of Aurora-C during meiotic division.

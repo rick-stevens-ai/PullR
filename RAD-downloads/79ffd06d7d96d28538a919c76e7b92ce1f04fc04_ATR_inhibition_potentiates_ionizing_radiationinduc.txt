@@ -1,0 +1,9 @@
+Title: ATR inhibition potentiates ionizing radiation‐induced interferon response via cytosolic nucleic acid‐sensing pathways
+Authors: Xu Feng, Anthony T. Tubbs, Chunchao Zhang, Mengfan Tang, Sriram Sridharan et al. (and 10 more)
+Year: 2020
+Paper ID: 79ffd06d7d96d28538a919c76e7b92ce1f04fc04
+URL: https://www.semanticscholar.org/paper/79ffd06d7d96d28538a919c76e7b92ce1f04fc04
+Venue: EMBO Journal
+
+Abstract:
+Mechanistic understanding of how ionizing radiation induces type I interferon signaling and how to amplify this signaling module should help to maximize the efficacy of radiotherapy. In the current study, we report that inhibitors of the DNA damage response kinase ATR can significantly potentiate ionizing radiation‐induced innate immune responses. Using a series of mammalian knockout cell lines, we demonstrate that, surprisingly, both the cGAS/STING‐dependent DNA‐sensing pathway and the MAVS‐dependent RNA‐sensing pathway are responsible for type I interferon signaling induced by ionizing radiation in the presence or absence of ATR inhibitors. The relative contributions of these two pathways in type I interferon signaling depend on cell type and/or genetic background. We propose that DNA damage‐elicited double‐strand DNA breaks releases DNA fragments, which may either activate the cGAS/STING‐dependent pathway or—especially in the case of AT‐rich DNA sequences—be transcribed and initiate MAVS‐dependent RNA sensing and signaling. Together, our results suggest the involvement of two distinct pathways in type I interferon signaling upon DNA damage. Moreover, radiation plus ATR inhibition may be a promising new combination therapy against cancer.

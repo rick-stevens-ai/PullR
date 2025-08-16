@@ -1,0 +1,22 @@
+Title: Phase I Study of LY2606368, a Checkpoint Kinase 1 Inhibitor, in Patients With Advanced Cancer.
+Authors: D. Hong, J. Infante, F. Janku, Suzanne F. Jones, L. Nguyen et al. (and 11 more)
+Year: 2016
+Paper ID: 17ec01b22ebb1f02a22b15f5f3ac588ec75b4fd0
+URL: https://www.semanticscholar.org/paper/17ec01b22ebb1f02a22b15f5f3ac588ec75b4fd0
+Venue: Journal of Clinical Oncology
+
+Abstract:
+PURPOSE
+The primary objective was to determine safety, toxicity, and a recommended phase II dose regimen of LY2606368, an inhibitor of checkpoint kinase 1, as monotherapy.
+
+
+PATIENTS AND METHODS
+This phase I, nonrandomized, open-label, dose-escalation trial used a 3 + 3 dose-escalation scheme and included patients with advanced solid tumors. Intravenous LY2606368 was dose escalated from 10 to 50 mg/m(2) on schedule 1 (days 1 to 3 every 14 days) or from 40 to 130 mg/m(2) on schedule 2 (day 1 every 14 days). Safety measures and pharmacokinetics were assessed, and pharmacodynamics were measured in blood, hair follicles, and circulating tumor cells.
+
+
+RESULTS
+Forty-five patients were treated; seven experienced dose-limiting toxicities (all hematologic). The maximum-tolerated doses (MTDs) were 40 mg/m(2) (schedule 1) and 105 mg/m(2) (schedule 2). The most common related grade 3 or 4 treatment-emergent adverse events were neutropenia, leukopenia, anemia, thrombocytopenia, and fatigue. Grade 4 neutropenia occurred in 73.3% of patients and was transient (typically < 5 days). Febrile neutropenia incidence was low (7%). The LY2606368 exposure over the first 72 hours (area under the curve from 0 to 72 hours) at the MTD for each schedule coincided with the exposure in mouse xenografts that resulted in maximal tumor responses. Minor intra- and intercycle accumulation of LY2606368 was observed at the MTDs for both schedules. Two patients (4.4%) had a partial response; one had squamous cell carcinoma (SCC) of the anus and one had SCC of the head and neck. Fifteen patients (33.3%) had a best overall response of stable disease (range, 1.2 to 6.7 months), six of whom had SCC.
+
+
+CONCLUSION
+An LY2606368 dose of 105 mg/m(2) once every 14 days is being evaluated as the recommended phase II dose in dose-expansion cohorts for patients with SCC.

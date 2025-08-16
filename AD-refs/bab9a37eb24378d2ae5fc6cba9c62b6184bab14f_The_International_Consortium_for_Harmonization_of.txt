@@ -1,0 +1,9 @@
+Title: The International Consortium for Harmonization of Clinical Laboratory Results (ICHCLR) – A Pathway for Harmonization
+Authors: Myers Gl, Miller Wg
+Year: 2016
+Paper ID: bab9a37eb24378d2ae5fc6cba9c62b6184bab14f
+URL: https://www.semanticscholar.org/paper/bab9a37eb24378d2ae5fc6cba9c62b6184bab14f
+Venue: EJIFCC
+
+Abstract:
+Results from clinical laboratory measurement procedures must be equivalent to enable effective use of clinical guidelines for disease diagnosis and patient management. Analytical results that are harmonized and independent of the measurement system, time, and location of testing is essential for providing adequate patient care. The key to generating harmonized results is establishing traceability to an accepted reference standard where available. Awareness of the benefits of having traceable measurement results that are harmonized has increased along with efforts to develop approaches to enable and facilitate the implementation of harmonization. Although several organizations are addressing harmonization of test procedures, centralized and cooperative global oversight is needed to ensure that the most important tests are being addressed and resources are optimally used. Working with its domestic and international partners, the American Association for Clinical Chemistry (AACC) has created an International Consortium for Harmonization of Clinical Laboratory Results. Advances in this area will improve the quality of patient care.

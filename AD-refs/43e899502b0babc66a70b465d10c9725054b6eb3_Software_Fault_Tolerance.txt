@@ -1,0 +1,12 @@
+Title: Software Fault Tolerance
+Authors: I. Koren, C. Krishna
+Year: 2021
+Paper ID: 43e899502b0babc66a70b465d10c9725054b6eb3
+URL: https://www.semanticscholar.org/paper/43e899502b0babc66a70b465d10c9725054b6eb3
+Venue: Fault-Tolerant Systems
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/43e899502b0babc66a70b465d10c9725054b6eb3

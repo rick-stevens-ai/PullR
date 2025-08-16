@@ -1,0 +1,9 @@
+Title: Genetic determinants of cellular addiction to DNA polymerase theta
+Authors: W. Feng, D. Simpson, Juan Carvajal-Garcia, Brandon A. Price, Rashmi J. Kumar et al. (and 7 more)
+Year: 2019
+Paper ID: f422444d689cc7fbce1e6b31f8b1d3f439fe2537
+URL: https://www.semanticscholar.org/paper/f422444d689cc7fbce1e6b31f8b1d3f439fe2537
+Venue: Nature Communications
+
+Abstract:
+Polymerase theta (Pol θ, gene name Polq) is a widely conserved DNA polymerase that mediates a microhomology-mediated, error-prone, double strand break (DSB) repair pathway, referred to as Theta Mediated End Joining (TMEJ). Cells with homologous recombination deficiency are reliant on TMEJ for DSB repair. It is unknown whether deficiencies in other components of the DNA damage response (DDR) also result in Pol θ addiction. Here we use a CRISPR genetic screen to uncover 140 Polq synthetic lethal (PolqSL) genes, the majority of which were previously unknown. Functional analyses indicate that Pol θ/TMEJ addiction is associated with increased levels of replication-associated DSBs, regardless of the initial source of damage. We further demonstrate that approximately 30% of TCGA breast cancers have genetic alterations in PolqSL genes and exhibit genomic scars of Pol θ/TMEJ hyperactivity, thereby substantially expanding the subset of human cancers for which Pol θ inhibition represents a promising therapeutic strategy. Polymerase theta is a widely conserved DNA polymerase that mediates Theta Mediated End Joining. Here authors present a synthetic lethal CRISPR screen to identify DDR gene mutations that induce cellular addiction to Pol theta.

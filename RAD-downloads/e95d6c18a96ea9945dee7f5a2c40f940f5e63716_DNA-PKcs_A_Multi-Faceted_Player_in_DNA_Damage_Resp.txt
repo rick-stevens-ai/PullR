@@ -1,0 +1,9 @@
+Title: DNA-PKcs: A Multi-Faceted Player in DNA Damage Response
+Authors: Xiaoqiao Yue, Chenjun Bai, Dafei Xie, Teng Ma, P. Zhou
+Year: 2020
+Paper ID: e95d6c18a96ea9945dee7f5a2c40f940f5e63716
+URL: https://www.semanticscholar.org/paper/e95d6c18a96ea9945dee7f5a2c40f940f5e63716
+Venue: Frontiers in Genetics
+
+Abstract:
+DNA-dependent protein kinase catalytic subunit (DNA-PKcs) is a member of the phosphatidylinositol 3-kinase related kinase family, which can phosphorylate more than 700 substrates. As the core enzyme, DNA-PKcs forms the active DNA-PK holoenzyme with the Ku80/Ku70 heterodimer to play crucial roles in cellular DNA damage response (DDR). Once DNA double strand breaks (DSBs) occur in the cells, DNA-PKcs is promptly recruited into damage sites and activated. DNA-PKcs is auto-phosphorylated and phosphorylated by Ataxia-Telangiectasia Mutated at multiple sites, and phosphorylates other targets, participating in a series of DDR and repair processes, which determine the cells’ fates: DSBs NHEJ repair and pathway choice, replication stress response, cell cycle checkpoints, telomeres length maintenance, senescence, autophagy, etc. Due to the special and multi-faceted roles of DNA-PKcs in the cellular responses to DNA damage, it is important to precisely regulate the formation and dynamic of its functional complex and activities for guarding genomic stability. On the other hand, targeting DNA-PKcs has been considered as a promising strategy of exploring novel radiosensitizers and killing agents of cancer cells. Combining DNA-PKcs inhibitors with radiotherapy can effectively enhance the efficacy of radiotherapy, offering more possibilities for cancer therapy.

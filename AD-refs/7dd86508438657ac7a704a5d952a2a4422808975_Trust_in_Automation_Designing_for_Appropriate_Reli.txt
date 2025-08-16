@@ -1,0 +1,12 @@
+Title: Trust in Automation: Designing for Appropriate Reliance
+Authors: John D. Lee, Katrina A. See
+Year: 2004
+Paper ID: 7dd86508438657ac7a704a5d952a2a4422808975
+URL: https://www.semanticscholar.org/paper/7dd86508438657ac7a704a5d952a2a4422808975
+Venue: Hum. Factors
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/7dd86508438657ac7a704a5d952a2a4422808975

@@ -1,0 +1,12 @@
+Title: DNA double-strand break repair-pathway choice in somatic mammalian cells
+Authors: R. Scully, Arvind Panday, Rajula Elango, Nicholas A. Willis
+Year: 2019
+Paper ID: 328edcedb9c7624be626e97beee54b2db041b12e
+URL: https://www.semanticscholar.org/paper/328edcedb9c7624be626e97beee54b2db041b12e
+Venue: Nature reviews. Molecular cell biology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/328edcedb9c7624be626e97beee54b2db041b12e

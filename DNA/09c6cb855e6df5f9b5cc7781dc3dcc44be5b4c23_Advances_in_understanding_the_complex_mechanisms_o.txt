@@ -1,0 +1,9 @@
+Title: Advances in understanding the complex mechanisms of DNA interstrand cross-link repair.
+Authors: Cheryl L. Clauson, O. Schärer, L. Niedernhofer
+Year: 2013
+Paper ID: 09c6cb855e6df5f9b5cc7781dc3dcc44be5b4c23
+URL: https://www.semanticscholar.org/paper/09c6cb855e6df5f9b5cc7781dc3dcc44be5b4c23
+Venue: Cold Spring Harbor Perspectives in Biology
+
+Abstract:
+DNA interstrand cross-links (ICLs) are lesions caused by a variety of endogenous metabolites, environmental exposures, and cancer chemotherapeutic agents that have two reactive groups. The common feature of these diverse lesions is that two nucleotides on opposite strands are covalently joined. ICLs prevent the separation of two DNA strands and therefore essential cellular processes including DNA replication and transcription. ICLs are mainly detected in S phase when a replication fork stalls at an ICL. Damage signaling and repair of ICLs are promoted by the Fanconi anemia pathway and numerous posttranslational modifications of DNA repair and chromatin structural proteins. ICLs are also detected and repaired in nonreplicating cells, although the mechanism is less clear. A unique feature of ICL repair is that both strands of DNA must be incised to completely remove the lesion. This is accomplished in sequential steps to prevent creating multiple double-strand breaks. Unhooking of an ICL from one strand is followed by translesion synthesis to fill the gap and create an intact duplex DNA, harboring a remnant of the ICL. Removal of the lesion from the second strand is likely accomplished by nucleotide excision repair. Inadequate repair of ICLs is particularly detrimental to rapidly dividing cells, explaining the bone marrow failure characteristic of Fanconi anemia and why cross-linking agents are efficacious in cancer therapy. Herein, recent advances in our understanding of ICLs and the biological responses they trigger are discussed.

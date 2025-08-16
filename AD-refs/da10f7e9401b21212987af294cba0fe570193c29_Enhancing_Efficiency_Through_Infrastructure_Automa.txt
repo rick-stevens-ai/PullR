@@ -1,0 +1,9 @@
+Title: Enhancing Efficiency Through Infrastructure Automation: An In-Depth Analysis of Infrastructure as Code (IaC) Tools
+Authors: Milandeep Kour Bali, Ranjan Walia
+Year: 2023
+Paper ID: da10f7e9401b21212987af294cba0fe570193c29
+URL: https://www.semanticscholar.org/paper/da10f7e9401b21212987af294cba0fe570193c29
+Venue: 2023 International Conference on Computing, Communication, and Intelligent Systems (ICCCIS)
+
+Abstract:
+Due to the increasing demand for efficient management and provisioning of infrastructure resources, Infrastructure as Code (IaC) tools have become indispensable in modern IT environments. Ensuring the scalability of these tools is crucial for accommodating organizations changing requirements and maintaining their effectiveness. Our investigation delves into the visualization of IaC tool scalability and reliability, illustrated by a line chart. On the x-axis, each tool is depicted, with scalability ratings or metrics plotted on the y-axis. IaC tools can be easily compared and evaluated for scalability with the aid of this chart. It provides valuable insight for organizations looking to make informed decisions about selecting the most appropriate tool based on their specific infrastructure needs and growth potential. The chart summarizes and compares key scalability features, making it easier to identify the best tool for meeting performance expectations.

@@ -1,0 +1,12 @@
+Title: Integrating Touchscreen Laboratory Order-Entry with OpenELIS: An Exercise in Interoperability
+Authors: J. Espino, G. Douglas, William Lober
+Year: 2013
+Paper ID: 55fc5e51df844b745d3134f1789f0f430b50b70b
+URL: https://www.semanticscholar.org/paper/55fc5e51df844b745d3134f1789f0f430b50b70b
+Venue: American Medical Informatics Association Annual Symposium
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/55fc5e51df844b745d3134f1789f0f430b50b70b

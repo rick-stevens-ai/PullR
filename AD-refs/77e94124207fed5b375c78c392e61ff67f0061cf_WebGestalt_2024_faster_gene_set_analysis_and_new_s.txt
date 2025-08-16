@@ -1,0 +1,9 @@
+Title: WebGestalt 2024: faster gene set analysis and new support for metabolomics and multi-omics
+Authors: John M Elizarraras, Yuxing Liao, Zhiao Shi, Qian Zhu, Alexander R. Pico et al. (and 1 more)
+Year: 2024
+Paper ID: 77e94124207fed5b375c78c392e61ff67f0061cf
+URL: https://www.semanticscholar.org/paper/77e94124207fed5b375c78c392e61ff67f0061cf
+Venue: Nucleic Acids Research
+
+Abstract:
+Abstract Enrichment analysis, crucial for interpreting genomic, transcriptomic, and proteomic data, is expanding into metabolomics. Furthermore, there is a rising demand for integrated enrichment analysis that combines data from different studies and omics platforms, as seen in meta-analysis and multi-omics research. To address these growing needs, we have updated WebGestalt to include enrichment analysis capabilities for both metabolites and multiple input lists of analytes. We have also significantly increased analysis speed, revamped the user interface, and introduced new pathway visualizations to accommodate these updates. Notably, the adoption of a Rust backend reduced gene set enrichment analysis time by 95% from 270.64 to 12.41 s and network topology-based analysis by 89% from 159.59 to 17.31 s in our evaluation. This performance improvement is also accessible in both the R package and a newly introduced Python package. Additionally, we have updated the data in the WebGestalt database to reflect the current status of each source and have expanded our collection of pathways, networks, and gene signatures. The 2024 WebGestalt update represents a significant leap forward, offering new support for metabolomics, streamlined multi-omics analysis capabilities, and remarkable performance enhancements. Discover these updates and more at https://www.webgestalt.org.

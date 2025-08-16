@@ -1,0 +1,9 @@
+Title: TP53 Variations in Human Cancers: New Lessons from the IARC TP53 Database and Genomics Data
+Authors: L. Bouaoun, D. Sonkin, M. Ardin, M. Hollstein, G. Byrnes et al. (and 2 more)
+Year: 2016
+Paper ID: 288195b0e62ffd7c9709e4a6328989d62576d135
+URL: https://www.semanticscholar.org/paper/288195b0e62ffd7c9709e4a6328989d62576d135
+Venue: Human Mutation
+
+Abstract:
+TP53 gene mutations are one of the most frequent somatic events in cancer. The IARC TP53 Database (http://p53.iarc.fr) is a popular resource that compiles occurrence and phenotype data on TP53 germline and somatic variations linked to human cancer. The deluge of data coming from cancer genomic studies generates new data on TP53 variations and attracts a growing number of database users for the interpretation of TP53 variants. Here, we present the current contents and functionalities of the IARC TP53 Database and perform a systematic analysis of TP53 somatic mutation data extracted from this database and from genomic data repositories. This analysis showed that IARC has more TP53 somatic mutation data than genomic repositories (29,000 vs. 4,000). However, the more complete screening achieved by genomic studies highlighted some overlooked facts about TP53 mutations, such as the presence of a significant number of mutations occurring outside the DNA‐binding domain in specific cancer types. We also provide an update on TP53 inherited variants including the ones that should be considered as neutral frequent variations. We thus provide an update of current knowledge on TP53 variations in human cancer as well as inform users on the efficient use of the IARC TP53 Database.

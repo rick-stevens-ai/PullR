@@ -1,0 +1,9 @@
+Title: Open Embedded Real-time Controllers for Industrial Distributed Control Systems
+Authors: Raimarius Delgado, Jaeho Park, Byoung-Wook Choi
+Year: 2019
+Paper ID: 9f4fdba3ef66a690d8cd4c25c02ab1b676bc4a3f
+URL: https://www.semanticscholar.org/paper/9f4fdba3ef66a690d8cd4c25c02ab1b676bc4a3f
+Venue: Electronics
+
+Abstract:
+This paper presents design details adopting open embedded systems (OES) as real-time controllers in industrial distributed control systems. OES minimize development cost and enhance portability while addressing widely known shortcomings of their proprietary counterparts. These shortcomings include the black box method of distribution which hinders integration to more complex systems. However, OES are highly dependent on the compatibility of each software components and essential benchmarking is required to ensure that the system can satisfy hard real-time constraints. To address these issues and the notion that OES will find broader distributed control applications, we provide detailed procedures in realizing OES based on an open source real-time operating system on various low-cost open embedded platforms. Their performance was evaluated and compared in terms of periodicity and schedulability, task synchronization, and interrupt response time, which are crucial metrics to determine stability and reliability of real-time controllers. Practical implementations, including the modernization of a multi-axis industrial robot controller, are described clearly to serve as a comprehensive reference on the integration of OES in industrial distributed control systems.

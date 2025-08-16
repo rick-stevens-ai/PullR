@@ -1,0 +1,9 @@
+Title: Software Fault Tolerance in Real-Time Systems: Identifying the Future Research Questions
+Authors: F. Reghenzani, Zhishan Guo, W. Fornaciari
+Year: 2023
+Paper ID: c5cca4b8115f5450c46992a310d871a6b5ba226c
+URL: https://www.semanticscholar.org/paper/c5cca4b8115f5450c46992a310d871a6b5ba226c
+Venue: ACM Computing Surveys
+
+Abstract:
+Tolerating hardware faults in modern architectures is becoming a prominent problem due to the miniaturization of the hardware components, their increasing complexity, and the necessity to reduce costs. Software-Implemented Hardware Fault Tolerance approaches have been developed to improve system dependability regarding hardware faults without resorting to custom hardware solutions. However, these come at the expense of making the satisfaction of the timing constraints of the applications/activities harder from a scheduling standpoint. This article surveys the current state-of-the-art of fault tolerance approaches when used in the context of real-time systems, identifying the main challenges and the cross-links between these two topics. We propose a joint scheduling-failure analysis model that highlights the formal interactions among software fault tolerance mechanisms and timing properties. This model allows us to present and discuss many open research questions with the final aim to spur future research activities.

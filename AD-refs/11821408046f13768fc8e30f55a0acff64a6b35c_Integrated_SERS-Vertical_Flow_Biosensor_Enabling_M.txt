@@ -1,0 +1,9 @@
+Title: Integrated SERS-Vertical Flow Biosensor Enabling Multiplexed Quantitative Profiling of Serological Exosomal Proteins in Patients for Accurate Breast Cancer Subtyping.
+Authors: Xiaoming Su, Xinyu Liu, Yangcenzi Xie, Mingyang Chen, Chao Zheng et al. (and 2 more)
+Year: 2023
+Paper ID: 11821408046f13768fc8e30f55a0acff64a6b35c
+URL: https://www.semanticscholar.org/paper/11821408046f13768fc8e30f55a0acff64a6b35c
+Venue: ACS Nano
+
+Abstract:
+Protein profiles of exosomes (EXOs) in clinical samples of cancer patients have become a promising diagnostic and therapeutic biomarker. However, simultaneous quantitative analysis of multiple exosomal proteins of interest remains challenging. To address the unmet need, we develop a paper-based surface-enhanced Raman spectroscopy (SERS)-vertical flow biosensor, named iREX (integrated Raman spectroscopic EXO) biosensor, for multiplexed quantitative profiling of exosomal proteins in clinical serum samples of patients. Utilizing this iREX biosensor, we are able to quantitatively profile MUC1, HER2 and CEA in EXO samples derived from various breast cancer cell subtypes. The results show discriminative expression profiles of the three exosomal proteins in these cell subtypes, which allows for accurate diagnosis and molecular subtyping of breast cancer. We further validate the clinical utility of the iREX biosensor for simultaneous quantitative analysis of MUC1, HER2 and CEA in patient's blood serums, thereby aiding in noninvasive breast cancer subtyping and longitudinal treatment monitoring. Our iREX biosensor integrating the SERS detection in a vertical flow diagnostic device offers great advantages of high sensitivity, molecular specificity, powerful multiplexing capability, and high diagnostic accuracy. We believe that the iREX biosensor could be a promising clinical tool for comprehensive analysis of exosomal proteins in clinical samples for personalized diagnosis and precise management of breast cancer.

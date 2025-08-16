@@ -1,0 +1,9 @@
+Title: A ROBOTIC COMPLEX FOR THE CULTIVATION OF VEGETABLE CROPS
+Authors: N.S. VOROB'EVA, I. Nesmiyanov, A. Dyashkin, V. Dyashkin-Titov, E. Zakharov
+Year: 2024
+Paper ID: b3cda17cd8f52e9c41f1621dbdd793d1c82cf5b0
+URL: https://www.semanticscholar.org/paper/b3cda17cd8f52e9c41f1621dbdd793d1c82cf5b0
+Venue: IZVESTIA VOLGOGRAD STATE TECHNICAL UNIVERSITY
+
+Abstract:
+The article considers a robotic complex that allows automating the technological processes of laying mulching film, spraying, and discrete precision weeding of weeds in rows during the cultivation of vegetable crops.

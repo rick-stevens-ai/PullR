@@ -1,0 +1,10 @@
+Title: Quantum Bio-Physics: DNA and RNA as Information-Energy Catalysts and Quantum Antennas in Living Systems
+Authors: Paolo Manzelli (President of EGOCREANET/Open Network For New Science, University of Florence)
+Year: N/A
+Paper ID: web_567620
+URL: http://www.edscuola.it/archivio/lre/bioquantum_physics.htm
+Venue: Presented at the QUANTUM-BIONET meeting, Pavia, Italy; published on EdScuola website
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This paper challenges the traditional "Central Dogma" of molecular biology, which regards DNA as a passive repository of genetic information. Instead, it proposes that DNA and RNA function as dynamic information-energy catalysts, actively participating in quantum-level information exchange within living cells. Drawing on analogies between quantum physics and molecular biology, the author introduces the hypothesis that DNA operates as a "quantum antenna," transmitting quantized signals—such as bio-photons and bio-phonons—to proteins. This mechanism is posited to facilitate the orchestrated timing and spatial organization of metabolic and regulatory processes. The work calls for a paradigm shift in biology, advocating for the integration of quantum physics concepts to better understand the communication and co-evolution of DNA, RNA, and proteins. By bridging molecular biology and theoretical physics, this interdisciplinary approach aims to provide deeper insights into the fundamental mechanisms underlying life. The analysis is theoretical and conceptual, with no experimental methods specified.

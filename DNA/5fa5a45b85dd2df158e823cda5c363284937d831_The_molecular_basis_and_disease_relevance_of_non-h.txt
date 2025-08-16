@@ -1,0 +1,12 @@
+Title: The molecular basis and disease relevance of non-homologous DNA end joining
+Authors: Bailin Zhao, E. Rothenberg, D. Ramsden, M. Lieber
+Year: 2020
+Paper ID: 5fa5a45b85dd2df158e823cda5c363284937d831
+URL: https://www.semanticscholar.org/paper/5fa5a45b85dd2df158e823cda5c363284937d831
+Venue: Nature reviews. Molecular cell biology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/5fa5a45b85dd2df158e823cda5c363284937d831

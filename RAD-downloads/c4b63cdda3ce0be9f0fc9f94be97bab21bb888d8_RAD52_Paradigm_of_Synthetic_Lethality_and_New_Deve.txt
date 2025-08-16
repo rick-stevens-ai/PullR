@@ -1,0 +1,9 @@
+Title: RAD52: Paradigm of Synthetic Lethality and New Developments
+Authors: M. J. Rossi, S. DiDomenico, Mikir Patel, A. Mazin
+Year: 2021
+Paper ID: c4b63cdda3ce0be9f0fc9f94be97bab21bb888d8
+URL: https://www.semanticscholar.org/paper/c4b63cdda3ce0be9f0fc9f94be97bab21bb888d8
+Venue: Frontiers in Genetics
+
+Abstract:
+DNA double-strand breaks and inter-strand cross-links are the most harmful types of DNA damage that cause genomic instability that lead to cancer development. The highest fidelity pathway for repairing damaged double-stranded DNA is termed Homologous recombination (HR). Rad52 is one of the key HR proteins in eukaryotes. Although it is critical for most DNA repair and recombination events in yeast, knockouts of mammalian RAD52 lack any discernable phenotypes. As a consequence, mammalian RAD52 has been long overlooked. That is changing now, as recent work has shown RAD52 to be critical for backup DNA repair pathways in HR-deficient cancer cells. Novel findings have shed light on RAD52’s biochemical activities. RAD52 promotes DNA pairing (D-loop formation), single-strand DNA and DNA:RNA annealing, and inverse strand exchange. These activities contribute to its multiple roles in DNA damage repair including HR, single-strand annealing, break-induced replication, and RNA-mediated repair of DNA. The contributions of RAD52 that are essential to the viability of HR-deficient cancer cells are currently under investigation. These new findings make RAD52 an attractive target for the development of anti-cancer therapies against BRCA-deficient cancers.

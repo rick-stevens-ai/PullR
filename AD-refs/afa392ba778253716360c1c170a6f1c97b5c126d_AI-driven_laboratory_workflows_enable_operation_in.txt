@@ -1,0 +1,12 @@
+Title: AI-driven laboratory workflows enable operation in the age of social distancing
+Authors: D. Marescotti, Chandrasekaran Narayanamoorthy, Filipe Bonjour, Ken Kuwae, Luc Graber et al. (and 3 more)
+Year: 2021
+Paper ID: afa392ba778253716360c1c170a6f1c97b5c126d
+URL: https://www.semanticscholar.org/paper/afa392ba778253716360c1c170a6f1c97b5c126d
+Venue: SLAS Technology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/afa392ba778253716360c1c170a6f1c97b5c126d

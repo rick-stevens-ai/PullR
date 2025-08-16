@@ -1,0 +1,9 @@
+Title: Autonomous Military Robotics: Risk, Ethics, and Design
+Authors: Patrick Lin, G. Bekey, Keith Abney
+Year: 2008
+Paper ID: e1387638132f50fc9e2dbe6bccf4f705e53b166b
+URL: https://www.semanticscholar.org/paper/e1387638132f50fc9e2dbe6bccf4f705e53b166b
+Venue: 
+
+Abstract:
+Abstract : Imagine the face of warfare with autonomous robotics: Instead of our soldiers returning home in flag-draped caskets to heartbroken families, autonomous robots-mobile machines that can make decisions, such as to fire upon a target, without human intervention-can replace the human soldier in an increasing range of dangerous missions: from tunneling through dark caves in search of terrorists, to securing urban streets rife with sniper fire, to patrolling the skies and waterways where there is little cover from attacks, to clearing roads and seas of improvised explosive devices (IEDs), to surveying damage from biochemical weapons, to guarding borders and buildings, to controlling potentially-hostile crowds, and even as the infantry frontlines. These robots would be 'smart' enough to make decisions that only humans now can; and as conflicts increase in tempo and require much quicker information processing and responses, robots have a distinct advantage over the limited and fallible cognitive capabilities that we Homo sapiens have. Not only would robots expand the battlespace over difficult, larger areas of terrain, but they also represent a significant force-multiplier-each effectively doing the work of many human soldiers, while immune to sleep deprivation, fatigue, low morale, perceptual and communication challenges in the 'fog of war', and other performance-hindering conditions.

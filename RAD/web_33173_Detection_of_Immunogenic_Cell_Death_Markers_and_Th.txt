@@ -1,0 +1,10 @@
+Title: Detection of Immunogenic Cell Death Markers and Their Relevance for Cancer Therapy
+Authors: Unknown
+Year: N/A
+Paper ID: web_33173
+URL: https://www.nature.com/articles/s41419-020-03221-2
+Venue: Cell Death & Disease (Nature Publishing Group)
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Immunogenic cell death (ICD) is a distinct form of cell death that stimulates an immune response against tumors by releasing and exposing damage-associated molecular patterns (DAMPs) such as calreticulin, HMGB1, ATP, ANXA1, and type I interferons. The detection and measurement of ICD markers are critical for the discovery of novel anticancer agents, the development of personalized therapies, and the optimization of combination treatments in cancer therapy. However, not all ICD inducers generate the same molecular signals, highlighting the necessity for comprehensive assessment of multiple biomarkers to accurately identify and exploit ICD for therapeutic benefit. This article reviews the concept of ICD and its significance in cancer therapy, emphasizing the role of DAMPs in recruiting and activating antigen-presenting cells and stimulating both innate and adaptive immunity. Methodological approaches for measuring ICD markers in vitro and ex vivo are discussed, underscoring the importance of robust biomarker evaluation in advancing cancer immunotherapy research.

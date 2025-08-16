@@ -1,0 +1,9 @@
+Title: A first-in-class Polymerase Theta Inhibitor selectively targets Homologous-Recombination-Deficient Tumors
+Authors: Jia Zhou, C. Gelot, Constantia Pantelidou, Adam W. Li, Hatice Yücel et al. (and 9 more)
+Year: 2021
+Paper ID: bc1c528104b4bd6bdb2fb5323b61223320840cbd
+URL: https://www.semanticscholar.org/paper/bc1c528104b4bd6bdb2fb5323b61223320840cbd
+Venue: Nature Cancer
+
+Abstract:
+DNA polymerase theta (POLθ or POLQ) is synthetic lethal with homologous recombination (HR) deficiency and is thus a candidate target for HR-deficient cancers. Through high-throughput small-molecule screens, we identified the antibiotic novobiocin (NVB) as a specific POLθ inhibitor that selectively kills HR-deficient tumor cells in vitro and in vivo. NVB directly binds to the POLθ ATPase domain, inhibits its ATPase activity and phenocopies POLθ depletion. NVB kills HR-deficient breast and ovarian tumors in genetically engineered mouse models and xenograft and patient-derived xenograft models. Increased POLθ levels predict NVB sensitivity, and HR-deficient tumor cells with acquired resistance to poly(ADP-ribose) polymerase (PARP) inhibitors (PARPi) are sensitive to NVB in vitro and in vivo. Mechanistically, NVB-mediated cell death in PARPi-resistant cells arises from increased double-strand break end resection, leading to accumulation of single-stranded DNA intermediates and nonfunctional foci of the recombinase RAD51. Our results demonstrate that NVB may be useful alone or in combination with PARPi for treating HR-deficient tumors, including those with acquired PARPi resistance. D’Andrea and colleagues identify the antibiotic novobiocin as a specific POLQ inhibitor with preclinical activity in homologous-recombination-deficient breast and ovarian tumors in vivo, including these with acquired PARP inhibitor resistance.

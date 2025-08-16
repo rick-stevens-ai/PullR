@@ -1,0 +1,9 @@
+Title: Identification of a novel archaea virus, detected in hydrocarbon polluted Hungarian and Canadian samples
+Authors: J. Molnár, B. Magyar, György Schneider, K. Laczi, S. Valappil et al. (and 4 more)
+Year: 2020
+Paper ID: 482c9d5652fc82e72d0faa94946240b6b31ea376
+URL: https://www.semanticscholar.org/paper/482c9d5652fc82e72d0faa94946240b6b31ea376
+Venue: PLoS ONE
+
+Abstract:
+Metagenomics is a helpful tool for the analysis of unculturable organisms and viruses. Viruses that target bacteria and archaea play important roles in the microbial diversity of various ecosystems. Here we show that Methanosarcina virus MV (MetMV), the second Methanosarcina sp. virus with a completely determined genome, is characteristic of hydrocarbon pollution in environmental (soil and water) samples. It was highly abundant in Hungarian hydrocarbon polluted samples and its genome was also present in the NCBI SRA database containing reads from hydrocarbon polluted samples collected in Canada, indicating the stability of its niche and the marker feature of this virus. MetMV, as the only currently identified marker virus for pollution in environmental samples, could contribute to the understanding of the complicated network of prokaryotes and their viruses driving the decomposition of environmental pollutants.

@@ -1,0 +1,9 @@
+Title: Structured Ecological Cultivation With Autonomous Robots in Agriculture: Toward a Fully Autonomous Robotic Indoor Farming System
+Authors: Marsela Car, Barbara Arbanas Ferreira, Jelena Vuletić, M. Orsag
+Year: 2023
+Paper ID: 2e919266ecbf9d4f60b3b90c7173ab429d8ebcf3
+URL: https://www.semanticscholar.org/paper/2e919266ecbf9d4f60b3b90c7173ab429d8ebcf3
+Venue: IEEE robotics & automation magazine
+
+Abstract:
+To support the hypothesis that embracing robotics has the potential to address farming challenges and, at the same time, replace large and complex farm machinery, this article proposes designing a farm around a heterogeneous robotic system dubbed Structured Ecological Cultivation With Autonomous Robots in Agriculture (SPECULARIA). This multirobot system has mobile robots deployed to work just like in a warehouse, moving plants grown in containers to make sure every plant receives optimal care in ideal growing conditions. By structuring the work cell environment around a stationary dual-arm manipulator, the system can plan and execute procedures to control every plant’s growth and hygiene, from seed to harvest. Such a system surpasses current farming robots in scalability and versatility. We showcase compliance control algorithms combined with artificial intelligence (AI), which helps build a functional model of the plant. The same approach is used to program different plant treatments. Finally, we benchmark the proposed setup with a classical mobile manipulation approach to demonstrate its feasibility.

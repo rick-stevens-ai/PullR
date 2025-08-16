@@ -1,0 +1,9 @@
+Title: Verifying the Correctness of Workflow Systems Based on Workflow Net With Data Constraints
+Authors: Yaqiong He, Guanjun Liu, Dongming Xiang, Jiaquan Sun, Chungang Yan et al. (and 1 more)
+Year: 2018
+Paper ID: f3340b839e0c11b72a48b76fef136d43f318fa98
+URL: https://www.semanticscholar.org/paper/f3340b839e0c11b72a48b76fef136d43f318fa98
+Venue: IEEE Access
+
+Abstract:
+The correctness verification is very important for workflow systems. It is closely related with both control-flows and data-flows. Workflow nets with data (WFD-nets) are a kind of formal model that can reflect some logical structures of workflow systems, e.g., choice and concurrency, and represent some operations on data, e.g., read, write, and delete. However, these data operations are conceptual in WFD-nets and only characterize the logical relation between two operations, e.g., whether a write and a read are concurrently operating on a data. They do not consider the functional requirements about data (i.e., data constraints). Thus, some data errors cannot be found via WFD-nets. In order to solve this problem, we propose Workflow nets with Data Constraints (WFDC-nets) and define four levels of soundness to describe different correctness requirements. Based on the reachability graphs of WFDC-nets, we verify the soundness. The related algorithms are proposed and a tool is developed to show the effectiveness and usefulness of our method.

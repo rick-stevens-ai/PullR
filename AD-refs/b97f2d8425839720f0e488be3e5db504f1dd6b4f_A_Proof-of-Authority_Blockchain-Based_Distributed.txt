@@ -1,0 +1,9 @@
+Title: A Proof-of-Authority Blockchain-Based Distributed Control System for Islanded Microgrids
+Authors: Jiawei Yang, Jiahong Dai, H. Gooi, Hung Nguyen, Amrit Paudel
+Year: 2022
+Paper ID: b97f2d8425839720f0e488be3e5db504f1dd6b4f
+URL: https://www.semanticscholar.org/paper/b97f2d8425839720f0e488be3e5db504f1dd6b4f
+Venue: IEEE Transactions on Industrial Informatics
+
+Abstract:
+Control systems are significant to the microgrid as they regulate performance parameters such as frequency, active power, and voltage. Distributed control systems allow direct communication between the secondary controllers and controls the parameters efficiently. To secure each distributed control process and ensure a good quality of control results, a proof-of-authority private blockchain is applied in this article to defend the distributed control system against various types of cyber-attacks such as false data injection. A four-distributed generation islanded microgrid is tested with the implementation of the blockchain. Smart contracts are created to calculate the control feedback and return the value to corresponding secondary controllers. All of the four nodes are initially assigned as the authority nodes to share the mining burden, but according to the proof-of-authority consensus protocol, the authority role could be excluded if the node behaves illegally and causes damage to the control system. In addition, different attacking scenarios are categorized and analyzed with their respective solutions. Finally, a case study is introduced to verify the corresponding solutions and proves that the proposed method is able to secure the distributed control system while ensuring the control quality. Numerical results show the effectiveness and feasibility of the proposed approach.

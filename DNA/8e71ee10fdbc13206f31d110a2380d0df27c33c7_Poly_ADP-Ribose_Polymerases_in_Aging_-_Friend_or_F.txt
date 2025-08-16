@@ -1,0 +1,9 @@
+Title: Poly(ADP-Ribose) Polymerases in Aging - Friend or Foe?
+Authors: A. Vida, Omar Abdul-Rahman, E. Mikó, Attila Brunyánszki, P. Bai
+Year: 2016
+Paper ID: 8e71ee10fdbc13206f31d110a2380d0df27c33c7
+URL: https://www.semanticscholar.org/paper/8e71ee10fdbc13206f31d110a2380d0df27c33c7
+Venue: Current protein and peptide science
+
+Abstract:
+Poly(ADP-ribose) polymerases were originally described as DNA repair enzymes. PARP-1, PARP-2 and PARP-3 can be activated by DNA damage and the resulting activation of these enzymes that facilitate DNA repair, seems to be a prerequisite of successful aging. PARP activation helps to maintain genomic integrity through supporting DNA repair systems; however, in parallel these enzymes limit metabolic fitness and make the organism more prone for metabolic diseases. In addition, several other pathways (e.g., proteostasis, nutrient sensing, stem cell proliferation or cellular communication) all contributing to aging, were shown to be PARP mediated. In this review we aim to summarize our current knowledge on the role of PARPs in aging.

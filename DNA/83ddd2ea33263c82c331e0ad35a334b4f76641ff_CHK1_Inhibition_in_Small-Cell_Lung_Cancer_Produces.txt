@@ -1,0 +1,9 @@
+Title: CHK1 Inhibition in Small-Cell Lung Cancer Produces Single-Agent Activity in Biomarker-Defined Disease Subsets and Combination Activity with Cisplatin or Olaparib.
+Authors: T. Sen, P. Tong, C. Stewart, Sandra Cristea, Aly A. Valliani et al. (and 14 more)
+Year: 2017
+Paper ID: 83ddd2ea33263c82c331e0ad35a334b4f76641ff
+URL: https://www.semanticscholar.org/paper/83ddd2ea33263c82c331e0ad35a334b4f76641ff
+Venue: Cancer Research
+
+Abstract:
+Effective targeted therapies for small-cell lung cancer (SCLC), the most aggressive form of lung cancer, remain urgently needed. Here we report evidence of preclinical efficacy evoked by targeting the overexpressed cell-cycle checkpoint kinase CHK1 in SCLC. Our studies employed RNAi-mediated attenuation or pharmacologic blockade with the novel second-generation CHK1 inhibitor prexasertib (LY2606368), currently in clinical trials. In SCLC models in vitro and in vivo, LY2606368 exhibited strong single-agent efficacy, augmented the effects of cisplatin or the PARP inhibitor olaparib, and improved the response of platinum-resistant models. Proteomic analysis identified CHK1 and MYC as top predictive biomarkers of LY2606368 sensitivity, suggesting that CHK1 inhibition may be especially effective in SCLC with MYC amplification or MYC protein overexpression. Our findings provide a preclinical proof of concept supporting the initiation of a clinical efficacy trial in patients with platinum-sensitive or platinum-resistant relapsed SCLC. Cancer Res; 77(14); 3870-84. ©2017 AACR.

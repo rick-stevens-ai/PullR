@@ -1,0 +1,9 @@
+Title: Murine Wee1 Plays a Critical Role in Cell Cycle Regulation and Pre-Implantation Stages of Embryonic Development
+Authors: Y. Tominaga, Cuiling Li, Ruihong Wang, C. Deng
+Year: 2006
+Paper ID: c308bc860ab429dcf53c826b90d4711dbe034e1b
+URL: https://www.semanticscholar.org/paper/c308bc860ab429dcf53c826b90d4711dbe034e1b
+Venue: International Journal on Biological Sciences
+
+Abstract:
+Wee1 kinase regulates the G2/M cell cycle checkpoint by phosphorylating and inactivating the mitotic cyclin-dependent kinase 1 (Cdk1). Loss of Wee1 in many systems, including yeast and drosophila, leads to premature mitotic entry. However, the developmental role of Wee1 in mammals remains unclear. In this study, we established Wee1 knockout mice by gene targeting. We found that Wee-/- embryos were defective in the G2/M cell cycle checkpoint induced by γ-irradiation and died of apoptosis before embryonic (E) day 3.5. To study the function of Wee1 further, we have developed MEF cells in which Wee1 is disrupted by a tamoxifen inducible Cre-LoxP approach. We found that acute deletion of Wee1 resulted in profound growth defects and cell death. Wee1 deficient cells displayed chromosome aneuploidy and DNA damage as revealed by γ-H2AX foci formation and Chk2 activation. Further studies revealed a conserved mechanism of Wee1 in regulating mitotic entry and the G2/M checkpoint compared with other lower organisms. These data provide in vivo evidence that mammalian Wee1 plays a critical role in maintaining genome integrity and is essential for embryonic survival at the pre-implantation stage of mouse development.

@@ -1,0 +1,9 @@
+Title: Candidate biomarkers of PARP inhibitor sensitivity in ovarian cancer beyond the BRCA genes
+Authors: Darren R. Hodgson, B. Dougherty, Z. Lai, A. Fielding, L. Grinsted et al. (and 14 more)
+Year: 2018
+Paper ID: 74d60ea17c78f866fbbfb8da3a99508e852c8584
+URL: https://www.semanticscholar.org/paper/74d60ea17c78f866fbbfb8da3a99508e852c8584
+Venue: British Journal of Cancer
+
+Abstract:
+Olaparib (Lynparza™) is a PARP inhibitor approved for advanced BRCA-mutated (BRCAm) ovarian cancer. PARP inhibitors may benefit patients whose tumours are dysfunctional in DNA repair mechanisms unrelated to BRCA1/2. We report exploratory analyses, including the long-term outcome of candidate biomarkers of sensitivity to olaparib in BRCA wild-type (BRCAwt) tumours. Tumour samples from an olaparib maintenance monotherapy trial (Study 19, D0810C00019; NCT00753545) were analysed. Analyses included classification of mutations in genes involved in homologous recombination repair (HRR), BRCA1 promoter methylation status, measurement of BRCA1 protein and Myriad HRD score. Patients with BRCAm tumours gained most benefit from olaparib; a similar treatment benefit was also observed in 21/95 patients whose tumours were BRCAwt but had loss-of-function HRR mutations compared to patients with no detectable HRR mutations (58/95). A higher median Myriad MyChoice® HRD score was observed in BRCAm and BRCAwt tumours with BRCA1 methylation. Patients without BRCAm tumours derived benefit from olaparib treatment vs placebo although to a lesser extent than BRCAm patients. Ovarian cancer patients with tumours harbouring loss-of-function mutations in HRR genes other than BRCA1/2 may constitute a small, molecularly identifiable and clinically relevant population who derive treatment benefit from olaparib similar to patients with BRCAm.

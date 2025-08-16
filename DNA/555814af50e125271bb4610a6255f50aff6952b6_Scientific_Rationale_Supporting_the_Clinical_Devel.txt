@@ -1,0 +1,9 @@
+Title: Scientific Rationale Supporting the Clinical Development Strategy for the Investigational Aurora A Kinase Inhibitor Alisertib in Cancer
+Authors: H. Niu, M. Manfredi, J. Ecsedy
+Year: 2015
+Paper ID: 555814af50e125271bb4610a6255f50aff6952b6
+URL: https://www.semanticscholar.org/paper/555814af50e125271bb4610a6255f50aff6952b6
+Venue: Frontiers in Oncology
+
+Abstract:
+Alisertib (MLN8237) is a selective small molecule inhibitor of Aurora A kinase that is being developed in multiple cancer indications as a single agent and in combination with other therapies. A significant amount of research has elucidated a role for Aurora A in orchestrating numerous activities of cells transiting through mitosis and has begun to shed light on potential non-mitotic roles for Aurora A as well. These biological insights laid the foundation for multiple clinical trials evaluating the antitumor activity of alisertib in both solid cancers and heme-lymphatic malignancies. Several key facets of Aurora A biology as well as empirical data collected in experimental systems and early clinical trials have directed the development of alisertib toward certain cancer types, including neuroblastoma, small cell lung cancer, neuroendocrine prostate cancer, atypical teratoid/rhabdoid tumors, and breast cancer among others. In addition, these scientific insights provided the rationale for combining alisertib with other therapies, including microtubule perturbing agents, such as taxanes, EGFR inhibitors, hormonal therapies, platinums, and HDAC inhibitors among others. Here, we link the key aspects of the current clinical development of alisertib to the originating scientific rationale and provide an overview of the alisertib clinical experience to date.

@@ -1,0 +1,12 @@
+Title: The Roadmap to Interoperability and Laboratory Data: Current State and Next Steps.
+Authors: Tylis Chang, D. Herman, D. S. McClintock, Thomas J. S. Durant
+Year: 2023
+Paper ID: bc036311f2cf4b04a956fc24e7d75dface1043bd
+URL: https://www.semanticscholar.org/paper/bc036311f2cf4b04a956fc24e7d75dface1043bd
+Venue: The Journal of Applied Laboratory Medicine
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/bc036311f2cf4b04a956fc24e7d75dface1043bd

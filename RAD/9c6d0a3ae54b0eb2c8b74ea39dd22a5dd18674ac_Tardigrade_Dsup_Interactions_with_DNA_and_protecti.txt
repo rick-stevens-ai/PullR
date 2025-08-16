@@ -1,0 +1,9 @@
+Title: Tardigrade Dsup: Interactions with DNA and protection of cells from oxidative stress
+Authors: Gavin Ni, Hetian Su, Yingqi Zhu, Anshika Dhiman, Huan-Xiang Zhou et al. (and 2 more)
+Year: 2024
+Paper ID: 9c6d0a3ae54b0eb2c8b74ea39dd22a5dd18674ac
+URL: https://www.semanticscholar.org/paper/9c6d0a3ae54b0eb2c8b74ea39dd22a5dd18674ac
+Venue: bioRxiv
+
+Abstract:
+The remarkable capability of Tardigrade to survive under extreme conditions has been partially attributed to Dsup, an intrinsically disordered, highly positively charged protein. Dsup has been shown to bind to DNA in vitro, a property that has been associated with the capability of Dsup to exhibit stress-protective effects when expressed in mammalian cells. However, DNA binding of Dsup has not been visualized in living cells and expression of Dsup in different cell types was associated with either protective or detrimental effects. In addition, the effect of Dsup expression has not been clearly demonstrated at the organism level. Here we combined molecular dynamics (MD) simulations and fluorescence lifetime imaging microscopy (FLIM)-Förster resonance energy transfer (FRET) to interrogate Dsup-DNA interactions and demonstrated Dsup binding to DNA in living mammalian cells. Furthermore, Dsup expression in both HEK293T cells and yeast enhanced cell survival in the presence of hydrogen peroxide, suggesting that the presence of Dsup allows both mammalian and yeast cells to better cope with oxidative stress conditions. This study provides a better understanding of the property and functional role of Dsup and lays a foundation to explore new approaches to enhance stress resistance.

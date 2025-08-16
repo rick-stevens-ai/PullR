@@ -1,0 +1,12 @@
+Title: Fiji: an open-source platform for biological-image analysis
+Authors: J. Schindelin, Ignacio Arganda-Carreras, E. Frise, V. Kaynig, M. Longair et al. (and 11 more)
+Year: 2012
+Paper ID: d018241fe067d7bd54165e3c6d34e248a55437df
+URL: https://www.semanticscholar.org/paper/d018241fe067d7bd54165e3c6d34e248a55437df
+Venue: Nature Methods
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/d018241fe067d7bd54165e3c6d34e248a55437df

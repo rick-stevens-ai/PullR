@@ -1,0 +1,11 @@
+Title: Rigetto anticorpo-mediato nel trapianto di rene: fisiopatologia, clinica e terapia
+Authors: Aris Tsalouchos, M. Salvadori
+Year: 2020
+Paper ID: 59454c66bff54162dc42e7e85441cfba23906eca
+URL: https://www.semanticscholar.org/paper/59454c66bff54162dc42e7e85441cfba23906eca
+Venue: 
+
+Abstract:
+Introduction. Over the past two decades, our thinking has changed from considering rejection as primarily a T-cell mediated process to the realization that insufficient control of the humoral arm of a recipient’s immune system is the factor primarily responsible for the allograft dysfunction and loss. Acute Antibody Mediated Rejection (ABMR) in kidney transplantation is a severe complication that frequently occurs after transplantation and is due either to pre-transplant Donor Specific Antibodies (DSAs) or to de novo DSAs. New techniques to detect DSAs in the recipient serum and advances in the assessment of graft pathology have allowed us to recognize this entity in recent years. 
+Methods. The treatment of ABMR is a multistep process consisting in the desensitization of the patients with preformed antibodies to prevent acute ABMR: in case of acute ABMR, the antibodies are removed from the serum and anti-B cells immunosuppressants are used. 
+Results and Discussion. Along with our knowledge on acute ABMR, a distinct entity has been recognized: the chronic AMBR. Chronic ABMR is a frequent cause of late graft dysfunction and is characterized by a typical histopathologic feature. The treatment is often difficult and new drugs are now tested to control the disease.

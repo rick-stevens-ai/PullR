@@ -1,0 +1,9 @@
+Title: DNA damage signaling in response to double-strand breaks during mitosis
+Authors: Simona Giunta, R. Belotserkovskaya, S. Jackson
+Year: 2010
+Paper ID: 4c1ce383ea9ed97a883e337691cf5632e9e40365
+URL: https://www.semanticscholar.org/paper/4c1ce383ea9ed97a883e337691cf5632e9e40365
+Venue: Journal of Cell Biology
+
+Abstract:
+Dividing cells can sense DNA damage and initiate a primary response, but repair isn’t completed until the cells enter G1.

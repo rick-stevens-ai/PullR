@@ -1,0 +1,9 @@
+Title: Deep Learning for the Life Sciences
+Authors: Nikolay Oskolkov
+Year: 2024
+Paper ID: 0224c369910cfad5d9798d5d686c80e9cc35f3d8
+URL: https://www.semanticscholar.org/paper/0224c369910cfad5d9798d5d686c80e9cc35f3d8
+Venue: 
+
+Abstract:
+This intensive workshop provides a comprehensive exploration of deep learning applications in life sciences, focusing on practical techniques for analyzing complex biological datasets. Participants will gain theoretical and hands-on experience with deep learning tools such as TensorFlow and Keras, learning to construct neural networks and apply them to areas like genomics and personalized medicine.

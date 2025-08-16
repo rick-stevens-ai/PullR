@@ -1,0 +1,9 @@
+Title: GlioVis data portal for visualization and analysis of brain tumor expression datasets.
+Authors: Robert L Bowman, Qianghu Wang, Angel Carro, R. G. W. Verhaak, Massimo Squatrito
+Year: 2017
+Paper ID: 8b4c189c66f3cc6a59a59dcbe17a7b2914a813cf
+URL: https://www.semanticscholar.org/paper/8b4c189c66f3cc6a59a59dcbe17a7b2914a813cf
+Venue: Neuro-Oncology
+
+Abstract:
+© The Author(s) 2016. Published by Oxford University Press on behalf of the Society for Neuro-Oncology. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com. doi:10.1093/neuonc/now199 Advance Access date 14 September 2016 the effects they observed could be influenced by inhibition of other types of Trk receptors or signaling molecules downstream of Trk. We have recently started a series of experiments aiming to verify whether specific TrkB inhibition reduces glioma cell proliferation using ANA-12, a small-molecule selective TrkB antagonist. Our first results showed that ANA-12 effectively and dose-dependently reduces the viability of a human glioblastoma cell line with almost complete disappearance of cultured cells 72 hours after treatment (Fig. 1). Therefore, selective TrkB inhibition might prove to be an effective experimental therapeutic strategy, possibly with fewer off-target toxicities compared with multitarget drugs in patients with astrocytomas harboring oncogenic TrkB.

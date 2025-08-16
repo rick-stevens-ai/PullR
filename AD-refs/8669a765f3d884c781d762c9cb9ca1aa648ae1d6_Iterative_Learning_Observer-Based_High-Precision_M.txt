@@ -1,0 +1,9 @@
+Title: Iterative Learning Observer-Based High-Precision Motion Control for Repetitive Motion Tasks of Linear Motor-Driven Systems
+Authors: Zhitai Liu, Xinghu Yu, Weiyang Lin, J. Rodríguez-Andina
+Year: 2024
+Paper ID: 8669a765f3d884c781d762c9cb9ca1aa648ae1d6
+URL: https://www.semanticscholar.org/paper/8669a765f3d884c781d762c9cb9ca1aa648ae1d6
+Venue: IEEE Open Journal of the Industrial Electronics Society
+
+Abstract:
+Repetitive motion is one of the most common motion tasks in linear motor (LM)-driven system. The LM performs repetitive motion based on a periodic target trajectory under control, thus leading to periodic characteristics in certain system uncertainties. For this type of task, this article proposes an iterative learning observer-based high-precision motion control scheme that comprehensively considers high-accuracy model compensation and periodic uncertainties estimation. A recursive least squares (RLS) algorithm-based indirect adaptation strategy is used to achieve high-accuracy parameter estimation and model compensation. A saturated constrained-type iterative learning observer is designed to effectively estimate and compensate for periodic uncertainties. The closed-loop stability of the system is guaranteed in the presence of both periodic and nonperiodic uncertainties due to the composite adaptive robust control design. Comparative experiments are conducted on an LM-driven motion platform to verify the effectiveness and advantages of the proposed control scheme. Furthermore, the experimental results confirm the enhancement of both the transient and steady-state performance of the system.

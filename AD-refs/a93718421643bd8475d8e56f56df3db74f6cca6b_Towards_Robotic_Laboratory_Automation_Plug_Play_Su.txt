@@ -1,0 +1,12 @@
+Title: Towards Robotic Laboratory Automation Plug & Play: Survey and Concept Proposal on Teaching-free Robot Integration with the LAPP Digital Twin.
+Authors: Ádám Wolf, S. Romeder-Finger, K. Széll, P. Galambos
+Year: 2022
+Paper ID: a93718421643bd8475d8e56f56df3db74f6cca6b
+URL: https://www.semanticscholar.org/paper/a93718421643bd8475d8e56f56df3db74f6cca6b
+Venue: SLAS technology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/a93718421643bd8475d8e56f56df3db74f6cca6b

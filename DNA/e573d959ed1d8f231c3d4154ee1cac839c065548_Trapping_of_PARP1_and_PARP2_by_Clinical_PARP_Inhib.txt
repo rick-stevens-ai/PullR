@@ -1,0 +1,9 @@
+Title: Trapping of PARP1 and PARP2 by Clinical PARP Inhibitors.
+Authors: J. Murai, Shar-yin N. Huang, B. Das, Amélie Renaud, Yiping Zhang et al. (and 4 more)
+Year: 2012
+Paper ID: e573d959ed1d8f231c3d4154ee1cac839c065548
+URL: https://www.semanticscholar.org/paper/e573d959ed1d8f231c3d4154ee1cac839c065548
+Venue: Cancer Research
+
+Abstract:
+Small-molecule inhibitors of PARP are thought to mediate their antitumor effects as catalytic inhibitors that block repair of DNA single-strand breaks (SSB). However, the mechanism of action of PARP inhibitors with regard to their effects in cancer cells is not fully understood. In this study, we show that PARP inhibitors trap the PARP1 and PARP2 enzymes at damaged DNA. Trapped PARP-DNA complexes were more cytotoxic than unrepaired SSBs caused by PARP inactivation, arguing that PARP inhibitors act in part as poisons that trap PARP enzyme on DNA. Moreover, the potency in trapping PARP differed markedly among inhibitors with niraparib (MK-4827) > olaparib (AZD-2281) >> veliparib (ABT-888), a pattern not correlated with the catalytic inhibitory properties for each drug. We also analyzed repair pathways for PARP-DNA complexes using 30 genetically altered avian DT40 cell lines with preestablished deletions in specific DNA repair genes. This analysis revealed that, in addition to homologous recombination, postreplication repair, the Fanconi anemia pathway, polymerase β, and FEN1 are critical for repairing trapped PARP-DNA complexes. In summary, our study provides a new mechanistic foundation for the rational application of PARP inhibitors in cancer therapy.

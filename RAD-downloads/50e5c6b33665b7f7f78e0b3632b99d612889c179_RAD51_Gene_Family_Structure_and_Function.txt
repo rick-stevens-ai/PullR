@@ -1,0 +1,9 @@
+Title: RAD51 Gene Family Structure and Function.
+Authors: Braulio Bonilla, Sarah R. Hengel, McKenzie K. Grundy, Kara A. Bernstein
+Year: 2020
+Paper ID: 50e5c6b33665b7f7f78e0b3632b99d612889c179
+URL: https://www.semanticscholar.org/paper/50e5c6b33665b7f7f78e0b3632b99d612889c179
+Venue: Annual Review of Genetics
+
+Abstract:
+Accurate DNA repair and replication are critical for genomic stability and cancer prevention. RAD51 and its gene family are key regulators of DNA fidelity through diverse roles in double-strand break repair, replication stress, and meiosis. RAD51 is an ATPase that forms a nucleoprotein filament on single-stranded DNA. RAD51 has the function of finding and invading homologous DNA sequences to enable accurate and timely DNA repair. Its paralogs, which arose from ancient gene duplications of RAD51, have evolved to regulate and promote RAD51 function. Underscoring its importance, misregulation of RAD51, and its paralogs, is associated with diseases such as cancer and Fanconi anemia. In this review, we focus on mammalian RAD51 structure and function and highlight the use of model systems to enable mechanistic understanding of RAD51 cellular roles. We also discuss how misregulation of the RAD51 gene family members contributes to disease and consider new approaches to pharmacologically inhibit RAD51. Expected final online publication date for the Annual Review of Genetics, Volume 54 is November 23, 2020. Please see http://www.annualreviews.org/page/journal/pubdates for revised estimates.

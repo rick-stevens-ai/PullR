@@ -1,0 +1,12 @@
+Title: Laboratory Order Errors Before and After Implementation of Electronic Health Record
+Authors: R. Walley, A. H. Peden, W. May
+Year: 2016
+Paper ID: 0a8af4f0a607b9045c90c0f22b652922892b7953
+URL: https://www.semanticscholar.org/paper/0a8af4f0a607b9045c90c0f22b652922892b7953
+Venue: American Society for Clinical Laboratory Science
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/0a8af4f0a607b9045c90c0f22b652922892b7953

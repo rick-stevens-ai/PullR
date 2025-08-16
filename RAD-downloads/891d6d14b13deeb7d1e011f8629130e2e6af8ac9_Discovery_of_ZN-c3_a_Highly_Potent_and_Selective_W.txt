@@ -1,0 +1,9 @@
+Title: Discovery of ZN-c3, a Highly Potent and Selective Wee1 Inhibitor Undergoing Evaluation in Clinical Trials for the Treatment of Cancer.
+Authors: Peter Q Huang, Brant C. Boren, Sayee G. Hegde, Hui Liu, Aditya K. Unni et al. (and 6 more)
+Year: 2021
+Paper ID: 891d6d14b13deeb7d1e011f8629130e2e6af8ac9
+URL: https://www.semanticscholar.org/paper/891d6d14b13deeb7d1e011f8629130e2e6af8ac9
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+Wee1 inhibition has received great attention in the past decade as a promising therapy for cancer treatment. Therefore, a potent and selective Wee1 inhibitor is highly desirable. Our efforts to make safer and more efficacious Wee1 inhibitors led to the discovery of compound 16, a highly selective Wee1 inhibitor with balanced potency, ADME, and pharmacokinetic properties. The chiral ethyl moiety of compound 16 provided an unexpected improvement of Wee1 potency. Compound 16, known as ZN-c3, showed excellent in vivo efficacy and is currently being evaluated in phase 2 clinical trials.

@@ -1,0 +1,9 @@
+Title: A phase Ib study of oral Chk1 inhibitor LY2880070 as monotherapy in patients with advanced or metastatic cancer.
+Authors: W. Miller, Q. Chu, N. Bouganim, D. Jonker, G. Batist et al. (and 11 more)
+Year: 2020
+Paper ID: efb4b80069b108e175f2d090c2264fbc43c56790
+URL: https://www.semanticscholar.org/paper/efb4b80069b108e175f2d090c2264fbc43c56790
+Venue: 
+
+Abstract:
+3579Background: LY2880070 (LY) is an orally-administered, selective adenosine triphosphate-competitive inhibitor of checkpoint kinase 1 (Chk1). LY blocks the checkpoint response, and Chk1 inhibitio...

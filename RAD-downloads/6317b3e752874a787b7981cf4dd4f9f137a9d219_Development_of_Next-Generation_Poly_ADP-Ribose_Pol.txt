@@ -1,0 +1,10 @@
+Title: Development of Next-Generation Poly(ADP-Ribose) Polymerase 1-Selective Inhibitors.
+Authors: Natalie Y L Ngoi, Elisabetta Leo, M. O’Connor, T. Yap
+Year: 2021
+Paper ID: 6317b3e752874a787b7981cf4dd4f9f137a9d219
+URL: https://www.semanticscholar.org/paper/6317b3e752874a787b7981cf4dd4f9f137a9d219
+Venue: Cancer Journal
+
+Abstract:
+ABSTRACT
+Poly(ADP-ribose) polymerase (PARP) inhibitors have transformed the therapeutic landscape for advanced ovarian cancer and expanded treatment options for other tumor types, including breast, pancreas, and prostate cancer. Yet, despite the success of PARP inhibitors in our current therapeutic armamentarium, not all patients benefit because of primary resistance, whereas different acquired resistance mechanisms can lead to disease progression on therapy. In addition, the toxicity profile of PARP inhibitors, primarily myelosuppression, has led to adverse events in a proportion of patients as monotherapy, and has limited the use of PARP inhibitors for certain rational combination strategies, such as chemotherapy and targeted therapy regimens. Currently approved PARP inhibitors are essentially equipotent against PARP1 and PARP2 enzymes. In this review, we describe the development of next-generation PARP1-selective inhibitors that have entered phase I clinical trials. These inhibitors have demonstrated increased PARP1 inhibitory potency and exquisitely high PARP1 selectivity in preclinical studies-features that may lead to improved clinical efficacy and a wider therapeutic window. First-in-human clinical trials seeking to establish the safety, tolerability, and recommended phase II dose, as well as antitumor activity of these novel agents, have commenced. If successful, this next-generation of PARP1-selective agents promises to build on the succeses of current PARP inhibitor treatment paradigms in cancer medicine.

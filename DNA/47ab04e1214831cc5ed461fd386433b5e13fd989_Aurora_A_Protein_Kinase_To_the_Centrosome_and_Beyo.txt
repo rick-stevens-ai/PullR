@@ -1,0 +1,9 @@
+Title: Aurora A Protein Kinase: To the Centrosome and Beyond
+Authors: L. Magnaghi-Jaulin, G. Eot-Houllier, E. Gallaud, R. Giet
+Year: 2019
+Paper ID: 47ab04e1214831cc5ed461fd386433b5e13fd989
+URL: https://www.semanticscholar.org/paper/47ab04e1214831cc5ed461fd386433b5e13fd989
+Venue: Biomolecules
+
+Abstract:
+Accurate chromosome segregation requires the perfect spatiotemporal rearrangement of the cellular cytoskeleton. Isolated more than two decades ago from Drosophila, Aurora A is a widespread protein kinase that plays key roles during cell division. Numerous studies have described the localisation of Aurora A at centrosomes, the mitotic spindle, and, more recently, at mitotic centromeres. In this review, we will summarise the cytoskeletal rearrangements regulated by Aurora A during cell division. We will also discuss the recent discoveries showing that Aurora A also controls not only the dynamics of the cortical proteins but also regulates the centromeric proteins, revealing new roles for this kinase during cell division.

@@ -1,0 +1,9 @@
+Title: Pharmacology of the ATM Inhibitor AZD0156: Potentiation of Irradiation and Olaparib Responses Preclinically
+Authors: Lucy C. Riches, A. G. Trinidad, G. Hughes, Gemma N. Jones, Adina M. Hughes et al. (and 16 more)
+Year: 2019
+Paper ID: 114b51d51049a5c06f4443e92397cbdf4765be82
+URL: https://www.semanticscholar.org/paper/114b51d51049a5c06f4443e92397cbdf4765be82
+Venue: Molecular Cancer Therapeutics
+
+Abstract:
+AZD0156 is a potent and selective, bioavailable inhibitor of ataxia-telangiectasia mutated (ATM) protein, a signaling kinase involved in the DNA damage response. We present preclinical data demonstrating abrogation of irradiation-induced ATM signaling by low doses of AZD0156, as measured by phosphorylation of ATM substrates. AZD0156 is a strong radiosensitizer in vitro, and using a lung xenograft model, we show that systemic delivery of AZD0156 enhances the tumor growth inhibitory effects of radiation treatment in vivo. Because ATM deficiency contributes to PARP inhibitor sensitivity, preclinically, we evaluated the effect of combining AZD0156 with the PARP inhibitor olaparib. Using ATM isogenic FaDu cells, we demonstrate that AZD0156 impedes the repair of olaparib-induced DNA damage, resulting in elevated DNA double-strand break signaling, cell-cycle arrest, and apoptosis. Preclinically, AZD0156 potentiated the effects of olaparib across a panel of lung, gastric, and breast cancer cell lines in vitro, and improved the efficacy of olaparib in two patient-derived triple-negative breast cancer xenograft models. AZD0156 is currently being evaluated in phase I studies (NCT02588105).

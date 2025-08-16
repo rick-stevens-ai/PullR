@@ -1,0 +1,9 @@
+Title: Investigational CHK1 inhibitors in early phase clinical trials for the treatment of cancer
+Authors: P. Dent
+Year: 2019
+Paper ID: 97521f9dd5ebf8af0c86386b9db5ae3caa2adeba
+URL: https://www.semanticscholar.org/paper/97521f9dd5ebf8af0c86386b9db5ae3caa2adeba
+Venue: Expert Opinion on Investigational Drugs
+
+Abstract:
+ABSTRACT Introduction: Checkpoint kinase 1 (CHK1) inhibitors have been in development for two decades. The initial CHK1 inhibitor staurosporine analog, UCN01, entered clinical trials whilst it was still considered to act via PKC inhibition; only later were trials performed in a more focused fashion to determine whether CHK1 inhibition could dysregulate cell cycle checkpoints. Many of the subsequently synthesized more specific CHK1 inhibitors have failed because of poor PK/PD or cumulative normal tissue toxicities in patients. CHK1 inhibitor monotherapy often demonstrates limited efficacy and in general, must be combined with other agents. The combination of CHK1 inhibitors with modern signaling regulators may be a better therapeutic strategy. Areas covered: This review discusses the history of, and translational use of CHK1 inhibitors; the latest generation of CHK1 inhibitors to enter clinic development are also examined. Expert opinion: Some CHK1 inhibitors can be administered safely, but that when they are combined with traditional cytotoxic DNA damaging agents, the normal tissue toxicities outweigh the very modest gains in therapeutic efficacy. Researchers need to think outside of the box and consider how CHK1 inhibitors can be combined with other signal transduction modulators such as MEK1/2 and PARP1 inhibitors to kill tumor cells.

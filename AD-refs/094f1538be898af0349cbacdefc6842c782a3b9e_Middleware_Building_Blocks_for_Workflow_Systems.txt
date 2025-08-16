@@ -1,0 +1,9 @@
+Title: Middleware Building Blocks for Workflow Systems
+Authors: M. Turilli, Vivek Balasubramanian, André Merzky, Ioannis Paraskevakos, S. Jha
+Year: 2019
+Paper ID: 094f1538be898af0349cbacdefc6842c782a3b9e
+URL: https://www.semanticscholar.org/paper/094f1538be898af0349cbacdefc6842c782a3b9e
+Venue: Computing in science & engineering (Print)
+
+Abstract:
+This paper describes a building-block approach to the design of scientific workflow systems. We discuss RADICALCybertools as one implementation of building-block concept, showing how they are designed and developed in accordance with this approach. This paper offers three main contributions: (i) showing the relevance of the design principles underlying the building blocks approach to support scientific workflows on high performance computing platforms; (ii) illustrating a set of building blocks that enable multiple points of integration, “unifying” conceptual reasoning across otherwise very different tools and systems; and (iii) case studies discussing how RADICAL-Cybertools are integrated with existing workflow, workload, and general purpose computing systems, and used to develop domain-specific workflow systems.

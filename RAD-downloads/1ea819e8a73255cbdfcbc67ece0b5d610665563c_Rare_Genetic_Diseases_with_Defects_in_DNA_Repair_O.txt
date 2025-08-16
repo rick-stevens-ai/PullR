@@ -1,0 +1,9 @@
+Title: Rare Genetic Diseases with Defects in DNA Repair: Opportunities and Challenges in Orphan Drug Development for Targeted Cancer Therapy
+Authors: S. Bhattacharjee, Saikat Nandi
+Year: 2018
+Paper ID: 1ea819e8a73255cbdfcbc67ece0b5d610665563c
+URL: https://www.semanticscholar.org/paper/1ea819e8a73255cbdfcbc67ece0b5d610665563c
+Venue: Cancers
+
+Abstract:
+A better understanding of mechanistic insights into genes and enzymes implicated in rare diseases provide a unique opportunity for orphan drug development. Advances made in identification of synthetic lethal relationships between rare disorder genes with oncogenes and tumor suppressor genes have brought in new anticancer therapeutic opportunities. Additionally, the rapid development of small molecule inhibitors against enzymes that participate in DNA damage response and repair has been a successful strategy for targeted cancer therapeutics. Here, we discuss the recent advances in our understanding of how many rare disease genes participate in promoting genome stability. We also summarize the latest developments in exploiting rare diseases to uncover new biological mechanisms and identify new synthetic lethal interactions for anticancer drug discovery that are in various stages of preclinical and clinical studies.

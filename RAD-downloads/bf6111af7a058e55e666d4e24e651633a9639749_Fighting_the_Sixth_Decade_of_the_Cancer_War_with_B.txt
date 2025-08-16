@@ -1,0 +1,9 @@
+Title: Fighting the Sixth Decade of the Cancer War with Better Cancer Models.
+Authors: D. Tuveson
+Year: 2021
+Paper ID: bf6111af7a058e55e666d4e24e651633a9639749
+URL: https://www.semanticscholar.org/paper/bf6111af7a058e55e666d4e24e651633a9639749
+Venue: Cancer Discovery
+
+Abstract:
+Cancer models have helped solve many mysteries of cancer research, and are poised to bring our understanding to the next level as we dissect the relevance of cancer-associated alleles and heterocellular interactions. However, the ability of cancer models to correctly identify new therapeutic methods has been less fruitful, and a reconsideration of model designs and model applications should help develop more effective approaches for patients.

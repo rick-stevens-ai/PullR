@@ -1,0 +1,9 @@
+Title: Machine-assisted social psychology hypothesis generation.
+Authors: S. Banker, Promothesh Chatterjee, Himanshu Mishra, Arul Mishra
+Year: 2024
+Paper ID: a085349e70e24f1d6fa15dabd70780c57aa0dcf3
+URL: https://www.semanticscholar.org/paper/a085349e70e24f1d6fa15dabd70780c57aa0dcf3
+Venue: American Psychologist
+
+Abstract:
+Social psychology research projects begin with generating a testable idea that relies heavily on a researcher's ability to assimilate, recall, and accurately process available research findings. However, an exponential increase in new research findings is making the task of synthesizing ideas across the multitude of topics challenging, which could result in important overlooked research connections. In this research, we leverage the fact that social psychology research is based on verbal models and employ large natural language models to generate hypotheses that can aid social psychology researchers in developing new research hypotheses. We adopted two methodological approaches. In the first approach, we fine-tuned the third-generation generative pre-trained transformer (GPT-3) language model on thousands of abstracts published in more than 50 social psychology journals in the past 55 years as well as on preprint repositories (PsyArXiv). Social psychology experts rated model- and human-generated hypotheses similarly on the dimensions of clarity, originality, and impact. In the second approach, without fine-tuning, we generated hypotheses using GPT-4 and found that social psychology experts rated these generated hypotheses as higher in quality than human-generated hypotheses on dimensions of clarity, originality, impact, plausibility, and relevance. (PsycInfo Database Record (c) 2024 APA, all rights reserved).

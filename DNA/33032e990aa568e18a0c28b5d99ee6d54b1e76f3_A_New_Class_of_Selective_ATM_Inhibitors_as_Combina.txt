@@ -1,0 +1,9 @@
+Title: A New Class of Selective ATM Inhibitors as Combination Partners of DNA Double-Strand Break Inducing Cancer Therapies
+Authors: A. Zimmermann, F. Zenke, Li-Ya Chiu, H. Dahmen, U. Pehl et al. (and 5 more)
+Year: 2022
+Paper ID: 33032e990aa568e18a0c28b5d99ee6d54b1e76f3
+URL: https://www.semanticscholar.org/paper/33032e990aa568e18a0c28b5d99ee6d54b1e76f3
+Venue: Molecular Cancer Therapeutics
+
+Abstract:
+Abstract Radiotherapy and chemical DNA-damaging agents are among the most widely used classes of cancer therapeutics today. Double-strand breaks (DSB) induced by many of these treatments are lethal to cancer cells if left unrepaired. Ataxia telangiectasia-mutated (ATM) kinase plays a key role in the DNA damage response by driving DSB repair and cell-cycle checkpoints to protect cancer cells. Inhibitors of ATM catalytic activity have been shown to suppress DSB DNA repair, block checkpoint controls and enhance the therapeutic effect of radiotherapy and other DSB-inducing modalities. Here, we describe the pharmacological activities of two highly potent and selective ATM inhibitors from a new chemical class, M3541 and M4076. In biochemical assays, they inhibited ATM kinase activity with a sub-nanomolar potency and showed remarkable selectivity against other protein kinases. In cancer cells, the ATM inhibitors suppressed DSB repair, clonogenic cancer cell growth, and potentiated antitumor activity of ionizing radiation in cancer cell lines. Oral administration of M3541 and M4076 to immunodeficient mice bearing human tumor xenografts with a clinically relevant radiotherapy regimen strongly enhanced the antitumor activity, leading to complete tumor regressions. The efficacy correlated with the inhibition of ATM activity and modulation of its downstream targets in the xenograft tissues. In vitro and in vivo experiments demonstrated strong combination potential with PARP and topoisomerase I inhibitors. M4076 is currently under clinical investigation.

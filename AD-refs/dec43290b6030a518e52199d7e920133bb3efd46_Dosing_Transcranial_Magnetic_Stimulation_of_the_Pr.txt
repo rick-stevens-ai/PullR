@@ -1,0 +1,9 @@
+Title: Dosing Transcranial Magnetic Stimulation of the Primary Motor and Dorsolateral Prefrontal Cortices With Multi-Scale Modeling
+Authors: Z. Turi, Nicholas Hananeia, S. Shirinpour, A. Opitz, P. Jedlicka et al. (and 1 more)
+Year: 2022
+Paper ID: dec43290b6030a518e52199d7e920133bb3efd46
+URL: https://www.semanticscholar.org/paper/dec43290b6030a518e52199d7e920133bb3efd46
+Venue: Frontiers in Neuroscience
+
+Abstract:
+Transcranial magnetic stimulation (TMS) can depolarize cortical neurons through the intact skin and skull. The characteristics of the induced electric field (E-field) have a major impact on specific outcomes of TMS. Using multi-scale computational modeling, we explored whether the stimulation parameters derived from the primary motor cortex (M1) induce comparable macroscopic E-field strengths and subcellular/cellular responses in the dorsolateral prefrontal cortex (DLPFC). To this aim, we calculated the TMS-induced E-field in 16 anatomically realistic head models and simulated the changes in membrane voltage and intracellular calcium levels of morphologically and biophysically realistic human pyramidal cells in the M1 and DLPFC. We found that the conventional intensity selection methods (i.e., motor threshold and fixed intensities) produce variable macroscopic E-fields. Consequently, it was challenging to produce comparable subcellular/cellular responses across cortical regions with distinct folding characteristics. Prospectively, personalized stimulation intensity selection could standardize the E-fields and the subcellular/cellular responses to repetitive TMS across cortical regions and individuals. The suggested computational approach points to the shortcomings of the conventional intensity selection methods used in clinical settings. We propose that multi-scale modeling has the potential to overcome some of these limitations and broaden our understanding of the neuronal mechanisms for TMS.

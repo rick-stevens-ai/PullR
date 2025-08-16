@@ -1,0 +1,10 @@
+Title: Harnessing the cGAS-STING Pathway to Potentiate Radiation Therapy in Cancer
+Authors: Nicholas W. Colangelo, Naamit K. Gerber, Ralph E. Vatner, Benjamin T. Cooper
+Year: 2024
+Paper ID: web_762785
+URL: https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1383000/full
+Venue: Frontiers in Pharmacology, Section: Experimental Pharmacology and Drug Discovery
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+The cGAS-STING pathway is a pivotal mediator of anti-tumor immune responses following radiation therapy, primarily through the detection of cytosolic DNA and subsequent induction of inflammatory cytokines. This review explores the mechanisms by which radiation-induced DNA damage activates cGAS-STING signaling within the tumor microenvironment, thereby promoting immune activation. The potential of STING agonists to enhance the immunogenic effects of radiation therapy is discussed, with an overview of ongoing clinical trials investigating their combined application. Additionally, the review addresses the various strategies employed by cancer cells and the tumor microenvironment to evade or modulate cGAS-STING signaling, which can impact the efficacy of immunogenic therapies. By summarizing current literature and experimental findings, this article provides valuable insights into the interplay between cGAS-STING signaling and radiation therapy, and outlines future directions for research and clinical trial design targeting this pathway in oncology.

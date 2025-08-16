@@ -1,0 +1,22 @@
+Title: Relation of skin capillary pressure in patients with insulin-dependent diabetes mellitus to complications and metabolic control.
+Authors: D. Sandeman, Angela C. Shore, J. E. Tooke
+Year: 1992
+Paper ID: fa26c89ca044fe42008b3d603843bac124fed379
+URL: https://www.semanticscholar.org/paper/fa26c89ca044fe42008b3d603843bac124fed379
+Venue: New England Journal of Medicine
+
+Abstract:
+BACKGROUND
+Microvascular disease is a major problem in patients with diabetes mellitus. It has been suggested that diabetic microangiopathy may result from an increase in capillary blood flow and capillary hypertension, but direct evidence of capillary hypertension in such patients is lacking.
+
+
+METHODS
+We measured capillary pressure at the summit of the capillary loop by direct microcannulation of skin nail-fold capillaries and a dynamic method of pressure measurement in 29 patients with insulin-dependent (Type I) diabetes and 29 normal subjects matched for age and sex. Among the diabetic patients, 7 had had diabetes for less than one year, 12 had incipient nephropathy (albumin excretion, 20 to 200 micrograms per minute), and 10 had overt nephropathy (albumin excretion, greater than 200 micrograms per minute). In addition, seven patients with no evidence of nephropathy were studied before and after three months of improved glycemic control.
+
+
+RESULTS
+The median capillary pressure in the diabetic patients was 20.4 mm Hg (range, 13.6 to 25.3), as compared with 16.7 mm Hg (range, 12.8 to 22.8; P less than 0.001) in the normal subjects. The values were higher in each subgroup of diabetic patients than in the corresponding group of normal subjects, but the values did not differ among the three subgroups of diabetic patients. In the seven patients who were studied before and after three months of improved glycemic control, the median capillary pressure fell from 20.0 mm Hg (range, 18.5 to 21.7) to 17.8 mm Hg (range, 14.1 to 20.3; P = 0.02).
+
+
+CONCLUSIONS
+Nail-fold capillary hypertension may develop early in the course of diabetes, before the emergence of microvascular disease, and may be influenced by changes in metabolic control.

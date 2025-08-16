@@ -1,0 +1,9 @@
+Title: Automated liquid-handling operations for robust, resilient, and efficient bio-based laboratory practices
+Authors: Mario A. Torres-Acosta, G. Lye, Duygu Dikicioglu
+Year: 2022
+Paper ID: 2bc2db3f21782b62b40375a0daa2cc4458f17d5f
+URL: https://www.semanticscholar.org/paper/2bc2db3f21782b62b40375a0daa2cc4458f17d5f
+Venue: bioRxiv
+
+Abstract:
+Increase in the adoption of liquid handling devices (LHD) can facilitate experimental activities. Initially adopted by businesses and industry-based laboratories, the practice has also moved to academic environments, where a wide range of non-standard/non-typical experiments can be performed. Current protocols or laboratory analyses require researchers to transfer liquids for the purpose of dilution, mixing, or inoculation, among other operations. LHD can render laboratories more efficient by performing more experiments per unit of time, by making operations robust and resilient against external factors and unforeseen events such as the COVID-19 pandemic, and by remote operation. The present work reviews literature that reported the adoption and utilisation of LHD available in the market and presents examples of their practical use. Applications demonstrate the critical role of automation in research development and its ability to reduce human intervention in the experimental workflow. Ultimately, this work will provide guidance to academic researchers to determine which LHD can fulfil their needs and how to exploit their use in both conventional and non-conventional applications. Furthermore, the breadth of applications and the scarcity of academic institutions involved in research and development that utilise these devices highlights an important area of opportunity for shift in technology to maximize research outcomes.

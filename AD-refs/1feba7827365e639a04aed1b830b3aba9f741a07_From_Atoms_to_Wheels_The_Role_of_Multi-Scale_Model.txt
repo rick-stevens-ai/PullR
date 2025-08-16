@@ -1,0 +1,9 @@
+Title: From Atoms to Wheels: The Role of Multi-Scale Modeling in the Future of Transportation Electrification
+Authors: Taylor R. Garrick, Yangbing Zeng, Jason B. Siegel, V. Subramanian
+Year: 2023
+Paper ID: 1feba7827365e639a04aed1b830b3aba9f741a07
+URL: https://www.semanticscholar.org/paper/1feba7827365e639a04aed1b830b3aba9f741a07
+Venue: Journal of the Electrochemical Society
+
+Abstract:
+Traditionally, prototype hardware is built for validation testing to ensure battery systems design changes meet vehicle-level requirements, which is expensive both in cost and time. Virtual engineering (VE) of battery systems for electric vehicle (EV) propulsion offers a reduced-cost alternative to the traditional development process and uses multi-scale modeling to virtually probe the impact of design changes in a particular part on the overall performance of the system. This allows for rapid iteration over multiple design spaces, without committing to build hardware. This perspective article discusses current trends in VE for EV applications and proposes improvements to accelerate EV adoption.

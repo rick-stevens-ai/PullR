@@ -1,0 +1,9 @@
+Title: Precision Motion Control of Robotized Industrial Hydraulic Excavators via Data-Driven Model Inversion
+Authors: Minhyeong Lee, Hyelim Choi, Changu Kim, Jihyun Moon, Dongmok Kim et al. (and 1 more)
+Year: 2022
+Paper ID: 25994813581d0d9a7d19f348023172392ad0ddc2
+URL: https://www.semanticscholar.org/paper/25994813581d0d9a7d19f348023172392ad0ddc2
+Venue: IEEE Robotics and Automation Letters
+
+Abstract:
+This work proposes a novel precision motion control framework of robotized industrial hydraulic excavators via data-driven model inversion. Rather than employing a single neural network to approximate the whole excavator dynamics, including input delays and dead-zones, we construct a physics-inspired data-driven model with a modular structure. The data-driven model is then inverted in a modular fashion which benefits the training speed. The data-driven model and its inversion are trained offline in a supervised manner using the real operational data since online learning methods can damage the machine and surroundings. The entire motion control framework consists of the data-driven model inversion that compensates for the excavator dynamics and the proportional control that determines the input of the model inversion to enhance the robustness. The framework is experimentally validated with a commercial 38-ton class hydraulic excavator for digging and grading tasks, achieving a precise control performance (i.e., root-mean-square of the path following error under 2 [cm]) even under severe soil interactions.

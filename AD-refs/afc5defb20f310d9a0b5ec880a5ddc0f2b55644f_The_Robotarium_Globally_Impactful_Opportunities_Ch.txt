@@ -1,0 +1,9 @@
+Title: The Robotarium: Globally Impactful Opportunities, Challenges, and Lessons Learned in Remote-Access, Distributed Control of Multirobot Systems
+Authors: S. Wilson, Paul Glotfelter, Li Wang, Siddharth Mayya, Gennaro Notomista et al. (and 2 more)
+Year: 2020
+Paper ID: afc5defb20f310d9a0b5ec880a5ddc0f2b55644f
+URL: https://www.semanticscholar.org/paper/afc5defb20f310d9a0b5ec880a5ddc0f2b55644f
+Venue: IEEE Control Systems
+
+Abstract:
+Distributed control has emerged as a major focus in the systems and controls area, with multiagent robotics playing a prominent role both as a canonical instantiation of a system, where control decisions must be made by individual nodes across an information-exchange network, and as a rich source of applications [1]-[5]. These applications include environmental monitoring [6], collective materials handling [7], construction [8], disaster response [9], and precision agriculture [10].

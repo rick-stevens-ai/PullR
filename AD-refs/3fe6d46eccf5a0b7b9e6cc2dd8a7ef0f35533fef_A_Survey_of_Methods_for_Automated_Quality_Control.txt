@@ -1,0 +1,9 @@
+Title: A Survey of Methods for Automated Quality Control Based on Images
+Authors: Jan Diers, Christian Pigorsch
+Year: 2023
+Paper ID: 3fe6d46eccf5a0b7b9e6cc2dd8a7ef0f35533fef
+URL: https://www.semanticscholar.org/paper/3fe6d46eccf5a0b7b9e6cc2dd8a7ef0f35533fef
+Venue: International Journal of Computer Vision
+
+Abstract:
+The role of quality control based on images is important in industrial production. Nevertheless, this problem has not been addressed in computer vision for a long time. In recent years, this has changed: driven by publicly available datasets, a variety of methods have been proposed for detecting anomalies and defects in workpieces. In this survey, we present more than 40 methods that promise the best results for this task. In a comprehensive benchmark, we show that more datasets and metrics are needed to move the field forward. Further, we highlight strengths and weaknesses, discuss research gaps and future research areas.

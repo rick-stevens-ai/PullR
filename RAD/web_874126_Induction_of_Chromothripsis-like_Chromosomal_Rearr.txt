@@ -1,0 +1,10 @@
+Title: Induction of Chromothripsis-like Chromosomal Rearrangements by Ionizing Radiation Using a Proton Microbeam Irradiation System
+Authors: Maki Morishita, Tomoki Muramatsu, Yumiko Suto, Momoki Hirai, Teruaki Konishi, Shin Hayashi, Daichi Shigemizu, Tatsuhiko Tsunoda, Keiji Moriyama, Johji Inazawa
+Year: 2016
+Paper ID: web_874126
+URL: https://www.oncotarget.com/article/7186/text/
+Venue: Oncotarget
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Chromothripsis, characterized by massive, localized chromosomal rearrangements resulting from a single catastrophic event, has been implicated in cancer development. This study investigates whether chromothripsis-like genomic alterations can be artificially induced by ionizing radiation. Using the SPICE proton microbeam irradiation system, researchers precisely targeted the nuclei of oral squamous cell carcinoma cell lines (HOC313-P and HOC313-LM) to induce DNA double-strand breaks. Monoclonal sublines derived from irradiated cells were subjected to comprehensive genomic analyses, including SNP array, multi-color FISH, and whole genome sequencing, to detect chromosomal copy number alterations and rearrangements. The results demonstrate that localized ionizing radiation can induce complex chromothripsis-like chromosomal rearrangements, particularly in sublines exhibiting higher radiation resistance. These findings provide direct evidence that ionizing radiation can generate catastrophic genomic events similar to those observed in human cancers, highlighting a potential mechanism by which radiation exposure contributes to cancer genome evolution.

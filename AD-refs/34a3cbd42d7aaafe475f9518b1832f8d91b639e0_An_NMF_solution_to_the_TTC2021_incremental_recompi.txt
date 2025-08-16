@@ -1,0 +1,12 @@
+Title: An NMF solution to the TTC2021 incremental recompilation of laboratory workflows case
+Authors: Georg Hinkel
+Year: 2021
+Paper ID: 34a3cbd42d7aaafe475f9518b1832f8d91b639e0
+URL: https://www.semanticscholar.org/paper/34a3cbd42d7aaafe475f9518b1832f8d91b639e0
+Venue: Transformation Tool Contest
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/34a3cbd42d7aaafe475f9518b1832f8d91b639e0

@@ -1,0 +1,9 @@
+Title: A bibliometric analysis of the top 100 most cited papers and research trends in breast cancer related BRCA1 and BRCA2 genes
+Authors: S. Alkhayyat, Muhammad Khan, Tauseef Ahmad, Haroon, Huma Tariq et al. (and 1 more)
+Year: 2022
+Paper ID: 32f9911c8fd20c6ea58d6ca921907ce8598b7d31
+URL: https://www.semanticscholar.org/paper/32f9911c8fd20c6ea58d6ca921907ce8598b7d31
+Venue: Medicine
+
+Abstract:
+This study aimed to identify, characterize, and map the important attributes of the top 100 most cited papers on BRCA1 and BRCA2 genes. The scientific literature on BRCA1 and BRCA2 was searched in the Web of Science Core Collection database using the keywords “BRCA1” OR “BRCA2” (Title). The top 100 most cited papers were selected based on citations. The obtained data were exported into HistCiteTM, RStudio, and VOSviewer software for prerequisite analysis. The top 100 most cited papers on BRCA1 and BRCA2 were authored by 932 authors from 24 countries and published in 27 journals. These papers were cited 79,713 times, ranging from 441 to 4671 citations. The highly cited paper was cited 4671 times and published in Science (1994). The leading author, journal, publication year, institution, and country were Easton DF (n = 16), Nature Genetics (n = 11), 2002 (n = 11), University of Pennsylvania (n = 17), and the USA (n = 76), respectively. The results show that all the top 100 papers were produced in developed countries. The collaboration index among the authors was 9.49. The most frequently appeared keywords were ovarian-cancer, breast-cancer, mutations, gene, and familial breast. In recent times, the trend topics were patients, mutations, carriers, ovarian, and risk.

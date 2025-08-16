@@ -1,0 +1,12 @@
+Title: State-of-the-art strategies for targeting the DNA damage response in cancer
+Authors: P. Pilié, Chad Tang, G. Mills, T. Yap
+Year: 2018
+Paper ID: 8f6d07fb015f627a051f3a0efbda69e6c8b6a960
+URL: https://www.semanticscholar.org/paper/8f6d07fb015f627a051f3a0efbda69e6c8b6a960
+Venue: Nature Reviews Clinical Oncology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/8f6d07fb015f627a051f3a0efbda69e6c8b6a960

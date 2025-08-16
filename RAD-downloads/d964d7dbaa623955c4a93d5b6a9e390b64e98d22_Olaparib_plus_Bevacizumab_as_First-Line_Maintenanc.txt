@@ -1,0 +1,22 @@
+Title: Olaparib plus Bevacizumab as First-Line Maintenance in Ovarian Cancer.
+Authors: I. Ray-Coquard, P. Pautier, S. Pignata, D. Pérol, A. González-Martín et al. (and 25 more)
+Year: 2019
+Paper ID: d964d7dbaa623955c4a93d5b6a9e390b64e98d22
+URL: https://www.semanticscholar.org/paper/d964d7dbaa623955c4a93d5b6a9e390b64e98d22
+Venue: New England Journal of Medicine
+
+Abstract:
+BACKGROUND
+Olaparib has shown significant clinical benefit as maintenance therapy in women with newly diagnosed advanced ovarian cancer with a BRCA mutation. The effect of combining maintenance olaparib and bevacizumab in patients regardless of BRCA mutation status is unknown.
+
+
+METHODS
+We conducted a randomized, double-blind, international phase 3 trial. Eligible patients had newly diagnosed, advanced, high-grade ovarian cancer and were having a response after first-line platinum-taxane chemotherapy plus bevacizumab. Patients were eligible regardless of surgical outcome or BRCA mutation status. Patients were randomly assigned in a 2:1 ratio to receive olaparib tablets (300 mg twice daily) or placebo for up to 24 months; all the patients received bevacizumab at a dose of 15 mg per kilogram of body weight every 3 weeks for up to 15 months in total. The primary end point was the time from randomization until investigator-assessed disease progression or death.
+
+
+RESULTS
+Of the 806 patients who underwent randomization, 537 were assigned to receive olaparib and 269 to receive placebo. After a median follow-up of 22.9 months, the median progression-free survival was 22.1 months with olaparib plus bevacizumab and 16.6 months with placebo plus bevacizumab (hazard ratio for disease progression or death, 0.59; 95% confidence interval [CI], 0.49 to 0.72; P<0.001). The hazard ratio (olaparib group vs. placebo group) for disease progression or death was 0.33 (95% CI, 0.25 to 0.45) in patients with tumors positive for homologous-recombination deficiency (HRD), including tumors that had BRCA mutations (median progression-free survival, 37.2 vs. 17.7 months), and 0.43 (95% CI, 0.28 to 0.66) in patients with HRD-positive tumors that did not have BRCA mutations (median progression-free survival, 28.1 vs. 16.6 months). Adverse events were consistent with the established safety profiles of olaparib and bevacizumab.
+
+
+CONCLUSIONS
+In patients with advanced ovarian cancer receiving first-line standard therapy including bevacizumab, the addition of maintenance olaparib provided a significant progression-free survival benefit, which was substantial in patients with HRD-positive tumors, including those without a BRCA mutation. (Funded by ARCAGY Research and others; PAOLA-1 ClinicalTrials.gov number, NCT02477644.).

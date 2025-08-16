@@ -1,0 +1,9 @@
+Title: Assessment of a Hydrogeological Object’s Distributed Control System Stability
+Authors: A. V. Martirosyan, K. V. Martirosyan, Asadulagi M. Mir-Amal, Alexander B. Chernyshev
+Year: 2022
+Paper ID: 02b22c5c1ec820e1776fe434ec7a8af5073b295c
+URL: https://www.semanticscholar.org/paper/02b22c5c1ec820e1776fe434ec7a8af5073b295c
+Venue: 2022 Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus)
+
+Abstract:
+This article presents methods for stability assessing, based on the study of distributed systems’ modeling results. The conditions of Popov criterion for distributed control systems applicability is revealed. The dependence the slope-intercept of a straight line limiting the nonlinearity on the generalized coordinate is determined. The analysis of the possibilities of using this method stability-determining margin of a hydrogeological object’s control system is carried out.

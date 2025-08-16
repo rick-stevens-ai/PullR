@@ -1,0 +1,9 @@
+Title: Automated detection of methicillin-resistant Staphylococcus aureus with the MRSA CHROM imaging application on BD Kiestra Total Lab Automation System
+Authors: E. McElvania, Susan Mindel, Jaap Lemstra, Karin Brands, Parul Patel et al. (and 6 more)
+Year: 2024
+Paper ID: cef59b076351c110581197e7e48ce80c378ff598
+URL: https://www.semanticscholar.org/paper/cef59b076351c110581197e7e48ce80c378ff598
+Venue: Journal of Clinical Microbiology
+
+Abstract:
+ABSTRACT The virulence of methicillin-resistant Staphylococcus aureus (MRSA) and its potentially fatal outcome necessitate rapid and accurate detection of patients colonized with MRSA in healthcare settings. Using the BD Kiestra Total Lab Automation (TLA) System in conjunction with the MRSA Application (MRSA App), an imaging application that uses artificial intelligence to interpret colorimetric information (mauve-colored colonies) indicative of MRSA pathogen presence on CHROMagar chromogenic media, anterior nares specimens from three sites were evaluated for the presence of mauve-colored colonies. Results obtained with the MRSA App were compared to manual reading of agar plate images by proficient laboratory technologists. Of 1,593 specimens evaluated, 1,545 (96.98%) were concordant between MRSA App and laboratory technologist reading for the detection of MRSA growth [sensitivity 98.15% (95% CI, 96.03, 99.32) and specificity 96.69% (95% CI, 95.55, 97.60)]. This multi-site study is the first evaluation of the MRSA App in conjunction with the BD Kiestra TLA System. Using the MRSA App, our results showed 98.15% sensitivity and 96.69% specificity for the detection of MRSA from anterior nares specimens. The MRSA App, used in conjunction with laboratory automation, provides an opportunity to improve laboratory efficiency by reducing laboratory technologists’ labor associated with the review and interpretation of cultures.

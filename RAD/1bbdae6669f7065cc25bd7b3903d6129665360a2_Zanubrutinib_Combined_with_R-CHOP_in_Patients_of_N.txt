@@ -1,0 +1,15 @@
+Title: Zanubrutinib Combined with R-CHOP in Patients of Newly Diagnosed DLBCL with p53 Expression: A Single-Arm Prospective Study
+Authors: Liling Zhang, Qiuhui Li, Fang Zhu, Gang Wu, Xiaona Chang et al. (and 3 more)
+Year: 2024
+Paper ID: 1bbdae6669f7065cc25bd7b3903d6129665360a2
+URL: https://www.semanticscholar.org/paper/1bbdae6669f7065cc25bd7b3903d6129665360a2
+Venue: Blood
+
+Abstract:
+
+ 
+ Introduction: p53 expression is associated with treatment failure and poor prognosis of diffuse large B-cell lymphoma (DLBCL). Bruton's tyrosine kinase (BTK) is a novel regulator of p53 activity and is involved in the cellular response to DNA damage. BTK inhibitors have shown high efficacy in mantle cell lymphoma and chronic lymphocyte leukemia with p53 alterations, and refractory and relapsed DLBCL. This study explored the efficacy and safety of zanubrutinib, a BTK inhibitor, combined with R-CHOP (ZR-CHOP) in patients of newly diagnosed DLBCL with p53 over-expression.
+ Methods: Newly diagnosed DLBCL patients with positive p53 protein expression (immunohistochemistry staining ≥50% of cells) were enrolled at the Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, from April 2022 to July 2024. ZR-CHOP regimen (zanubrutinib: 160 mg, bid, D1-21; rituximab: 375 mg/m², D1; cyclophosphamide: 750 mg/m², D2; doxorubicin: 50 mg/m², D2; vincristine: 1.4 mg/m², D2; prednisone: 100 mg/d, D2-D6) was administrated every 21 days for a total 6 cycles. Efficacy was evaluated using PET-CT/enhanced CT per Lugano 2014 criteria. The primary endpoint was the complete response rate (CRR), and secondary endpoints included overall response rate (ORR), progression-free survival (PFS), overall survival (OS), and treatment-related adverse events (AEs).
+ Results: A total of 16 patients were enrolled in the study until July 2024. The median age at diagnosis was 56 years (range 34-67), with 7 patients (43.7%) in Ann Arbor stage III-IV, 2 patients (12.5%) with an ECOG score ≥2, 8 patients (50.0%) with IPI score ≥2, and 5 patients (31.3%) with extranodal involvement. There were 13 cases (81.3%) of double expression of MYC and BCL2, and 15 cases (93.8%) of the non-GCB subtype. By the end of the follow-up period in July 2024, 14 patients were evaluable for efficacy, with an ORR of 100%. 12 patients (85.7%) achieved CR, and 2 patients (14.3%) achieved partial response (PR). With a median follow-up of 11.8 (0.5-20) months, the 1-year PFS and OS rates were 93.8% and 100%, respectively. In terms of safety, common grade 3-4 adverse events included anemia (4 cases), leukopenia (5 cases), neutropenia (4 cases), thrombocytopenia (1 case), and pulmonary infection (2 cases). There were no new safety signals observed.
+ Conclusions: The ZR-CHOP regimen is highly effective and safe for p53 over-expressed newly diagnosed DLBCL. It shows promise in improving the outcomes of p53-positive DLBCL patients.
+

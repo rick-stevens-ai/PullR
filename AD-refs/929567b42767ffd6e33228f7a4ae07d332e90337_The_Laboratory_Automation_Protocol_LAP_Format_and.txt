@@ -1,0 +1,9 @@
+Title: The Laboratory Automation Protocol (LAP) Format and Repository: A Platform for Enhancing Workflow Efficiency in Synthetic Biology
+Authors: Ana-Mariya Anhel, Lorea Alejaldre, Ángel Goñi-Moreño
+Year: 2023
+Paper ID: 929567b42767ffd6e33228f7a4ae07d332e90337
+URL: https://www.semanticscholar.org/paper/929567b42767ffd6e33228f7a4ae07d332e90337
+Venue: ACS Synthetic Biology
+
+Abstract:
+Laboratory automation deals with eliminating manual tasks in high-throughput protocols. It therefore plays a crucial role in allowing fast and reliable synthetic biology. However, implementing open-source automation solutions often demands experimental scientists to possess scripting skills, and even when they do, there is no standardized toolkit available for their use. To address this, we present the Laboratory Automation Protocol (LAP) Format and Repository. LAPs adhere to a standardized script-based format, enhancing end-user implementation and simplifying further development. With a modular design, LAPs can be seamlessly combined to create customized, target-specific workflows. Furthermore, all LAPs undergo experimental validation, ensuring their reliability. Detailed information is provided within each repository entry, allowing users to validate the LAPs in their own laboratory settings. We advocate for the adoption of the LAP Format and Repository as a community resource, which will continue to expand, improving the reliability and reproducibility of the automation processes.

@@ -1,0 +1,12 @@
+Title: The Physiology of the Grid An Open Grid Services Architecture for Distributed Systems Integration
+Authors: Ian T Foster, C. Kesselman, J. M. Nick, S. Tuecke
+Year: 2002
+Paper ID: 9438aa83eb8218b7e6e3891ad7bc2b388e35bc33
+URL: https://www.semanticscholar.org/paper/9438aa83eb8218b7e6e3891ad7bc2b388e35bc33
+Venue: 
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/9438aa83eb8218b7e6e3891ad7bc2b388e35bc33

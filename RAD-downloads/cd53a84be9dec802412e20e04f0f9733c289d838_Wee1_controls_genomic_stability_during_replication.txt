@@ -1,0 +1,9 @@
+Title: Wee1 controls genomic stability during replication by regulating the Mus81-Eme1 endonuclease
+Authors: Raquel Domínguez-Kelly, Yusé Martín, S. Koundrioukoff, M. Tanenbaum, V. Smits et al. (and 3 more)
+Year: 2011
+Paper ID: cd53a84be9dec802412e20e04f0f9733c289d838
+URL: https://www.semanticscholar.org/paper/cd53a84be9dec802412e20e04f0f9733c289d838
+Venue: Journal of Cell Biology
+
+Abstract:
+Wee1 is essential for normal DNA replication and for genomic stability, at least in part by inhibiting a general DNA damage response induced by the Mus81-Eme1 endonuclease.

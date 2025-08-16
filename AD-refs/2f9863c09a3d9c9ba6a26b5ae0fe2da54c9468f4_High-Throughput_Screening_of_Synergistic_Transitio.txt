@@ -1,0 +1,9 @@
+Title: High-Throughput Screening of Synergistic Transition Metal Dual-Atom Catalysts for Efficient Nitrogen Fixation.
+Authors: Xingshuai Lv, Wei Wei, Baibiao Huang, Ying Dai, T. Frauenheim
+Year: 2021
+Paper ID: 2f9863c09a3d9c9ba6a26b5ae0fe2da54c9468f4
+URL: https://www.semanticscholar.org/paper/2f9863c09a3d9c9ba6a26b5ae0fe2da54c9468f4
+Venue: Nano letters (Print)
+
+Abstract:
+Great enthusiasm in single-atom catalysts (SACs) for the nitrogen reduction reaction (NRR) has been aroused by the discovery of metal-Nx as a promising catalytic center. However, the poor activity and low selectivity of available SACs are far away from the industrial requirement. Through the first-principles high-throughput screening, we find that Fe-Fe distributed on graphite carbon nitride (Fe2/g-CN) can manipulate the binding strength of the target reaction species (compromises the ability to adsorb N2H and NH2), therefore achieving the best NRR performance among 23 transition metal (TM) centers. Our results show that Fe2/g-CN achieves a high theoretical Faradaic efficiency of 100% and, impressively, the lowest limiting potential of -0.13 V. Particularly, multiple-level descriptors shed light on the origin of NRR activity, achieving a fast prescreening among various candidates. Our predictions not only accelerate discovery of catalysts for ammonia synthesis but also contribute to further elucidate the structure-performance correlations.

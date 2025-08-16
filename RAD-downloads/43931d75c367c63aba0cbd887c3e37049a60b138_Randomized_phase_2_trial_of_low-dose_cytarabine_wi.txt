@@ -1,0 +1,9 @@
+Title: Randomized, phase 2 trial of low-dose cytarabine with or without volasertib in AML patients not suitable for induction therapy.
+Authors: H. Döhner, M. Lübbert, W. Fiedler, L. Fouillard, A. Haaland et al. (and 14 more)
+Year: 2014
+Paper ID: 43931d75c367c63aba0cbd887c3e37049a60b138
+URL: https://www.semanticscholar.org/paper/43931d75c367c63aba0cbd887c3e37049a60b138
+Venue: Blood
+
+Abstract:
+Treatment outcomes for older patients with acute myeloid leukemia (AML) have remained dismal. This randomized, phase 2 trial in AML patients not considered suitable for intensive induction therapy compared low-dose cytarabine (LDAC) with or without volasertib, a highly potent and selective inhibitor of polo-like kinases. Eighty-seven patients (median age 75 years) received LDAC 20 mg twice daily subcutaneously days 1-10 or LDAC + volasertib 350 mg IV days 1 + 15 every 4 weeks. Response rate (complete remission and complete remission with incomplete blood count recovery) was higher for LDAC + volasertib vs LDAC (31.0% vs 13.3%; odds ratio, 2.91; P = .052). Responses in the LDAC + volasertib arm were observed across all genetic groups, including 5 of 14 patients with adverse cytogenetics. Median event-free survival was significantly prolonged by LDAC + volasertib compared with LDAC (5.6 vs 2.3 months; hazard ratio, 0.57; 95% confidence interval, 0.35-0.92; P = .021); median overall survival was 8.0 vs 5.2 months, respectively (hazard ratio, 0.63; 95% confidence interval, 0.40-1.00; P = .047). LDAC + volasertib led to an increased frequency of adverse events that was most pronounced for neutropenic fever/infections and gastrointestinal events; there was no increase in the death rate at days 60 + 90. This study was registered at www.clinicaltrials.gov as #NCT00804856.

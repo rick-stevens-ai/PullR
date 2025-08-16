@@ -1,0 +1,12 @@
+Title: Workflow systems turn raw data into scientific knowledge
+Authors: Jeffrey Perkel
+Year: 2019
+Paper ID: b078996bf28129353589901ae139fee029c63461
+URL: https://www.semanticscholar.org/paper/b078996bf28129353589901ae139fee029c63461
+Venue: Nature
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/b078996bf28129353589901ae139fee029c63461

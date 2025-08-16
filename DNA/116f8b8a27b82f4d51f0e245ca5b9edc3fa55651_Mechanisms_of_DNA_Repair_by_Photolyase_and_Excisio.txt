@@ -1,0 +1,9 @@
+Title: Mechanisms of DNA Repair by Photolyase and Excision Nuclease (Nobel Lecture).
+Authors: A. Sancar
+Year: 2016
+Paper ID: 116f8b8a27b82f4d51f0e245ca5b9edc3fa55651
+URL: https://www.semanticscholar.org/paper/116f8b8a27b82f4d51f0e245ca5b9edc3fa55651
+Venue: Angewandte Chemie
+
+Abstract:
+Ultraviolet light damages DNA by converting two adjacent thymines into a thymine dimer which is potentially mutagenic, carcinogenic, or lethal to the organism. This damage is repaired by photolyase and the nucleotide excision repair system in E. coli by nucleotide excision repair in humans. The work leading to these results is presented by Aziz Sancar in his Nobel Lecture.

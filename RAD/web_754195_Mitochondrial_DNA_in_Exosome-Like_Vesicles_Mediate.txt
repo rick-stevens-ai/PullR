@@ -1,0 +1,10 @@
+Title: Mitochondrial DNA in Exosome-Like Vesicles Mediates the Radiation-Induced Bystander Effect
+Authors: Unknown
+Year: N/A
+Paper ID: web_754195
+URL: https://www.nature.com/articles/s41598-019-45669-z
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study investigates the mechanisms underlying the radiation-induced bystander effect (RIBE), focusing on the role of exosome-like vesicles (ELVs) and their mitochondrial DNA (mtDNA) content. The researchers isolated ELVs from both irradiated cells and mouse serum, demonstrating that these vesicles can induce DNA damage in non-irradiated recipient cells. The DNA damage-inducing capability of ELVs was shown to depend specifically on the presence of mtDNA, as treatment with DNase or the use of ELVs from mtDNA-depleted cells abolished the effect. Further analysis identified amplified mtDNA, particularly the ND1 and ND5 genes, as key mediators of RIBE signaling. These findings highlight the critical role of mtDNA-containing ELVs in mediating intercellular communication and DNA damage following radiation exposure, offering new insights into the molecular mechanisms of RIBE.

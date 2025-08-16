@@ -1,0 +1,9 @@
+Title: FetMRQC: Automated Quality Control for fetal brain MRI
+Authors: Thomas Sanchez, O. Esteban, Yvan Gomez, E. Eixarch, M. Cuadra
+Year: 2023
+Paper ID: 3bd907345e032301df650a4fabb8050bcefd3561
+URL: https://www.semanticscholar.org/paper/3bd907345e032301df650a4fabb8050bcefd3561
+Venue: PIPPI@MICCAI
+
+Abstract:
+Quality control (QC) has long been considered essential to guarantee the reliability of neuroimaging studies. It is particularly important for fetal brain MRI, where large and unpredictable fetal motion can lead to substantial artifacts in the acquired images. Existing methods for fetal brain quality assessment operate at the \textit{slice} level, and fail to get a comprehensive picture of the quality of an image, that can only be achieved by looking at the \textit{entire} brain volume. In this work, we propose FetMRQC, a machine learning framework for automated image quality assessment tailored to fetal brain MRI, which extracts an ensemble of quality metrics that are then used to predict experts' ratings. Based on the manual ratings of more than 1000 low-resolution stacks acquired across two different institutions, we show that, compared with existing quality metrics, FetMRQC is able to generalize out-of-domain, while being interpretable and data efficient. We also release a novel manual quality rating tool designed to facilitate and optimize quality rating of fetal brain images. Our tool, along with all the code to generate, train and evaluate the model will be released upon acceptance of the paper.

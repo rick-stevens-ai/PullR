@@ -1,0 +1,9 @@
+Title: Robotic Cultivation of Pome Fruit: A Benchmark Study of Manipulation Tools—From Research to Industrial Standards
+Authors: Gert Schouterden, Rafaël Verbiest, E. Demeester, K. Kellens
+Year: 2021
+Paper ID: 997636ed0a979f30cecbb8b02be3e7dfea7d2d27
+URL: https://www.semanticscholar.org/paper/997636ed0a979f30cecbb8b02be3e7dfea7d2d27
+Venue: Agronomy
+
+Abstract:
+In pome fruit cultivation, apples and pears need to be handled in various processes such as harvesting and sorting. Currently, most processes require a vast amount of manual labor. Combined with a structural shortage of seasonal workers, innovation in this field is crucial. Automated processes could provide a solution wherein the search for an appropriate manipulation tool is essential. Aside from several grippers, customized for harvesting by various researchers, the industry also provides a wide variety of standardized manipulation tools. This paper benchmarks a wide set of the most relevant gripping principles, primarily based on their ability to successfully handle fruit, without causing damage. In addition, energy consumption and general feasibility are evaluated as well. The performed study showed that the customized foam gripper scores the overall best for all test scenarios at the cost of being the least energy efficient. Furthermore, most other gripping tools excelled at certain specific tasks rather than being generally deployable. Impactive grippers are better suited for harvesting at low energy consumption, while astrictive grippers are more suited for sorting tasks constricted by the available space. The results also showed that commercially available soft grippers are not always capable of handling sensitive fruits such as pears without causing damage.

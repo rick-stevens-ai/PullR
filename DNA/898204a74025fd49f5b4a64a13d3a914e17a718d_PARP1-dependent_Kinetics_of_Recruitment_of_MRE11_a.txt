@@ -1,0 +1,9 @@
+Title: PARP1-dependent Kinetics of Recruitment of MRE11 and NBS1 Proteins to Multiple DNA Damage Sites*
+Authors: Jean-François Haince, Darin McDonald, Amélie Rodrigue, Ugo Déry, J. Masson et al. (and 2 more)
+Year: 2008
+Paper ID: 898204a74025fd49f5b4a64a13d3a914e17a718d
+URL: https://www.semanticscholar.org/paper/898204a74025fd49f5b4a64a13d3a914e17a718d
+Venue: Journal of Biological Chemistry
+
+Abstract:
+Poly(ADP-ribose) polymerase 1 (PARP1) is a nuclear enzyme that is rapidly activated by DNA strand breaks and signals the presence of DNA lesions by attaching ADP-ribose units to chromatin-associated proteins. The therapeutic applications of PARP inhibitors in potentiating the killing action of ionizing radiation have been well documented and are attracting increasing interest as a cancer treatment. However, the initial kinetics underlying the recognition of multiple DNA lesions by PARP1 and how inhibition of PARP potentiates the activity of DNA-damaging agents are unknown. Here we report the spatiotemporal dynamics of PARP1 recruitment to DNA damage induced by laser microirradiation in single living cells. We provide direct evidence that PARP1 is able to accumulate at a locally induced DNA double strand break. Most importantly, we observed that the rapid accumulation of MRE11 and NBS1 at sites of DNA damage requires PARP1. By determining the kinetics of protein assembly following DNA damage, our study reveals the cooperation between PARP1 and the double strand break sensors MRE11 and NBS1 in the close vicinity of a DNA lesion. This may explain the sensitivity of cancer cells to PARP inhibitors.

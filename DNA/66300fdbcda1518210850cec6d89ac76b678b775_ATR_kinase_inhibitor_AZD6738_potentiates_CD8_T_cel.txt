@@ -1,0 +1,9 @@
+Title: ATR kinase inhibitor AZD6738 potentiates CD8+ T cell–dependent antitumor activity following radiation
+Authors: F. Vendetti, Pooja Karukonda, D. Clump, T. Teo, R. Lalonde et al. (and 11 more)
+Year: 2018
+Paper ID: 66300fdbcda1518210850cec6d89ac76b678b775
+URL: https://www.semanticscholar.org/paper/66300fdbcda1518210850cec6d89ac76b678b775
+Venue: Journal of Clinical Investigation
+
+Abstract:
+DNA-damaging chemotherapy and radiation therapy are integrated into the treatment paradigm of the majority of cancer patients. Recently, immunotherapy that targets the immunosuppressive interaction between programmed death 1 (PD-1) and its ligand PD-L1 has been approved for malignancies including non–small cell lung cancer, melanoma, and head and neck squamous cell carcinoma. ATR is a DNA damage–signaling kinase activated at damaged replication forks, and ATR kinase inhibitors potentiate the cytotoxicity of DNA-damaging chemotherapies. We show here that the ATR kinase inhibitor AZD6738 combines with conformal radiation therapy to attenuate radiation-induced CD8+ T cell exhaustion and potentiate CD8+ T cell activity in mouse models of Kras-mutant cancer. Mechanistically, AZD6738 blocks radiation-induced PD-L1 upregulation on tumor cells and dramatically decreases the number of tumor-infiltrating Tregs. Remarkably, AZD6738 combines with conformal radiation therapy to generate immunologic memory in complete responder mice. Our work raises the possibility that a single pharmacologic agent may enhance the cytotoxic effects of radiation while concurrently potentiating radiation-induced antitumor immune responses.

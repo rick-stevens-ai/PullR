@@ -1,0 +1,10 @@
+Title: Micronuclei Are Not Potent Inducers of the cGAS/STING Pathway: Insights from the FuVis2 Reporter System
+Authors: Unknown
+Year: N/A
+Paper ID: web_812823
+URL: https://www.life-science-alliance.org/content/7/4/e202302424
+Venue: Life Science Alliance
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Micronuclei (MN) have been implicated in the activation of the innate immune response, particularly through the cGAS/STING pathway. The rupture of MN membranes can lead to the accumulation of cyclic GMP-AMP synthase (cGAS), which is thought to activate STING and downstream interferon-responsive genes. However, direct evidence linking MN formation to robust cGAS activation has been limited. In this study, we developed the FuVis2 reporter system, which allows for the visualization of nuclei containing a single sister chromatid fusion and the consequent formation of MN. By equipping the FuVis2 system with cGAS and STING reporters, we systematically evaluated the ability of MN to activate cGAS in individual living cells. Our results demonstrate that cGAS localization to membrane-ruptured MN during interphase is rare, with cGAS more commonly associating with MN during mitosis and remaining bound to cytosolic chromatin. Importantly, cGAS accumulation during mitosis does not activate STING in the subsequent interphase nor does it trigger an interferon response. Furthermore, we found that gamma-ray irradiation activates STING independently of MN formation and cGAS localization to MN. These findings indicate that cGAS accumulation in cytosolic MN is not a reliable marker of its activation and that MN are not the primary drivers of the cGAS/STING pathway.

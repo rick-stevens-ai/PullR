@@ -1,0 +1,9 @@
+Title: Safeguarding genome integrity: the checkpoint kinases ATR, CHK1 and WEE1 restrain CDK activity during normal DNA replication
+Authors: C. Sørensen, R. Syljuåsen
+Year: 2011
+Paper ID: 3ab4a50e8d1952d3b711fa0dc8b6d2d1ae836352
+URL: https://www.semanticscholar.org/paper/3ab4a50e8d1952d3b711fa0dc8b6d2d1ae836352
+Venue: Nucleic Acids Research
+
+Abstract:
+Mechanisms that preserve genome integrity are highly important during the normal life cycle of human cells. Loss of genome protective mechanisms can lead to the development of diseases such as cancer. Checkpoint kinases function in the cellular surveillance pathways that help cells to cope with DNA damage. Importantly, the checkpoint kinases ATR, CHK1 and WEE1 are not only activated in response to exogenous DNA damaging agents, but are active during normal S phase progression. Here, we review recent evidence that these checkpoint kinases are critical to avoid deleterious DNA breakage during DNA replication in normal, unperturbed cell cycle. Possible mechanisms how loss of these checkpoint kinases may cause DNA damage in S phase are discussed. We propose that the majority of DNA damage is induced as a consequence of deregulated CDK activity that forces unscheduled initiation of DNA replication. This could generate structures that are cleaved by DNA endonucleases leading to the formation of DNA double-strand breaks. Finally, we discuss how these S phase effects may impact on our understanding of cancer development following disruption of these checkpoint kinases, as well as on the potential of these kinases as targets for cancer treatment.

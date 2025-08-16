@@ -1,0 +1,9 @@
+Title: Multi-scale modeling and simulation of additive manufacturing based on fused deposition technique
+Authors: Qing Xia, Gangming Sun, Junseok Kim, Yibao Li
+Year: 2023
+Paper ID: faa5fda1c4b02d1fc181afb23c28caa13b0fcc90
+URL: https://www.semanticscholar.org/paper/faa5fda1c4b02d1fc181afb23c28caa13b0fcc90
+Venue: The Physics of Fluids
+
+Abstract:
+The issue of multi-scale modeling of the filament-based material extrusion has received considerable critical attention for three-dimensional (3D) printing, which involves complex physicochemical phase transitions and thermodynamic behavior. The lack of a multi-scale theoretical model poses significant challenges for prediction in 3D printing processes driven by the rapidly evolving temperature field, including the nonuniformity of tracks, the spheroidization effect of materials, and inter-track voids. Few studies have systematically investigated the mapping relationship and established the numerical modeling between the physical environment and the virtual environment. In this paper, we develop a multi-scale system to describe the fused deposition process in the 3D printing process, which is coupled with the conductive heat transfer model and the dendritic solidification model. The simulation requires a computational framework with high performance because of the cumulative effect of heat transfer between different filament layers. The proposed system is capable of simulating the material state with the proper parameter at the macro- and micro-scale and is directly used to capture multiple physical phenomena. The main contribution of this paper is that we have established a totally integrated simulation system by considering multi-scale and multi-physical properties. We carry out several numerical tests to verify the robustness and efficiency of the proposed model.

@@ -1,0 +1,9 @@
+Title: Integrating the Health-care Enterprise Pathology and Laboratory Medicine Guideline for Digital Pathology Interoperability
+Authors: Rajesh C. Dash, Nicholas C. Jones, Riki Merrick, G. Haroske, J. Harrison et al. (and 5 more)
+Year: 2021
+Paper ID: 8c531c9b249af9c0b79619e25cb7e3e9f985703d
+URL: https://www.semanticscholar.org/paper/8c531c9b249af9c0b79619e25cb7e3e9f985703d
+Venue: Journal of Pathology Informatics
+
+Abstract:
+Integrating the health-care enterprise (IHE) is an international initiative to promote the use of standards to achieve interoperability among health information technology systems. The Pathology and Laboratory Medicine domain within IHE has brought together subject matter experts, electronic health record vendors, and digital imaging vendors, to initiate development of a series of digital pathology interoperability guidelines, called “integration profiles” within IHE. This effort begins with documentation of common use cases, followed by identification of available data and technology standards best utilized to achieve those use cases. An integration profile that describes the information flow and technology interactions is then published for trial use. Real world testing occurs in “connectathon” events, in which multiple vendors attempt to connect their products following the interoperability guidance parameters set forth in the profile. This paper describes the overarching set of integration profiles, one of which has been published, to support key digital pathology use cases.

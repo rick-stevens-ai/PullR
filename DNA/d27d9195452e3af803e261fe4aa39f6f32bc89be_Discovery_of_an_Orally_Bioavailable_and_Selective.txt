@@ -1,0 +1,9 @@
+Title: Discovery of an Orally Bioavailable and Selective PKMYT1 Inhibitor, RP-6306.
+Authors: Janek Szychowski, R. Papp, Evelyne Dietrich, Bingcan Liu, F. Vallée et al. (and 26 more)
+Year: 2022
+Paper ID: d27d9195452e3af803e261fe4aa39f6f32bc89be
+URL: https://www.semanticscholar.org/paper/d27d9195452e3af803e261fe4aa39f6f32bc89be
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+PKMYT1 is a regulator of CDK1 phosphorylation and is a compelling therapeutic target for the treatment of certain types of DNA damage response cancers due to its established synthetic lethal relationship with CCNE1 amplification. To date, no selective inhibitors have been reported for this kinase that would allow for investigation of the pharmacological role of PKMYT1. To address this need compound 1 was identified as a weak PKMYT1 inhibitor. Introduction of a dimethylphenol increased potency on PKMYT1. These dimethylphenol analogs were found to exist as atropisomers that could be separated and profiled as single enantiomers. Structure-based drug design enabled optimization of cell-based potency. Parallel optimization of ADME properties led to the identification of potent and selective inhibitors of PKMYT1. RP-6306 inhibits CCNE1-amplified tumor cell growth in several preclinical xenograft models. The first-in-class clinical candidate RP-6306 is currently being evaluated in Phase 1 clinical trials for treatment of various solid tumors.

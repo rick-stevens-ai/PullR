@@ -1,0 +1,9 @@
+Title: Fast universal quantum gate above the fault-tolerance threshold in silicon
+Authors: A. Noiri, K. Takeda, T. Nakajima, Takashi Kobayashi, A. Sammak et al. (and 2 more)
+Year: 2021
+Paper ID: a96b5b553af4a68e4c83e14252dd076cd2b48178
+URL: https://www.semanticscholar.org/paper/a96b5b553af4a68e4c83e14252dd076cd2b48178
+Venue: Nature
+
+Abstract:
+Fault-tolerant quantum computers that can solve hard problems rely on quantum error correction1. One of the most promising error correction codes is the surface code2, which requires universal gate fidelities exceeding an error correction threshold of 99 per cent3. Among the many qubit platforms, only superconducting circuits4, trapped ions5 and nitrogen-vacancy centres in diamond6 have delivered this requirement. Electron spin qubits in silicon7–15 are particularly promising for a large-scale quantum computer owing to their nanofabrication capability, but the two-qubit gate fidelity has been limited to 98 per cent owing to the slow operation16. Here we demonstrate a two-qubit gate fidelity of 99.5 per cent, along with single-qubit gate fidelities of 99.8 per cent, in silicon spin qubits by fast electrical control using a micromagnet-induced gradient field and a tunable two-qubit coupling. We identify the qubit rotation speed and coupling strength where we robustly achieve high-fidelity gates. We realize Deutsch–Jozsa and Grover search algorithms with high success rates using our universal gate set. Our results demonstrate universal gate fidelity beyond the fault-tolerance threshold and may enable scalable silicon quantum computers. Single- and two-qubit gate fidelities above the fault-tolerance threshold for quantum computation are demonstrated in silicon quantum dots by fast electrical control using a micromagnet-induced gradient field and tunable coupling.

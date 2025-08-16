@@ -1,0 +1,12 @@
+Title: Overview of the 3rd Author Profiling Task at PAN 2015
+Authors: F. M. R. Pardo, Fabio Celli, Paolo Rosso, Martin Potthast, Benno Stein et al. (and 1 more)
+Year: 2015
+Paper ID: 87c9782e4d47bad4addde9a3a790145483fb6059
+URL: https://www.semanticscholar.org/paper/87c9782e4d47bad4addde9a3a790145483fb6059
+Venue: Conference and Labs of the Evaluation Forum
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/87c9782e4d47bad4addde9a3a790145483fb6059

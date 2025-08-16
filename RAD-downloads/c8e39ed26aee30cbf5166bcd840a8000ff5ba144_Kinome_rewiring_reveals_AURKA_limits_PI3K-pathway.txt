@@ -1,0 +1,10 @@
+Title: Kinome rewiring reveals AURKA limits PI3K-pathway inhibitor efficacy in breast cancer
+Authors: Hayley J. Donnella, James T. Webber, Rebecca S Levin, Roman Camarda, Olga Momčilović et al. (and 7 more)
+Year: 2018
+Paper ID: c8e39ed26aee30cbf5166bcd840a8000ff5ba144
+URL: https://www.semanticscholar.org/paper/c8e39ed26aee30cbf5166bcd840a8000ff5ba144
+Venue: Nature Chemical Biology
+
+Abstract:
+AbstractDysregulation of the PI3K-AKT-mTOR signaling network is a prominent feature of breast cancers. However, clinical responses to drugs targeting this pathway have been modest, possibly because of dynamic changes in cellular signaling that drive resistance and limit drug efficacy. Using a quantitative chemoproteomics approach, we mapped kinome dynamics in response to inhibitors of this pathway and identified signaling changes that correlate with drug sensitivity. Maintenance of AURKA after drug treatment was associated with resistance in breast cancer models. Incomplete inhibition of AURKA was a common source of therapy failure, and combinations of PI3K, AKT or mTOR inhibitors with the AURKA inhibitor MLN8237 were highly synergistic and durably suppressed mTOR signaling, resulting in apoptosis and tumor regression in vivo. This signaling map identifies survival factors whose presence limits the efficacy of targeted therapies and reveals new drug combinations that may unlock the full potential of PI3K–AKT–mTOR pathway inhibitors in breast cancer.Proteomic mapping of dynamic changes in kinase signaling after drug treatment identifies that AURKA inhibition is required for drug sensitivity, representing a new co-targeting opportunity with PI3K, AKT, or mTOR inhibitors in breast cancer.
+

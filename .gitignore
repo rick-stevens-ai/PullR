@@ -1,7 +1,9 @@
 # PullR .gitignore
 
-# Configuration files with API keys
+# Configuration files with API keys and YAML files
 model_servers.yaml
+*.yaml
+*.yml
 *.env
 .env*
 

@@ -1,0 +1,9 @@
+Title: A high-performance computing toolset for relatedness and principal component analysis of SNP data
+Authors: Xiuwen Zheng, David Levine, Jess Shen, S. Gogarten, C. Laurie et al. (and 1 more)
+Year: 2012
+Paper ID: 2607901fe65bb0be0e2aa667e85b64305a2e0b0c
+URL: https://www.semanticscholar.org/paper/2607901fe65bb0be0e2aa667e85b64305a2e0b0c
+Venue: Bioinform.
+
+Abstract:
+Genome-wide association studies are widely used to investigate the genetic basis of diseases and traits, but they pose many computational challenges. We developed gdsfmt and SNPRelate (R packages for multi-core symmetric multiprocessing computer architectures) to accelerate two key computations on SNP data: principal component analysis (PCA) and relatedness analysis using identity-by-descent measures. The kernels of our algorithms are written in C/C++ and highly optimized. Benchmarks show the uniprocessor implementations of PCA and identity-by-descent are ∼8-50 times faster than the implementations provided in the popular EIGENSTRAT (v3.0) and PLINK (v1.07) programs, respectively, and can be sped up to 30-300-fold by using eight cores. SNPRelate can analyse tens of thousands of samples with millions of SNPs. For example, our package was used to perform PCA on 55 324 subjects from the 'Gene-Environment Association Studies' consortium studies.

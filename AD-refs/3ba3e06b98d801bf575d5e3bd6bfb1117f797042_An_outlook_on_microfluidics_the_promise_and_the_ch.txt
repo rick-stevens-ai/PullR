@@ -1,0 +1,9 @@
+Title: An outlook on microfluidics: the promise and the challenge.
+Authors: Sarah Battat, D. Weitz, G. Whitesides
+Year: 2022
+Paper ID: 3ba3e06b98d801bf575d5e3bd6bfb1117f797042
+URL: https://www.semanticscholar.org/paper/3ba3e06b98d801bf575d5e3bd6bfb1117f797042
+Venue: Lab on a Chip
+
+Abstract:
+This perspective considers ways in which the field of microfluidics can increase its impact by improving existing technologies and enabling new functionalities. We highlight applications where microfluidics has made or can make important contributions, including diagnostics, food safety, and the production of materials. The success of microfluidics assumes several forms, including fundamental innovations in fluid mechanics that enable the precise manipulation of fluids at small scales and the development of portable microfluidic chips for commercial purposes. We identify outstanding technical challenges whose resolution could increase the accessibility of microfluidics to users with both scientific and non-technical backgrounds. They include the simplification of procedures for sample preparation, the identification of materials for the production of microfluidic devices in both laboratory and commercial settings, and the replacement of auxiliary equipment with automated components for the operation of microfluidic devices.

@@ -1,0 +1,9 @@
+Title: A Network Intrusion Detection System for Building Automation and Control Systems
+Authors: Vitor Graveto, T. Cruz, P. Simões
+Year: 2023
+Paper ID: 948cb3818d61a8baa21aa847807c63a342941431
+URL: https://www.semanticscholar.org/paper/948cb3818d61a8baa21aa847807c63a342941431
+Venue: IEEE Access
+
+Abstract:
+Building Automation and Control Systems (BACS) are traditionally based on specialized communications protocols, such as KNX or BACnet, and dedicated sensing and actuating devices. Despite the increased awareness about the security risks associated with BACS, there is a lack of security tools for protecting this special breed of cyber-physical systems. This is further aggravated by the fact that general-purpose security tools are typically not able to cope with the specific requirements and technologies associated with BACS, making it necessary to devise domain-specific approaches – as shown, for instance, by the KNX Secure initiative led by the KNX Association. Nevertheless, despite the advances brought by KNX Secure and similar initiatives, there is still a considerable gap between the security needs of BACS and the solutions available. In this paper, we address this gap by proposing a Network Intrusion Detection System (NIDS) specifically designed for BACS. This NIDS is protocol-agnostic and can potentially support different BACS protocols and technologies, such as KNX, BACnet, Modbus or mixed ecosystems, without loss of generality. We also present a specific proof-of-concept implementation of this NIDS concept for KNX – one of the more widespread BACS protocols. To this purpose, a real-world KNX deployment was used to showcase and evaluate the proposed approach.

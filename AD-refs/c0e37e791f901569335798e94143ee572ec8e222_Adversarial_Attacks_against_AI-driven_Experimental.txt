@@ -1,0 +1,9 @@
+Title: Adversarial Attacks against AI-driven Experimental Peptide Design Workflows
+Authors: A. Ramanathan, Sumit Kumar Jha
+Year: 2021
+Paper ID: c0e37e791f901569335798e94143ee572ec8e222
+URL: https://www.semanticscholar.org/paper/c0e37e791f901569335798e94143ee572ec8e222
+Venue: Annual Workshop on Large-scale Experiment-in-the-Loop Computing
+
+Abstract:
+Artificial intelligence and machine learning (AI/ML) techniques are fueling a revolution in how scientific experiments are designed, implemented and automated. Specifically, increasing high-bandwidth instruments coupled to new hardware and software systems can significantly improve the throughput of experimental results, while AI/ML techniques can provide insights into novel science and theories that were hitherto inaccessible. Despite recent progress in such “self-driving labs”, these automated platforms are susceptible to adversarial attacks as well as more traditional cybersecurity attacks. Using a motivating example of an automated approach to design anti-microbial peptides (AMP), our position paper seeks to demonstrate how a lack of adversarial robustness of AI systems such as protein folding networks may affect the execution of such experimental workflows. We highlight important problems in adversarial robustness that may need to be resolved in order to establish a trustworthy and safe AI -driven AMP synthesis system.

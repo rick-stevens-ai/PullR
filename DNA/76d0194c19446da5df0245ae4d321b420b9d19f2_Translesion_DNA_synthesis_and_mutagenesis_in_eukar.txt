@@ -1,0 +1,9 @@
+Title: Translesion DNA synthesis and mutagenesis in eukaryotes.
+Authors: J. Sale
+Year: 2013
+Paper ID: 76d0194c19446da5df0245ae4d321b420b9d19f2
+URL: https://www.semanticscholar.org/paper/76d0194c19446da5df0245ae4d321b420b9d19f2
+Venue: Cold Spring Harbor Perspectives in Biology
+
+Abstract:
+The structural features that enable replicative DNA polymerases to synthesize DNA rapidly and accurately also limit their ability to copy damaged DNA. Direct replication of DNA damage is termed translesion synthesis (TLS), a mechanism conserved from bacteria to mammals and executed by an array of specialized DNA polymerases. This chapter examines how these translesion polymerases replicate damaged DNA and how they are regulated to balance their ability to replicate DNA lesions with the risk of undesirable mutagenesis. It also discusses how TLS is co-opted to increase the diversity of the immunoglobulin gene hypermutation and the contribution it makes to the mutations that sculpt the genome of cancer cells.

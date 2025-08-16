@@ -1,0 +1,12 @@
+Title: Vision meets robotics: The KITTI dataset
+Authors: Andreas Geiger, Philip Lenz, C. Stiller, R. Urtasun
+Year: 2013
+Paper ID: 79b949d9b35c3f51dd20fb5c746cc81fc87147eb
+URL: https://www.semanticscholar.org/paper/79b949d9b35c3f51dd20fb5c746cc81fc87147eb
+Venue: Int. J. Robotics Res.
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/79b949d9b35c3f51dd20fb5c746cc81fc87147eb

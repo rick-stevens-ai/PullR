@@ -1,0 +1,9 @@
+Title: PARP1 and CHK1 coordinate PLK1 enzymatic activity during the DNA damage response to promote homologous recombination-mediated repair
+Authors: Bin Peng, Ruifeng Shi, Jing Bian, Yuwei Li, Peipei Wang et al. (and 4 more)
+Year: 2021
+Paper ID: 05f206cc09abb9a60097dc7e6a1ee3c5c005e520
+URL: https://www.semanticscholar.org/paper/05f206cc09abb9a60097dc7e6a1ee3c5c005e520
+Venue: Nucleic Acids Research
+
+Abstract:
+Abstract Polo-like kinase 1 (PLK1) is a master kinase that regulates cell cycle progression. How its enzymatic activity is regulated in response to DNA damage is not fully understood. We show that PLK1 is enriched at double strand breaks (DSBs) within seconds of UV laser irradiation in a PARP-1-dependent manner and then disperses within 10 min in a PARG-dependent manner. Poly(ADP-)ribose (PAR) chains directly bind to PLK1 in vitro and inhibit its enzymatic activity. CHK1-mediated PLK1 phosphorylation at S137 prevents its binding to PAR and recruitment to DSBs but ensures PLK1 phosphorylation at T210 and its enzymatic activity toward RAD51 at S14. This subsequent phosphorylation event at S14 primes RAD51 for CHK1-mediated phosphorylation at T309, which is essential for full RAD51 activation. This CHK1–PLK1–RAD51 axis ultimately promotes homologous recombination (HR)-mediated repair and ensures chromosome stability and cellular radiosensitivity. These findings provide biological insight for combined cancer therapy using inhibitors of PARG and CHK1.

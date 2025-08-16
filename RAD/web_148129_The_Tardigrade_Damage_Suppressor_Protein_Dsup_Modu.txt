@@ -1,0 +1,10 @@
+Title: The Tardigrade Damage Suppressor Protein (Dsup) Modulates Transcription Factor Activity and DNA Repair Pathways in Human Cells Exposed to Oxidative Stress and UV-C Irradiation
+Authors: Unknown
+Year: N/A
+Paper ID: web_148129
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8533384/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+The tardigrade Ramazzottius varieornatus is renowned for its extraordinary resilience to extreme environmental conditions, including high pressure, irradiation, chemical exposure, and dehydration. This remarkable tolerance is largely attributed to the recently discovered Damage Suppressor (Dsup) protein, a nucleosome-binding protein that protects DNA from damage caused by X-rays and oxidative stress without compromising cell viability in both animal and plant cells. In this study, we investigated the effects of expressing Dsup in human cell cultures subjected to two distinct stressors: oxidative stress induced by hydrogen peroxide (H₂O₂) and ultraviolet-C (UV-C) irradiation. Our results demonstrate that Dsup enhances cell survival through distinct mechanisms depending on the type of insult. In H₂O₂-treated cells, Dsup provides direct physical protection to DNA and activates detoxification pathways to eliminate intracellular free radicals. Conversely, following UV-C exposure, Dsup does not directly shield DNA but instead promotes the upregulation of DNA damage repair genes, facilitating more efficient cellular recovery. Additionally, Dsup expression leads to differential activation of transcription factors and alters the expression of genes involved in apoptosis, cell survival, and DNA repair. These findings elucidate the diverse protective strategies employed by Dsup in response to different forms of cellular stress and highlight its potential applications in enhancing stress resistance in human and plant cells.

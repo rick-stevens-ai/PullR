@@ -1,0 +1,12 @@
+Title: Trust in Human-Autonomy Teaming: A Review of Trust Research from the US Army Research Laboratory Robotics Collaborative Technology Alliance
+Authors: Kristin E. Schaefer, S. Hill, F. Jentsch
+Year: 2018
+Paper ID: 42c234b9e9f1636e8392c361f9a7ead97521a00a
+URL: https://www.semanticscholar.org/paper/42c234b9e9f1636e8392c361f9a7ead97521a00a
+Venue: Advances in Intelligent Systems and Computing
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/42c234b9e9f1636e8392c361f9a7ead97521a00a

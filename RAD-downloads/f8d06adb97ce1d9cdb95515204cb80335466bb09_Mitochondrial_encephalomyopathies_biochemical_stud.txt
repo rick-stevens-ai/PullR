@@ -1,0 +1,9 @@
+Title: Mitochondrial encephalomyopathies: biochemical studies in two cases revealing defects in the respiratory chain.
+Authors: J. Morgan-Hughes, D. J. Hayes, J. Clark, D. Landon, M. Swash et al. (and 2 more)
+Year: 1982
+Paper ID: f8d06adb97ce1d9cdb95515204cb80335466bb09
+URL: https://www.semanticscholar.org/paper/f8d06adb97ce1d9cdb95515204cb80335466bb09
+Venue: Brain : a journal of neurology
+
+Abstract:
+We describe two patients with mitochondrial myopathies who presented with complex multisystem diseases predominantly affecting the central nervous system. In both cases the disease ran a fluctuating clinical course, eventually leading to profound impairment of intellectual function. In Case 1 dementia was associated with optic atrophy, absent pupillary responses, impaired eye movements and generalized dystonic rigidity without evidence of weakness or loss of muscle bulk. In Case 2 myoclonus preceded the onset of ataxia, generalized weakness and mental confusion by several years. Biochemical studies on isolated muscle mitochondria revealed defects in the mitochondrial respiratory chain which were located at NADH-CoQ reductase in Case 1, and at cytochrome b in Case 2. This study illustrates the potential value of muscle biopsy in the diagnosis of unusual and otherwise unexplained cerebral syndromes in man, even in the absence of muscle weakness.

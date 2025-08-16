@@ -1,0 +1,10 @@
+Title: NRF2 Facilitates ATR Activation and G2 Cell Cycle Arrest to Preserve Genomic Integrity Following DNA Double-Strand Breaks
+Authors: Unknown
+Year: N/A
+Paper ID: web_280997
+URL: https://pubmed.ncbi.nlm.nih.gov/32729622/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Nuclear factor erythroid 2-related factor 2 (NRF2) is a well-characterized transcription factor known for its role in protecting cells against oxidative and electrophilic stresses. Recent evidence suggests that NRF2 also safeguards cells from DNA damage through mechanisms beyond its antioxidative functions, although these mechanisms remain incompletely understood. In this study, we demonstrate that NRF2 knockout cells exhibit heightened sensitivity to ionizing radiation (IR), regardless of the presence of reactive oxygen species (ROS). Under conditions where ROS are scavenged, induction of DNA double-strand breaks (DSBs) leads to increased NRF2 protein levels and recruitment of NRF2 to DNA damage sites. At these sites, NRF2 interacts with ATR, facilitating activation of the ATR-CHK1-CDC2 signaling pathway. This activation results in G2 cell cycle arrest and promotes homologous recombination repair of DSBs, thereby maintaining genome stability. Furthermore, pharmacological inhibition of NRF2 by brusatol increases the radiosensitivity of tumor cells in xenograft models by disrupting ATR and CHK1 activation. Collectively, these findings reveal a novel function of NRF2 as an activator of ATR in the cellular response to DSBs, providing new insights into the broader role of NRF2 in genome maintenance and the DNA damage response.

@@ -1,0 +1,9 @@
+Title: Nonlinearity Compensation and High-Frequency Flexibility Suppression Based RIC Method for Precision Motion Control Systems
+Authors: R. Zhou, Chuxiong Hu, Ze Wang, Suqin He, Y. Zhu
+Year: 2023
+Paper ID: 814e077199b0b77e6350588af8ff4d8f0474fced
+URL: https://www.semanticscholar.org/paper/814e077199b0b77e6350588af8ff4d8f0474fced
+Venue: IEEE Transactions on Industrial Informatics
+
+Abstract:
+For precision motion systems widely applied in industrial manufacturing equipments, it is critical to achieve both high trajectory tracking accuracy and superior disturbance rejection ability. In this article, a novel nonlinearity compensation and high-frequency flexibility suppression based real-time iterative compensation (RIC) method is proposed to achieve excellent tracking performance in practice. The unexpected nonlinearity and high-frequency flexible mode of the plant, which limits the achievable control performance, is first compensated and suppressed. Subsequently, a RIC method based on accurate linear prediction model is proposed to further reduce the tracking error by adding a compensation term to the initial reference trajectory. The trajectory compensation idea of RIC is comparative to remarkable iterative learning control (ILC), but the proposed RIC can online generate and adjust the compensation term during real-time motion without abundant offline iteration trials in ILC. This mechanism significantly enhances the robustness to trajectory variations and external disturbances. Comparative experiments carried out on a ball-screw-driven precision motion stage with full-closed loop position feedback validate the effectiveness and superiority of the proposed method for various trajectory tracking tasks. The proposed method outperforms ILC on tracking performance, and possesses the robustness to various disturbances and reference variations, which leads to industrial application significance.

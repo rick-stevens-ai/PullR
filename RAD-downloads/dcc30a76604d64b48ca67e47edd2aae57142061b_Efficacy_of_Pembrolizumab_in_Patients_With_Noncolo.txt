@@ -1,0 +1,22 @@
+Title: Efficacy of Pembrolizumab in Patients With Noncolorectal High Microsatellite Instability/Mismatch Repair-Deficient Cancer: Results From the Phase II KEYNOTE-158 Study.
+Authors: A. Marabelle, D. Le, P. Ascierto, A. D. di Giacomo, A. De Jesus-Acosta et al. (and 17 more)
+Year: 2020
+Paper ID: dcc30a76604d64b48ca67e47edd2aae57142061b
+URL: https://www.semanticscholar.org/paper/dcc30a76604d64b48ca67e47edd2aae57142061b
+Venue: Journal of Clinical Oncology
+
+Abstract:
+PURPOSE
+Genomes of tumors that are deficient in DNA mismatch repair (dMMR) have high microsatellite instability (MSI-H) and harbor hundreds to thousands of somatic mutations that encode potential neoantigens. Such tumors are therefore likely to be immunogenic, triggering upregulation of immune checkpoint proteins. Pembrolizumab, an anti‒programmed death-1 monoclonal antibody, has antitumor activity against MSI-H/dMMR cancer. We report data from the phase II KEYNOTE-158 study of pembrolizumab in patients with previously treated, advanced noncolorectal MSI-H/dMMR cancer.
+
+
+PATIENTS AND METHODS
+Eligible patients with histologically/cytologically confirmed MSI-H/dMMR advanced noncolorectal cancer who experienced failure with prior therapy received pembrolizumab 200 mg once every 3 weeks for 2 years or until disease progression, unacceptable toxicity, or patient withdrawal. Radiologic imaging was performed every 9 weeks for the first year of therapy and every 12 weeks thereafter. The primary end point was objective response rate per Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1, as assessed by independent central radiologic review.
+
+
+RESULTS
+Among 233 enrolled patients, 27 tumor types were represented, with endometrial, gastric, cholangiocarcinoma, and pancreatic cancers being the most common. Median follow up was 13.4 months. Objective response rate was 34.3% (95% CI, 28.3% to 40.8%). Median progression-free survival was 4.1 months (95% CI, 2.4 to 4.9 months) and median overall survival was 23.5 months (95% CI, 13.5 months to not reached). Treatment-related adverse events occurred in 151 patients (64.8%). Thirty-four patients (14.6%) had grade 3 to 5 treatment-related adverse events. Grade 5 pneumonia occurred in one patient; there were no other treatment-related fatal adverse events.
+
+
+CONCLUSION
+Our study demonstrates the clinical benefit of anti-programmed death-1 therapy with pembrolizumab among patients with previously treated unresectable or metastatic MSI-H/dMMR noncolorectal cancer. Toxicity was consistent with previous experience of pembrolizumab monotherapy.

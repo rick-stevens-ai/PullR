@@ -1,0 +1,12 @@
+Title: A view of cloud computing
+Authors: Michael Armbrust, A. Fox, Rean Griffith, A. Joseph, R. Katz et al. (and 6 more)
+Year: 2010
+Paper ID: 5deef74e922df23a636a3fd4e33c119247de8d30
+URL: https://www.semanticscholar.org/paper/5deef74e922df23a636a3fd4e33c119247de8d30
+Venue: CACM
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/5deef74e922df23a636a3fd4e33c119247de8d30

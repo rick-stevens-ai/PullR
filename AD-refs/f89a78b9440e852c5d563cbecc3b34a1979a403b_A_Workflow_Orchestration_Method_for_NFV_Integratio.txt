@@ -1,0 +1,9 @@
+Title: A Workflow Orchestration Method for NFV Integration Deployment
+Authors: Qingyun Meng, Deheng Li, Qian Wang
+Year: 2023
+Paper ID: f89a78b9440e852c5d563cbecc3b34a1979a403b
+URL: https://www.semanticscholar.org/paper/f89a78b9440e852c5d563cbecc3b34a1979a403b
+Venue: 2023 IEEE 3rd International Conference on Computer Communication and Artificial Intelligence (CCAI)
+
+Abstract:
+Introduction of CNF makes the telecom network based on the NFV standard more complex, and manual installation steps are cumbersome and inefficient. Therefore, it is necessary to introduce an automated deployment integration platform. There are a lot of steps that can be processed in parallel in the NFV integrated deployment, but the existing deployment tools or platforms cannot directly build a parallel-deployable NFV deployment process containing CNF, while a fully sequenced deployment process will consume more time. To solve this problem, a workflow based NFV automated integrated deployment orchestration method is proposed in the paper. This method can effectively improve the efficiency of deployment by solving the directed acyclic graph (DAG) of integrated deployment and generating the automated deployment process.

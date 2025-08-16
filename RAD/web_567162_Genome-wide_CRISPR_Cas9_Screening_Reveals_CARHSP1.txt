@@ -1,0 +1,10 @@
+Title: Genome-wide CRISPR/Cas9 Screening Reveals CARHSP1 as a Key Mediator of Radiation Resistance in Glioblastoma
+Authors: Unknown
+Year: N/A
+Paper ID: web_567162
+URL: https://www.nature.com/articles/s41419-021-04000-3
+Venue: Web Source
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Glioblastoma (GBM) is characterized by a high degree of resistance to radiotherapy, which significantly limits treatment efficacy and patient survival. To elucidate the molecular mechanisms underlying this radioresistance, a genome-wide CRISPR/Cas9 activation screen was conducted in human GBM cell lines (U87 and U251) exposed to varying doses of radiation. The screening identified calcium-regulated heat-stable protein 1 (CARHSP1) as a critical driver of radioresistance. Functional validation demonstrated that knockdown of CARHSP1 sensitized GBM cells to radiotherapy, while high CARHSP1 expression correlated with poorer survival outcomes in GBM patients treated with radiotherapy, as evidenced by analyses of TCGA clinical data. Mechanistically, CARHSP1 appears to mediate radioresistance through activation of the TNF-α inflammatory signaling pathway. These findings highlight CARHSP1 as a potential therapeutic target to enhance the efficacy of radiotherapy in glioblastoma, particularly in patients exhibiting elevated CARHSP1 expression.

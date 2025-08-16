@@ -1,0 +1,9 @@
+Title: The Guardian of the Genome Revisited: p53 Downregulates Genes Required for Telomere Maintenance, DNA Repair, and Centromere Structure
+Authors: Eléonore Toufektchan, F. Toledo
+Year: 2018
+Paper ID: 289605ba56fdb466161f5b713a871e675e9a31b7
+URL: https://www.semanticscholar.org/paper/289605ba56fdb466161f5b713a871e675e9a31b7
+Venue: Cancers
+
+Abstract:
+The p53 protein has been extensively studied for its capacity to prevent proliferation of cells with a damaged genome. Surprisingly, however, our recent analysis of mice expressing a hyperactive mutant p53 that lacks the C-terminal domain revealed that increased p53 activity may alter genome maintenance. We showed that p53 downregulates genes essential for telomere metabolism, DNA repair, and centromere structure and that a sustained p53 activity leads to phenotypic traits associated with dyskeratosis congenita and Fanconi anemia. This downregulation is largely conserved in human cells, which suggests that our findings could be relevant to better understand processes involved in bone marrow failure as well as aging and tumor suppression.

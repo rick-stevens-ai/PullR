@@ -1,0 +1,10 @@
+Title: Exosomes as Functional Mediators in Radiation-Induced Bystander Effects
+Authors: Unknown
+Year: N/A
+Paper ID: web_159000
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9220715/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Radiation therapy is a widely used primary treatment for various cancer types, but its nonspecific nature presents significant challenges, including radioresistance and non-targeted effects. Among these, radiation-induced bystander effects refer to the impact on nonirradiated cells in proximity to irradiated cells, while abscopal effects describe responses in cells distant from the site of irradiation. Both phenomena are mediated by complex intercellular communication. Understanding the molecular signals involved in these processes is crucial for improving radiation risk assessment and developing novel radiotherapy strategies. Recent research highlights the pivotal role of extracellular vesicles, particularly exosomes, in facilitating intercellular communication that contributes to radioresistance and non-targeted effects. This review explores the biology of exosomes, their involvement in intercellular interactions, and their responses to environmental stressors and diseases, with a particular focus on their function as mediators in radiation-induced bystander effects (RIBE).

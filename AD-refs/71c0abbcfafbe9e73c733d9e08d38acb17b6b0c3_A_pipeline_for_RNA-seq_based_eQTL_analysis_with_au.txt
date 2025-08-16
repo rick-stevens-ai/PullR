@@ -1,0 +1,9 @@
+Title: A pipeline for RNA-seq based eQTL analysis with automated quality control procedures
+Authors: Tao Wang, Yongzhuang Liu, Junpeng Ruan, Xianjun Dong, Yadong Wang et al. (and 1 more)
+Year: 2021
+Paper ID: 71c0abbcfafbe9e73c733d9e08d38acb17b6b0c3
+URL: https://www.semanticscholar.org/paper/71c0abbcfafbe9e73c733d9e08d38acb17b6b0c3
+Venue: BMC Bioinformatics
+
+Abstract:
+Advances in the expression quantitative trait loci (eQTL) studies have provided valuable insights into the mechanism of diseases and traits-associated genetic variants. However, it remains challenging to evaluate and control the quality of multi-source heterogeneous eQTL raw data for researchers with limited computational background. There is an urgent need to develop a powerful and user-friendly tool to automatically process the raw datasets in various formats and perform the eQTL mapping afterward. In this work, we present a pipeline for eQTL analysis, termed eQTLQC, featured with automated data preprocessing for both genotype data and gene expression data. Our pipeline provides a set of quality control and normalization approaches, and utilizes automated techniques to reduce manual intervention. We demonstrate the utility and robustness of this pipeline by performing eQTL case studies using multiple independent real-world datasets with RNA-seq data and whole genome sequencing (WGS) based genotype data. eQTLQC provides a reliable computational workflow for eQTL analysis. It provides standard quality control and normalization as well as eQTL mapping procedures for eQTL raw data in multiple formats. The source code, demo data, and instructions are freely available at https://github.com/stormlovetao/eQTLQC.

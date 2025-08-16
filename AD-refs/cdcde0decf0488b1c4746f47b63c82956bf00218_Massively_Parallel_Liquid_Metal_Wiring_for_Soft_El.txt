@@ -1,0 +1,9 @@
+Title: Massively Parallel Liquid Metal Wiring for Soft Electronics and Robotics
+Authors: Kaushal Sumaria, T. Liu
+Year: 2020
+Paper ID: cdcde0decf0488b1c4746f47b63c82956bf00218
+URL: https://www.semanticscholar.org/paper/cdcde0decf0488b1c4746f47b63c82956bf00218
+Venue: IEEE/LEOS International Conference on Optical MEMS
+
+Abstract:
+We report a simple method to wire more than hundreds of microscale electrical components for soft and stretchable electronics by selective batch-patterning of liquid metal (LM) interconnections. Rather than forming independent interconnections in series, such as 3-D printing or traditional microfluidics, our method parallelly disconnects short-circuited LM interconnections to form a circuit. For the first time, we have demonstrated patterning of more than 1000 LM wires in just a few seconds and forming ∼300 isolated electrical connections. Furthermore, our method simplifies LM filling to just one single filling port, replacing hundreds to thousands of filling ports required by existing microfluidic technology for devices with the same scale.

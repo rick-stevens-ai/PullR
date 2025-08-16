@@ -1,0 +1,9 @@
+Title: A new wave of innovations within the DNA damage response
+Authors: Qi Li, Wenyuan Qian, Yang Zhang, Lihong Hu, Shuhui Chen et al. (and 1 more)
+Year: 2023
+Paper ID: e7694f328cba6dcd3ff8d075cb418ffb508dc6fb
+URL: https://www.semanticscholar.org/paper/e7694f328cba6dcd3ff8d075cb418ffb508dc6fb
+Venue: Signal Transduction and Targeted Therapy
+
+Abstract:
+Genome instability has been identified as one of the enabling hallmarks in cancer. DNA damage response (DDR) network is responsible for maintenance of genome integrity in cells. As cancer cells frequently carry DDR gene deficiencies or suffer from replicative stress, targeting DDR processes could induce excessive DNA damages (or unrepaired DNA) that eventually lead to cell death. Poly (ADP-ribose) polymerase (PARP) inhibitors have brought impressive benefit to patients with breast cancer gene (BRCA) mutation or homologous recombination deficiency (HRD), which proves the concept of synthetic lethality in cancer treatment. Moreover, the other two scenarios of DDR inhibitor application, replication stress and combination with chemo- or radio- therapy, are under active clinical exploration. In this review, we revisited the progress of DDR targeting therapy beyond the launched first-generation PARP inhibitors. Next generation PARP1 selective inhibitors, which could maintain the efficacy while mitigating side effects, may diversify the application scenarios of PARP inhibitor in clinic. Albeit with unavoidable on-mechanism toxicities, several small molecules targeting DNA damage checkpoints (gatekeepers) have shown great promise in preliminary clinical results, which may warrant further evaluations. In addition, inhibitors for other DNA repair pathways (caretakers) are also under active preclinical or clinical development. With these progresses and efforts, we envision that a new wave of innovations within DDR has come of age.

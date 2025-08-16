@@ -1,0 +1,12 @@
+Title: From local explanations to global understanding with explainable AI for trees
+Authors: Scott M. Lundberg, G. Erion, Hugh Chen, A. DeGrave, J. Prutkin et al. (and 5 more)
+Year: 2020
+Paper ID: 81600fd653a828d69f6160705be6814dd101beb7
+URL: https://www.semanticscholar.org/paper/81600fd653a828d69f6160705be6814dd101beb7
+Venue: Nature Machine Intelligence
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/81600fd653a828d69f6160705be6814dd101beb7

@@ -1,0 +1,9 @@
+Title: DNA damage and the balance between survival and death in cancer biology
+Authors: W. Roos, Adam D. Thomas, B. Kaina
+Year: 2015
+Paper ID: dc5bdeb72dcebdd0db4c66964db323eabd52ff98
+URL: https://www.semanticscholar.org/paper/dc5bdeb72dcebdd0db4c66964db323eabd52ff98
+Venue: Nature Reviews. Cancer
+
+Abstract:
+DNA is vulnerable to damage resulting from endogenous metabolites, environmental and dietary carcinogens, some anti-inflammatory drugs, and genotoxic cancer therapeutics. Cells respond to DNA damage by activating complex signalling networks that decide cell fate, promoting not only DNA repair and survival but also cell death. The decision between cell survival and death following DNA damage rests on factors that are involved in DNA damage recognition, and DNA repair and damage tolerance, as well as on factors involved in the activation of apoptosis, necrosis, autophagy and senescence. The pathways that dictate cell fate are entwined and have key roles in cancer initiation and progression. Furthermore, they determine the outcome of cancer therapy with genotoxic drugs. Understanding the molecular basis of these pathways is important not only for gaining insight into carcinogenesis, but also in promoting successful cancer therapy. In this Review, we describe key decision-making nodes in the complex interplay between cell survival and death following DNA damage.

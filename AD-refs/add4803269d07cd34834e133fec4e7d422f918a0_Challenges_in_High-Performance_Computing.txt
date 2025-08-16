@@ -1,0 +1,9 @@
+Title: Challenges in High-Performance Computing
+Authors: P. Navaux, A. Lorenzon, M. Serpa
+Year: 2023
+Paper ID: add4803269d07cd34834e133fec4e7d422f918a0
+URL: https://www.semanticscholar.org/paper/add4803269d07cd34834e133fec4e7d422f918a0
+Venue: Journal of the Brazilian Computer Society
+
+Abstract:
+High-Performance Computing, HPC, has become one of the most active computer science fields. Driven mainly by the need for high processing capabilities required by algorithms from many areas, such as Big Data, Artificial Intelligence, Data Science, and subjects related to chemistry, physics, and biology, the state-of-art algorithms from these fields are notoriously demanding computer resources. Therefore, choosing the right computer system to optimize their performance is paramount. This article presents the main challenges of future supercomputer systems, highlighting the areas that demand the most of HPC servers; the new architectures, including heterogeneous processors composed of artificial intelligence chips, quantum processors, the adoption of HPC on cloud servers; and the challenges of software developers when facing parallelizing applications. We also discuss challenges regarding non-functional requirements, such as energy consumption and resilience.

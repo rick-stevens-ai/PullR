@@ -1,0 +1,9 @@
+Title: The Promising Evolution of Targeted Therapeutic Strategies in Cancer.
+Authors: S. Peters, T. Mok, A. Passaro, P. Jänne
+Year: 2021
+Paper ID: f72fcafc5f328d768b18cf7c637a3435f644d92f
+URL: https://www.semanticscholar.org/paper/f72fcafc5f328d768b18cf7c637a3435f644d92f
+Venue: Cancer Discovery
+
+Abstract:
+The upcoming decade of precision medicine for cancer is moving from the translation of specific genetic findings into clinically relevant improvement to the qualitative analyses of the genomic and immune tumor microenvironment, for an integrated treatment strategy in both metastatic and early disease.

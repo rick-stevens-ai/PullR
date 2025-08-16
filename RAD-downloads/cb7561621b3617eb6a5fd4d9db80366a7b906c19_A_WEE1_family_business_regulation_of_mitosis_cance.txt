@@ -1,0 +1,9 @@
+Title: A WEE1 family business: regulation of mitosis, cancer progression, and therapeutic target
+Authors: Andrea Ghelli Luserna di Rorá, C. Cerchione, G. Martinelli, G. Simonetti
+Year: 2020
+Paper ID: cb7561621b3617eb6a5fd4d9db80366a7b906c19
+URL: https://www.semanticscholar.org/paper/cb7561621b3617eb6a5fd4d9db80366a7b906c19
+Venue: Journal of Hematology & Oncology
+
+Abstract:
+The inhibition of the DNA damage response (DDR) pathway in the treatment of cancer has recently gained interest, and different DDR inhibitors have been developed. Among them, the most promising ones target the WEE1 kinase family, which has a crucial role in cell cycle regulation and DNA damage identification and repair in both nonmalignant and cancer cells. This review recapitulates and discusses the most recent findings on the biological function of WEE1/PKMYT1 during the cell cycle and in the DNA damage repair, with a focus on their dual role as tumor suppressors in nonmalignant cells and pseudo-oncogenes in cancer cells. We here report the available data on the molecular and functional alterations of WEE1/PKMYT1 kinases in both hematological and solid tumors. Moreover, we summarize the preclinical information on 36 chemo/radiotherapy agents, and in particular their effect on cell cycle checkpoints and on the cellular WEE1/PKMYT1-dependent response. Finally, this review outlines the most important pre-clinical and clinical data available on the efficacy of WEE1/PKMYT1 inhibitors in monotherapy and in combination with chemo/radiotherapy agents or with other selective inhibitors currently used or under evaluation for the treatment of cancer patients.

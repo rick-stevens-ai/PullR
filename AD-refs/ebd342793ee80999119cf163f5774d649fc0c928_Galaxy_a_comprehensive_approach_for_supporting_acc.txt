@@ -1,0 +1,9 @@
+Title: Galaxy: a comprehensive approach for supporting accessible, reproducible, and transparent computational research in the life sciences
+Authors: Jeremy Goecks, A. Nekrutenko, James Taylor
+Year: 2010
+Paper ID: ebd342793ee80999119cf163f5774d649fc0c928
+URL: https://www.semanticscholar.org/paper/ebd342793ee80999119cf163f5774d649fc0c928
+Venue: Genome Biology
+
+Abstract:
+Increased reliance on computational approaches in the life sciences has revealed grave concerns about how accessible and reproducible computation-reliant results truly are. Galaxy http://usegalaxy.org, an open web-based platform for genomic research, addresses these problems. Galaxy automatically tracks and manages data provenance and provides support for capturing the context and intent of computational methods. Galaxy Pages are interactive, web-based documents that provide users with a medium to communicate a complete computational analysis.

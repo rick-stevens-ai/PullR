@@ -1,0 +1,9 @@
+Title: The Identification of Potent, Selective, and Orally Available Inhibitors of Ataxia Telangiectasia Mutated (ATM) Kinase: The Discovery of AZD0156 (8-{6-[3-(Dimethylamino)propoxy]pyridin-3-yl}-3-methyl-1-(tetrahydro-2 H-pyran-4-yl)-1,3-dihydro-2 H-imidazo[4,5- c]quinolin-2-one).
+Authors: K. Pike, B. Barlaam, E. Cadogan, Andrew Campbell, Yingxue Chen et al. (and 23 more)
+Year: 2018
+Paper ID: bf933d8adc165855e6bda14e7f0f4abc0d7c70af
+URL: https://www.semanticscholar.org/paper/bf933d8adc165855e6bda14e7f0f4abc0d7c70af
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+ATM inhibitors, such as 7, have demonstrated the antitumor potential of ATM inhibition when combined with DNA double-strand break-inducing agents in mouse xenograft models. However, the properties of 7 result in a relatively high predicted clinically efficacious dose. In an attempt to minimize attrition during clinical development, we sought to identify ATM inhibitors with a low predicted clinical dose (<50 mg) and focused on strategies to increase both ATM potency and predicted human pharmacokinetic half-life (predominantly through the increase of volume of distribution). These efforts resulted in the discovery of 64 (AZD0156), an exceptionally potent and selective inhibitor of ATM based on an imidazo[4,5- c]quinolin-2-one core. 64 has good preclinical phamacokinetics, a low predicted clinical dose, and a high maximum absorbable dose. 64 has been shown to potentiate the efficacy of the approved drugs irinotecan and olaparib in disease relevant mouse models and is currently undergoing clinical evaluation with these agents.

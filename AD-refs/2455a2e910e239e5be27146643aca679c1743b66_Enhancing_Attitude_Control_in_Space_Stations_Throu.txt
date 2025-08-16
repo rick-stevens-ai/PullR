@@ -1,0 +1,9 @@
+Title: Enhancing Attitude Control in Space Stations Through Integrated Robotic Systems
+Authors: Murat Bakirci, Abdullah Demiray
+Year: 2024
+Paper ID: 2455a2e910e239e5be27146643aca679c1743b66
+URL: https://www.semanticscholar.org/paper/2455a2e910e239e5be27146643aca679c1743b66
+Venue: 2024 International Russian Automation Conference (RusAutoCon)
+
+Abstract:
+Roboarm platforms have a wide variety of application areas apart from industrial applications. One of the most striking of these applications is the robotic arm systems used in the operations to be carried out in orbiting space stations. The control of these systems, which have an extremely difficult and sensitive operating principle, also requires the same degree of accuracy and consistency. In this study, the dynamics of a robotic arm operating on an unstable frame of reference is investigated. It was assumed that the robotic arm was integrated into an orbiting space station and the mathematical model was developed accordingly. With the numerically examined model, various operation methods were selected and the advantages and disadvantages of each were investigated. In addition, the reaction forces on the platform for each mode of operation were also examined. In this way, it has been investigated under which conditions the robotic arm working on the movable base can be controlled more consistently. The obtained results reveal that it would be beneficial to prefer different behavior control modes according to the type of application in which the robotic arm will be used.

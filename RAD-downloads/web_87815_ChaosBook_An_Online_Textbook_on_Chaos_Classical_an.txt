@@ -1,0 +1,10 @@
+Title: ChaosBook: An Online Textbook on Chaos, Classical and Quantum Dynamics
+Authors: Unknown
+Year: N/A
+Paper ID: web_87815
+URL: http://chaosbook.org/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+ChaosBook is a comprehensive online textbook dedicated to the study of chaos theory, with a particular focus on classical and quantum dynamical systems. Designed as an educational resource for students and researchers, it systematically introduces the fundamental concepts, mathematical frameworks, and applications of chaotic dynamics. The material covers a wide range of topics, including deterministic chaos, periodic orbits, Lyapunov exponents, and the interplay between classical and quantum chaos. Through detailed explanations, illustrative examples, and problem sets, ChaosBook aims to provide a deep understanding of the underlying principles and modern developments in the field of nonlinear dynamics.

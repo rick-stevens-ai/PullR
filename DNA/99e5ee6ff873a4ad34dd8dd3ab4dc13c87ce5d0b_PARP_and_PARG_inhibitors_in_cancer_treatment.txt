@@ -1,0 +1,9 @@
+Title: PARP and PARG inhibitors in cancer treatment.
+Authors: D. Slade
+Year: 2020
+Paper ID: 99e5ee6ff873a4ad34dd8dd3ab4dc13c87ce5d0b
+URL: https://www.semanticscholar.org/paper/99e5ee6ff873a4ad34dd8dd3ab4dc13c87ce5d0b
+Venue: Genes & Development
+
+Abstract:
+Oxidative and replication stress underlie genomic instability of cancer cells. Amplifying genomic instability through radiotherapy and chemotherapy has been a powerful but nonselective means of killing cancer cells. Precision medicine has revolutionized cancer therapy by putting forth the concept of selective targeting of cancer cells. Poly(ADP-ribose) polymerase (PARP) inhibitors represent a successful example of precision medicine as the first drugs targeting DNA damage response to have entered the clinic. PARP inhibitors act through synthetic lethality with mutations in DNA repair genes and were approved for the treatment of BRCA mutated ovarian and breast cancer. PARP inhibitors destabilize replication forks through PARP DNA entrapment and induce cell death through replication stress-induced mitotic catastrophe. Inhibitors of poly(ADP-ribose) glycohydrolase (PARG) exploit and exacerbate replication deficiencies of cancer cells and may complement PARP inhibitors in targeting a broad range of cancer types with different sources of genomic instability. Here I provide an overview of the molecular mechanisms and cellular consequences of PARP and PARG inhibition. I highlight clinical performance of four PARP inhibitors used in cancer therapy (olaparib, rucaparib, niraparib, and talazoparib) and discuss the predictive biomarkers of inhibitor sensitivity, mechanisms of resistance as well as the means of overcoming them through combination therapy.

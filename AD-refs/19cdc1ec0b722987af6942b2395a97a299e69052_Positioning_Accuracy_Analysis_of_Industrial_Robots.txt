@@ -1,0 +1,9 @@
+Title: Positioning Accuracy Analysis of Industrial Robots Based on Non-Probabilistic Time-Dependent Reliability
+Authors: Chen Yang, Wanze Lu, Yuanqing Xia
+Year: 2024
+Paper ID: 19cdc1ec0b722987af6942b2395a97a299e69052
+URL: https://www.semanticscholar.org/paper/19cdc1ec0b722987af6942b2395a97a299e69052
+Venue: IEEE Transactions on Reliability
+
+Abstract:
+A novel method for positioning accuracy analysis based on non-probabilistic time-dependent reliability is proposed for industrial robots with multisource uncertainties. To overcome the limitation of the probabilistic method in analyzing fewer samples, in this article, we consider uncertain parameters as unknown-but-bounded (UBB). The interval transformation matrix of robots and the uncertain position of the end-effectors are accurately estimated using the proposed method based on the Denavit–Hartenberg (D–H) method for forward kinematics of industrial robots. According to the Delaunay triangulation method combined with the interval method, the positioning accuracy analysis method is investigated to accurately estimate the trajectory bounds, which is more suitable for the complex trajectory of the robotic end-effector. A novel reliability method for positioning accuracy based on a non-probabilistic time-dependent model is proposed to analyze the reliability of positional accuracy in industrial robots. The interval process model and the first-passage theory are applied to constitute the non-probabilistic time-dependent reliability with different dimensions and various thresholds, which are more appropriate for the positioning accuracy analysis of industrial robots with lines, curves, and spiral trajectories. The proposed method is verified using two numerical examples compared with the Monte Carlo simulations (MCS).

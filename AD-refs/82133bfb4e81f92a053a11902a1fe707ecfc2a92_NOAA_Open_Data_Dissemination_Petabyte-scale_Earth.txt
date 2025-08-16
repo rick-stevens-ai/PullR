@@ -1,0 +1,9 @@
+Title: NOAA Open Data Dissemination: Petabyte-scale Earth system data in the cloud
+Authors: Denis S. Willett, John Brannock, J. Dissen, Patrick Keown, K. Szura et al. (and 2 more)
+Year: 2023
+Paper ID: 82133bfb4e81f92a053a11902a1fe707ecfc2a92
+URL: https://www.semanticscholar.org/paper/82133bfb4e81f92a053a11902a1fe707ecfc2a92
+Venue: Science Advances
+
+Abstract:
+NOAA Open Data Dissemination (NODD) makes NOAA environmental data publicly and freely available on Amazon Web Services (AWS), Microsoft Azure (Azure), and Google Cloud Platform (GCP). These data can be accessed by anyone with an internet connection and span key datasets across the Earth system including satellite imagery, radar, weather models and observations, ocean databases, and climate data records. Since its inception, NODD has grown to provide public access to more than 24 PB of NOAA data and can support billions of requests and petabytes of access daily. Stakeholders routinely access more than 5 PB of NODD data every month. NODD continues to grow to support open petabyte-scale Earth system data science in the cloud by onboarding additional NOAA data and exploring performant data formats. Here, we document how this program works with a focus on provenance, key datasets, and use. We also highlight how to access these data with the goal of accelerating use of NOAA resources in the cloud.

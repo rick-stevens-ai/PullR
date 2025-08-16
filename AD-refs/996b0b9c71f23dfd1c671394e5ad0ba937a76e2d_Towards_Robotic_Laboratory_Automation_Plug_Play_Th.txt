@@ -1,0 +1,12 @@
+Title: Towards Robotic Laboratory Automation Plug & Play: The "LAPP" Framework
+Authors: Ádám Wolf, David A. Wolton, J. Trapl, Julien Janda, S. Romeder-Finger et al. (and 4 more)
+Year: 2021
+Paper ID: 996b0b9c71f23dfd1c671394e5ad0ba937a76e2d
+URL: https://www.semanticscholar.org/paper/996b0b9c71f23dfd1c671394e5ad0ba937a76e2d
+Venue: SLAS technology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/996b0b9c71f23dfd1c671394e5ad0ba937a76e2d

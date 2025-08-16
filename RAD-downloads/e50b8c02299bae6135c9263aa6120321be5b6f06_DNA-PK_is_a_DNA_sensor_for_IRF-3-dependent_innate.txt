@@ -1,0 +1,9 @@
+Title: DNA-PK is a DNA sensor for IRF-3-dependent innate immunity
+Authors: B. Ferguson, D. Mansur, Nicholas E. Peters, H. Ren, Geoffrey L. Smith
+Year: 2012
+Paper ID: e50b8c02299bae6135c9263aa6120321be5b6f06
+URL: https://www.semanticscholar.org/paper/e50b8c02299bae6135c9263aa6120321be5b6f06
+Venue: eLife
+
+Abstract:
+Innate immunity is the first immunological defence against pathogens. During virus infection detection of nucleic acids is crucial for the inflammatory response. Here we identify DNA-dependent protein kinase (DNA-PK) as a DNA sensor that activates innate immunity. We show that DNA-PK acts as a pattern recognition receptor, binding cytoplasmic DNA and triggering the transcription of type I interferon (IFN), cytokine and chemokine genes in a manner dependent on IFN regulatory factor 3 (IRF-3), TANK-binding kinase 1 (TBK1) and stimulator of interferon genes (STING). Both cells and mice lacking DNA-PKcs show attenuated cytokine responses to both DNA and DNA viruses but not to RNA or RNA virus infection. DNA-PK has well-established functions in the DNA repair and V(D)J recombination, hence loss of DNA-PK leads to severe combined immunodeficiency (SCID). However, we now define a novel anti-microbial function for DNA-PK, a finding with implications for host defence, vaccine development and autoimmunity. DOI: http://dx.doi.org/10.7554/eLife.00047.001

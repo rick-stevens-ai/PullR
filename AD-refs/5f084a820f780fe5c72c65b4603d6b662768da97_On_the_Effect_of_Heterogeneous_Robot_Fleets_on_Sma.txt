@@ -1,0 +1,9 @@
+Title: On the Effect of Heterogeneous Robot Fleets on Smart Warehouses' Order Time, Energy, and Operating Costs
+Authors: George S. Oliveira, J. Carvalho, P. Plentz
+Year: 2022
+Paper ID: 5f084a820f780fe5c72c65b4603d6b662768da97
+URL: https://www.semanticscholar.org/paper/5f084a820f780fe5c72c65b4603d6b662768da97
+Venue: Brazilian Symposium on Computing System Engineering
+
+Abstract:
+Smart warehouses use robots for pick-up and delivery tasks, often within the Robot as a Service business model where robot costs are calculated by the performed tasks or by a monthly lease. Therefore, warehouses do not have to deal with the technical risks of maintaining the fleet of operational robots. However, it is necessary to pay attention to the fleet's energy costs, fulfillment of orders, and synchronization with the warehouse's logistics sector. This work presents the effect of different robot types in fleets operating in a large simulated smart warehouse using a previously designed state-of-the-art algorithm. Results show that investing in heterogeneous fleets does not produce performance from a particular variety of robots and that the effects of the number of robots on order fulfillment time, energy consumption, and operating costs are directly related to the used algorithm.

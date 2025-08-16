@@ -1,0 +1,9 @@
+Title: Nuclear Extracts Lacking DNA-dependent Protein Kinase Are Deficient in Multiple Round Transcription*
+Authors: R. L. Woodard, Mark G. Anderson, W. Dynan
+Year: 1999
+Paper ID: c362645eea81051a0e3d9d040901863f9d07bf11
+URL: https://www.semanticscholar.org/paper/c362645eea81051a0e3d9d040901863f9d07bf11
+Venue: Journal of Biological Chemistry
+
+Abstract:
+We have compared levels of in vitrotranscription in nuclear extracts from DNA-dependent protein kinase (DNA-PK)-deficient and DNA-PK-containing Chinese hamster ovary cell lines. DNA-PK-deficient cell lines are radiosensitive mutants lacking either the catalytic subunit or the 80-kDa subunit of the Ku protein regulatory component. Extracts from DNA-PK-deficient cell lines had a 2–7-fold decrease in the level of in vitro transcription when compared with matched controls. This decrease was observed with several promoters. Transcription could be restored to either of the deficient extracts by addition of small amounts of extract from the DNA-PK-containing cell lines. Transcription was not restored by addition of purified DNA-PK catalytic subunit, Ku protein, or individually purified general transcription factors. We conclude that extracts from DNA-PK-deficient cells lack a positively acting regulatory factor or a complex of factors not readily reconstituted with individual proteins. We have also investigated the mechanistic defect in the deficient extracts and have found that the observed differences in transcription levels between Ku-positive and Ku-negative cell lines can be attributed solely to a greater ability of the Ku-positive nuclear extracts to carry out secondary initiation events subsequent to the first round of transcription.

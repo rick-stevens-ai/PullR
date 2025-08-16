@@ -1,0 +1,10 @@
+Title: Expanding Roles of DNA-Dependent Protein Kinase Catalytic Subunit (DNA-PKcs): Functions Beyond DNA Double-Strand Break Repair
+Authors: Unknown
+Year: N/A
+Paper ID: web_932351
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC10086554/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+DNA-dependent protein kinase catalytic subunit (DNA-PKcs), a member of the phosphatidylinositol 3-kinase-related kinase family, is a well-established mediator of DNA double-strand break repair via the non-homologous end joining pathway. This critical function underpins its essential roles in T and B cell development through V(D)J recombination and class switch recombination, respectively, with defects in these processes leading to severe combined immunodeficiency (SCID). Recent evidence has revealed that DNA-PKcs is not confined to the nucleus but also localizes to the cytoplasm, where it phosphorylates a variety of proteins involved in cellular metabolism and cytokine production. These findings highlight the expanding functional repertoire of DNA-PKcs beyond DNA repair. However, the choice of experimental models is crucial, as differences have been observed between cells with defective DNA-PKcs and those with complete knockout of the protein. Furthermore, the ongoing clinical evaluation of DNA-PK inhibitors to enhance radiotherapy or chemotherapy efficacy must consider the diverse functions and subcellular localizations of DNA-PKcs, which may influence therapeutic outcomes at both the cellular and organismal levels.

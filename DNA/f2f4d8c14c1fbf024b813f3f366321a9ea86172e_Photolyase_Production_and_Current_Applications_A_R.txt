@@ -1,0 +1,9 @@
+Title: Photolyase Production and Current Applications: A Review
+Authors: Diana Ramírez-Gamboa, A. L. Díaz-Zamorano, E. R. Meléndez-Sánchez, Humberto Reyes-Pardo, Karen Rocio Villaseñor-Zepeda et al. (and 8 more)
+Year: 2022
+Paper ID: f2f4d8c14c1fbf024b813f3f366321a9ea86172e
+URL: https://www.semanticscholar.org/paper/f2f4d8c14c1fbf024b813f3f366321a9ea86172e
+Venue: Molecules
+
+Abstract:
+The photolyase family consists of flavoproteins with enzyme activity able to repair ultraviolet light radiation damage by photoreactivation. DNA damage by the formation of a cyclobutane pyrimidine dimer (CPD) and a pyrimidine-pyrimidone (6-4) photoproduct can lead to multiple affections such as cellular apoptosis and mutagenesis that can evolve into skin cancer. The development of integrated applications to prevent the negative effects of prolonged sunlight exposure, usually during outdoor activities, is imperative. This study presents the functions, characteristics, and types of photolyases, their therapeutic and cosmetic applications, and additionally explores some photolyase-producing microorganisms and drug delivery systems.

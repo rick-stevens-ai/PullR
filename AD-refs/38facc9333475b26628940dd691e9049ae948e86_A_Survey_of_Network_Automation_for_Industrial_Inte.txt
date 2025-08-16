@@ -1,0 +1,9 @@
+Title: A Survey of Network Automation for Industrial Internet-of-Things Toward Industry 5.0
+Authors: H. Chi, C. Wu, N. Huang, K. Tsang, A. Radwan
+Year: 2023
+Paper ID: 38facc9333475b26628940dd691e9049ae948e86
+URL: https://www.semanticscholar.org/paper/38facc9333475b26628940dd691e9049ae948e86
+Venue: IEEE Transactions on Industrial Informatics
+
+Abstract:
+Network automation has been bred by the deployment of 5G based Industrial Internet-of-Things (IIoT) in Industry 4.0, and further approaching pervasive AI and human-robot-interaction/-collaboration toward 6G based Industry 5.0. Hitherto, to the best of the authors knowledge, research efforts are still required to provide a comprehensive review of the state-of-the-art network automation technologies for IIoT in 5G based Industry 4.0 and summary of challenges for next-generation network automation regarding the stricter network requirements of 6G based Industry 5.0. Therefore, in this article, we conduct a comprehensive overview of the state-of-the-art network automation technologies, standardizations, and corresponding impact on IIoT of Industry 4.0. We also forecast the next-generation network automation development toward 6G based Industry 5.0. This article provides blueprint of the next-generation network automation, meanwhile conducting comprehensive overview of the SoA network automation technologies in Industry 4.0, which gains high referable value for the researchers in the relative domain.

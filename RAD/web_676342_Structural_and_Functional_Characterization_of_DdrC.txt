@@ -1,0 +1,10 @@
+Title: Structural and Functional Characterization of DdrC: A DNA Damage-Induced Nucleoid-Associated Protein Involved in DNA Compaction in Deinococcus radiodurans
+Authors: Unknown
+Year: N/A
+Paper ID: web_676342
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9303277/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Deinococcus radiodurans is a spherical bacterium renowned for its exceptional resistance to DNA-damaging agents. Exposure to such agents triggers significant changes in the organism's transcriptome, notably the strong up-regulation of four Deinococcus-specific DNA Damage Response genes that contribute to its resistance phenotype. Among these, DdrC is rapidly expressed following γ-radiation exposure and is quickly recruited to the nucleoid. In vitro studies have demonstrated that DdrC can compact circular DNA, circularize linear DNA, anneal complementary DNA strands, and protect DNA from nucleases. To elucidate the functional roles of DdrC in D. radiodurans, we determined the crystal structure of the domain-swapped DdrC dimer at a resolution of 2.5 Å and further investigated its DNA binding and compaction properties. Our results reveal that DdrC possesses two asymmetric DNA binding sites on either side of the dimer and is capable of modulating the topology and compaction level of circular DNA. These findings suggest that DdrC acts as a DNA damage-induced nucleoid-associated protein, enhancing nucleoid compaction to limit genome fragmentation and facilitate DNA repair following severe DNA damage.

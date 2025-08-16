@@ -1,0 +1,9 @@
+Title: Towards Robotic Laboratory Automation Plug & Play: LAPP Pilot Implementation with the mobERT Mobile Manipulator
+Authors: Ádám Wolf, Sascha Beck, Panna Zsoldos, Péter Galambos, K. Széll
+Year: 2024
+Paper ID: 25d5d514898339bd6cf70027393df1a8b8e54b4d
+URL: https://www.semanticscholar.org/paper/25d5d514898339bd6cf70027393df1a8b8e54b4d
+Venue: Symposium on Intelligent Systems and Informatics
+
+Abstract:
+The increasing complexity and diversity of laboratory automation call for more adaptable and integrated solutions. This paper presents a real-life implementation of the Laboratory Automation Plug and Play (LAPP) concept, leveraging the SiLA 2 protocol to enable seamless robotic integration in heterogeneous laboratory environments. We introduce the mobERT mobile manipulator, a collaborative robot system designed to handle standard labware, such as ANSI/SLAS microtiter plates, across multiple workstations. Our approach employs a hierarchical workflow decomposition and a system architecture model to facilitate plug-and-play configuration. We implemented this system using Biosero's GBG scheduler, ensuring scalable and standardized interoperability. The implementation demonstrates the practical application of LAPP in a pharmaceutical laboratory setting, specifically automating the sample preparation workflow for High-performance Liquid Chromatography (HPLC). This work highlights the feasibility of modular, low-level control agnostic solutions in advancing laboratory automation towards higher efficiency and flexibility.

@@ -1,0 +1,14 @@
+Title: Genome-Wide Association Study Meta-Analysis Identifies Genetic Variants Associated with Late Toxicity After Prostate Cancer Radiotherapy
+Authors: Unknown
+Year: N/A
+Paper ID: web_984830
+URL: https://pubmed.ncbi.nlm.nih.gov/31095341/
+Venue: Web Source
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+A significant proportion of patients (10%–20%) experience long-term toxicity following radiotherapy for prostate cancer. Identifying common genetic variants associated with susceptibility to radiotoxicity could enhance risk prediction and inform mechanistic studies. In this study, we performed an individual patient data meta-analysis of six genome-wide association studies, comprising 3,871 men of European ancestry who underwent radiotherapy for prostate cancer. Radiotoxicities—including increased urinary frequency, decreased urinary stream, hematuria, and rectal bleeding—were prospectively graded. Grouped relative risk models were used to assess associations with approximately six million genotyped or imputed variants, focusing on time to first grade 2 or higher toxicity event. Variants with a two-sided meta-analysis P-value less than 5 × 10⁻⁸ were considered statistically significant, and Bayesian false discovery probability was used to further validate findings. Statistically significant variants were subsequently evaluated in three Japanese cohorts (n = 962). 
+
+The meta-analysis identified three genomic signals: rs17055178 associated with rectal bleeding (Pmeta = 6.2 × 10⁻¹⁰), rs10969913 with decreased urinary stream (Pmeta = 2.9 × 10⁻¹⁰), and rs11122573 with hematuria (Pmeta = 1.8 × 10⁻⁸). Fine-scale mapping revealed an additional independent signal, rs147121532, associated with hematuria (Pconditional = 4.7 × 10⁻⁶). Credible causal variants at these loci are located in gene-regulatory regions, with some modulating expression of nearby genes. Previously identified variants also showed consistent associations in new cohorts. Notably, rs10969913 and rs17599026 demonstrated similar effects in photon-treated Japanese cohorts. 
+
+These findings advance the understanding of the genetic architecture underlying radiotoxicity, highlight novel radio-pathogenic mechanisms, and support the development of risk models for clinical testing. Further multinational radiogenomics studies in larger cohorts are recommended to validate and extend these results.

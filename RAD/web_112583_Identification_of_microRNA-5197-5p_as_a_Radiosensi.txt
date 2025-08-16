@@ -1,0 +1,10 @@
+Title: Identification of microRNA-5197-5p as a Radiosensitizing Biomarker in Colorectal Cancer via Genome-Scale CRISPR Knockout Screening
+Authors: Shijun Yu, Li Li, Kailing Fan, Yandong Li, Yong Gao
+Year: 2021
+Paper ID: web_112583
+URL: https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.696713/full
+Venue: Frontiers in Oncology, Section: Gastrointestinal Cancers
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Colorectal cancer (CRC) radioresistance remains a significant challenge in clinical oncology, limiting the efficacy of radiotherapy. In this study, a genome-scale CRISPR knockout (GeCKO v2) library screening combined with next-generation sequencing was employed to systematically identify genes and microRNAs involved in CRC radioresistance. The screen revealed microRNA-5197-5p (miR-5197) as a key factor that enhances radiosensitivity in CRC cells. Functional assays demonstrated that miR-5197 increases the cytotoxic effects of ionizing radiation by targeting and inhibiting cyclin-dependent kinase 6 (CDK6), resulting in cell cycle arrest at the G1/S phase and reduced cell proliferation. These findings were validated through a series of in vitro experiments, including cytotoxicity assays, colony formation, apoptosis analysis, cell cycle profiling, EdU incorporation, qRT-PCR, western blotting, and dual luciferase reporter assays. Collectively, the results suggest that miR-5197 serves as a promising biomarker and potential therapeutic target for overcoming radioresistance in colorectal cancer, offering new avenues to improve radiotherapy outcomes in CRC patients.

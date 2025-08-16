@@ -1,0 +1,22 @@
+Title: Harmonization of measurement results of the alcohol biomarker carbohydrate-deficient transferrin by use of the toolbox of technical procedures of the International Consortium for Harmonization of Clinical Laboratory Results.
+Authors: C. Weykamp, J. Wielders, A. Helander, R. F. Anton, V. Bianchi et al. (and 4 more)
+Year: 2014
+Paper ID: c10c5fd6c0c15cbaad08635cd5e47609484610d6
+URL: https://www.semanticscholar.org/paper/c10c5fd6c0c15cbaad08635cd5e47609484610d6
+Venue: Clinical Chemistry
+
+Abstract:
+BACKGROUND
+The need for equivalent results of routine measurement procedures for the alcohol biomarker carbohydrate-deficient transferrin (CDT) has been recognized by the IFCC. This article describes a project to harmonize CDT as conducted by an IFCC working group initiated for this purpose.
+
+
+METHODS
+We used procedures for achieving harmonization as developed by the Consortium for Harmonization of Clinical Laboratory Results to assess the suitability of a candidate reference measurement procedure (cRMP), candidate reference materials (cRMs), and the success of efforts to achieve harmonization.
+
+
+RESULTS
+CDT measurement procedures in routine use showed good reproducibility (CV 1.1%-2.8%) and linearity (r > 0.990) with variable slopes (0.766-1.065) and intercepts (-0.34 to 0.92) compared to the cRMP. Heterogeneity after simulated harmonization was 4.7%. cRMs of frozen human native sera demonstrated commutability and 3-year stability for routine measurement procedures. The cRMP provided reproducible value assignment to cRMs with an expanded uncertainty (k = 2) of 0.03% at the 1.2% CDT level and 0.06% at the 4.4% CDT level. Harmonization efforts reduced the intermeasurement CV from 8.8% to 3.4%, allowed 99% recovery of the values assigned with the cRMP, and demonstrated 99% of results within the desirable allowable total error. Harmonization was less successful in samples with low CDT and high trisialotransferrin concentrations.
+
+
+CONCLUSIONS
+Harmonization of CDT is possible with frozen human native sera as cRMs with values assigned by use of the cRMP. We propose the cRMP as a candidate international conventional reference measurement procedure and cRMs as candidate international calibrators.

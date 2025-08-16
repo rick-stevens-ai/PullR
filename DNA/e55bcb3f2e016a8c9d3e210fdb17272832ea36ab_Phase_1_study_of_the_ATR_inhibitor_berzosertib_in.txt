@@ -1,0 +1,9 @@
+Title: Phase 1 study of the ATR inhibitor berzosertib in combination with cisplatin in patients with advanced solid tumours
+Authors: G. Shapiro, R. Wesolowski, C. Devoe, S. Lord, Jack Pollard et al. (and 5 more)
+Year: 2021
+Paper ID: e55bcb3f2e016a8c9d3e210fdb17272832ea36ab
+URL: https://www.semanticscholar.org/paper/e55bcb3f2e016a8c9d3e210fdb17272832ea36ab
+Venue: British Journal of Cancer
+
+Abstract:
+Berzosertib (formerly M6620, VX-970) is a highly potent and selective, first-in-class ataxia telangiectasia-mutated and Rad3-related protein kinase (ATR) inhibitor. We assessed the safety, tolerability, pharmacokinetics, and preliminary efficacy of berzosertib plus cisplatin. Adult patients with advanced solid tumours refractory or resistant to standard of care therapies received ascending doses of cisplatin (day 1) and berzosertib (days 2 and 9) every 3 weeks (Q3W). Thirty-one patients received berzosertib (90–210 mg/m2) and cisplatin (40–75 mg/m2) across seven dose levels. The most common grade ≥3 treatment-emergent adverse events were neutropenia (20.0%) and anaemia (16.7%). There were two dose-limiting toxicities: a grade 3 hypersensitivity reaction and a grade 3 increase in alanine aminotransferase. Berzosertib 140 mg/m2 (days 2 and 9) and cisplatin 75 mg/m2 (day 1) Q3W was determined as the recommended Phase 2 dose. Cisplatin had no apparent effect on berzosertib pharmacokinetics. Of the 31 patients, four achieved a partial response (two confirmed and two unconfirmed) despite having previously experienced disease progression following platinum-based chemotherapy. Berzosertib plus cisplatin is well tolerated and shows preliminary clinical activity in patients with advanced solid tumours, warranting further evaluation in a Phase 2 setting. NCT02157792.

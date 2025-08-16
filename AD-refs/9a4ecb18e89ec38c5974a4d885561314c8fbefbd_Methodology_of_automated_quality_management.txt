@@ -1,0 +1,9 @@
+Title: Methodology of automated quality management
+Authors: S. Toibayeva, I. Utepbergenov
+Year: 2024
+Paper ID: 9a4ecb18e89ec38c5974a4d885561314c8fbefbd
+URL: https://www.semanticscholar.org/paper/9a4ecb18e89ec38c5974a4d885561314c8fbefbd
+Venue: Open Engineering
+
+Abstract:
+Abstract This research is devoted to the development of innovative technology for automation of the quality management system (QMS) of enterprises in Kazakhstan and its adaptation to the management system of enterprises. This article deals with quality, as an important strategic tool in business. System effectiveness evaluation of quality management enterprises is of great importance connected with the formation of rational decisions in the management of QMSs, including specificity of quality indicators, multi-level system, the necessity to choose the optimal number of performance indicators, and system status evaluation. The objective and relevance of this research are related to the need to (1) solve the problems of quality management in the digital economy, following from the relevant National programs of the Government of the Republic of Kazakhstan, which are important at this step of in-depth scientific research; (2) guarantee the competitiveness of domestic enterprises with high-quality requirements for products and services; (3) improve the efficiency of automated QMSs; (4) save resources (human and timing) in data processing. The method and model of automated enterprise quality management and intelligent automated system of quality management of enterprise integrated with ruling MICS (Management Information and Control System) subsystems are offered allowing to automate QMS implementation and support processes and increasing the validity, efficiency and effectiveness of management decisions by automating a number of functions of decision makers and personnel.

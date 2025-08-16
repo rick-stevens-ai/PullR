@@ -1,0 +1,9 @@
+Title: Polθ reverse transcribes RNA and promotes RNA-templated DNA repair
+Authors: Gurushankar Chandramouly, Jiemin Zhao, Shane McDevitt, Timur Rusanov, Trung M. Hoang et al. (and 13 more)
+Year: 2021
+Paper ID: 567f17b20cf2b58dfa999de6456d1f225a31a3d8
+URL: https://www.semanticscholar.org/paper/567f17b20cf2b58dfa999de6456d1f225a31a3d8
+Venue: Science Advances
+
+Abstract:
+Polθ reverse transcribes RNA by undergoing a significant conformational change and promotes RNA-templated DNA repair. Genome-embedded ribonucleotides arrest replicative DNA polymerases (Pols) and cause DNA breaks. Whether mammalian DNA repair Pols efficiently use template ribonucleotides and promote RNA-templated DNA repair synthesis remains unknown. We find that human Polθ reverse transcribes RNA, similar to retroviral reverse transcriptases (RTs). Polθ exhibits a significantly higher velocity and fidelity of deoxyribonucleotide incorporation on RNA versus DNA. The 3.2-Å crystal structure of Polθ on a DNA/RNA primer-template with bound deoxyribonucleotide reveals that the enzyme undergoes a major structural transformation within the thumb subdomain to accommodate A-form DNA/RNA and forms multiple hydrogen bonds with template ribose 2′-hydroxyl groups like retroviral RTs. Last, we find that Polθ promotes RNA-templated DNA repair in mammalian cells. These findings suggest that Polθ was selected to accommodate template ribonucleotides during DNA repair.

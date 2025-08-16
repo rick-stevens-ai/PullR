@@ -1,0 +1,9 @@
+Title: Smart Educational Robotics Laboratory Ecosystem for Remote Control of Robotic Manipulators Through Telepresence Technologies
+Authors: S. Kondratyev, V. Pikalov, A. Muravyev, A. Evseev
+Year: 2022
+Paper ID: 5061818d89129228bdb8509f54d20b5b343f1386
+URL: https://www.semanticscholar.org/paper/5061818d89129228bdb8509f54d20b5b343f1386
+Venue: 2022 2nd International Conference on Technology Enhanced Learning in Higher Education (TELE)
+
+Abstract:
+This paper discusses a smart laboratory robotics system designed to allow students remote connection and work with robotic manipulation devices and applications, as well as for teaching and conducting collaborative research projects in the field of electrical engineering and automation. A scheme of connecting all the necessary robotic devices and video cameras to the main server in the laboratory for the possibility of connecting to a remote desktop is presented. The developed solution for remotely connecting students to a physical robotic cell, which is connected to the lab server, is presented. Thanks to the proposed system, it was possible to conduct a debugging of new solutions for the control of robotic manipulation systems on a particular connected technological equipment. A telepresence system with real-time video streaming of physical robotic cell was developed to monitor the behavior of the robotic system remotely in order to understand the process of the connected devices clearly after the solution was uploaded to the robot controller.

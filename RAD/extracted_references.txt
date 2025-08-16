@@ -1,0 +1,69 @@
+1. A new wave of innovations within the DNA damage response. Signal Transduction and Targeted Therapy. 2023.
+2. DNA Repair Network Analysis Reveals Shieldin as a Key Regulator of NHEJ and PARP Inhibitor Sensitivity. Cell. 2018.
+3. Polθ reverse transcribes RNA and promotes RNA-templated DNA repair. Nature Communications. 2021.
+4. Polθ is phosphorylated by PLK1 to repair double-strand breaks in mitosis. Nature. 2023.
+5. Polymerase theta – a promising radiosensitiser for the clinic? ESTRO Newsletter. 2023.
+6. Small Molecules Targeting DNA Polymerase Theta (POLθ) as Therapeutic Agents. International Journal of Molecular Sciences. 2023.
+7. Polθ reverse transcribes RNA and promotes RNA-templated DNA repair. Science Advances. 2021.
+8. 53BP1—DNA repair enters a new liquid phase. Nature Cell Biology. 2019.
+9. FUS-dependent liquid-liquid phase separation is important for DNA repair initiation. Nature Communications. 2021.
+10. The role of RNA and RNA-related proteins in the regulation of DNA repair. DNA Repair. 2020.
+11. Zhang Y, Wang Y, Wang Z. New Faces of Old Friends: Emerging New Roles of RNA-Binding Proteins in the DNA Double-Strand Break Response. Frontiers in Molecular Biosciences. 2021. https://www.frontiersin.org/journals/molecular-biosciences/articles/10.3389/fmolb.2021.668821/full
+12. Belotserkovskii BP, Hanawalt PC. Translocating RNA polymerase generates R-loops at DNA double-strand breaks. Nucleic Acids Research. 2023;51(18):9838-9852. https://academic.oup.com/nar/article/51/18/9838/7252667
+13. Burger K, Schlackow M, Potts M, Hester S, Mohammed S, Gullerova M. MRE11-RAD50-NBS1 Complex Is Sufficient to Promote Transcription by RNA Polymerase II at Double-Strand Breaks by Melting DNA Ends. Molecular Cell. 2021;81(2):387-398.e7. https://pubmed.ncbi.nlm.nih.gov/33406426/
+14. Mohr L, Toufektchan E, von Morgen P, Chu K, Papathanasiou S, Pellman D. Micronuclei induced by radiation, replication stress, or chromosome segregation errors do not activate cGAS-STING. Molecular Cell. 2024. https://www.cell.com/molecular-cell/fulltext/S1097-2765(24)00354-X
+15. Mohr L, Toufektchan E, von Morgen P, Chu K, Papathanasiou S, Pellman D. Micronucleus is not a potent inducer of the cGAS/STING pathway. Life Science Alliance. 2024;7(4):e202302424. https://www.life-science-alliance.org/content/7/4/e202302424
+16. Yamazaki T, Kirchmair A, Sato H, Buquicchio F, Terai H, Petricci E, et al. Mitochondrial DNA drives abscopal responses to radiation that are inhibited by autophagy. Nature Immunology. 2020;21(10):1170-1181. https://www.nature.com/articles/s41590-020-0751-0
+17. Schack LM, McCabe N, Hall E, West CML, Dunning AM, et al. A genome-wide association study of radiotherapy induced toxicity in head and neck cancer patients identifies a susceptibility locus associated with mucositis. British Journal of Cancer. 2021;125(11):1671-1679. https://www.nature.com/articles/s41416-021-01670-w
+18. Wang Y, Zhang Y, Wang Z. Harnessing the cGAS-STING pathway to potentiate radiation therapy. Frontiers in Pharmacology. 2024;15:1383000. https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2024.1383000/full
+19. Wang Y, Zhang Y, Wang Z. Ionizing radiation triggers mitophagy to enhance DNA damage in cancer cells. Cell Death Discovery. 2023;9:373. https://www.nature.com/articles/s41420-023-01573-0
+20. Taguchi K, Yamamoto M. NRF2 preserves genomic integrity by facilitating ATR activation and recruitment to DNA damage sites. Science Signaling. 2020;13(640):eaaz3352. https://pubmed.ncbi.nlm.nih.gov/32729622/
+21. NRF2 promotes radiation resistance by cooperating with TOPBP1 to activate the ATR-CHK1 signaling pathway. Proceedings of the National Academy of Sciences. 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC10758056/
+22. Role of oxidative stress signaling, Nrf2, on survival and stemness. Antioxidants. 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC11429097/
+23. NRF2 mediates cellular resistance to transformation, radiation, and oxidative stress. Antioxidants. 2022;11(9):1649. https://www.mdpi.com/2076-3921/11/9/1649
+24. The tardigrade damage suppressor protein modulates DNA protection and repair. Communications Biology. 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8533384/
+25. The tardigrade Dsup protein enhances radioresistance in human cultured cells. iScience. 2023;26(11):108123. https://www.cell.com/iscience/fulltext/S2589-0042(23)01075-1
+26. The tardigrade damage suppressor protein binds to nucleosomes and protects DNA from hydroxyl radicals. eLife. 2019;8:e47682. https://elifesciences.org/articles/47682
+27. Structural study of the intrinsically disordered tardigrade damage suppressor protein. Scientific Reports. 2024;14:74335. https://www.nature.com/articles/s41598-024-74335-2
+28. The Dsup coordinates grain development and abiotic stress in rice. Plant Physiology and Biochemistry. 2023;205:108695. https://www.sciencedirect.com/science/article/abs/pii/S0981942823006952
+29. Multivalent binding of the tardigrade Dsup protein to chromatin protects DNA from damage. Nucleic Acids Research. 2023;51(15):e88. https://pmc.ncbi.nlm.nih.gov/articles/PMC10402244/
+30. Tardigrade Dsup: Interactions with DNA and protection of cells from DNA damage. bioRxiv. 2024. https://www.biorxiv.org/content/10.1101/2024.11.06.622393v1.full-text
+31. Bouthier de la Tour C, Passot F, Sommer S, Servant P. Structural and functional characterization of DdrC, a novel DNA damage response protein in Deinococcus radiodurans. Nucleic Acids Research. 2022. https://pmc.ncbi.nlm.nih.gov/articles/PMC9303277/
+32. Newly discovered protein stops DNA damage. Phys.org. 2024. https://phys.org/news/2024-08-newly-protein-dna.html
+33. Passot F, Bouthier de la Tour C, Servant P, Sommer S. DdrC, a unique DNA repair factor from Deinococcus radiodurans, senses and protects DNA ends. Nucleic Acids Research. 2024;52(15):9282–9297. https://academic.oup.com/nar/article/52/15/9282/7717837
+34. Blasius M, Sommer S. Comparative genomics of Deinococcus radiodurans. Frontiers in Microbiology. 2024. https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2024.1410024/full
+35. Sage E, Shikazono N. Clustered DNA double-strand break formation and the repair mechanisms. Journal of Radiation Research. 2019;60(1):69–81. https://academic.oup.com/jrr/article/60/1/69/5196526
+36. Wang Y, Wang Y, Wang Y, et al. Genome-wide CRISPR/Cas9 screening identifies CARHSP1 as a regulator of cell proliferation in cancer. Cell Death & Disease. 2021;12:1–13. https://www.nature.com/articles/s41419-021-04000-3
+37. Glazer Lab. Publications. Yale School of Medicine. https://medicine.yale.edu/lab/glazer/pubs/
+38. Wang T, Birsoy K, Hughes NW, et al. Genome-wide CRISPR screen reveals the synthetic lethality of PRMT5 inhibition in MTAP-deficient cells. Proceedings of the National Academy of Sciences. 2024. https://pmc.ncbi.nlm.nih.gov/articles/PMC10844523/
+39. Li J, Wang Y, Zhang Y, et al. A genome-scale CRISPR knock-out screen identifies MicroRNA regulators of cell proliferation in cancer. Frontiers in Oncology. 2021;11:696713. https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.696713/full
+40. Wang T, Yu H, Hughes NW, et al. Genome-scale CRISPR-Cas9 knockout screening in human cells for DNA damage response genes. International Journal of Radiation Oncology, Biology, Physics. 2021;111(2):S36–S37. https://www.sciencedirect.com/science/article/abs/pii/S0360301621020058
+41. Beyond the Target: A Review of Radiation-Induced Bystander Effects. Preprints. 2025. https://www.preprints.org/manuscript/202503.1099/v1
+42. Radiation-Induced Bystander Effect Mediated by Exosomes Involves the Transfer of miRNAs and Proteins. International Journal of Molecular Sciences. 2022;23(8):4169. https://www.mdpi.com/1422-0067/23/8/4169
+43. The Footprint of Exosomes in the Radiation-Induced Bystander Effects. International Journal of Molecular Sciences. 2022;23(13):7225. https://pmc.ncbi.nlm.nih.gov/articles/PMC9220715/
+44. Radiation-Induced Bystander Effect is Mediated by Mitochondrial DNA Damage. Scientific Reports. 2019;9:45669. https://www.nature.com/articles/s41598-019-45669-z
+45. Mediation of Radiation-Induced Bystander Effect and Epigenetic Regulation by Exosomes. Heliyon. 2024;10(4):e14914. https://www.sciencedirect.com/science/article/pii/S2405844024104914
+46. Radiogenomics Consortium Genome-Wide Association Study Meta-Analysis of Late Toxicity After Prostate Cancer Radiotherapy. Journal of the National Cancer Institute. 2019;111(4):352-369. https://pubmed.ncbi.nlm.nih.gov/31095341/
+47. Genome-Wide Association Study of Treatment-Related Toxicity Two Decades After Childhood Cancer. Radiotherapy and Oncology. 2023;186:109344. https://www.sciencedirect.com/science/article/pii/S0167814023003444
+48. Radiogenomics Consortium Genome-Wide Association Study Meta-Analysis of Late Toxicity After Prostate Cancer Radiotherapy. Journal of the National Cancer Institute. 2020;112(2):179-190. https://academic.oup.com/jnci/article/112/2/179/5490201
+49. Meta-GWAS Identifies the Heritability of Acute Radiation-Induced Toxicity in Cancer Patients. Radiotherapy and Oncology. 2022;175:109486. https://www.sciencedirect.com/science/article/pii/S0167814022044863
+50. The Impact of Gut Microbiota on Radiation-Induced Enteritis. Frontiers in Cellular and Infection Microbiology. 2021;11:586392. https://www.frontiersin.org/journals/cellular-and-infection-microbiology/articles/10.3389/fcimb.2021.586392/full
+51. Fibre, microbes and radiotherapy: unravelling the gut's impact on cancer treatment. ESMO Gastroenterology. 2025. https://www.esmogastro.org/article/S2949-8198(25)00043-3/fulltext
+52. Nuclear fragility in radiation-induced senescence: blebs and micronuclei formation. Cells. 2022;11(2):273. https://www.mdpi.com/2073-4409/11/2/273
+53. Cellular senescence: mechanisms and relevance to cancer and aging. Journal of Biochemistry. 2025;177(3):163-175. https://academic.oup.com/jb/article/177/3/163/790299085
+54. cGAS is essential for cellular senescence. Proceedings of the National Academy of Sciences. 2017;114(23):E4612-E4620. https://www.pnas.org/doi/10.1073/pnas.1705499114
+55. Chromoanagenesis from radiation-induced genome damage in human cells. PLOS Genetics. 2021;17(5):e1009735. https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009735
+56. Chromothripsis—explosion in genetic science. Frontiers in Cell and Developmental Biology. 2021;9:684890. https://pmc.ncbi.nlm.nih.gov/articles/PMC8147837/
+57. Chromothripsis-like chromosomal rearrangements induced by ionizing radiation. Oncotarget. 2015;6(11):9173-9187. https://www.oncotarget.com/article/7186/text/
+58. Mutational signatures in tumours induced by high and low energy radiation. Nature Communications. 2020;11:3945. https://www.nature.com/articles/s41467-019-14261-4
+59. DNA-dependent protein kinase catalytic subunit (DNA-PKcs): function, regulation, and therapeutic implications. International Journal of Molecular Sciences. 2023;24(7):6543. https://pmc.ncbi.nlm.nih.gov/articles/PMC10086554/
+60. DNA-PKcs governs LAT-dependent signaling in CD4+ and CD8+ T cells. bioRxiv. 2025. https://www.biorxiv.org/content/10.1101/2025.03.06.641745v1.full.pdf
+61. DNA-PK inhibition sustains the antitumor innate immune response. Cell Reports Medicine. 2025. https://www.sciencedirect.com/science/article/pii/S2589004225002032
+62. Methylation of histone H3 lysine 36 is a barrier for therapeutic response in cancer. bioRxiv. 2023. https://www.biorxiv.org/content/10.1101/2023.11.06.565847v1.full
+63. Di- and tri-methylation of histone H3K36 play distinct roles in DNA repair. Nucleic Acids Research. 2024. https://pubmed.ncbi.nlm.nih.gov/38842635/
+64. Detection of immunogenic cell death and its relevance for cancer therapy. Cell Death & Disease. 2020. https://www.nature.com/articles/s41419-020-03221-2
+65. Immunogenic cell death after combined treatment with radiation and chemotherapy in cancer. International Journal of Radiation Oncology Biology Physics. 2023. https://pubmed.ncbi.nlm.nih.gov/37346039/
+66. Immunogenic cell death induction by ionizing radiation. Frontiers in Immunology. 2021. https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2021.705361/full
+67. Carbon ion radiotherapy triggers immunogenic cell death and enhances antitumor immunity. OncoImmunology. 2022. https://www.tandfonline.com/doi/full/10.1080/2162402X.2022.2057892
+68. Ahmed A, et al. Targeting immunogenic cell death in cancer. Molecular Oncology. 2022. https://febs.onlinelibrary.wiley.com/doi/full/10.1002/1878-0261.12851
+69. Cerezo-Wallis D, et al. Biomarkers of radiotherapy-induced immunogenic cell death. Cancers (Basel). 2021. https://pmc.ncbi.nlm.nih.gov/articles/PMC8073519/

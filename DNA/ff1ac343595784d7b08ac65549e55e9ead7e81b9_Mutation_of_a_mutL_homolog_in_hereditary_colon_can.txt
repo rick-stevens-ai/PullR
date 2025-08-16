@@ -1,0 +1,9 @@
+Title: Mutation of a mutL homolog in hereditary colon cancer.
+Authors: N. Papadopoulos, N. Nicolaides, Y. Wei, S. Ruben, K. Carter et al. (and 15 more)
+Year: 1994
+Paper ID: ff1ac343595784d7b08ac65549e55e9ead7e81b9
+URL: https://www.semanticscholar.org/paper/ff1ac343595784d7b08ac65549e55e9ead7e81b9
+Venue: Science
+
+Abstract:
+Some cases of hereditary nonpolyposis colorectal cancer (HNPCC) are due to alterations in a mutS-related mismatch repair gene. A search of a large database of expressed sequence tags derived from random complementary DNA clones revealed three additional human mismatch repair genes, all related to the bacterial mutL gene. One of these genes (hMLH1) resides on chromosome 3p21, within 1 centimorgan of markers previously linked to cancer susceptibility in HNPCC kindreds. Mutations of hMLH1 that would disrupt the gene product were identified in such kindreds, demonstrating that this gene is responsible for the disease. These results suggest that defects in any of several mismatch repair genes can cause HNPCC.

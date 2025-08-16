@@ -1,0 +1,9 @@
+Title: Online Task Assignment and Coordination in Multi-Robot Fleets
+Authors: Paolo Forte, Anna Mannucci, Henrik Andreasson, F. Pecora
+Year: 2021
+Paper ID: 1d71390203d8189d8057f018f5eb59d703340650
+URL: https://www.semanticscholar.org/paper/1d71390203d8189d8057f018f5eb59d703340650
+Venue: IEEE Robotics and Automation Letters
+
+Abstract:
+We propose a loosely-coupled framework for integrated task assignment, motion planning, coordination and control of heterogeneous fleets of robots subject to non-cooperative tasks. The approach accounts for the important real-world requirement that tasks can be posted asynchronously. We exploit systematic search for optimal task assignment, where interference is considered as a cost and estimated with knowledge of the kinodynamic models and current state of the robots. Safety is guaranteed by an online coordination algorithm, where the absence of collisions is treated as a hard constraint. The relation between the weight of interference cost in task assignment and computational overhead is analyzed empirically, and the approach is compared against alternative realizations using local search algorithms for task assignment.

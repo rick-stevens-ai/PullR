@@ -1,0 +1,9 @@
+Title: Understanding Patient Information Needs About Their Clinical Laboratory Results: A Study of Social Q&A Site
+Authors: Zhan Zhang, Yu Lu, Yubo Kou, Danny T. Y. Wu, Jina Huh-Yoo et al. (and 1 more)
+Year: 2019
+Paper ID: 8bf6a25a8dabb6c1d49b0aacca192f2f551f767f
+URL: https://www.semanticscholar.org/paper/8bf6a25a8dabb6c1d49b0aacca192f2f551f767f
+Venue: Medinfo
+
+Abstract:
+Clinical data, such as laboratory test results, is increasingly being made available to patients through patient portals. However, patients often have difficulties understanding and acting upon the clinical data presented in portals. As such, many turn to online resources to fill their knowledge gaps and obtain actionable advice. In this work, we present a content analysis of the questions posted in a major social Q&A site to characterize lay people's general information needs concerning laboratory test results and to inform the design of patient portals for supporting patients' understanding of clinical data. We identified 15 information needs related to laboratory test results, and clustered them under four themes: understanding the results of lab test, interpreting doctor's diagnosis, learning about lab tests, and consulting the next steps. We draw on our findings to discuss design opportunities for supporting the understanding of laboratory results.

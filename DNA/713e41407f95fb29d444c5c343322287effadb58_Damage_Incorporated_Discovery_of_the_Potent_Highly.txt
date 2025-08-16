@@ -1,0 +1,9 @@
+Title: Damage Incorporated: Discovery of the Potent, Highly Selective, Orally Available ATR Inhibitor BAY 1895344 with Favorable Pharmacokinetic Properties and Promising Efficacy in Monotherapy and in Combination Treatments in Preclinical Tumor Models.
+Authors: U. Luecking, L. Wortmann, A. Wengner, J. Lefranc, P. Lienau et al. (and 18 more)
+Year: 2020
+Paper ID: 713e41407f95fb29d444c5c343322287effadb58
+URL: https://www.semanticscholar.org/paper/713e41407f95fb29d444c5c343322287effadb58
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+The ATR kinase plays a key role in the DNA damage response by activating essential signaling pathways of DNA damage repair, especially in response to replication stress. Since DNA damage and replication stress are major sources of genomic instability, selective ATR inhibition has been recognized as a promising new approach in cancer therapy. We now report the identification and preclinical evaluation of the novel, clinical ATR inhibitor BAY 1895344. Starting from quinoline 2 with weak ATR inhibitory activity, lead optimization efforts focusing on potency, selectivity, and oral bioavailability led to the discovery of the potent, highly selective, orally available ATR inhibitor BAY 1895344, which exhibited strong monotherapy efficacy in cancer xenograft models that carry certain DNA damage repair deficiencies. Moreover, combination treatment of BAY 1895344 with certain DNA damage inducing chemotherapy resulted in synergistic antitumor activity. BAY 1895344 is currently under clinical investigation in patients with advanced solid tumors and lymphomas (NCT03188965).

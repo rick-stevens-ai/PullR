@@ -1,0 +1,9 @@
+Title: A Novel Faster Fixed-Time Adaptive Control for Robotic Systems With Input Saturation
+Authors: Zhuangyu Liu, Yue Zhao, Ouyang Zhang, Weiliang Chen, Jiahui Wang et al. (and 2 more)
+Year: 2024
+Paper ID: 260cd12d69dd3b5ca941502e0ce78b3b2019e49d
+URL: https://www.semanticscholar.org/paper/260cd12d69dd3b5ca941502e0ce78b3b2019e49d
+Venue: IEEE transactions on industrial electronics (1982. Print)
+
+Abstract:
+In this article, an adaptive antisaturation fixed-time control method with a faster convergence rate is studied for uncertain robotic systems. First, a new segmental sliding variable is constructed to solve the singularity problem brought by the terminal sliding mode control (TSMC) and achieve a faster convergence rate. Second, to approximate and compensate for the model uncertainty and the viscous friction parameter, an adaptive neural network (ANN) is employed. Then, a novel auxiliary system is constructed to mitigate the effects of input saturation. Based on this, a novel nonsingular TSMC algorithm integrated with the ANN and the auxiliary system is designed, so that the trajectory tracking errors of the robotic system can converge within a faster fixed time with actuator saturation. Finally, the superiority and practicability of the present method are verified by comparative experiments.

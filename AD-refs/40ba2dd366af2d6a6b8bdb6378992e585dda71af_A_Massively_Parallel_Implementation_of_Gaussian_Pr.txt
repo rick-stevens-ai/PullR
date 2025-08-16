@@ -1,0 +1,9 @@
+Title: A Massively Parallel Implementation of Gaussian Process Regression for Real Time Bathymetric Modeling and Simultaneous Localization and Mapping
+Authors: K. Krasnosky, C. Roman
+Year: 2022
+Paper ID: 40ba2dd366af2d6a6b8bdb6378992e585dda71af
+URL: https://www.semanticscholar.org/paper/40ba2dd366af2d6a6b8bdb6378992e585dda71af
+Venue: Field Robotics
+
+Abstract:
+A Gaussian process regression (GPR) can be used as a stochastic method for modeling underwater terrain using multibeam sonar data. A GPR model can improve the effective resolution of a terrain model over traditional gridding methods and quantify uncertainty with an estimate of model variance over its entire domain. However, GPR solutions are extremely computationally expensive and generally reserved for post-processing applications. To make GPR viable for real-time applications, we developed massively parallel GPR (MP-GPR) to run on a graphical processing unit (GPU). MP-GPR is first used to process real-time multibeam data when assuming accurate navigation from a high precision position, heading, and attitude source. In underwater environments, however, we are denied the luxury of high precision position sensors and typically rely on dead reckoning. Therefore, MP-GPR was used as a terrain model for a featureless, Rao-Blackwellized particle filter based, bathymetric particle-filter simultaneous localization and mapping (BPSLAM) algorithm. Our GPU-based extension of BPSLAM (GP-BPSLAM) estimates many possible vehicle trajectories and MP-GPR predicts a possible map for each. By comparing the recent multibeam observations against the model for each possible trajectory, unlikely trajectories can be identified and removed. GP-BPSLAM is able to process data in real time and generate a navigation solution that is more accurate than simple dead reckoning.

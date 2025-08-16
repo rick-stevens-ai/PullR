@@ -1,0 +1,9 @@
+Title: A region‐resolved proteomic map of the human brain enabled by high‐throughput proteomics
+Authors: Johanna Tüshaus, A. Sakhteman, Severin Lechner, Matthew The, E. Mucha et al. (and 4 more)
+Year: 2023
+Paper ID: 5f6b47dab5423df303a9ec962ff05dc734c526cc
+URL: https://www.semanticscholar.org/paper/5f6b47dab5423df303a9ec962ff05dc734c526cc
+Venue: bioRxiv
+
+Abstract:
+Substantial efforts are underway that aim to deepen our understanding of human brain morphology, structure and function using high-resolution imaging as well has high-content molecular profiling technologies. The current work adds to these efforts by providing a comprehensive and quantitative protein expression map of 13 anatomically distinct brain regions covering more than 10,000 proteins. This was enabled by the optimization, characterization and implementation of a high-sensitivity and high-throughput micro-flow liquid chromatography timsTOF tandem mass spectrometry system (LC-MS/MS) capable of analyzing >2,000 consecutive samples prepared from formalin fixed paraffin embedded (FFPE) material. Analysis of this proteomic resource highlighted e.g. brain region-enriched protein expression patterns and functional protein classes, protein localization differences between brain regions and individual protein markers for specific brain regions. To facilitate access to and ease further mining of the data by the scientific community, all data can be explored online in a purpose-built Shiny App (https://brain-region-atlas.proteomics.ls.tum.de).

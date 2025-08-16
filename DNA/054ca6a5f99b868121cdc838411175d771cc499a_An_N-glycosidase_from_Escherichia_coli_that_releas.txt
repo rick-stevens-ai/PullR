@@ -1,0 +1,9 @@
+Title: An N-glycosidase from Escherichia coli that releases free uracil from DNA containing deaminated cytosine residues.
+Authors: T. Lindahl
+Year: 1974
+Paper ID: 054ca6a5f99b868121cdc838411175d771cc499a
+URL: https://www.semanticscholar.org/paper/054ca6a5f99b868121cdc838411175d771cc499a
+Venue: Proceedings of the National Academy of Sciences of the United States of America
+
+Abstract:
+An enzyme that liberates uracil from single-stranded and double-stranded DNA containing deaminated cytosine residues and from deoxycytidylate-deoxyuridylate copolymers in the absence of Mg(++) has been purified 30-fold from cell extracts of E. coli. The enzyme does not release uracil from deoxyuridine, dUMP, uridine, or RNA, nor does it liberate the normally occurring pyrimidine bases, cytosine and thymine, from DNA. The enzymatic cleavage of N-glycosidic bonds in DNA occurs without concomitant cleavage of phosphodiester bonds, resulting in the formation of free uracil and DNA strands of unaltered chain length that contain apyrimidinic sites as reaction products. The enzyme may be active in DNA repair, converting deaminated dCMP residues to an easily repairable form.

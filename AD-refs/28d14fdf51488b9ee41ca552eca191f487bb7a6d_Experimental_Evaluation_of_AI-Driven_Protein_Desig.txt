@@ -1,0 +1,12 @@
+Title: Experimental Evaluation of AI-Driven Protein Design Risks Using Safe Biological Proxies
+Authors: Svetlana P. Ikonomova, Bruce J. Wittmann, Fernanda Piorino, David J. Ross, Samuel W. Schaffter et al. (and 6 more)
+Year: 2025
+Paper ID: 28d14fdf51488b9ee41ca552eca191f487bb7a6d
+URL: https://www.semanticscholar.org/paper/28d14fdf51488b9ee41ca552eca191f487bb7a6d
+Venue: bioRxiv
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/28d14fdf51488b9ee41ca552eca191f487bb7a6d

@@ -1,0 +1,9 @@
+Title: Highly excited molecular spectra. Progress report, January 1, 1992--December 31, 1992
+Authors: M. E. Kellman
+Year: 1992
+Paper ID: a73be9f6ea6a15030ca458bad6c583c1d1b904cd
+URL: https://www.semanticscholar.org/paper/a73be9f6ea6a15030ca458bad6c583c1d1b904cd
+Venue: 
+
+Abstract:
+Goal is to devise new methods to analyze spectra and dynamics of highly excited vibrational states of molecules. Strong mode coupling and anharmonicity give rise to complicated classical dynamics, making the simple normal mode analysis unsatisfactory. New methods of spectral analysis, pattern recognition, and assignment are sought using techniques of nonlinear dynamics including bifurcation theory, phase space classification, and quantization of phase space structures. Emphasis in the past year has been chaotic systems and systems with many degrees of freedom.

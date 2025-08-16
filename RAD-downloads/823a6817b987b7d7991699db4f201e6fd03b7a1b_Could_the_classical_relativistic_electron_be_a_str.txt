@@ -1,0 +1,19 @@
+Title: Could the classical relativistic electron be a strange attractor
+Authors: L. Horwitz, N. Katz, O. Oron
+Year: 2004
+Paper ID: 823a6817b987b7d7991699db4f201e6fd03b7a1b
+URL: https://www.semanticscholar.org/paper/823a6817b987b7d7991699db4f201e6fd03b7a1b
+Venue: 
+
+Abstract:
+We review the formulation of the problem of the electromagnetic
+self-interaction of a relativistic charged particle in the
+framework of the manifestly covariant classical mechanics of
+Stueckelberg, Horwitz, and Piron. The gauge fields of this theory,
+in general, cause the mass of the particle to change. We show
+that the nonlinear Lorentz force equation for the
+self-interaction resulting from the expansion of Green's function
+has chaotic solutions. We study the autonomous equation for the
+off-shell particle mass here, for which the effective charged
+particle mass achieves a macroscopic average value determined by
+what appears to be a strange attractor.

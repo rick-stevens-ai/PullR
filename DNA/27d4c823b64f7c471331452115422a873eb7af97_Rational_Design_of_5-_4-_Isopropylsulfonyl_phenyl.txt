@@ -1,0 +1,9 @@
+Title: Rational Design of 5-(4-(Isopropylsulfonyl)phenyl)-3-(3-(4-((methylamino)methyl)phenyl)isoxazol-5-yl)pyrazin-2-amine (VX-970, M6620): Optimization of Intra- and Intermolecular Polar Interactions of a New Ataxia Telangiectasia Mutated and Rad3-Related (ATR) Kinase Inhibitor.
+Authors: Ronald M. A. Knegtel, J. Charrier, S. Durrant, C. Davis, Michael O'donnell et al. (and 12 more)
+Year: 2019
+Paper ID: 27d4c823b64f7c471331452115422a873eb7af97
+URL: https://www.semanticscholar.org/paper/27d4c823b64f7c471331452115422a873eb7af97
+Venue: Journal of Medicinal Chemistry
+
+Abstract:
+The DNA damage response (DDR) is a DNA damage surveillance and repair mechanism that can limit the effectiveness of radiotherapy and DNA-damaging chemotherapy, commonly used treatment modalities in cancer. Two related kinases, ataxia telangiectasia mutated (ATM) and ATM and Rad3-related kinase (ATR), work together as apical proteins in the DDR to maintain genome stability and cell survival in the face of potentially lethal forms of DNA damage. However, compromised ATM signaling is a common characteristic of tumor cells, which places greater reliance on ATR to mediate the DDR. In such circumstances, ATR inhibition has been shown to enhance the toxicity of DNA damaging chemotherapy to many cancer cells in multiple preclinical studies, while healthy tissue with functional ATM can tolerate ATR inhibition. ATR therefore represents a very attractive anticancer target. Herein we describe the discovery of VX-970/M6620, the first ATR inhibitor to enter clinical studies, which is based on a 2-aminopyrazine core first reported by Charrier ( J. Med. Chem. 2011 , 54 , 2320 - 2330 , DOI: 10.1021/jm101488z ).

@@ -1,0 +1,9 @@
+Title: Combining DNA damaging therapeutics with immunotherapy: more haste, less speed
+Authors: Jessica Brown, R. Sundar, Juanita Lopez
+Year: 2017
+Paper ID: 4a80cadc310768f1dc2da605495c9e18eecc8e48
+URL: https://www.semanticscholar.org/paper/4a80cadc310768f1dc2da605495c9e18eecc8e48
+Venue: British Journal of Cancer
+
+Abstract:
+The idea that chemotherapy can be used in combination with immunotherapy may seem somewhat counterproductive, as it can theoretically eliminate the immune cells needed for antitumour immunity. However, much preclinical work has now demonstrated that in addition to direct cytotoxic effects on cancer cells, a proportion of DNA damaging agents may actually promote immunogenic cell death, alter the inflammatory milieu of the tumour microenvironment and/or stimulate neoantigen production, thereby activating an antitumour immune response. Some notable combinations have now moved forward into the clinic, showing promise in phase I–III trials, whereas others have proven toxic, and challenging to deliver. In this review, we discuss the emerging data of how DNA damaging agents can enhance the immunogenic properties of malignant cells, focussing especially on immunogenic cell death, and the expansion of neoantigen repertoires. We discuss how best to strategically combine DNA damaging therapeutics with immunotherapy, and the challenges of successfully delivering these combination regimens to patients. With an overwhelming number of chemotherapy/immunotherapy combination trials in process, clear hypothesis-driven trials are needed to refine the choice of combinations, and determine the timing and sequencing of agents in order to stimulate antitumour immunological memory and improve maintained durable response rates, with minimal toxicity.

@@ -1,0 +1,24 @@
+Title: Increasing the value of quality management systems
+Authors: Ida Gremyr, Jan Lenning, Mattias Elg, Jason M. Martin
+Year: 2021
+Paper ID: c369101adfed9b388bb4e48caeafd273f1d3dd90
+URL: https://www.semanticscholar.org/paper/c369101adfed9b388bb4e48caeafd273f1d3dd90
+Venue: International Journal of Quality and Service Sciences
+
+Abstract:
+
+Purpose
+Over one million organisations have a quality management system (QMS) certified to the ISO 9001 standard; however, the system requires a lot of resources and its value has been questioned. This critique also leads to a questioning of the strategic relevance of quality management. The purpose of this paper is to explore how different types of uses of QMS correlate with management perceptions of quality management in terms of respect, cost and strategic importance.
+
+
+Design/methodology/approach
+The paper is based on a mixed method data collection strategy, quantitative data being collected from a survey in 8 organisations (n = 108) and qualitative data being collected from 12 interviews with quality managers in 12 different organisations.
+
+
+Findings
+The paper shows that a compliance-oriented QMS usage will more likely lead to a view of quality management as costly and of little respect, than a business or improvement-oriented QMS usage. Moreover, it nuances the view on compliance-oriented usage, showing that it is mainly documentation that negatively influences how management views quality management, whereas standardisation that is part of the compliance-oriented use is perceived as more value-adding.
+
+
+Originality/value
+This paper suggests three types of QMS use, namely, business management, improvement, and compliance-oriented use, and that a wise selection of how to use the QMS will affect the respect, strategic importance and cost that management associates with quality management.
+

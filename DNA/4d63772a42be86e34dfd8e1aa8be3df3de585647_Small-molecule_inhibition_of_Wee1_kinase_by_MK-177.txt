@@ -1,0 +1,12 @@
+Title: Small-molecule inhibition of Wee1 kinase by MK-1775 selectively sensitizes p53-deficient tumor cells to DNA-damaging agents
+Authors: H. Hirai, Y. Iwasawa, Megumu Okada, T. Arai, T. Nishibata et al. (and 18 more)
+Year: 2009
+Paper ID: 4d63772a42be86e34dfd8e1aa8be3df3de585647
+URL: https://www.semanticscholar.org/paper/4d63772a42be86e34dfd8e1aa8be3df3de585647
+Venue: Molecular Cancer Therapeutics
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/4d63772a42be86e34dfd8e1aa8be3df3de585647

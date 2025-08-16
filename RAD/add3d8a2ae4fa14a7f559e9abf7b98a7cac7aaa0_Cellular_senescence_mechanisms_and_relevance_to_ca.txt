@@ -1,0 +1,9 @@
+Title: Cellular senescence: mechanisms and relevance to cancer and aging
+Authors: S. Yamauchi, Akiko Takahashi
+Year: 2024
+Paper ID: add3d8a2ae4fa14a7f559e9abf7b98a7cac7aaa0
+URL: https://www.semanticscholar.org/paper/add3d8a2ae4fa14a7f559e9abf7b98a7cac7aaa0
+Venue: Journal of Biochemistry (Tokyo)
+
+Abstract:
+Abstract Cellular senescence is an irreversible cell cycle arrest induced by stresses such as telomere shortening and oncogene activation. It acts as a tumor suppressor mechanism that prevents the proliferation of potentially tumorigenic cells. Paradoxically, senescent stromal cells that arise in the tumor microenvironment have been shown to promote tumor progression. In addition, senescent cells that accumulate in vivo over time are thought to contribute to aging and age-related diseases. These deleterious effects of senescent cells involve the secretion of bioactive molecules such as inflammatory cytokines and chemokines, a phenomenon known as the senescence-associated secretory phenotype. While the role of cellular senescence in vivo is becoming increasingly clear, the intracellular signaling pathways that induce the expression of senescent phenotypes are not fully understood. In this review, we outline senescence-associated signaling pathways and their relevance to cancer and aging.

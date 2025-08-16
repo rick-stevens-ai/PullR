@@ -1,0 +1,9 @@
+Title: CCNE1 amplification is synthetic lethal with PKMYT1 kinase inhibition
+Authors: D. Gallo, Jordan T. F. Young, Jimmy Fourtounis, Giovanni Martino, Alejandro Álvarez-Quilón et al. (and 31 more)
+Year: 2021
+Paper ID: 34c2fac3cb76b349f42eabc0097abc22c5bf42da
+URL: https://www.semanticscholar.org/paper/34c2fac3cb76b349f42eabc0097abc22c5bf42da
+Venue: Nature
+
+Abstract:
+Amplification of the CCNE1 locus on chromosome 19q12 is prevalent in multiple tumour types, particularly in high-grade serous ovarian cancer, uterine tumours and gastro-oesophageal cancers, where high cyclin E levels are associated with genome instability, whole-genome doubling and resistance to cytotoxic and targeted therapies1–4. To uncover therapeutic targets for tumours with CCNE1 amplification, we undertook genome-scale CRISPR–Cas9-based synthetic lethality screens in cellular models of CCNE1 amplification. Here we report that increasing CCNE1 dosage engenders a vulnerability to the inhibition of the PKMYT1 kinase, a negative regulator of CDK1. To inhibit PKMYT1, we developed RP-6306, an orally bioavailable and selective inhibitor that shows single-agent activity and durable tumour regressions when combined with gemcitabine in models of CCNE1 amplification. RP-6306 treatment causes unscheduled activation of CDK1 selectively in CCNE1-overexpressing cells, promoting early mitosis in cells undergoing DNA synthesis. CCNE1 overexpression disrupts CDK1 homeostasis at least in part through an early activation of the MMB–FOXM1 mitotic transcriptional program. We conclude that PKMYT1 inhibition is a promising therapeutic strategy for CCNE1-amplified cancers. Genome-scale CRISPR–Cas9-based synthetic lethality screens identify PKMYT1 as a potential therapeutic target in tumours with CCNE1 amplification.

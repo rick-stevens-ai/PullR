@@ -1,0 +1,9 @@
+Title: Optical multiplexed bioassays on photonic crystals for breast cancer biomarker detection
+Authors: Tommaso Pileri, A. Sinibaldi, A. Occhicone, E. Giordani, M. Allegretti et al. (and 5 more)
+Year: 2021
+Paper ID: 95d2e1472a9b6ff1108d0dc17acdc77766a2a30f
+URL: https://www.semanticscholar.org/paper/95d2e1472a9b6ff1108d0dc17acdc77766a2a30f
+Venue: EPJ Web of Conferences
+
+Abstract:
+An optical biosensor for proteomic breast cancer biomarker detection in complex media is presented. Bloch Surface Waves (BSW) excited onto one dimensional photonic crystal (1DPC) were used to probe the interaction of HER2 with three antibody species and an inert protein (Bovine Serum Albumin - BSA). The optical system combines Label-Free readings to track the bioassay real-time development and Fluorescence emission quantification to evaluate the level of specific interaction between the antigen and the antibodies. The results confirm a distinguishable level of affinity between the antibodies and the analyte according to their specificity even at low antibody surface density (about 1173 pg/mm2).

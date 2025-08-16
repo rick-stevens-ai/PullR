@@ -1,0 +1,9 @@
+Title: A Comprehensive Survey on Fault Tolerance in Multiphase AC Drives, Part 1: General Overview Considering Multiple Fault Types
+Authors: Alejandro G. Yepes, Óscar López Sánchez, I. González‐Prieto, M. Durán, J. Doval‐Gandoy
+Year: 2022
+Paper ID: b2a778421c8fb25303021810f83c8112c4e836a2
+URL: https://www.semanticscholar.org/paper/b2a778421c8fb25303021810f83c8112c4e836a2
+Venue: Machines
+
+Abstract:
+Multiphase drives offer enhanced fault-tolerant capabilities compared with conventional three-phase ones. Their phase redundancy makes them able to continue running in the event of faults (e.g., open/short-circuits) in certain phases. Moreover, their greater number of degrees of freedom permits improving diagnosis and performance, not only under faults affecting individual phases, but also under those affecting the machine/drive as a whole. That is the case of failures in the dc link, resolver/encoder, control unit, cooling system, etc. Accordingly, multiphase drives are becoming remarkable contenders for applications where high reliability is required, such as electric vehicles and standalone/off-shore generation. Actually, the literature on the subject has grown exponentially in recent years. Various review papers have been published, but none of them currently cover the state-of-the-art in a comprehensive and up-to-date fashion. This two-part paper presents an overview concerning fault tolerance in multiphase drives. Hundreds of citations are classified and critically discussed. Although the emphasis is put on fault tolerance, fault detection/diagnosis is also considered to some extent, because of its importance in fault-tolerant drives. The most important recent advances, emerging trends and open challenges are also identified. Part 1 provides a comprehensive survey considering numerous kinds of faults, whereas Part 2 is focused on phase/switch open-circuit failures.

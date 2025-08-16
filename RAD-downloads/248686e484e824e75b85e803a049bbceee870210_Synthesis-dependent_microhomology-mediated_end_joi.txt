@@ -1,0 +1,9 @@
+Title: Synthesis-dependent microhomology-mediated end joining accounts for multiple types of repair junctions
+Authors: A. M. Yu, M. McVey
+Year: 2010
+Paper ID: 248686e484e824e75b85e803a049bbceee870210
+URL: https://www.semanticscholar.org/paper/248686e484e824e75b85e803a049bbceee870210
+Venue: Nucleic Acids Research
+
+Abstract:
+Ku or DNA ligase 4-independent alternative end joining (alt-EJ) repair of DNA double-strand breaks (DSBs) frequently correlates with increased junctional microhomology. However, alt-EJ also produces junctions without microhomology (apparent blunt joins), and the exact role of microhomology in both alt-EJ and classical non-homologous end joining (NHEJ) remains unclear. To better understand the degree to which alt-EJ depends on annealing at pre-existing microhomologies, we examined inaccurate repair of an I-SceI DSB lacking nearby microhomologies of greater than four nucleotides in Drosophila. Lig4 deficiency affected neither frequency nor length of junctional microhomology, but significantly increased insertion frequency. Many insertions appeared to be templated. Based on sequence analysis of repair junctions, we propose a model of synthesis-dependent microhomology-mediated end joining (SD-MMEJ), in which de novo synthesis by an accurate non-processive DNA polymerase creates microhomology. Repair junctions with apparent blunt joins, junctional microhomologies and short indels (deletion with insertion) are often considered to reflect different repair mechanisms. However, a majority of each type had structures consistent with the predictions of our SD-MMEJ model. This suggests that a single underlying mechanism could be responsible for all three repair product types. Genetic analysis indicates that SD-MMEJ is Ku70, Lig4 and Rad51-independent but impaired in mus308 (POLQ) mutants.

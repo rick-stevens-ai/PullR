@@ -1,0 +1,12 @@
+Title: The MaxQuant computational platform for mass spectrometry-based shotgun proteomics
+Authors: Stefka Tyanova, Tikira Temu, Jüergen Cox
+Year: 2016
+Paper ID: a1b64f052890df27862aa82b166321bfab60c737
+URL: https://www.semanticscholar.org/paper/a1b64f052890df27862aa82b166321bfab60c737
+Venue: Nature Protocols
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/a1b64f052890df27862aa82b166321bfab60c737

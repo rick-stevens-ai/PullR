@@ -1,0 +1,22 @@
+Title: Dose Escalation Trial of the Wee1 Inhibitor Adavosertib (AZD1775) in Combination With Gemcitabine and Radiation for Patients With Locally Advanced Pancreatic Cancer.
+Authors: K. Cuneo, M. Morgan, V. Sahai, M. Schipper, L. A. Parsels et al. (and 8 more)
+Year: 2019
+Paper ID: 99508153a2a69fc6f682d3c584d4fdacc9becb4b
+URL: https://www.semanticscholar.org/paper/99508153a2a69fc6f682d3c584d4fdacc9becb4b
+Venue: Journal of Clinical Oncology
+
+Abstract:
+PURPOSE
+AZD1775 (adavosertib) is an inhibitor of the Wee1 kinase. In this study, we built on our preclinical studies to evaluate the safety and efficacy of AZD1775 in combination with gemcitabine and radiation in patients with newly diagnosed locally advanced pancreatic cancer.
+
+
+PATIENTS AND METHODS
+Thirty-four patients with locally advanced pancreatic cancer were enrolled with the intention to receive four 21-day cycles of gemcitabine (1,000 mg/m2 days 1 and 8) with AZD1775 (once daily on days 1, 2, 8, and 9). Cycles 2 and 3 were administered concurrently with radiation, and cycles 5 to 8 were optional. AZD1775 was dose escalated using a time-to-event continual reassessment method on the basis of the rate of dose-limiting toxicities within the first 15 weeks of therapy. The primary objective was to determine the maximum tolerated dose of AZD1775 given in conjunction with gemcitabine and radiation. Secondary objectives were to estimate overall and progression-free survival and determine pharmacodynamic activity of AZD1775 in surrogate tissues.
+
+
+RESULTS
+The recommended phase II dose of AZD1775 was 150 mg/d. Eight patients (24%) experienced a dose-limiting toxicity, most commonly anorexia, nausea, or fatigue. The median overall survival for all patients was 21.7 months (90% CI, 16.7 to 24.8 months), and the median progression-free survival was 9.4 months (90% CI, 8.0 to 9.9 months). Hair follicle biopsy samples demonstrated evidence of Wee1 inhibition with decreased phosphorylation of cyclin-dependent kinase 1 staining by immunohistochemistry after AZD1775 administration at the recommended phase II dose.
+
+
+CONCLUSION
+AZD1775 in combination with gemcitabine and radiation therapy was well tolerated at a dose that produced target engagement in a surrogate tissue. The overall survival is substantially higher than prior results combining gemcitabine with radiation therapy and warrants additional investigation.

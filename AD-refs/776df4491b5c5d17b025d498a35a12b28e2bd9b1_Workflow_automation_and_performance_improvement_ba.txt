@@ -1,0 +1,9 @@
+Title: Workflow automation and performance improvement based on PostgreSQL
+Authors: Kirill Kravtsov, Vadim Tynchenko, E. Semenova, Daria Shalaeva, Ivan Pinchuk
+Year: 2023
+Paper ID: 776df4491b5c5d17b025d498a35a12b28e2bd9b1
+URL: https://www.semanticscholar.org/paper/776df4491b5c5d17b025d498a35a12b28e2bd9b1
+Venue: E3S Web of Conferences
+
+Abstract:
+This article discusses the development of an automated information system for improving and improving the efficiency of the cinema. This is achieved by automating the process of submitting requests, monitoring the quality and quantity of solutions for such requests. The system is designed to provide access to the list of services provided, its timely updating and optimization; the formation of all types of reports; providing managers with a tool that automates most of the routine work on the registration of the results of the cinema.

@@ -1,0 +1,9 @@
+Title: Communication Latency Assessment for an Interoperability Interface Prototype Applied to Power Converters in Laboratory Microgrids
+Authors: Vinícius S. C. Paulo, Luis de Oro Arenas, A. Alonso
+Year: 2023
+Paper ID: cebe3122cb58cef85fa956b95e9b79fc8ff7c9fd
+URL: https://www.semanticscholar.org/paper/cebe3122cb58cef85fa956b95e9b79fc8ff7c9fd
+Venue: Workshop Communication Networks and Power Systems
+
+Abstract:
+One of the most vital aspects behind performing laboratory-scale studies on the interoperability of power electronic converters within the scenario of smart microgrids is the implementation of communication interfaces. Having the flexibility to support bidirectional communication technologies and presenting easy configuration settings are usually desired features of such interfaces, mostly because they can be used to emulate different data exchange behaviors, which are commonly targeted on the assessment of how power converters impair microgrid operation. This paper presents the implementation layout of an interoperability interface based on an off-the-self microprocessor platform (i.e., Raspberry Pi model), which can be applied to small-scale microgrid laboratory facilities, in which a local area communication network is used to achieve interoperability among power converters. In addition, an experimental assessment on the communication latency of such interoperability system is presented in this paper, considering a TCP/IP-based communication layout using the IEEE 802.3 protocol. The results show that data packet exchange between two communication interfaces can occur as fast as 0.118 ms, with a maximum latency of 1.173 ms, which is generally attractive to the targeted scenario of study.

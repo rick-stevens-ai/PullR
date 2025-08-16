@@ -1,0 +1,9 @@
+Title: A case of severe hypermetabolism of nonthyroid origin with a defect in the maintenance of mitochondrial respiratory control: a correlated clinical, biochemical, and morphological study.
+Authors: R. Luft, D. Ikkos, G. Palmieri, L. Ernster, B. Afzelius
+Year: 1962
+Paper ID: da8ea39174809c9c4d3d8b6d162d843f02227741
+URL: https://www.semanticscholar.org/paper/da8ea39174809c9c4d3d8b6d162d843f02227741
+Venue: Journal of Clinical Investigation
+
+Abstract:
+energy liberated in respiration is conserved in the form of ATP 1 (2). Normally the respiration of isolated mitochondria is obligatorily coupled to the formation of ATP from ADP and inorganic phosphate, and thus cannot proceed at any appreciable rate if either of the latter components is absent from the incubating medium (3). This phenomenon, usually termed respiratory control, is generally considered to be a reflection of the capacity of the living cell to regulate its respiration according to its actual demand of energy. It was found that in the present patient this ability of the isolated skeletal muscle mitochondria was severely

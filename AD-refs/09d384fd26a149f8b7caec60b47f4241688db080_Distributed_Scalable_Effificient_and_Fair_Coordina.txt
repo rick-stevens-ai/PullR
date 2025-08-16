@@ -1,0 +1,9 @@
+Title: Distributed, Scalable, Effificient and Fair Coordination for Agriculture Mobile Robot Fleets
+Authors: Aitor López Sánchez
+Year: 2024
+Paper ID: 09d384fd26a149f8b7caec60b47f4241688db080
+URL: https://www.semanticscholar.org/paper/09d384fd26a149f8b7caec60b47f4241688db080
+Venue: 
+
+Abstract:
+The book explores distributed, scalable, efficient, and fair routing for agricultural cooperative agribot fleets. The research introduces innovative models that balance operational efficiency with fairness while fostering collaboration and coordination within fleets by leveraging advanced mathematical programming, decomposition techniques, and multiagent system frameworks. The model begins with a homogeneous fleet performing tasks across a field and extends to heterogeneous fleets with varying autonomy and capacity constraints, and tasks with specific demands, service times, and time windows. It further addresses dynamic, failure-prone scenarios in which vehicles adapt their routes during execution and take on new tasks to improve performance while ensuring completion of planned tasks. Additionally, the integration of specialized implements to meet task requirements requires vehicles to manage implement availability and associated costs. These models are integrated into a distributed multi-agent system architecture composed of vehicle agents and implementers together with a coordinating agent that achieves high-quality solutions and reduces computation times. The architecture guarantees autonomy, privacy, and effective coordination between agents providing a scalable and cooperative framework.

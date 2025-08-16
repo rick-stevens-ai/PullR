@@ -1,0 +1,10 @@
+Title: Immunogenic Cell Death Induction by Ionizing Radiation in Cancer Therapy: Mechanisms, Influencing Factors, and Strategies for Enhancement
+Authors: Mengqin Zhu, Mengdie Yang, Jiajia Zhang, Yuzhen Yin, Xin Fan, Yu Zhang, Shanshan Qin*, Han Zhang*, Fei Yu* (*corresponding authors; Departments and Institutes of Nuclear Medicine, Tongji University School of Medicine, Shanghai, China)
+Year: 2021
+Paper ID: web_688063
+URL: https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2021.705361/full
+Venue: Frontiers in Immunology, Section: Cancer Immunity and Immunotherapy
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Ionizing radiation (IR) is a cornerstone of cancer therapy, not only for its direct cytotoxic effects but also for its capacity to induce immunogenic cell death (ICD). ICD is a regulated form of cell death that stimulates antitumor immunity through the release or exposure of damage-associated molecular patterns (DAMPs), including HMGB1, calreticulin, ATP, and heat shock proteins. The effectiveness of IR-induced ICD is influenced by several factors, such as the type and dose of radiation, fractionation schedule, tumor type, and timing after irradiation. Recent research has explored strategies to enhance ICD and subsequent immune responses, including the combination of IR with hyperthermia, nanoparticles, or chemotherapy. While most evidence for IR-induced ICD is derived from in vitro and animal studies, clinical data remain limited. This review synthesizes current knowledge on the molecular mechanisms underlying IR-induced ICD, examines factors that modulate its effectiveness, and discusses approaches to improve its therapeutic potential. The article also highlights the need for further clinical studies to translate these findings into effective cancer immunotherapies.

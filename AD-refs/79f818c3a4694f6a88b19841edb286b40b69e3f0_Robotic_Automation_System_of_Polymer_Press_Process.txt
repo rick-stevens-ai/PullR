@@ -1,0 +1,9 @@
+Title: Robotic Automation System of Polymer Press Process for Materials Lab-Automation
+Authors: Yuki Asano, Kei Okada, Junichiro Shiomi
+Year: 2024
+Paper ID: 79f818c3a4694f6a88b19841edb286b40b69e3f0
+URL: https://www.semanticscholar.org/paper/79f818c3a4694f6a88b19841edb286b40b69e3f0
+Venue: IEEE/SICE International Symposium on System Integration
+
+Abstract:
+In this paper, we describes an automation system using a robot arm for the press process of polymer materials development. In the system, the press machines are operated through robot manipulation and control signals from the system. To achieve press machine operation by the robot arm, we developed tools and a gripper interface for robot arms to transferring human operation to robotic system. As an evaluation of molded polymers, we constructed a method to recognize the top-view shape of polymers by image processing and estimate its thickness. Evaluation functions were proposed to evaluate the press process, which consider thickness of molded polymers and press times. Through verification experiments, it was confirmed that the system could proceed the operation sequentially.

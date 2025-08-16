@@ -1,0 +1,9 @@
+Title: Image processing tools for petabyte-scale light sheet microscopy data
+Authors: Xiongtao Ruan, Matthew Mueller, Gaoxiang Liu, Frederik Görlitz, Tian-Ming Fu et al. (and 11 more)
+Year: 2024
+Paper ID: e1b8977a1e3e629e101d870a9a1fd58ab23d636b
+URL: https://www.semanticscholar.org/paper/e1b8977a1e3e629e101d870a9a1fd58ab23d636b
+Venue: bioRxiv
+
+Abstract:
+Light sheet microscopy is a powerful technique for high-speed 3D imaging of subcellular dynamics and large biological specimens. However, it often generates datasets ranging from hundreds of gigabytes to petabytes in size for a single experiment. Conventional computational tools process such images far slower than the time to acquire them and often fail outright due to memory limitations. To address these challenges, we present PetaKit5D, a scalable software solution for efficient petabyte-scale light sheet image processing. This software incorporates a suite of commonly used processing tools that are memory and performance-optimized. Notable advancements include rapid image readers and writers, fast and memory-efficient geometric transformations, high-performance Richardson-Lucy deconvolution, and scalable Zarr-based stitching. These features outperform state-of-the-art methods by over one order of magnitude, enabling the processing of petabyte-scale image data at the full teravoxel rates of modern imaging cameras. The software opens new avenues for biological discoveries through large-scale imaging experiments.

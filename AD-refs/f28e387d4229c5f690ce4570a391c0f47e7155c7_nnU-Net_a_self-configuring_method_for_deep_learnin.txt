@@ -1,0 +1,12 @@
+Title: nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation
+Authors: Fabian Isensee, P. Jaeger, Simon A. A. Kohl, Jens Petersen, Klaus Hermann Maier-Hein
+Year: 2020
+Paper ID: f28e387d4229c5f690ce4570a391c0f47e7155c7
+URL: https://www.semanticscholar.org/paper/f28e387d4229c5f690ce4570a391c0f47e7155c7
+Venue: Nature Methods
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/f28e387d4229c5f690ce4570a391c0f47e7155c7

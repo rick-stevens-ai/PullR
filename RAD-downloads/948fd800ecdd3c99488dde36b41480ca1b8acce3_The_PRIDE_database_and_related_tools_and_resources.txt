@@ -1,0 +1,9 @@
+Title: The PRIDE database and related tools and resources in 2019: improving support for quantification data
+Authors: Yasset Pérez-Riverol, A. Csordas, Jingwen Bai, Manuel Bernal Llinares, Suresh Hewapathirana et al. (and 18 more)
+Year: 2018
+Paper ID: 948fd800ecdd3c99488dde36b41480ca1b8acce3
+URL: https://www.semanticscholar.org/paper/948fd800ecdd3c99488dde36b41480ca1b8acce3
+Venue: Nucleic Acids Res.
+
+Abstract:
+Abstract The PRoteomics IDEntifications (PRIDE) database (https://www.ebi.ac.uk/pride/) is the world’s largest data repository of mass spectrometry-based proteomics data, and is one of the founding members of the global ProteomeXchange (PX) consortium. In this manuscript, we summarize the developments in PRIDE resources and related tools since the previous update manuscript was published in Nucleic Acids Research in 2016. In the last 3 years, public data sharing through PRIDE (as part of PX) has definitely become the norm in the field. In parallel, data re-use of public proteomics data has increased enormously, with multiple applications. We first describe the new architecture of PRIDE Archive, the archival component of PRIDE. PRIDE Archive and the related data submission framework have been further developed to support the increase in submitted data volumes and additional data types. A new scalable and fault tolerant storage backend, Application Programming Interface and web interface have been implemented, as a part of an ongoing process. Additionally, we emphasize the improved support for quantitative proteomics data through the mzTab format. At last, we outline key statistics on the current data contents and volume of downloads, and how PRIDE data are starting to be disseminated to added-value resources including Ensembl, UniProt and Expression Atlas.

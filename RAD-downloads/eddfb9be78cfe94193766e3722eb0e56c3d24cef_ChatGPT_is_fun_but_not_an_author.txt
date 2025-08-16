@@ -1,0 +1,9 @@
+Title: ChatGPT is fun, but not an author
+Authors: H. Thorp
+Year: 2023
+Paper ID: eddfb9be78cfe94193766e3722eb0e56c3d24cef
+URL: https://www.semanticscholar.org/paper/eddfb9be78cfe94193766e3722eb0e56c3d24cef
+Venue: Science
+
+Abstract:
+In less than 2 months, the artificial intelligence (AI) program ChatGPT has become a cultural sensation. It is freely accessible through a web portal created by the tool’s developer, OpenAI. The program—which automatically creates text based on written prompts—is so popular that it’s likely to be “at capacity right now” if you attempt to use it. When you do get through, ChatGPT provides endless entertainment. I asked it to rewrite the first scene of the classic American play Death of a Salesman, but to feature Princess Elsa from the animated movie Frozen as the main character instead of Willy Loman. The output was an amusing conversation in which Elsa—who has come home from a tough day of selling—is told by her son Happy, “Come on, Mom. You’re Elsa from Frozen. You have ice powers and you’re a queen. You’re unstoppable.” Mash-ups like this are certainly fun, but there are serious implications for generative AI programs like ChatGPT in science and academia.

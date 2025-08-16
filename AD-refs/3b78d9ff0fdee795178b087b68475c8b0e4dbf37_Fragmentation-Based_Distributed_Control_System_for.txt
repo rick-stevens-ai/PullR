@@ -1,0 +1,9 @@
+Title: Fragmentation-Based Distributed Control System for Software-Defined Wireless Sensor Networks
+Authors: H. Kobo, A. Abu-Mahfouz, G. Hancke
+Year: 2019
+Paper ID: 3b78d9ff0fdee795178b087b68475c8b0e4dbf37
+URL: https://www.semanticscholar.org/paper/3b78d9ff0fdee795178b087b68475c8b0e4dbf37
+Venue: IEEE Transactions on Industrial Informatics
+
+Abstract:
+Software-defined wireless sensor networks (WSNs) are a new and emerging network paradigm that seeks to address the impending issues in WSNs. It is formed by applying software-defined networking to WSNs whose basic tenet is the centralization of control intelligence of the network. The centralization of the controller rouses many challenges such as security, reliability, scalability, and performance. A distributed control system is proposed in this paper to address issues arising from and pertaining to the centralized controller. Fragmentation is proposed as a method of distribution, which entails a two-level control structure consisting of local controllers closer to the infrastructure elements and a global controller, which has a global view of the entire network. A distributed controller system brings several advantages and the experiments carried out show that it performs better than a central controller. Furthermore, the results also show that fragmentation improves the performance and thus have a potential to have major impact in the Internet of things.

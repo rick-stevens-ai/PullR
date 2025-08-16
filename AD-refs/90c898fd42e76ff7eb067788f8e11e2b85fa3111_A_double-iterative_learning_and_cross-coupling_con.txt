@@ -1,0 +1,9 @@
+Title: A double-iterative learning and cross-coupling control design for high-precision motion control
+Authors: Wan Xu, Jie Hou, Wei Yang, Cong Wang
+Year: 2023
+Paper ID: 90c898fd42e76ff7eb067788f8e11e2b85fa3111
+URL: https://www.semanticscholar.org/paper/90c898fd42e76ff7eb067788f8e11e2b85fa3111
+Venue: Archives of Electrical Engineering
+
+Abstract:
+In multi-axis motion control systems, the tracking errors of single axis load and the contour errors caused by the mismatch of dynamic characteristics between the moving axes will affect the accuracy of the motion control system. To solve this issue, a biaxial motion control strategy based on double-iterative learning and cross-coupling control is proposed. The proposed control method improves the accuracy of the motion control system by improving individual axis tracking performance and contour tracking performance. On this basis, a rapid control prototype (RCP) is designed, and the experiment is verified by the hardware and software platforms, LabVIEW and Compact RIO. The whole design shows enhancement in the precision of the motion control of the multiaxis system. The performance in individual axis tracking and contour tracking is greatly improved.

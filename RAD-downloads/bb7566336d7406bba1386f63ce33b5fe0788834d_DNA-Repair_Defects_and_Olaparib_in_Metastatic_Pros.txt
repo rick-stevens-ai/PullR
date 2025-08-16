@@ -1,0 +1,22 @@
+Title: DNA-Repair Defects and Olaparib in Metastatic Prostate Cancer.
+Authors: J. Mateo, S. Carreira, S. Sandhu, S. Miranda, H. Mossop et al. (and 46 more)
+Year: 2015
+Paper ID: bb7566336d7406bba1386f63ce33b5fe0788834d
+URL: https://www.semanticscholar.org/paper/bb7566336d7406bba1386f63ce33b5fe0788834d
+Venue: New England Journal of Medicine
+
+Abstract:
+BACKGROUND
+Prostate cancer is a heterogeneous disease, but current treatments are not based on molecular stratification. We hypothesized that metastatic, castration-resistant prostate cancers with DNA-repair defects would respond to poly(adenosine diphosphate [ADP]-ribose) polymerase (PARP) inhibition with olaparib.
+
+
+METHODS
+We conducted a phase 2 trial in which patients with metastatic, castration-resistant prostate cancer were treated with olaparib tablets at a dose of 400 mg twice a day. The primary end point was the response rate, defined either as an objective response according to Response Evaluation Criteria in Solid Tumors, version 1.1, or as a reduction of at least 50% in the prostate-specific antigen level or a confirmed reduction in the circulating tumor-cell count from 5 or more cells per 7.5 ml of blood to less than 5 cells per 7.5 ml. Targeted next-generation sequencing, exome and transcriptome analysis, and digital polymerase-chain-reaction testing were performed on samples from mandated tumor biopsies.
+
+
+RESULTS
+Overall, 50 patients were enrolled; all had received prior treatment with docetaxel, 49 (98%) had received abiraterone or enzalutamide, and 29 (58%) had received cabazitaxel. Sixteen of 49 patients who could be evaluated had a response (33%; 95% confidence interval, 20 to 48), with 12 patients receiving the study treatment for more than 6 months. Next-generation sequencing identified homozygous deletions, deleterious mutations, or both in DNA-repair genes--including BRCA1/2, ATM, Fanconi's anemia genes, and CHEK2--in 16 of 49 patients who could be evaluated (33%). Of these 16 patients, 14 (88%) had a response to olaparib, including all 7 patients with BRCA2 loss (4 with biallelic somatic loss, and 3 with germline mutations) and 4 of 5 with ATM aberrations. The specificity of the biomarker suite was 94%. Anemia (in 10 of the 50 patients [20%]) and fatigue (in 6 [12%]) were the most common grade 3 or 4 adverse events, findings that are consistent with previous studies of olaparib.
+
+
+CONCLUSIONS
+Treatment with the PARP inhibitor olaparib in patients whose prostate cancers were no longer responding to standard treatments and who had defects in DNA-repair genes led to a high response rate. (Funded by Cancer Research UK and others; ClinicalTrials.gov number, NCT01682772; Cancer Research UK number, CRUK/11/029.).

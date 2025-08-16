@@ -1,0 +1,21 @@
+Title: Towards Discovering SARS-CoV-2 Variants of High Consequence Based on Both Surveillance and Electronically Captured Health Data: First Year Experience in Washington State (January 2020-2021)
+Authors: L. Zhao, Pavitra Roychoudhury, K. Jerome, P. Gilbert, J. Schiffer et al. (and 12 more)
+Year: 2021
+Paper ID: 8f2052fe531ea7131685e1bf473e3bd165e7896d
+URL: https://www.semanticscholar.org/paper/8f2052fe531ea7131685e1bf473e3bd165e7896d
+Venue: Social Science Research Network
+
+Abstract:
+Background: SARS-CoV-2 is continuously evolving with the emergence of variants of interest (VOI) or with variants of concern (VOC).  While Variants of High Consequence (VOHC) are well defined, no such variants have been formally documented.  Here we propose an integrated strategy and application towards discovering VOHC. 
+ 
+Methods: We utilized 7,137 viral sequences collected from COVID-19 cases in Washington State from January 19, 2020 to January 31, 2021, to identify genome-wide viral single nucleotide variants (SNVs).  Utilizing a non-parametric regression model, we selected a subset of SNVs that had significant and substantial expansions over the collection period.  Further, using unsupervised learning, we identified multiple SNVs forming haplotypes.  To evaluate their clinical relevance, we assembled a discovery cohort of COVID-19 cases (388 inpatients and 295 outpatients) to identify SNVs and haplotypes associated with hospitalization status, a proxy for disease severity.  A logistic regression model was used to assess associations of SNVs with hospitalization status in the discovery cohort.  These results were validated on an independent cohort of 964 genome sequences derived from COVID-19 cases in Washington State from June 1, 2020 to March 31, 2021. 
+ 
+Finding: The analysis of the 7,137 sequences led to identification of 107 SNVs that were statistically significant (false positive error rate q-value 0.10). Forty-one SNVs were considered urgent, because their SNV proportions persisted or expanded above 10% in January 2021, the last month of the current investigation period. Correlating with clinical data, eight SNVs were found to significantly associate with inpatient status (p-values<0.001).  By their synchronized dynamics, two SNVs were haplotyped and the mutant haplotype (c15933t-g16968t) was observed among patients in the discovery cohort (Fisher’s exact p=1.53*10-10), and this association was validated in the validation cohort (OR=5.38, p=10-9).  Similarly, a haplotype with 4 SNVs (t19839c-g28881a-g28882a-g28883c) was observed only among inpatients (p=1.53*10-10) in the discovery cohort.  Discovered haplotypic association was validated in the independent validation cohort (OR=3.69, p-value=3.44*10-10) and was further validated after adjusting for sex, age and collection time (OR=5.46, p-value=4.71*10-12).  
+ 
+Interpretation: The mutant haplotype t19839c-g28881a-g28882a-g28883c emerged in April 2020, remained undetected over eight months, and has now begun to re-emerge.  Because of its strong association with hospitalization status and re-emergence, this mutant haplotype may be a candidate variant for VOHC, pending further investigation of a) its clinical association with the disease severity, b) asymptomatic transmissibility and/or c) immune evasion to approved vaccines.  While preliminary, this result indicates the importance to conduct purpose-driven clinical follow up studies to discover and validate candidate variants for VOHC.  Also of interest is the mutant haplotype c15933t-g16968t which expanded in May 2020 but subsided by October 2020. Due to its association with hospitalization, we recommend continued monitoring for re-emergence of this variant and further assessment of viral phenotype. 
+ 
+Funding: National Institutes of Health grant R01-GM129325 National Institutes of Health/National Institute of Allergy and Infectious Diseases grant UM1 AI068635 
+ 
+Declaration of Interest: The authors declare that they have no competing interests. 
+ 
+Ethical Approval: This study was approved by the Human Subject Review Committee at Fred Hutchinson Cancer Research Center (IRB#6007-2043) and by the University of Washington Institutional Review Board (STUDY00000408).

@@ -1,0 +1,9 @@
+Title: Molecular dynamics of PLK1 during mitosis
+Authors: Stephane Schmucker, I. Sumara
+Year: 2014
+Paper ID: bc886530fafd3af3f48c78f3f256812e9574b050
+URL: https://www.semanticscholar.org/paper/bc886530fafd3af3f48c78f3f256812e9574b050
+Venue: Molecular & Cellular Oncology
+
+Abstract:
+Polo-like kinase 1 (PLK1) is a key regulator of eukaryotic cell division. During mitosis, dynamic regulation of PLK1 is crucial for its roles in centrosome maturation, spindle assembly, microtubule–kinetochore attachment, and cytokinesis. Similar to other members of the PLK family, the molecular architecture of PLK1 protein is characterized by 2 domains—the kinase domain and the regulatory substrate-binding domain (polo-box domain)—that cooperate and control PLK1 function during mitosis. Mitotic cells employ many layers of regulation to activate and target PLK1 to different cellular structures in a timely manner. During the last decade, numerous studies have shed light on the precise molecular mechanisms orchestrating the mitotic activity of PLK1 in time and space. This review aims to discuss available data and concepts related to regulation of the molecular dynamics of human PLK1 during mitotic progression.

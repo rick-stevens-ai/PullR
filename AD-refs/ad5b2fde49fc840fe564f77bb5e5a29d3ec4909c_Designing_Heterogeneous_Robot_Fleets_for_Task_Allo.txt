@@ -1,0 +1,9 @@
+Title: Designing Heterogeneous Robot Fleets for Task Allocation and Sequencing
+Authors: Nils Wilde, Javier Alonso-Mora
+Year: 2023
+Paper ID: ad5b2fde49fc840fe564f77bb5e5a29d3ec4909c
+URL: https://www.semanticscholar.org/paper/ad5b2fde49fc840fe564f77bb5e5a29d3ec4909c
+Venue: International Symposium on Multi-Robot and Multi-Agent Systems
+
+Abstract:
+We study the problem of selecting a fleet of robots to service spatially distributed tasks with diverse requirements within time-windows. The problem of allocating tasks to a fleet of potentially heterogeneous robots and finding an optimal sequence for each robot is known as multi-robot task assignment (MRTA). Most state-of-the-art methods focus on the problem when the fleet of robots is fixed. In contrast, we consider that we are given a set of available robot types and requested tasks, and need to assemble a fleet that optimally services the tasks while the cost of the fleet remains under a budget limit. We characterize the complexity of the problem and provide a Mixed-Integer Linear Program (MILP) formulation. Due to poor scalability of the MILP, we propose a heuristic solution based on a Large Neighbourhood Search (LNS). In simulations, we demonstrate that the proposed method requires substantially lower budgets than a greedy algorithm to service all tasks.

@@ -1,0 +1,9 @@
+Title: FUS-dependent liquid–liquid phase separation is important for DNA repair initiation
+Authors: B. Levone, S. C. Lenzken, Marco Antonaci, Andreas Maiser, A. Rapp et al. (and 10 more)
+Year: 2021
+Paper ID: b368f0a95b2c029af546b80f2c768564598c46bb
+URL: https://www.semanticscholar.org/paper/b368f0a95b2c029af546b80f2c768564598c46bb
+Venue: Journal of Cell Biology
+
+Abstract:
+FUS-dependent liquid–liquid phase separation is a critical process in the early activation of the DNA damage response and in the recruitment of key proteins, which facilitates the proper assembly of double-strand break repair complexes.

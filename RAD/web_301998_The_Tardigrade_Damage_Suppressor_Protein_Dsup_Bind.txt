@@ -1,0 +1,10 @@
+Title: The Tardigrade Damage Suppressor Protein (Dsup) Binds Nucleosomes and Protects Chromatin DNA from Hydroxyl Radical-Induced Damage
+Authors: Unknown
+Year: N/A
+Paper ID: web_301998
+URL: https://elifesciences.org/articles/47682
+Venue: eLife
+Content Status: WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+Tardigrades, or water bears, are remarkable for their ability to survive extreme environmental conditions. The tardigrade species Ramazzottius varieornatus possesses a unique nuclear protein known as Dsup (damage suppressor), which has been shown to enhance the resistance of human cells to DNA damage caused by agents such as ionizing radiation and hydrogen peroxide, both of which generate hydroxyl radicals. In this study, we demonstrate that Dsup from R. varieornatus is a nucleosome-binding protein that effectively protects chromatin from hydroxyl radical-induced damage. Furthermore, a Dsup ortholog from another tardigrade species, Hypsibius exemplaris, exhibits similar nucleosome-binding and DNA-protective properties. Notably, a conserved region within Dsup proteins shares sequence similarity with the nucleosome-binding domain of vertebrate HMGN proteins, and this region is functionally critical for both nucleosome association and protection against hydroxyl radicals. These findings indicate that Dsup enhances tardigrade survival under diverse stress conditions through a direct mechanism involving nucleosome binding and the protection of chromosomal DNA from oxidative damage.

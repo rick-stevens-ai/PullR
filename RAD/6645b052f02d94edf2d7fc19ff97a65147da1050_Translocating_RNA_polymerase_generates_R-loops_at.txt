@@ -1,0 +1,9 @@
+Title: Translocating RNA polymerase generates R-loops at DNA double-strand breaks without any additional factors
+Authors: Gunhyoung Lim, Seungha Hwang, Kilwon Yu, J. Kang, C. Kang et al. (and 1 more)
+Year: 2023
+Paper ID: 6645b052f02d94edf2d7fc19ff97a65147da1050
+URL: https://www.semanticscholar.org/paper/6645b052f02d94edf2d7fc19ff97a65147da1050
+Venue: Nucleic Acids Research
+
+Abstract:
+Abstract The R-loops forming around DNA double-strand breaks (DSBs) within actively transcribed genes play a critical role in the DSB repair process. However, the mechanisms underlying R-loop formation at DSBs remain poorly understood, with diverse proposed models involving protein factors associated with RNA polymerase (RNAP) loading, pausing/backtracking or preexisting transcript RNA invasion. In this single-molecule study using Escherichia coli RNAP, we discovered that transcribing RNAP alone acts as a highly effective DSB sensor, responsible for generation of R-loops upon encountering downstream DSBs, without requiring any additional factors. The R-loop formation efficiency is greatly influenced by DNA end structures, ranging here from 2.8% to 73%, and notably higher on sticky ends with 3′ or 5′ single-stranded overhangs compared to blunt ends without any overhangs. The R-loops extend unidirectionally upstream from the DSB sites and can reach the transcription start site, interfering with ongoing-round transcription. Furthermore, the extended R-loops can persist and maintain their structures, effectively preventing the efficient initiation of subsequent transcription rounds. Our results are consistent with the bubble extension model rather than the 5′-end invasion model or the middle insertion model. These discoveries provide valuable insights into the initiation of DSB repair on transcription templates across bacteria, archaea and eukaryotes.

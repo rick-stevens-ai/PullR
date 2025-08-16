@@ -1,0 +1,9 @@
+Title: Distributed Control Strategies for Microgrids: An Overview
+Authors: Enrique Espina, J. Llanos, Claudio Burgos-Mellado, R. Cárdenas-Dobson, M. Martínez-Gómez et al. (and 1 more)
+Year: 2020
+Paper ID: c4b9305898f8d633cb92aedced5b50855e382db6
+URL: https://www.semanticscholar.org/paper/c4b9305898f8d633cb92aedced5b50855e382db6
+Venue: IEEE Access
+
+Abstract:
+There is an increasing interest and research effort focused on the analysis, design and implementation of distributed control systems for AC, DC and hybrid AC / DC microgrids. It is claimed that distributed controllers have several advantages over centralised control schemes, e.g., improved reliability, flexibility, controllability, black start operation, robustness to failure in the communication links, etc. In this work, an overview of the state-of-the-art of distributed cooperative control systems for isolated microgrids is presented. Protocols for cooperative control such as linear consensus, heterogeneous consensus and finite-time consensus are discussed and reviewed in this paper. Distributed cooperative algorithms for primary and secondary control systems, including (among others issues) virtual impedance, synthetic inertia, droop-free control, stability analysis, imbalance sharing, total harmonic distortion regulation, are also reviewed and discussed in this survey. Tertiary control systems, e.g., for economic dispatch of electric energy, based on cooperative control approaches, are also addressed in this work. This review also highlights existing issues, research challenges and future trends in distributed cooperative control of microgrids and their future applications.

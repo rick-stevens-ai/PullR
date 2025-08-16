@@ -1,0 +1,10 @@
+Title: Ionizing Radiation-Induced Mitophagy Amplifies DNA Damage and Enhances Radiotherapy Efficacy in Cancer Cells
+Authors: Unknown
+Year: N/A
+Paper ID: web_726797
+URL: https://www.nature.com/articles/s41420-023-01573-0
+Venue: Cell Death Discovery
+Content Status: LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study explores the mechanistic relationship between ionizing radiation, mitophagy, and DNA damage in cancer cells. Using human pancreatic cancer cell lines (PANC-1, SW1990) and murine melanoma cell lines (B16, S91), the researchers demonstrate that exposure to X-ray irradiation not only induces DNA damage but also activates mitophagy—a selective autophagic process targeting damaged mitochondria. Upregulation of mitophagy, mediated by proteins such as Parkin and BNIP3, leads to increased radiation-induced DNA damage, reduced cell cycle arrest, and enhanced tumor cell death. These effects were assessed through a combination of cell proliferation and viability assays, detection of DNA damage markers (γ-H2AX, 53BP1, PARP1), and analyses of mitophagy induction using transmission electron microscopy, reactive oxygen species (ROS) detection, and co-localization studies of mitochondria and lysosomes. The findings suggest that manipulating mitophagy could serve as a novel therapeutic strategy to potentiate the effects of radiotherapy and improve cancer treatment outcomes.

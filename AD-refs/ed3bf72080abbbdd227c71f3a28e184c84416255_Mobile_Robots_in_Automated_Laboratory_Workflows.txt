@@ -1,0 +1,12 @@
+Title: Mobile Robots in Automated Laboratory Workflows
+Authors: J. Huang, H. Liu, S. Junginger, K. Thurow
+Year: 2024
+Paper ID: ed3bf72080abbbdd227c71f3a28e184c84416255
+URL: https://www.semanticscholar.org/paper/ed3bf72080abbbdd227c71f3a28e184c84416255
+Venue: SLAS Technology
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/ed3bf72080abbbdd227c71f3a28e184c84416255

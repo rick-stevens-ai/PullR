@@ -1,0 +1,12 @@
+Title: PARP is activated at stalled forks to mediate Mre11‐dependent replication restart and recombination
+Authors: H. Bryant, E. Petermann, N. Schultz, A. Jemth, O. Loseva et al. (and 5 more)
+Year: 2009
+Paper ID: 8b9f1f64cf35a255bf53885ca17cf086a1277804
+URL: https://www.semanticscholar.org/paper/8b9f1f64cf35a255bf53885ca17cf086a1277804
+Venue: EMBO Journal
+Content Status: NO_ABSTRACT
+
+Abstract:
+*** NO ABSTRACT AVAILABLE ***
+This paper may require manual lookup or web scraping.
+Try accessing directly: https://www.semanticscholar.org/paper/8b9f1f64cf35a255bf53885ca17cf086a1277804

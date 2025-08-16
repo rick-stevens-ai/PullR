@@ -1,0 +1,9 @@
+Title: Polθ is phosphorylated by PLK1 to repair double-strand breaks in mitosis
+Authors: C. Gelot, Marton Tibor Kovacs, Simona Miron, Emilie Mylne, Alexis Haan et al. (and 9 more)
+Year: 2023
+Paper ID: 56ea5df20de91908323a8be372a99b7781f2ffce
+URL: https://www.semanticscholar.org/paper/56ea5df20de91908323a8be372a99b7781f2ffce
+Venue: Nature
+
+Abstract:
+DNA double-strand breaks (DSBs) are deleterious lesions that challenge genome integrity. To mitigate this threat, human cells rely on the activity of multiple DNA repair machineries that are tightly regulated throughout the cell cycle^ 1 . In interphase, DSBs are mainly repaired by non-homologous end joining and homologous recombination^ 2 . However, these pathways are completely inhibited in mitosis^ 3 – 5 , leaving the fate of mitotic DSBs unknown. Here we show that DNA polymerase theta^ 6 (Polθ) repairs mitotic DSBs and thereby maintains genome integrity. In contrast to other DSB repair factors, Polθ function is activated in mitosis upon phosphorylation by Polo-like kinase 1 (PLK1). Phosphorylated Polθ is recruited by a direct interaction with the BRCA1 C-terminal domains of TOPBP1 to mitotic DSBs, where it mediates joining of broken DNA ends. Loss of Polθ leads to defective repair of mitotic DSBs, resulting in a loss of genome integrity. This is further exacerbated in cells that are deficient in homologous recombination, where loss of mitotic DSB repair by Polθ results in cell death. Our results identify mitotic DSB repair as the underlying cause of synthetic lethality between Polθ and homologous recombination. Together, our findings reveal the critical importance of mitotic DSB repair in the maintenance of genome integrity. In mitosis, genome integrity is maintained by DNA polymerase theta-dependent repair of DNA double-strand breaks, which is regulated by Polo-like kinase 1 activity.

@@ -1,0 +1,9 @@
+Title: ATM specifically mediates repair of double-strand breaks with blocked DNA ends
+Authors: Alejandro Álvarez-Quilón, Almudena Serrano-Benitez, Jenna Ariel Lieberman, Cristina Quintero, Daniel Sánchez-Gutiérrez et al. (and 2 more)
+Year: 2014
+Paper ID: 7c0b83ef1eaf317b4fefe80196b6fabb2856c3bb
+URL: https://www.semanticscholar.org/paper/7c0b83ef1eaf317b4fefe80196b6fabb2856c3bb
+Venue: Nature Communications
+
+Abstract:
+Ataxia telangiectasia is caused by mutations in ATM and represents a paradigm for cancer predisposition and neurodegenerative syndromes linked to deficiencies in the DNA-damage response. The role of ATM as a key regulator of signalling following DNA double-strand breaks (DSBs) has been dissected in extraordinary detail, but the impact of this process on DSB repair still remains controversial. Here we develop novel genetic and molecular tools to modify the structure of DSB ends and demonstrate that ATM is indeed required for efficient and accurate DSB repair, preventing cell death and genome instability, but exclusively when the ends are irreversibly blocked. We therefore identify the nature of ATM involvement in DSB repair, presenting blocked DNA ends as a possible pathogenic trigger of ataxia telangiectasia and related disorders. The role of ATM in DNA double-strand break (DSB) signalling is well established, but its function in the repair process remains controversial. Here, Álvarez-Quilón et al.show that ATM acts in the joining of blocked DSBs, uncovering DNA end structure as a key factor determining ATM involvement in DSB repair.

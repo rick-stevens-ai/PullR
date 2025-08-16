@@ -1,0 +1,381 @@
+REFERENCES
+1. Roos, W. P., Thomas, A. D. & Kaina, B. DNA damage and the balance between survival and death in cancer biology. Nat. Rev. Cancer 16, 20–33 (2016). 
+2. Voulgaridou, G. P., Anestopoulos, I., Franco, R., Panayiotidis, M. I. & Pappa, A. DNA damage induced by endogenous aldehydes: current state of knowledge. Mutat. Res. 711, 13–27 (2011). 
+3. Huang, R. & Zhou, P. K. DNA damage repair: historical perspectives, mechanistic pathways and clinical translation for targeted cancer therapy. Signal Transduct. Target. Ther. 6, 254 (2021). 
+4. Pearl, L. H., Schierz, A. C., Ward, S. E., Al-Lazikani, B. & Pearl, F. M. Therapeutic opportunities within the DNA damage response. Nat. Rev. Cancer 15, 166–180 (2015). 
+5. Brown, J. S., Sundar, R. & Lopez, J. Combining DNA damaging therapeutics with immunotherapy: more haste, less speed. Br. J. Cancer 118, 312–324 (2018). 
+6. Chabanon, R. M. et al. Targeting the DNA damage response in immuno-oncol- ogy: developments and opportunities. Nat. Rev. Cancer 21, 701–717 (2021). 
+7. Surova, O. & Zhivotovsky, B. Various modes of cell death induced by DNA damage. Oncogene 32, 3789–3797 (2013). 
+8. Jeggo, P. A., Pearl, L. H. & Carr, A. M. DNA repair, genome stability and cancer: a historical perspective. Nat. Rev. Cancer 16, 35–42 (2016). 
+9. Larsen, B. D. et al. Cancer cells use self-inflicted DNA breaks to evade growth limits imposed by genotoxic stress. Science 376, 476–483 (2022). 
+10. Pilie, P. G., Tang, C., Mills, G. B. & Yap, T. A. State-of-the-art strategies for targeting the DNA damage response in cancer. Nat. Rev. Clin. Oncol. 16, 81–104 (2019). 
+11. O’Connor, M. J. Targeting the DNA Damage Response in Cancer. Mol. Cell 60,  547–560 (2015). 
+12. Huang, A., Garraway, L. A., Ashworth, A. & Weber, B. Synthetic lethality as an  engine for cancer drug target discovery. Nat. Rev. Drug Discov. 19, 23–38 (2020). 
+13. Ashworth, A. & Lord, C. J. Synthetic lethal therapies for cancer: what’s next after  PARP inhibitors? Nat. Rev. Clin. Oncol. 15, 564–576 (2018). 
+14. Lord, C. J. & Ashworth, A. PARP inhibitors: Synthetic lethality in the clinic. Science  355, 1152–1158 (2017). 
+15. Gaillard, H., Garcia-Muse, T. & Aguilera, A. Replication stress and cancer. Nat. Rev.  Cancer 15, 276–289 (2015). 
+16. Dobbelstein, M. & Sorensen, C. S. Exploiting replicative stress to treat cancer.  Nat. Rev. Drug Discov. 14, 405–423 (2015). 
+17. Forment, J. V. & O’Connor, M. J. Targeting the replication stress response in  cancer. Pharmacol. Ther. 188, 155–167 (2018). 
+18. Sorensen, C. S. & Syljuasen, R. G. Safeguarding genome integrity: the checkpoint  kinases ATR, CHK1 and WEE1 restrain CDK activity during normal DNA replica-  tion. Nucleic Acids Res. 40, 477–486 (2012). 
+19. Ngoi, N. Y. L., Pham, M. M., Tan, D. S. P. & Yap, T. A. Targeting the replication  stress response through synthetic lethal strategies in cancer medicine. Trends  Cancer 7, 930–957 (2021). 
+20. Begg, A. C., Stewart, F. A. & Vens, C. Strategies to improve radiotherapy with  targeted drugs. Nat. Rev. Cancer 11, 239–253 (2011). 
+21. Goldstein, M. & Kastan, M. B. The DNA damage response: implications for tumor  responses to radiation and chemotherapy. Annu. Rev. Med. 66, 129–143 (2015). 
+22. Matulonis, U. A. & Monk, B. J. PARP inhibitor and chemotherapy combination trials for the treatment of advanced malignancies: does a development pathway  forward exist? Ann. Oncol. 28, 443–447 (2017). 
+23. Martorana, F., Da Silva, L. A., Sessa, C. & Colombo, I. Everything Comes with a  Price: The Toxicity Profile of DNA-Damage Response Targeting Agents. Cancers  (Basel) 14, 953–974 (2022). 
+24. Deeks, E. D. Olaparib: first global approval. Drugs 75, 231–240 (2015). 
+25. Curtin, N. J. & Szabo, C. Poly(ADP-ribose) polymerase inhibition: past, present 
+and future. Nat. Rev. Drug Discov. 19, 711–736 (2020).
+26. Ngoi, N. Y. L., Leo, E., O’Connor, M. J. & Yap, T. A. Development of Next- Generation Poly(ADP-Ribose) Polymerase 1-Selective Inhibitors. Cancer J. 27, 521–528 (2021).
+27. Papeo, G. et al. Discovery of 2-[1-(4,4-Difluorocyclohexyl)piperidin-4-yl]-6-fluoro- 3-oxo-2,3-dihydro-1H-isoind ole-4-carboxamide (NMS-P118): A Potent, Orally Available, and Highly Selective PARP-1 Inhibitor for Cancer Therapy. J. Med. Chem. 58, 6875–6898 (2015)..
+28. Dias, M. P., Moser, S. C., Ganesan, S. & Jonkers, J. Understanding and overcoming resistance to PARP inhibitors in cancer therapy. Nat. Rev. Clin. Oncol. 18, 773–791 (2021).
+29. Shah, S. M. et al. Therapeutic implications of germline vulnerabilities in DNA repair for precision oncology. Cancer Treat. Rev. 104, 102337 (2022).
+30. Cleary, J. M., Aguirre, A. J., Shapiro, G. I. & D’Andrea, A. D. Biomarker-Guided Development of DNA Repair Inhibitors. Mol. Cell 78, 1070–1085 (2020).
+31. Brandsma, I., Fleuren, E. D. G., Williamson, C. T. & Lord, C. J. Directing the use of DDR kinase inhibitors in cancer treatment. Expert Opin. Investig. Drugs 26, 1341–1355 (2017).
+32. Lord, C. J. & Ashworth, A. The DNA damage response and cancer therapy. Nature 481, 287–294 (2012).
+33. Portin, P. The birth and development of the DNA theory of inheritance: sixty years since the discovery of the structure of DNA. J. Genet. 93, 293–302 (2014).
+34. Franklin, R. E. & Gosling, R. G. Evidence for 2-chain helix in crystalline structure of sodium deoxyribonucleate. Nature 172, 156–157 (1953).
+35. Setlow, R. B. & Carrier, W. L. The Disappearance of Thymine Dimers from DNA: An Error-Correcting Mechanism. Proc. Natl Acad. Sci. USA 51, 226–231 (1964).
+36. Cleaver, J. R. & Painter, R. B. Evidence for repair replication of HeLa cell DNA damaged by ultraviolet light. Biochim. Biophys. Acta 161, 552–554 (1968). 37. Schuster, R. C. Dark Repair of Ultraviolet Injury in E. Coli during Deprivation of
+Thymine. Nature 202, 614–615 (1964). 38. Lindahl, T. & Andersson, A. Rate of chain breakage at apurinic sites in double-
+stranded deoxyribonucleic acid. Biochemistry 11, 3618–3623 (1972). 39. Lindahl, T. An N-glycosidase from Escherichia coli that releases free uracil from DNA containing deaminated cytosine residues. Proc. Natl Acad. Sci. USA 71,
+3649–3653 (1974). 40. Lindahl, T. & Nyberg, B. Heat-induced deamination of cytosine residues in
+deoxyribonucleic acid. Biochemistry 13, 3405–3410 (1974). 41. Durkacz, B. W., Omidiji, O., Gray, D. A. & Shall, S. (ADP-ribose)n participates in
+DNA excision repair. Nature 283, 593–596 (1980). 42. Walker, A. I., Hunt, T., Jackson, R. J. & Anderson, C. W. Double-stranded DNA
+induces the phosphorylation of several proteins including the 90 000 mol. wt.
+heat-shock protein in animal cell extracts. EMBO J. 4, 139–145 (1985). 43. Savitsky, K. et al. A single ataxia telangiectasia gene with a product similar to PI-
+3 kinase. Science 268, 1749–1753 (1995). 44. Walworth, N. C. & Bernards, R. rad-dependent response of the chk1-encoded
+protein kinase at the DNA damage checkpoint. Science 271, 353–356 (1996). 45. Hall, E. J. From chimney sweeps to oncogenes: the quest for the causes of
+cancer. Radiology 179, 297–306 (1991). 46. Waldron, H. A. A brief history of scrotal cancer. Br. J. Ind. Med. 40, 390–401
+(1983). 47. Burdette, W. J. The significance of mutation in relation to the origin of tumors: a
+review. Cancer Res. 15, 201–226 (1955). 48. Brookes, P. & Lawley, P. D. The reaction of mustard gas with nucleic acids in vitro
+and in vivo. Biochem. J. 77, 478–484 (1960). 49. Brookes, P. & Lawley, P. D. The reaction of mono- and di-functional alkylating
+agents with nucleic acids. Biochem. J. 80, 496–503 (1961). 50. Brookes, P. & Lawley, P. D. Evidence for the Binding of Polynuclear Aromatic
+Hydrocarbons to the Nucleic Acids of Mouse Skin: Relation between Carcino- genic Power of Hydrocarbons and Their Binding to Deoxyribonucleic Acid. Nature 202, 781–784 (1964).
+51. Lindell, B. & Sowby, D. The 1958 UNSCEAR report. J. Radiol. Prot. 28, 277–282 (2008).
+52. Cleaver, J. E. Xeroderma pigmentosum: a human disease in which an initial stage of DNA repair is defective. Proc. Natl Acad. Sci. USA 63, 428–435 (1969).
+53. Black, J. O. Xeroderma Pigmentosum. Head. Neck Pathol. 10, 139–144 (2016). 54. Leach, F. S. et al. Mutations of a mutS homolog in hereditary nonpolyposis
+colorectal cancer. Cell 75, 1215–1225 (1993). 55. Fishel, R. et al. The human mutator gene homolog MSH2 and its association with
+hereditary nonpolyposis colon cancer. Cell 75, 1027–1038 (1993). 56. Bronner, C. E. et al. Mutation in the DNA mismatch repair gene homologue hMLH1 is associated with hereditary non-polyposis colon cancer. Nature 368,
+258–261 (1994). 57. Papadopoulos, N. et al. Mutation of a mutL homolog in hereditary colon cancer.
+Science 263, 1625–1629 (1994).
+Signal Transduction and Targeted Therapy (2023)8:338
+58. Marabelle, A. et al. Efficacy of pembrolizumab in patients with noncolorectal high microsatellite instability/mismatch repair-deficient cancer: results from the phase II KEYNOTE-158 study. J. Clin. Oncol. 38, 1–10 (2020). 
+59. Mandal, R. et al. Genetic diversity of tumors with mismatch repair deficiency influences anti-PD-1 immunotherapy response. Science 364, 485–491 (2019). 
+60. Castilla, L. H. et al. Mutations in the BRCA1 gene in families with early-onset breast and ovarian cancer. Nat. Genet. 8, 387–391 (1994). 
+61. Wooster, R. et al. Identification of the breast cancer susceptibility gene BRCA2. Nature 378, 789–792 (1995). 
+62. Easton, D. F., Bishop, D. T., Ford, D. & Crockford, G. P. Genetic linkage analysis in familial breast and ovarian cancer: results from 214 families. The Breast Cancer Linkage Consortium. Am. J. Hum. Genet. 52, 678–701 (1993). 
+63. King, M. C., Marks, J. H. & Mandell, J. B. New York Breast Cancer Study, G. Breast and ovarian cancer risks due to inherited mutations in BRCA1 and BRCA2. Sci- ence 302, 643–646 (2003). 
+64. Ford, D., Easton, D. F., Bishop, D. T., Narod, S. A. & Goldgar, D. E. Risks of cancer in BRCA1-mutation carriers. Breast Cancer Linkage Consortium. Lancet 343, 692–695 (1994). 
+65. Deininger, P. Genetic instability in cancer: caretaker and gatekeeper genes. Ochsner J. 1, 206–209 (1999). 
+66. Matthews, H. K., Bertoli, C. & de Bruin, R. A. M. Cell cycle control in cancer. Nat. Rev. Mol. Cell. Biol. 23, 74–88 (2022). 
+67. Setton, J. et al. Synthetic lethality in cancer therapeutics: the next generation. Cancer Discov. 11, 1626–1635 (2021). 
+68. Brown, J. S., O’Carrigan, B., Jackson, S. P. & Yap, T. A. Targeting DNA repair in cancer: Beyond PARP inhibitors. Cancer Discov. 7, 20–37 (2017). 
+69. Sancar, A. Mechanisms of DNA Repair by Photolyase and Excision Nuclease (Nobel Lecture). Angew. Chem. Int. Ed. Engl. 55, 8502–8527 (2016). 
+70. Ramirez-Gamboa, D. et al. Photolyase production and current applications: a review. Molecules 27, 5998–6014 (2022). 
+71. Mishina, Y., Duguid, E. M. & He, C. Direct reversal of DNA alkylation damage. Chem. Rev. 106, 215–232 (2006). 
+72. Bai, P. et al. The dual role of DNA repair protein MGMT in cancer prevention and treatment. DNA Repair (Amst.) 123, 103449 (2023). 
+73. Yang, C. G. et al. Crystal structures of DNA/RNA repair enzymes AlkB and ABH2 bound to dsDNA. Nature 452, 961–965 (2008). 
+74. Li, Q. et al. Rhein Inhibits AlkB Repair Enzymes and Sensitizes Cells to Methylated DNA Damage. J. Biol. Chem. 291, 11083–11093 (2016). 
+75. Dianov, G. L. & Hubscher, U. Mammalian base excision repair: the forgotten archangel. Nucleic Acids Res. 41, 3483–3490 (2013). 
+76. Almeida, K. H. & Sobol, R. W. A unified view of base excision repair: lesion- dependent protein complexes regulated by post-translational modification. DNA Repair (Amst.) 6, 695–711 (2007). 
+77. Caldecott, K. W. DNA single-strand break repair and human genetic disease. Trends Cell Biol. 32, 733–745 (2022). 
+78. Caldecott, K. W. Single-strand break repair and genetic disease. Nat. Rev. Genet. 9, 619–631 (2008). 
+79. Scharer, O. D. Nucleotide excision repair in eukaryotes. Cold Spring Harb. Per- spect. Biol. 5, a012609 (2013). 
+80. Marteijn, J. A., Lans, H., Vermeulen, W. & Hoeijmakers, J. H. Understanding nucleotide excision repair and its roles in cancer and ageing. Nat. Rev. Mol. Cell. Biol. 15, 465–481 (2014). 
+81. Li, G. M. Mechanisms and functions of DNA mismatch repair. Cell Res. 18, 85–98 (2008). 
+82. Iyer, R. R., Pluciennik, A., Burdett, V. & Modrich, P. L. DNA mismatch repair: functions and mechanisms. Chem. Rev. 106, 302–323 (2006). 
+83. Sale, J. E. Translesion DNA synthesis and mutagenesis in eukaryotes. Cold Spring Harb. Perspect. Biol. 5, a012708 (2013). 
+84. Nepal, M., Che, R., Zhang, J., Ma, C. & Fei, P. Fanconi anemia signaling and cancer. Trends Cancer 3, 840–856 (2017). 
+85. Clauson, C., Scharer, O. D. & Niedernhofer, L. Advances in understanding the complex mechanisms of DNA interstrand cross-link repair. Cold Spring Harb. Perspect. Biol. 5, a012732 (2013). 
+86. Scully, R., Panday, A., Elango, R. & Willis, N. A. DNA double-strand break repair- pathway choice in somatic mammalian cells. Nat. Rev. Mol. Cell Biol. 20, 698–714 (2019). 
+87. Chapman, J. R., Taylor, M. R. & Boulton, S. J. Playing the end game: DNA double- strand break repair pathway choice. Mol. Cell 47, 497–510 (2012). 
+88. Wright, W. D., Shah, S. S. & Heyer, W. D. Homologous recombination and the repair of DNA double-strand breaks. J. Biol. Chem. 293, 10524–10535 (2018). 
+89. Zhao, B., Rothenberg, E., Ramsden, D. A. & Lieber, M. R. The molecular basis and disease relevance of non-homologous DNA end joining. Nat. Rev. Mol. Cell Biol. 21, 765–781 (2020). 
+90. Rossi, M. J., DiDomenico, S. F., Patel, M. & Mazin, A. V. RAD52: Paradigm of Synthetic Lethality and New Developments. Front. Genet. 12, 780293 (2021). 
+Signal Transduction and Targeted Therapy (2023)8:338
+A new wave of innovations within the DNA damage response Li et al.
+91. Ramsden, D. A., Carvajal-Garcia, J. & Gupta, G. P. Mechanism, cellular functions and cancer roles of polymerase-theta-mediated DNA end joining. Nat. Rev. Mol. Cell Biol. 23, 125–140 (2022).
+92. Suski, J. M., Braun, M., Strmiska, V. & Sicinski, P. Targeting cell-cycle machinery in cancer. Cancer Cell 39, 759–778 (2021).
+93. Groelly, F. J., Fawkes, M., Dagg, R. A., Blackford, A. N. & Tarsounas, M. Targeting DNA damage response pathways in cancer. Nat. Rev. Cancer 23, 78–94 (2023). 94. Branzei, D. & Foiani, M. Regulation of DNA repair throughout the cell cycle. Nat.
+Rev. Mol. Cell Biol. 9, 297–308 (2008). 95. Bai, P. Biology of Poly(ADP-Ribose) polymerases: the factotums of cell main-
+tenance. Mol. Cell 58, 947–958 (2015). 96. Vyas, S. et al. Family-wide analysis of poly(ADP-ribose) polymerase activity. Nat.
+Commun. 5, 4426 (2014). 97. Ray Chaudhuri, A. & Nussenzweig, A. The multifaceted roles of PARP1 in DNA
+repair and chromatin remodelling. Nat. Rev. Mol. Cell Biol. 18, 610–621 (2017). 98. Robu, M. et al. Role of poly(ADP-ribose) polymerase-1 in the removal of UV- induced DNA lesions by nucleotide excision repair. Proc. Natl Acad. Sci. USA 110,
+1658–1663 (2013). 99. Haince, J. F. et al. PARP1-dependent kinetics of recruitment of MRE11 and NBS1
+proteins to multiple DNA damage sites. J. Biol. Chem. 283, 1197–1208 (2008). 100. Mateos-Gomez, P. A. et al. Mammalian polymerase theta promotes alternative
+NHEJ and suppresses recombination. Nature 518, 254–257 (2015). 101. Sinha, S., Molla, S. & Kundu, C. N. PARP1-modulated chromatin remodeling is a
+new target for cancer treatment. Med. Oncol. 38, 118 (2021). 102. Jubin, T. et al. Poly ADP-ribose polymerase-1: Beyond transcription and towards
+differentiation. Semin. Cell Dev. Biol. 63, 167–179 (2017). 103. Bryant, H. E. et al. PARP is activated at stalled forks to mediate Mre11-dependent
+replication restart and recombination. EMBO J. 28, 2601–2615 (2009). 104. Kunze, F. A. & Hottiger, M. O. Regulating Immunity via ADP-Ribosylation: Ther-
+apeutic Implications and Beyond. Trends Immunol. 40, 159–173 (2019). 105. Bai, P. & Canto, C. The role of PARP-1 and PARP-2 enzymes in metabolic reg-
+ulation and disease. Cell Metab. 16, 290–295 (2012). 106. Vida, A., Abdul-Rahman, O., Miko, E., Brunyanszki, A. & Bai, P. Poly(ADP-Ribose)
+Polymerases in Aging - Friend or Foe? Curr. Protein Pept. Sci. 17, 705–712 (2016). 107. Farmer, H. et al. Targeting the DNA repair defect in BRCA mutant cells as a
+therapeutic strategy. Nature 434, 917–921 (2005). 108. Bryant, H. E. et al. Specific killing of BRCA2-deficient tumours with inhibitors of
+poly(ADP-ribose) polymerase. Nature 434, 913–917 (2005). 109. Syed, Y. Y. Rucaparib: First global approval. Drugs 77, 585–592 (2017). 110. Scott, L. J. Niraparib: First global approval. Drugs 77, 1029–1034 (2017). 111. Hoy, S. M. Talazoparib: First global approval. Drugs 78, 1939–1946 (2018). 112. Markham, A. Pamiparib: First approval. Drugs 81, 1343–1348 (2021). 113. Lee, A. Fuzuloparib: First approval. Drugs 81, 1221–1226 (2021). 114. Pommier, Y., O’Connor, M. J. & de Bono, J. Laying a trap to kill cancer cells: PARP
+inhibitors and their mechanisms of action. Sci. Transl. Med. 8, 362ps317 (2016). 115. Murai, J. et al. Trapping of PARP1 and PARP2 by clinical PARP inhibitors. Cancer
+Res. 72, 5588–5599 (2012). 116. Shen, Y., Aoyagi-Scharber, M. & Wang, B. Trapping Poly(ADP-Ribose) poly-
+merase. J. Pharmacol. Exp. Ther. 353, 446–457 (2015). 117. Krastev, D. B., Wicks, A. J. & Lord, C. J. PARP inhibitors - Trapped in a toxic love
+affair. Cancer Res. 81, 5605–5607 (2021). 118. Helleday, T. The underlying mechanism for the PARP and BRCA synthetic
+lethality: clearing up the misunderstandings. Mol. Oncol. 5, 387–393 (2011). 119. Strom, C. E. et al. Poly (ADP-ribose) polymerase (PARP) is not involved in base excision repair but PARP inhibition traps a single-strand intermediate. Nucleic
+Acids Res. 39, 3166–3175 (2011). 120. Murai, J. et al. Stereospecific PARP trapping by BMN 673 and comparison with
+olaparib and rucaparib. Mol. Cancer Ther. 13, 433–443 (2014). 121. Mariappan, L., Jiang, X. Y., Jackson, J. & Drew, Y. Emerging treatment options for
+ovarian cancer: focus on rucaparib. Int. J. Women’s Health 9, 913–924 (2017). 122. Zandarashvili, L. et al. Structural basis for allosteric PARP-1 retention on DNA
+breaks. Science 368, eaax6367 (2020). 123. LaFargue, C. J., Dal Molin, G. Z., Sood, A. K. & Coleman, R. L. Exploring and com-
+paring adverse events between PARP inhibitors. Lancet Oncol. 20, e15–e28 (2019). 124. Brown, J. S., Kaye, S. B. & Yap, T. A. PARP inhibitors: the race is on. Br. J. Cancer
+114, 713–715 (2016). 125. Kim, G. et al. FDA approval summary: olaparib monotherapy in patients with
+deleterious germline BRCA-mutated advanced ovarian cancer treated with three
+or more lines of chemotherapy. Clin. Cancer Res. 21, 4257–4261 (2015). 126. Balasubramaniam, S. et al. FDA approval summary: rucaparib for the treatment of patients with deleterious BRCA mutation-associated advanced ovarian can-
+cer. Clin. Cancer Res. 23, 7165–7170 (2017). 127. Moore, K. N. et al. Niraparib monotherapy for late-line treatment of ovarian
+cancer (QUADRA): a multicentre, open-label, single-arm, phase 2 trial. Lancet Oncol. 20, 636–648 (2019).
+21
+￼
+￼
+22
+A new wave of innovations within the DNA damage response Li et al.
+128. Poveda, A. et al. Olaparib tablets as maintenance therapy in patients with platinum-sensitive relapsed ovarian cancer and a BRCA1/2 mutation (SOLO2/ ENGOT-Ov21): a final analysis of a double-blind, randomised, placebo-con- trolled, phase 3 trial. Lancet Oncol. 22, 620–631 (2021). 
+129. Mirza, M. R. et al. Niraparib maintenance therapy in platinum-sensitive, recurrent ovarian cancer. N. Engl. J. Med. 375, 2154–2164 (2016). 
+130. Coleman, R. L. et al. Rucaparib maintenance treatment for recurrent ovarian carcinoma after response to platinum therapy (ARIEL3): a randomised, double- blind, placebo-controlled, phase 3 trial. Lancet 390, 1949–1961 (2017). 
+131. Sabatier, R. et al. Efficacy and safety of maintenance olaparib and bevacizumab in ovarian cancer patients aged >/=65 years from the PAOLA-1/ENGOT-ov25 trial. Eur. J. Cancer 181, 42–52 (2023). 
+132. Moore, K. et al. Maintenance olaparib in patients with newly diagnosed advanced ovarian cancer. N. Engl. J. Med. 379, 2495–2505 (2018). 
+133. Bellier, C. et al. Olaparib First-Line Maintenance Monotherapy in BRCA-Mutated Epithelial Ovarian Cancer: Descriptive Analysis of the First French Real-World Data Study. Drugs Real World Outcomes https://doi.org/10.1007/s40801-022- 00349-9 (2023). 
+134. Hodgson, D. R. et al. Candidate biomarkers of PARP inhibitor sensitivity in ovarian cancer beyond the BRCA genes. Br. J. Cancer 119, 1401–1409 (2018). 
+135. Mateo, J. et al. DNA-repair defects and olaparib in metastatic prostate cancer. N. Engl. J. Med. 373, 1697–1708 (2015). 
+136. Abida, W. et al. Non-BRCA DNA damage repair gene alterations and response to the PARP inhibitor rucaparib in metastatic castration-resistant prostate cancer: analysis from the phase II TRITON2 Study. Clin. Cancer Res. 26, 2487–2496 (2020). 
+137. Leo, E. et al. A head-to-head comparison of the properties of five clinical PARP inhibitors identifies new insights that can explain both the observed clinical efficacy and safety profiles. Proc. Am. Assoc. Cancer Res. 78, LB-273 (2018). 
+138. Farres, J. et al. PARP-2 sustains erythropoiesis in mice by limiting replicative stress in erythroid progenitors. Cell Death Differ. 22, 1144–1157 (2015). 
+139. Farres, J. et al. Parp-2 is required to maintain hematopoiesis following sublethal gamma-irradiation in mice. Blood 122, 44–54 (2013). 
+140. Menissier de Murcia, J. et al. Functional interaction between PARP-1 and PARP-2 in chromosome stability and embryonic development in mouse. EMBO J. 22, 2255–2263 (2003). 
+141. Zhong, Y. et al. Tankyrase inhibition causes reversible intestinal toxicity in mice with a therapeutic index < 1. Toxicol. Pathol. 44, 267–278 (2016). 
+142. Alessia, M. et al. NMS-P293, a novel potent and selective PARP-1 inhibitor with high antitumor efficacy and tolerability. Proc. Am. Assoc. Cancer Res. 76, 1223 (2016). 
+143. Montagnoli, A. et al. NMS-P293, a PARP-1 selective inhibitor with no trapping activity and high CNS penetration, possesses potent in vivo efficacy and represents a novel therapeutic option for brain localized metastases and glio- blastoma. Proc. Am. Assoc. Cancer Res. 78, 4843 (2018). 
+144. Illuzzi, G. et al. Preclinical characterization of AZD5305, a next generation, highly selective PARP1 inhibitor and trapper. Clin. Cancer Res. 28, 4724–4736 (2022). 
+145. Gill, S. J. et al. The novel PARP1-selective inhibitor AZD5305 has reduced hematological toxicity when compared to PARP1/2 inhibitors in pre-clinical models. Proc. Am. Assoc. Cancer Res. 81, 1374 (2021). 
+146. Yap, T. A. et al. PETRA: First in class, first in human trial of the next generation PARP1-selective inhibitor AZD5305 in patients (pts) with BRCA1/2, PALB2 or RAD51C/D mutations. Proc. Am. Assoc. Cancer Res. 82, CT007 (2022). 
+147. Ghosh, A. et al. Structure-based and property-based drug design of AZD9574, a CNS penetrant PARP1 selective inhibitor and trapper. Proc. Am. Assoc. Cancer Res. 82, 6302 (2022). 
+148. Jamal, K. et al. AZD9574 is a novel, brain penetrant PARP-1 selective inhibitor with activity in an orthotopic, intracranial xenograft model with aberrant DNA repair. Proc. Am. Assoc. Cancer Res. 82, 2609 (2022). 
+149. Andy, P. et al. Evaluation of the CNS penetration of a next generation PARP inhibitor, AZD9574, in cynomolgus monkey using positron emission tomo- graphy. Proc. Am. Assoc. Cancer Res. 82, 5076 (2022). 
+150. Lecona, E. & Fernandez-Capetillo, O. Targeting ATR in cancer. Nat. Rev. Cancer 18, 586–595 (2018). 
+151. Saldivar, J. C., Cortez, D. & Cimprich, K. A. The essential kinase ATR: ensuring faithful duplication of a challenging genome. Nat. Rev. Mol. Cell Biol. 18, 622–636 (2017). 
+152. Cimprich, K. A. & Cortez, D. ATR: an essential regulator of genome integrity. Nat. Rev. Mol. Cell Biol. 9, 616–627 (2008). 
+153. Karnitz, L. M. & Zou, L. Molecular pathways: targeting ATR in cancer therapy. Clin. Cancer Res. 21, 4780–4785 (2015). 
+154. Barnieh, F. M., Loadman, P. M. & Falconer, R. A. Progress towards a clinically- successful ATR inhibitor for cancer therapy. Curr. Res. Pharmacol. Drug Discov. 2, 100017 (2021). 
+155. Knegtel, R. et al. Rational Design of 5-(4-(Isopropylsulfonyl)phenyl)-3-(3-(4- ((methylamino)methyl)phenyl)isoxazol-5-yl)pyrazin-2-amine (VX-970, M6620): 
+Optimization of Intra- and Intermolecular Polar Interactions of a New Ataxia Telangiectasia Mutated and Rad3-Related (ATR) Kinase Inhibitor. J. Med. Chem. 62, 5547–5561 (2019).
+156. Foote, K. M. et al. Discovery and characterization of AZD6738, a potent inhibitor of ataxia telangiectasia mutated and rad3 related (ATR) kinase with application as an anticancer agent. J. Med. Chem. 61, 9889–9907 (2018).
+157. Lucking, U. et al. Damage incorporated: discovery of the potent, highly selective, orally available ATR Inhibitor BAY 1895344 with favorable pharmacokinetic properties and promising efficacy in monotherapy and in combination treat- ments in preclinical tumor models. J. Med. Chem. 63, 7293–7325 (2020).
+158. Jo, U. et al. Novel and Highly Potent ATR Inhibitor M4344 Kills Cancer Cells With Replication Stress, and Enhances the Chemotherapeutic Activity of Widely Used DNA Damaging Agents. Mol. Cancer Ther. 20, 1431–1441 (2021).
+159. Feng, X. et al. ATR inhibition potentiates ionizing radiation-induced interferon response via cytosolic nucleic acid-sensing pathways. EMBO J. 39, e104036 (2020).
+160. Vendetti, F. P. et al. ATR kinase inhibitor AZD6738 potentiates CD8+ T cell- dependent antitumor activity following radiation. J. Clin. Invest. 128, 3926–3940 (2018).
+161. Wengner, A. M. et al. Synergistic activity of the ATR inhibitor BAY1895344 in combination with immune checkpoint inhibitors in preclinical tumor models. Proc. Am. Assoc. Cancer Res. 79, 272 (2019).
+162. Dillon, M. T. et al. CT084: A Phase I dose-escalation study of ATR inhibitor monotherapy with AZD6738 in advanced solid tumors (PATRIOT Part A). Proc. Am. Assoc. Cancer Res. 77, CT084 (2017).
+163. Yap, T. A. et al. First-in-Human Trial of the Oral Ataxia Telangiectasia and RAD3- Related (ATR) Inhibitor BAY 1895344 in Patients with Advanced Solid Tumors. Cancer Discov. 11, 80–91 (2021).
+164. Fontana, E. et al. 5MO Comprehensive dose-finding strategy for single-agent RP- 3500, a highly selective inhibitor of ataxia telangiectasia and Rad3-related (ATR) kinase. Ann. Oncol. 33, 5MO (2022).
+165. Shapiro, G. I. et al. Phase 1 study of the ATR inhibitor berzosertib in combination with cisplatin in patients with advanced solid tumours. Br. J. Cancer 125, 520–527 (2021).
+166. Gorecki, L., Andrs, M., Rezacova, M. & Korabecny, J. Discovery of ATR kinase inhibitor berzosertib (VX-970, M6620): Clinical candidate for cancer therapy. Pharmacol. Ther. 210, 107518 (2020).
+167. Plummer, R. et al. A phase 1b study evaluating the safety and preliminary efficacy of berzosertib in combination with gemcitabine in patients with advanced non-small cell lung cancer. Lung Cancer 163, 19–26 (2022).
+168. Konstantinopoulos, P. A. et al. Berzosertib plus gemcitabine versus gemcitabine alone in platinum-resistant high-grade serous ovarian cancer: a multicentre, open-label, randomised, phase 2 trial. Lancet Oncol. 21, 957–968 (2020).
+169. Thomas, A. et al. Therapeutic targeting of ATR yields durable regressions in small cell lung cancers with high replication stress. Cancer Cell 39, 566–579.e567 (2021).
+170. Kim, S. T. et al. Phase I Study of Ceralasertib (AZD6738), a Novel DNA Damage Repair Agent, in Combination with Weekly Paclitaxel in Refractory Cancer. Clin. Cancer Res. 27, 4700–4709 (2021).
+171. Kim, R. et al. Phase II study of ceralasertib (AZD6738) in combination with durvalumab in patients with advanced/metastatic melanoma who have failed prior anti-PD-1 therapy. Ann. Oncol. 33, 193–203 (2022).
+172. Kwon, M. et al. Phase II study of ceralasertib (AZD6738) in combination with durvalumab in patients with advanced gastric cancer. J. Immunologist. Cancer 10, e005041 (2022).
+173. Wethington, S. L. et al. Combination of PARP and ATR inhibitors (olaparib and ceralasertib) shows clinical activity in acquired PARP inhibitor-resistant recurrent ovarian cancer. J. Clin. Onco. 39, 5516 (2021).
+174. Sehhoon, P. et al. The clinical efficacy of olaparib monotherapy or combination with ceralasertib (AZD6738) in relapsed small cell lung cancer. J. Clin. Onco. 39, 8562 (2021).
+175. Dean, E. et al. Ceralasertib (cer) in combination with olaparib (ola) in patients (pts) with advanced breast cancer (BC): Results of phase I expansion cohorts. Proc. Am. Assoc. Cancer Res. 81, PS11-18 (2021).
+176. Wengner, A. M. et al. The Novel ATR Inhibitor BAY 1895344 Is Efficacious as Monotherapy and Combined with DNA Damage-Inducing or Repair- Compromising Therapies in Preclinical Cancer Models. Mol. Cancer Ther. 19, 26–38 (2020).
+177. Yap, T. A. et al. Phase Ib expansion trial of the safety and efficacy of the oral ataxia telangiectasia and Rad3-related (ATR) inhibitor elimusertib in advanced solid tumors with DNA damage response (DDR) defects. Proc. Am. Assoc. Cancer Res. 82, CT006 (2022).
+178. Wengner, A. M. et al. Optimization of treatment schedule for the combination therapy of ATR inhibitor elimusertib and PARP inhibitor niraparib in preclinical tumor models. Proc. Am. Assoc. Cancer Res. 83, 311 (2023).
+Signal Transduction and Targeted Therapy (2023)8:338
+179. Yap, T. A. et al. Genomic and pathologic determinants of response to RP-3500, an ataxia telangiectasia and Rad3-related inhibitor (ATRi), in patients (pts) with DNA damage repair (DDR) loss-of-function (LOF) mutant tumors in the Phase 1/ 2 TRESR trial. Proc. Am. Assoc. Cancer Res. 82, CT030 (2022). 
+180. Roulston, A. et al. RP-3500: A Novel, Potent, and Selective ATR Inhibitor that is Effective in Preclinical Models as a Monotherapy and in Combination with PARP Inhibitors. Mol. Cancer Ther. 21, 245–256 (2022). 
+181. Matheson, C. J., Backos, D. S. & Reigan, P. Targeting WEE1 Kinase in Cancer. Trends Pharmacol. Sci. 37, 872–881 (2016). 
+182. Geenen, J. J. J. & Schellens, J. H. M. Molecular Pathways: Targeting the Protein Kinase Wee1 in Cancer. Clin. Cancer Res. 23, 4540–4544 (2017). 
+183. Dominguez-Kelly, R. et al. Wee1 controls genomic stability during replication by regulating the Mus81-Eme1 endonuclease. J. Cell Biol. 194, 567–579 (2011). 
+184. Beck, H. et al. Cyclin-dependent kinase suppression by WEE1 kinase protects the genome through control of replication initiation and nucleotide consumption. Mol. Cell Biol. 32, 4226–4236 (2012). 
+185. Wang, Y., Decker, S. J. & Sebolt-Leopold, J. Knockdown of Chk1, Wee1 and Myt1 by RNA interference abrogates G2 checkpoint and induces apoptosis. Cancer Biol. Ther. 3, 305–313 (2004). 
+186. Guertin, A. D. et al. Preclinical evaluation of the WEE1 inhibitor MK-1775 as single-agent anticancer therapy. Mol. Cancer Ther. 12, 1442–1452 (2013). 
+187. Hirai, H. et al. Small-molecule inhibition of Wee1 kinase by MK-1775 selectively  sensitizes p53-deficient tumor cells to DNA-damaging agents. Mol. Cancer Ther.  8, 2992–3000 (2009). 
+188. Rajeshkumar, N. V. et al. MK-1775, a potent Wee1 inhibitor, synergizes with  gemcitabine to achieve tumor regressions, selectively in p53-deficient pan-  creatic cancer xenografts. Clin. Cancer Res. 17, 2799–2806 (2011). 
+189. Kreahling, J. M. et al. MK1775, a selective Wee1 inhibitor, shows single-agent antitumor activity against sarcoma cells. Mol. Cancer Ther. 11, 174–182 (2012). 
+190. Wright, G. et al. Dual Targeting of WEE1 and PLK1 by AZD1775 Elicits Single  Agent Cellular Anticancer Activity. ACS Chem. Biol. 12, 1883–1892 (2017). 
+191. Do, K. et al. Phase I Study of Single-Agent AZD1775 (MK-1775), a Wee1 Kinase Inhibitor, in Patients With Refractory Solid Tumors. J. Clin. Oncol. 33, 3409–3415  (2015). 
+192. Leijen, S. et al. Phase I Study Evaluating WEE1 Inhibitor AZD1775 As Mono-  therapy and in Combination With Gemcitabine, Cisplatin, or Carboplatin in  Patients With Advanced Solid Tumors. J. Clin. Oncol. 34, 4371–4380 (2016). 
+193. Liu, J. F. et al. Phase II Study of the WEE1 Inhibitor Adavosertib in Recurrent  Uterine Serous Carcinoma. J. Clin. Oncol. 39, 1531–1539 (2021). 
+194. Lheureux, S. et al. Adavosertib plus gemcitabine for platinum-resistant or platinum-refractory recurrent ovarian cancer: a double-blind, randomised, pla-  cebo-controlled, phase 2 trial. Lancet 397, 281–292 (2021). 
+195. Westin, S. N. et al. EFFORT: EFFicacy Of adavosertib in parp ResisTance: A ran- domized two-arm non-comparative phase II study of adavosertib with or without olaparib in women with PARP-resistant ovarian cancer. J. Clin. Oncol. 39,  5505 (2021). 
+196. Cuneo, K. C. et al. Dose Escalation Trial of the Wee1 Inhibitor Adavosertib  (AZD1775) in Combination With Gemcitabine and Radiation for Patients With  Locally Advanced Pancreatic Cancer. J. Clin. Oncol. 37, 2643–2650 (2019). 
+197. Huang, P. Q. et al. Discovery of ZN-c3, a Highly Potent and Selective Wee1 Inhibitor Undergoing Evaluation in Clinical Trials for the Treatment of Cancer. J.  Med. Chem. 64, 13004–13024 (2021). 
+198. O’Dowd, C. et al. Antitumor activity of the novel oral highly selective Wee1  inhibitor Debio 0123. Proc. Am. Assoc. Cancer Res. 79, 4423 (2019). 
+199. Meric-Bernstam, F. et al. Safety and clinical activity of single-agent ZN-c3, an oral WEE1 inhibitor, in a phase 1 trial in subjects with recurrent or advanced uterine  serous carcinoma (USC). Proc. Am. Assoc. Cancer Res. 82, CT029 (2022). 
+200. Pasic, A. et al. A phase 1b dose-escalation study of ZN-c3, a WEE1 inhibitor, in combination with chemotherapy (CT) in subjects with platinum-resistant or refractory ovarian, peritoneal, or fallopian tube cancer. Proc. Am. Assoc. Cancer  Res. 82, CT148 (2022). 
+201. Ma, J. et al. Cyclin E1 protein overexpression sensitizes ovarian cancer cells to  ZN-c3, a novel, selective and oral bioavailable inhibitor of Wee1. Proc. Am. Assoc.  Cancer Res. 83, 2153 (2023). 
+202. Piggott, L., Chessex, A. V., Luong, N., Tschumi, B. & Vuagniaux, G. The WEE1  inhibitor Debio 0123 enhances the efficacy of standard of care DNA damaging  agents in lung cancer models. Proc. Am. Assoc. Cancer Res. 82, 2303 (2022). 
+203. Gelderblom, H. et al. 84P Pharmacodynamic marker modulation of the selective WEE1 inhibitor Debio 0123 in patient biopsies from phase I clinical trial. Ann.  Oncol. 33, 84P (2022). 
+204. Piggott, L. et al. Debio 0123 is a selective WEE1 inhibitor that effectively  penetrates the brain and demonstrates anti-tumor activity in preclinical models  of glioblastoma. Proc. Am. Assoc. Cancer Res. 83, 6185 (2023). 
+205. Weber, A. M. & Ryan, A. J. ATM and ATR as therapeutic targets in cancer.  Pharmacol. Ther. 149, 124–138 (2015). 
+Signal Transduction and Targeted Therapy (2023)8:338
+A new wave of innovations within the DNA damage response Li et al.
+206. Lavin, M. F. Ataxia-telangiectasia: from a rare disorder to a paradigm for cell signalling and cancer. Nat. Rev. Mol. Cell Biol. 9, 759–769 (2008).
+207. Lee, J. H. & Paull, T. T. Cellular functions of the protein kinase ATM and their relevance to human disease. Nat. Rev. Mol. Cell Biol. 22, 796–814 (2021). 208. Shiloh, Y. & Ziv, Y. The ATM protein kinase: regulating the cellular response to
+genotoxic stress, and more. Nat. Rev. Mol. Cell Biol. 14, 197–210 (2013). 209. Alvarez-Quilon, A. et al. ATM specifically mediates repair of double-strand breaks
+with blocked DNA ends. Nat. Commun. 5, 3347 (2014). 210. Pike, K. G. The Identification of Potent, Selective, and Orally Available Inhibitors
+of Ataxia Telangiectasia Mutated (ATM) Kinase: The Discovery of AZD0156 (8-{6- [3-(Dimethylamino)propoxy]pyridin-3-yl}-3-methyl-1-(tetrahydro-2 H-pyran-4- yl)-1,3-dihydro-2 H-imidazo[4,5- c]quinolin-2-one. J. Med. Chem 61, 3823–3841 (2018).
+211. Riches, L. C. et al. Pharmacology of the ATM Inhibitor AZD0156: Potentiation of Irradiation and Olaparib Responses Preclinically. Mol. Cancer Ther. 19, 13–25 (2020).
+212. Chen, Y. et al. Adaptive oncology phase 1 study of first-in-class inhibitor of ataxia telangiectasia mutated protein kinase (ATM), in combination with ola- parib. Proc. Am. Assoc. Cancer Res. 78, 4909 (2018).
+213. Durant, S. T. et al. The brain-penetrant clinical ATM inhibitor AZD1390 radio- sensitizes and improves survival of preclinical brain tumor models. Sci. Adv. 4, eaat1719 (2018).
+214. Jucaite, A. et al. Brain exposure of the ATM inhibitor AZD1390 in humans-a positron emission tomography study. Neuro Oncol. 23, 687–696 (2021).
+215. Zimmermann, A. et al. A New Class of Selective ATM Inhibitors as Combination Partners of DNA Double-Strand Break Inducing Cancer Therapies. Mol. Cancer Ther. 21, 859–870 (2022).
+216. Ali, M. et al. Small-molecule targeted therapies induce dependence on DNA double-strand break repair in residual tumor cells. Sci. Transl. Med. 14, eabc7480 (2022).
+217. Yue, X., Bai, C., Xie, D., Ma, T. & Zhou, P. K. DNA-PKcs: A Multi-Faceted Player in DNA Damage Response. Front. Genet. 11, 607428 (2020).
+218. Mohiuddin, I. S. & Kang, M. H. DNA-PK as an Emerging Therapeutic Target in Cancer. Front. Oncol. 9, 635 (2019).
+219. Lin, Y. F., Shih, H. Y., Shang, Z., Matsunaga, S. & Chen, B. P. DNA-PKcs is required to maintain stability of Chk1 and Claspin for optimal replication stress response. Nucleic Acids Res. 42, 4463–4473 (2014).
+220. Woodard, R. L., Anderson, M. G. & Dynan, W. S. Nuclear extracts lacking DNA- dependent protein kinase are deficient in multiple round transcription. J. Biol. Chem. 274, 478–485 (1999).
+221. Fisher, T. S. & Zakian, V. A. Ku: a multifunctional protein involved in telomere maintenance. DNA Repair (Amst.) 4, 1215–1226 (2005).
+222. Sui, J. et al. DNA-PKcs phosphorylates hnRNP-A1 to facilitate the RPA-to-POT1 switch and telomere capping after replication. Nucleic Acids Res. 43, 5971–5983 (2015).
+223. Ferguson, B. J., Mansur, D. S., Peters, N. E., Ren, H. & Smith, G. L. DNA-PK is a DNA sensor for IRF-3-dependent innate immunity. Elife 1, e00047 (2012).
+224. Blunt, T. et al. Defective DNA-dependent protein kinase activity is linked to V(D)J recombination and DNA repair defects associated with the murine scid muta- tion. Cell 80, 813–823 (1995).
+225. Schwartz, C., Rohr, O. & Wallet, C. Targeting the DNA-PK complex: Its rationale use in cancer and HIV-1 infection. Biochem. Pharmacol. 160, 80–91 (2019).
+226. Damia, G. Targeting DNA-PK in cancer. Mutat. Res. 821, 111692 (2020). 227. Hu, S. et al. Small molecule DNA-PK inhibitors as potential cancer therapy: a
+patent review (2010-present). Expert Opin. Ther. Pat. 31, 435–452 (2021). 228. Zenke, F. T. et al. Pharmacologic Inhibitor of DNA-PK, M3814, Potentiates Radiotherapy and Regresses Human Tumors in Mouse Models. Mol. Cancer Ther.
+19, 1091–1101 (2020). 229. Fok, J. H. L. et al. AZD7648 is a potent and selective DNA-PK inhibitor that
+enhances radiation, chemotherapy and olaparib activity. Nat. Commun. 10, 5065
+(2019). 230. van Bussel, M. T. J. et al. A first-in-man phase 1 study of the DNA-dependent
+protein kinase inhibitor peposertib (formerly M3814) in patients with advanced
+solid tumours. Br. J. Cancer 124, 728–735 (2021). 231. Mau-Sorensen, M. et al. Safety, clinical activity and pharmacological biomarker
+evaluation of the DNA-dependent protein kinase (DNA-PK) inhibitor M3814:
+Results from two phase I trials. Ann. Oncol. 29, 5396 (2018). 232. Bartek, J. & Lukas, J. Chk1 and Chk2 kinases in checkpoint control and cancer.
+Cancer Cell 3, 421–429 (2003). 233. Neizer-Ashun, F. & Bhattacharya, R. Reality CHEK: Understanding the biology
+and clinical potential of CHK1. Cancer Lett. 497, 202–211 (2021). 234. Dent, P. Investigational CHK1 inhibitors in early phase clinical trials for the
+treatment of cancer. Expert Opin. Investig. Drugs 28, 1095–1100 (2019). 235. King, C. et al. LY2606368 Causes Replication Catastrophe and Antitumor Effects through CHK1-Dependent Mechanisms. Mol. Cancer Ther. 14, 2004–2013 (2015).
+23
+￼
+￼
+24
+A new wave of innovations within the DNA damage response Li et al.
+236. Parmar, K. et al. The CHK1 Inhibitor Prexasertib Exhibits Monotherapy Activity in High-Grade Serous Ovarian Cancer Models and Sensitizes to PARP Inhibition. Clin. Cancer Res. 25, 6127–6140 (2019). 
+237. Sen, T. et al. CHK1 Inhibition in Small-Cell Lung Cancer Produces Single-Agent Activity in Biomarker-Defined Disease Subsets and Combination Activity with Cisplatin or Olaparib. Cancer Res. 77, 3870–3884 (2017). 
+238. Lowery, C. D. et al. Broad Spectrum Activity of the Checkpoint Kinase 1 Inhibitor Prexasertib as a Single Agent or Chemopotentiator Across a Range of Preclinical Pediatric Tumor Models. Clin. Cancer Res. 25, 2278–2289 (2019). 
+239. Lowery, C. D. et al. The Checkpoint Kinase 1 Inhibitor Prexasertib Induces Regression of Preclinical Models of Human Neuroblastoma. Clin. Cancer Res. 23, 4354–4363 (2017). 
+240. Hong, D. et al. Phase I Study of LY2606368, a Checkpoint Kinase 1 Inhibitor, in Patients With Advanced Cancer. J. Clin. Oncol. 34, 1764–1771 (2016). 
+241. Zurcher, G. et al. A phase II study of prexasertib, a cell cycle checkpoint kinase 1 (CHK1) inhibitor, in platinum-resistant recurrent high-grade serous ovarian cancer (HGSOC) with BRCA wild-type (BRCAwt). Proc. Am. Assoc. Cancer Res. 82, CT113 (2022). 
+242. Miller, W. H. et al. A phase Ib study of oral Chk1 inhibitor LY2880070 as monotherapy in patients with advanced or metastatic cancer. J. Clin. Oncol. 38, 3579 (2020). 
+243. Quincy, S. C. et al. A phase Ib study of oral Chk1 inhibitor LY2880070 in com- bination with gemcitabine in patients with advanced or metastatic cancer. J. Clin. Oncol. 38, 3581 (2020). 
+244. Xin, G. et al. Discovery of a novel and oral CHK1 inhibitor for the treatment of solid tumors. Proc. Am. Assoc. Cancer Res. 83, 482 (2023). 
+245. Schmidt, M. et al. Regulation of G2/M Transition by Inhibition of WEE1 and PKMYT1 Kinases. Molecules 22, 2045–2061 (2017). 
+246. Ghelli Luserna di Rora, A., Cerchione, C., Martinelli, G. & Simonetti, G. A WEE1 family business: regulation of mitosis, cancer progression, and therapeutic tar- get. J. Hematol. Oncol. 13, 126 (2020). 
+247. Tominaga, Y., Li, C., Wang, R. H. & Deng, C. X. Murine Wee1 plays a critical role in cell cycle regulation and pre-implantation stages of embryonic development. Int. J. Biol. Sci. 2, 161–170 (2006). 
+248. Gallo, D. et al. CCNE1 amplification is synthetic lethal with PKMYT1 kinase inhibition. Nature 604, 749–756 (2022). 
+249. Szychowski, J. et al. Discovery of an Orally Bioavailable and Selective PKMYT1 Inhibitor, RP-6306. J. Med. Chem. 65, 10251–10284 (2022). 
+250. Zhang, J., Zhang, L., Wang, J., Ouyang, L. & Wang, Y. Polo-like Kinase 1 Inhibitors in Human Cancer Therapy: Development and Therapeutic Potential. J. Med. Chem. 65, 10133–10160 (2022). 
+251. Chiappa, M. et al. Present and Future Perspective on PLK1 Inhibition in Cancer Treatment. Front. Oncol. 12, 903016 (2022). 
+252. Seki, A., Coppinger, J. A., Jang, C. Y., Yates, J. R. & Fang, G. Bora and the kinase Aurora a cooperatively activate the kinase Plk1 and control mitotic entry. Science 320, 1655–1658 (2008). 
+253. Schmucker, S. & Sumara, I. Molecular dynamics of PLK1 during mitosis. Mol. Cell Oncol. 1, e954507 (2014). 
+254. Lee, M., Daniels, M. J. & Venkitaraman, A. R. Phosphorylation of BRCA2 by the Polo-like kinase Plk1 is regulated by DNA damage and mitotic progression. Oncogene 23, 865–872 (2004). 
+255. Chabalier-Taste, C. et al. Polo-like kinase 1 mediates BRCA1 phosphorylation and recruitment at DNA double-strand breaks. Oncotarget 7, 2269–2283 (2016). 
+256. Liu, Z., Sun, Q. & Wang, X. PLK1, A Potential Target for Cancer Therapy. Transl. Oncol. 10, 22–32 (2017). 
+257. Lemmens, B. et al. DNA Replication Determines Timing of Mitosis by Restricting CDK1 and PLK1 Activation. Mol. Cell 71, 117–128 e113 (2018). 
+258. Watanabe, N. et al. Cyclin-dependent kinase (CDK) phosphorylation destabilizes somatic Wee1 via multiple pathways. Proc. Natl Acad. Sci. USA 102, 11663–11668 (2005). 
+259. Qin, B., Gao, B., Yu, J., Yuan, J. & Lou, Z. Ataxia telangiectasia-mutated- and Rad3- related protein regulates the DNA damage-induced G2/M checkpoint through the Aurora A cofactor Bora protein. J. Biol. Chem. 288, 16139–16144 (2013). 
+260. Yata, K. et al. Plk1 and CK2 act in concert to regulate Rad51 during DNA double strand break repair. Mol. Cell 45, 371–383 (2012). 
+261. Peng, B. et al. PARP1 and CHK1 coordinate PLK1 enzymatic activity during the DNA damage response to promote homologous recombination-mediated repair. Nucleic Acids Res. 49, 7554–7570 (2021). 
+262. Fu, Z. & Wen, D. The Emerging Role of Polo-Like Kinase 1 in Epithelial-Mesenchymal Transition and Tumor Metastasis. Cancers (Basel) 9, 131–145 (2017). 
+263. Ruf, S. et al. PLK1 (polo like kinase 1) inhibits MTOR complex 1 and promotes autophagy. Autophagy 13, 486–505 (2017). 
+264. Matthess, Y., Raab, M., Knecht, R., Becker, S. & Strebhardt, K. Sequential Cdk1 and Plk1 phosphorylation of caspase-8 triggers apoptotic cell death during mitosis. Mol. Oncol. 8, 596–608 (2014). 
+265. Li, M., Liu, Z. & Wang, X. Exploration of the Combination of PLK1 Inhibition with Immunotherapy in Cancer Treatment. J. Oncol. 2018, 3979527 (2018).
+266. Elsayed, I. & Wang, X. PLK1 inhibition in cancer therapy: potentials and chal- lenges. Future Med. Chem. 11, 1383–1386 (2019).
+267. Lansing, T. J. et al. In vitro biological activity of a novel small-molecule inhibitor of polo-like kinase 1. Mol. Cancer Ther. 6, 450–459 (2007).
+268. Bahassi el, M. Polo-like kinases and DNA damage checkpoint: beyond the tra- ditional mitotic functions. Exp. Biol. Med. (Maywood) 236, 648–657 (2011). 269. Rudolph, D. et al. BI 6727, a Polo-like kinase inhibitor with improved pharma-
+cokinetic profile and broad antitumor activity. Clin. Cancer Res. 15, 3094–3102
+(2009). 270. Schoffski, P. et al. A phase I, dose-escalation study of the novel Polo-like kinase
+inhibitor volasertib (BI 6727) in patients with advanced solid tumours. Eur. J.
+Cancer 48, 179–186 (2012). 271. Van den Bossche, J. et al. Spotlight on Volasertib: Preclinical and Clinical Eva-
+luation of a Promising Plk1 Inhibitor. Med. Res. Rev. 36, 749–786 (2016). 272. Dohner, H. et al. Randomized, phase 2 trial of low-dose cytarabine with or without volasertib in AML patients not suitable for induction therapy. Blood 124,
+1426–1433 (2014). 273. Valsasina, B. et al. NMS-P937, an orally available, specific small-molecule polo-
+like kinase 1 inhibitor with antitumor activity in solid and hematologic malig-
+nancies. Mol. Cancer Ther. 11, 1006–1016 (2012). 274. Beria, I. et al. NMS-P937, a 4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline derivative
+as potent and selective Polo-like kinase 1 inhibitor. Bioorg. Med. Chem. Lett. 21,
+2969–2974 (2011). 275. Weiss, G. J. et al. Phase I dose escalation study of NMS-1286937, an orally
+available Polo-Like Kinase 1 inhibitor, in patients with advanced or metastatic
+solid tumors. Invest. N. Drugs 36, 85–95 (2018). 276. Luo, J. et al. A genome-wide RNAi screen identifies multiple synthetic lethal
+interactions with the Ras oncogene. Cell 137, 835–848 (2009). 277. Ahn, D. H. et al. 436P Phase Ib/II study of the polo-like kinase 1 (PLK1) inhibitor, onvansertib, in combination with FOLFIRI and bevacizumab for second line treatment of KRAS-mutated metastatic colorectal cancer. Ann. Oncol. 31, 436P
+(2020). 278. Lenz, H. J., Ridinger, M., Samuelsz, E., Smeal, T. & Ahn, D. 397P Early decreases in
+KRAS mutant allele frequency (MAF) predicts clinical benefit to the PLK1 inhi- bitor onvansertib in combination with FOLFIRI/bev in 2L treatment of metastatic colorectal carcinoma (mCRC). Ann. Oncol. 33, 397P (2022).
+279. Damodaran, A. P., Vaufrey, L., Gavard, O. & Prigent, C. Aurora A Kinase Is a Priority Pharmaceutical Target for the Treatment of Cancers. Trends Pharmacol. Sci. 38, 687–700 (2017).
+280. Pradhan, T., Gupta, O., Singh, G. & Monga, V. Aurora kinase inhibitors as potential anticancer agents: Recent advances. Eur. J. Med. Chem. 221, 113495 (2021).
+281. Magnaghi-Jaulin, L., Eot-Houllier, G., Gallaud, E. & Giet, R. Aurora A Protein Kinase: To the Centrosome and Beyond. Biomolecules 9, 28–46 (2019).
+282. Borah, N. A. & Reddy, M. M. Aurora Kinase B Inhibition: A Potential Therapeutic Strategy for Cancer. Molecules 26, 1981–2010 (2021).
+283. Yang, K. T., Tang, C. J. & Tang, T. K. Possible Role of Aurora-C in Meiosis. Front. Oncol. 5, 178 (2015).
+284. Yang, G. et al. Aurora kinase A promotes ovarian tumorigenesis through dys- regulation of the cell cycle and suppression of BRCA2. Clin. Cancer Res. 16, 3171–3181 (2010).
+285. Katayama, H. et al. Aurora kinase-A inactivates DNA damage-induced apoptosis and spindle assembly checkpoint response functions of p73. Cancer Cell 21, 196–211 (2012).
+286. Mou, P. K. et al. Aurora kinase A, a synthetic lethal target for precision cancer medicine. Exp. Mol. Med. 53, 835–847 (2021).
+287. Yan, M. et al. Aurora-A Kinase: A Potent Oncogene and Target for Cancer Therapy. Med. Res. Rev. 36, 1036–1079 (2016).
+288. Shah, K. N. et al. Aurora kinase A drives the evolution of resistance to third- generation EGFR inhibitors in lung cancer. Nat. Med. 25, 111–118 (2019). 289. Donnella, H. J. et al. Kinome rewiring reveals AURKA limits PI3K-pathway inhi-
+bitor efficacy in breast cancer. Nat. Chem. Biol. 14, 768–777 (2018). 290. Xue, J. Y. et al. Rapid non-uniform adaptation to conformation-specific
+KRAS(G12C) inhibition. Nature 577, 421–425 (2020). 291. Manfredi, M. G. et al. Characterization of Alisertib (MLN8237), an investigational
+small-molecule inhibitor of aurora A kinase using novel in vivo pharmacody-
+namic assays. Clin. Cancer Res. 17, 7614–7624 (2011). 292. Niu, H., Manfredi, M. & Ecsedy, J. A. Scientific Rationale Supporting the Clinical
+Development Strategy for the Investigational Aurora A Kinase Inhibitor Alisertib
+in Cancer. Front. Oncol. 5, 189 (2015). 293. Dees, E. C. et al. Phase I study of aurora A kinase inhibitor MLN8237 in advanced
+solid tumors: safety, pharmacokinetics, pharmacodynamics, and bioavailability of two oral formulations. Clin. Cancer Res. 18, 4775–4784 (2012).
+Signal Transduction and Targeted Therapy (2023)8:338
+294. Liewer, S. & Huddleston, A. Alisertib: a review of pharmacokinetics, efficacy and toxicity in patients with hematologic malignancies and solid tumors. Expert Opin. Investig. Drugs 27, 105–112 (2018). 
+295. O’Connor, O. A. et al. Randomized Phase III Study of Alisertib or Investigator’s Choice (Selected Single Agent) in Patients With Relapsed or Refractory Periph- eral T-Cell Lymphoma. J. Clin. Oncol. 37, 613–623 (2019). 
+296. Elamin, Y. Y. et al. Results of a phase 1b study of osimertinib plus sapanisertib or alisertib for osimertinib-resistant, EGFR-mutant non–small cell lung cancer (NSCLC). J. Clin. Oncol. 40, 9105 (2022). 
+297. Du, J. et al. Aurora A-Selective Inhibitor LY3295668 Leads to Dominant Mitotic Arrest, Apoptosis in Cancer Cells, and Shows Potent Preclinical Antitumor Effi- cacy. Mol. Cancer Ther. 18, 2207–2219 (2019). 
+298. Toufektchan, E. & Toledo, F. The Guardian of the Genome Revisited: p53 Downregulates Genes Required for Telomere Maintenance, DNA Repair, and Centromere Structure. Cancers (Basel) 10, 135–149 (2018). 
+299. Levine, A. J. The many faces of p53: something for everyone. J. Mol. Cell Biol. 11, 524–530 (2019). 
+300. Bouaoun, L. et al. TP53 Variations in Human Cancers: New Lessons from the IARC TP53 Database and Genomics Data. Hum. Mutat. 37, 865–876 (2016). 
+301. Baugh, E. H., Ke, H., Levine, A. J., Bonneau, R. A. & Chan, C. S. Why are there hotspot mutations in the TP53 gene in human cancers? Cell Death Differ. 25, 154–160 (2018). 
+302. Joerger, A. C., Ang, H. C. & Fersht, A. R. Structural basis for understanding oncogenic p53 mutations and designing rescue drugs. Proc. Natl Acad. Sci. USA 103, 15056–15061 (2006). 
+303. Hu, J. et al. Targeting mutant p53 for cancer therapy: direct and indirect stra- tegies. J. Hematol. Oncol. 14, 157 (2021). 
+304. Hassin, O. & Oren, M. Drugging p53 in cancer: one protein, many targets. Nat. Rev. Drug Discov. 22, 127–144 (2022). 
+305. Boeckler, F. M. et al. Targeted rescue of a destabilized mutant of p53 by an in silico screened drug. Proc. Natl Acad. Sci. USA 105, 10360–10365 (2008). 
+306. Basse, N. et al. Toward the rational design of p53-stabilizing drugs: probing the surface of the oncogenic Y220C mutant. Chem. Biol. 17, 46–56 (2010). 
+307. Wilcken, R. et al. Halogen-enriched fragment libraries as leads for drug rescue of mutant p53. J. Am. Chem. Soc. 134, 6810–6818 (2012). 
+308. Bauer, M. R. et al. Harnessing Fluorine-Sulfur Contacts and Multipolar Interac- tions for the Design of p53 Mutant Y220C Rescue Drugs. ACS Chem. Biol. 11, 2265–2274 (2016). 
+309. Bauer, M. R. et al. Targeting Cavity-Creating p53 Cancer Mutations with Small- Molecule Stabilizers: the Y220X Paradigm. ACS Chem. Biol. 15, 657–668 (2020). 
+310. Melissa, D. et al. PC14586: The first orally bioavailable small molecule reactivator of Y220C mutant p53 in clinical development. Proc. Am. Assoc. Cancer Res. 81,  LB006 (2021). 
+311. Puzio-Kuter, A. M. et al. Small molecule reactivators of Y220C mutant p53  modulate tumor infiltrating leukocytes and synergize with immune checkpoint  inhibitors. Proc. Am. Assoc. Cancer Res. 82, 1295 (2022). 
+312. Ecaterina Elena, D. et al. First-in-human study of PC14586, a small molecule  structural corrector of Y220C mutant p53, in patients with advanced solid  tumors harboring a TP53 Y220C mutation. J. Clin. Oncol. 40, 3003 (2022). 
+313. Ceccaldi, R. et al. Homologous-recombination-deficient tumours are dependent  on Poltheta-mediated repair. Nature 518, 258–262 (2015). 
+314. Feng, W. et al. Genetic determinants of cellular addiction to DNA polymerase  theta. Nat. Commun. 10, 4286 (2019). 
+315. Higgins, G. S. & Boulton, S. J. Beyond PARP-POLtheta as an anticancer target.  Science 359, 1217–1218 (2018). 
+316. Zhou, J. et al. A first-in-class Polymerase Theta Inhibitor selectively targets  Homologous-Recombination-Deficient Tumors. Nat. Cancer 2, 598–610  (2021). 
+317. Zatreanu, D. et al. Poltheta inhibitors elicit BRCA-gene synthetic lethality and  target PARP inhibitor resistance. Nat. Commun. 12, 3636 (2021). 
+318. Bubenik, M. et al. Identification of RP-6685, an Orally Bioavailable Compound that Inhibits the DNA Polymerase Activity of Poltheta. J. Med. Chem. 65,  13198–13215 (2022). 
+319. Bonilla, B., Hengel, S. R., Grundy, M. K. & Bernstein, K. A. RAD51 Gene Family  Structure and Function. Annu. Rev. Genet. 54, 25–46 (2020). 
+320. Wassing, I. E. & Esashi, F. RAD51: Beyond the break. Semin. Cell Dev. Biol. 113,  38–46 (2021). 
+321. Nalepa, G. & Clapp, D. W. Fanconi anaemia and cancer: an intricate relationship.  Nat. Rev. Cancer 18, 168–185 (2018). 
+322. Huang, F., Mazina, O. M., Zentner, I. J., Cocklin, S. & Mazin, A. V. Inhibition of  homologous recombination in human cells by targeting RAD51 recombinase. J.  Med. Chem. 55, 3011–3020 (2012). 
+323. Lv, W., Budke, B., Pawlowski, M., Connell, P. P. & Kozikowski, A. P. Development  of Small Molecules that Specifically Inhibit the D-loop Activity of RAD51. J. Med. Chem. 59, 4511–4525 (2016). 
+Signal Transduction and Targeted Therapy (2023)8:338
+A new wave of innovations within the DNA damage response Li et al.
+324. Demeyer, A., Benhelli-Mokrani, H., Chenais, B., Weigel, P. & Fleury, F. Inhibiting homologous recombination by targeting RAD51 protein. Biochim. Biophys. Acta Rev. Cancer 1876, 188597 (2021).
+325. Day, M., Lapierre, J.-M., O’Shea, T. & Mills, K. A novel RAD51 inhibitor, CYT-0851, shows anticancer activity in preclinical models of pancreatic cancer. Proc. Am. Assoc. Cancer Res. 79, C14 (2019).
+326. Guy, J. L., Maclay, T., Day, M., Burness, M. L. & Mills, K. RAD51 inhibition using CYT- 0851, shows anti-cancer activity in cellular models of breast cancer and acts synergistically with PARP inhibitors. Proc. Am. Assoc. Cancer Res. 80, P2-05-05 (2020).
+327. Hasham, M. G. et al. Widespread genomic breaks generated by activation- induced cytidine deaminase are prevented by homologous recombination. Nat. Immunol. 11, 820–826 (2010).
+328. Lynch, R. C. et al. First-in-human phase I/II study of CYT-0851, a first-in-class inhibitor of RAD51-mediated homologous recombination in patients with advanced solid and hematologic cancers. J. Clin. Oncol. 39, 3006 (2021).
+329. Garcia-Santisteban, I., Peters, G. J., Giovannetti, E. & Rodriguez, J. A. USP1 deu- biquitinase: cellular functions, regulatory mechanisms and emerging potential as target in cancer therapy. Mol. Cancer 12, 91 (2013).
+330. Lim, K. S. et al. USP1 Is Required for Replication Fork Protection in BRCA1- Deficient Tumors. Mol. Cell 72, 925–941.e924 (2018).
+331. Cadzow, L. et al. KSQ-4279: A first-in-class USP1 inhibitor for the treatment of cancers with homologous recombination deficiencies. Proc. Am. Assoc. Cancer Res. 82, ND01 (2022).
+332. Coleman, K. E. et al. USP1-trapping lesions as a source of DNA replication stress and genomic instability. Nat. Commun. 13, 1740 (2022).
+333. Harrision, D., Gravells, P., Thompson, R. & Bryant, H. E. Poly(ADP-Ribose) Glyco- hydrolase (PARG) vs. Poly(ADP-Ribose) Polymerase (PARP) - Function in Genome Maintenance and Relevance of Inhibitors for Anti-cancer Therapy. Front. Mol. Biosci. 7, 191 (2020).
+334. Slade, D. PARP and PARG inhibitors in cancer treatment. Genes Dev. 34, 360–394 (2020).
+335. Pillay, N. et al. DNA Replication Vulnerabilities Render Ovarian Cancer Cells Sensitive to Poly(ADP-Ribose) Glycohydrolase Inhibitors. Cancer Cell 35, 519–533.e518 (2019).
+336. Chan, E. M. et al. WRN helicase is a synthetic lethal target in microsatellite unstable cancers. Nature 568, 551–556 (2019).
+337. van Wietmarschen, N. et al. Repeat expansions confer WRN dependence in microsatellite-unstable cancers. Nature 586, 292–298 (2020).
+338. Behan, F. M. et al. Prioritization of cancer therapeutic targets using CRISPR-Cas9 screens. Nature 568, 511–516 (2019).
+339. Datta, A. et al. WRN helicase safeguards deprotected replication forks in BRCA2- mutated cancer cells. Nat. Commun. 12, 6561 (2021).
+340. Orlovetskie, N., Serruya, R., Abboud-Jarrous, G. & Jarrous, N. Targeted inhibition of WRN helicase, replication stress and cancer. Biochim. Biophys. Acta Rev. Cancer 1867, 42–48 (2017).
+341. Peters, S., Mok, T., Passaro, A. & Janne, P. A. The Promising Evolution of Targeted Therapeutic Strategies in Cancer. Cancer Discov. 11, 810–814 (2021).
+342. Hahn, W. C. et al. An expanded universe of cancer targets. Cell 184, 1142–1155 (2021).
+343. Hanahan, D. Hallmarks of Cancer: New Dimensions. Cancer Discov. 12, 31–46 (2022).
+344. Chang, L., Ruiz, P., Ito, T. & Sellers, W. R. Targeting pan-essential genes in cancer: Challenges and opportunities. Cancer Cell 39, 466–479 (2021).
+345. Tuveson, D. A. Fighting the Sixth Decade of the Cancer War with Better Cancer Models. Cancer Discov. 11, 801–804 (2021).
+346. Ray-Coquard, I. et al. Olaparib plus Bevacizumab as First-Line Maintenance in Ovarian Cancer. N. Engl. J. Med. 381, 2416–2428 (2019).
+347. Saad, F. et al. PROpel: Phase III trial of olaparib (ola) and abiraterone (abi) versus placebo (pbo) and abi as first-line (1L) therapy for patients (pts) with metastatic castration-resistant prostate cancer (mCRPC). J. Clin. Oncol. 40, 11 (2022).
+348. Wallez, Y. et al. Activity and tolerability of combination of trastuzumab der- uxtecan with the next generation PARP1-selective inhibitor AZD5305 in pre- clinical models. Proc. Am. Assoc. Cancer Res. 82, 1142 (2022).
+349. Wallez, Y. et al. Activity and tolerability of combinations of trastuzumab der- uxtecan (T-DXd) with inhibitors of the DNA damage response in preclinical models. Proc. Am. Assoc. Cancer Res. 82, 5298 (2022).
+350. Fellmann, C., Gowen, B. G., Lin, P. C., Doudna, J. A. & Corn, J. E. Cornerstones of CRISPR-Cas in drug discovery and therapy. Nat. Rev. Drug Discov. 16, 89–100 (2017). 351. Ghandi, M. et al. Next-generation characterization of the Cancer Cell Line
+Encyclopedia. Nature 569, 503–508 (2019). 352. Blum, A., Wang, P. & Zenklusen, J. C. SnapShot: TCGA-Analyzed Tumors. Cell 173,
+530 (2018). 353. Bhattacharjee, S. & Nandi, S. Rare Genetic Diseases with Defects in DNA Repair:
+Opportunities and Challenges in Orphan Drug Development for Targeted Cancer Therapy. Cancers (Basel) 10, 298–318 (2018).

@@ -1,0 +1,10 @@
+Title: Real-World Outcomes of Olaparib First-Line Maintenance Monotherapy in BRCA-Mutated Epithelial Ovarian Cancer: Results from the French ATUc Programme
+Authors: Unknown
+Year: 2022
+Paper ID: web_152702
+URL: https://doi.org/10.1007/s40801-022-00349-9
+Venue: Drugs - Real World Outcomes
+Content Status: EXTERNAL_URL, LLM_PROCESSED, WEB_SCRAPED, DOCUMENT_CLEANED
+
+Abstract:
+This study presents the first real-world data on the use of olaparib as first-line maintenance monotherapy in patients with BRCA-mutated epithelial ovarian cancer in France, utilizing data collected through the Temporary Authorisation for Use (ATUc) programme. Between March 2019 and January 2020, 194 patients were enrolled and monitored through monthly treatment access request forms and physician reports. Olaparib demonstrated a safety profile consistent with previous clinical trials, with no new safety signals identified. The most common serious adverse drug reactions were anaemia, neutropenia, and thrombocytopenia. The rapid enrolment observed in the ATUc programme highlights a substantial unmet need for effective first-line maintenance therapies in this patient population. These findings support the use of olaparib as a well-tolerated maintenance option in routine clinical practice for BRCA-mutated epithelial ovarian cancer.

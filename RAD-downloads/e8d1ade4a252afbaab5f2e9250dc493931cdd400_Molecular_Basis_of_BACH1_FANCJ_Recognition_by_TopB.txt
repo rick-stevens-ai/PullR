@@ -1,0 +1,9 @@
+Title: Molecular Basis of BACH1/FANCJ Recognition by TopBP1 in DNA Replication Checkpoint Control*
+Authors: Charles Chung Yun Leung, Zihua Gong, Junjie Chen, J. N. M. Glover
+Year: 2010
+Paper ID: e8d1ade4a252afbaab5f2e9250dc493931cdd400
+URL: https://www.semanticscholar.org/paper/e8d1ade4a252afbaab5f2e9250dc493931cdd400
+Venue: Journal of Biological Chemistry
+
+Abstract:
+The diverse roles of TopBP1 in DNA replication and checkpoint signaling are associated with the scaffolding ability of TopBP1 to initiate various protein-protein interactions. The recognition of the BACH1/FANCJ helicase by TopBP1 is critical for the activation of the DNA replication checkpoint at stalled replication forks and is facilitated by the C-terminal tandem BRCT7/8 domains of TopBP1 and a phosphorylated Thr1133 binding motif in BACH1. Here we provide the structural basis for this interaction through analysis of the x-ray crystal structures of TopBP1 BRCT7/8 both free and in complex with a BACH1 phospho-peptide. In contrast to canonical BRCT-phospho-peptide recognition, TopBP1 BRCT7/8 undergoes a dramatic conformational change upon BACH1 binding such that the two BRCT repeats pivot about the central BRCT-BRCT interface to provide an extensive and deep peptide-binding cleft. Additionally, we provide the first structural mechanism for Thr(P) recognition among BRCT domains. Together with systematic mutagenesis studies, we highlight the role of key contacts in governing the unique specificity of the TopBP1-BACH1 interaction.
