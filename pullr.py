@@ -62,7 +62,6 @@ try:
 except ImportError:
     WEB_SCRAPING_SUPPORT = False
 
-MODEL_CONFIG_FILE = 'model_servers.yaml'
 BASE_URL = "https://api.semanticscholar.org/graph/v1/paper/search"
 FIELDS = 'title,authors,year,externalIds,url,venue,openAccessPdf,abstract,paperId'
 
@@ -503,15 +502,15 @@ Return one cleaned reference per line, maintaining the same order as input."""
     
     return cleaned_references
 
-def load_model_config(model_shortname):
-    """Load model configuration from model_servers.yaml"""
+def load_model_config(model_shortname, config_file="model_servers.yaml"):
+    """Load model configuration from specified config file"""
     try:
-        with open(MODEL_CONFIG_FILE, 'r') as f:
+        with open(config_file, 'r') as f:
             config = yaml.safe_load(f)
     except FileNotFoundError:
-        raise FileNotFoundError(f"Error: Model configuration file '{MODEL_CONFIG_FILE}' not found.")
+        raise FileNotFoundError(f"Error: Model configuration file '{config_file}' not found.")
     except yaml.YAMLError as e:
-        raise ValueError(f"Error parsing YAML file '{MODEL_CONFIG_FILE}': {e}")
+        raise ValueError(f"Error parsing YAML file '{config_file}': {e}")
 
     model_config = None
     for server in config.get('servers', []):
@@ -520,7 +519,7 @@ def load_model_config(model_shortname):
             break
 
     if not model_config:
-        raise ValueError(f"Error: Model shortname '{model_shortname}' not found in '{MODEL_CONFIG_FILE}'.")
+        raise ValueError(f"Error: Model shortname '{model_shortname}' not found in '{config_file}'.")
     
     return model_config
 
@@ -1479,14 +1478,14 @@ def process_url_reference(reference_text, output_dir, verbose=False, client=None
     
     return None
 
-def process_pdf_references(pdf_file, model_shortname, output_dir, ss_api_key=None, verbose=False, parallel_threads=1):
+def process_pdf_references(pdf_file, model_shortname, output_dir, ss_api_key=None, verbose=False, parallel_threads=1, config_file="model_servers.yaml"):
     """Extract references from PDF and download them"""
     
     if not PDF_SUPPORT:
         raise ImportError("PyPDF2 is required for PDF processing. Install with: pip install PyPDF2")
     
     # Load model configuration
-    model_config = load_model_config(model_shortname)
+    model_config = load_model_config(model_shortname, config_file)
     client = get_openai_client(model_config)
     openai_model = model_config.get('openai_model')
     
@@ -1672,11 +1671,11 @@ def process_pdf_references(pdf_file, model_shortname, output_dir, ss_api_key=Non
     if verbose:
         print(f"Extracted references saved to: {refs_file}")
 
-def extract_only_mode(input_file, model_shortname, output_dir, verbose=False):
+def extract_only_mode(input_file, model_shortname, output_dir, verbose=False, config_file="model_servers.yaml"):
     """Extract and clean references without downloading papers"""
     
     # Load model configuration
-    model_config = load_model_config(model_shortname)
+    model_config = load_model_config(model_shortname, config_file)
     client = get_openai_client(model_config)
     openai_model = model_config.get('openai_model')
     
@@ -1830,7 +1829,7 @@ def find_pdf_files(directory_path, verbose=False, sample_size=None):
     
     return pdf_files
 
-def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_key=None, verbose=False, parallel_threads=1, extract_only=False, sample_size=None):
+def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_key=None, verbose=False, parallel_threads=1, extract_only=False, sample_size=None, config_file="model_servers.yaml"):
     """Process all PDFs in a directory, optionally sampling a subset"""
     
     if not PDF_SUPPORT:
@@ -1850,7 +1849,7 @@ def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_ke
         print(f"Processing {len(pdf_files)} PDF files from directory: {directory_path}")
     
     # Load model configuration
-    model_config = load_model_config(model_shortname)
+    model_config = load_model_config(model_shortname, config_file)
     client = get_openai_client(model_config)
     openai_model = model_config.get('openai_model')
     
@@ -1888,7 +1887,7 @@ def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_ke
                     print(f"  Extract-only mode for: {pdf_name}")
                 
                 # Use the existing extract_only_mode function for this PDF
-                extract_only_mode(pdf_file, model_shortname, pdf_output_dir, verbose)
+                extract_only_mode(pdf_file, model_shortname, pdf_output_dir, verbose, config_file)
                 successful_pdfs += 1
                 
                 # Count references from the cleaned file
@@ -2069,11 +2068,11 @@ def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_ke
     
     return successful_pdfs, total_references
 
-def process_references(references_file, model_shortname, output_dir, mode='exact', ss_api_key=None, max_papers_per_ref=5, verbose=False, parallel_threads=1):
+def process_references(references_file, model_shortname, output_dir, mode='exact', ss_api_key=None, max_papers_per_ref=5, verbose=False, parallel_threads=1, config_file="model_servers.yaml"):
     """Process references file and download papers"""
     
     # Load model configuration
-    model_config = load_model_config(model_shortname)
+    model_config = load_model_config(model_shortname, config_file)
     client = get_openai_client(model_config)
     openai_model = model_config.get('openai_model')
     
@@ -2323,7 +2322,9 @@ Examples:
         """)
     
     parser.add_argument('input_file', help='Input: PDF file, directory of PDFs, or text file with references (one per line)')
-    parser.add_argument('--model', required=True, help='Model shortname from model_servers.yaml')
+    parser.add_argument('--model', required=True, help='Model shortname from model configuration file')
+    parser.add_argument('--config', default='model_servers.yaml', 
+                       help='Path to model configuration file (default: model_servers.yaml)')
     parser.add_argument('--output-dir', required=True, help='Directory to save abstracts and papers')
     parser.add_argument('--mode', choices=['pdf', 'exact', 'fuzzy'], default='exact',
                         help='Processing mode: "pdf" for PDF reference extraction, "exact" for specific papers, "fuzzy" for similar papers (default: exact)')
@@ -2346,8 +2347,8 @@ Examples:
         print(f"Error: Input path '{args.input_file}' not found.")
         sys.exit(1)
     
-    if not os.path.exists(MODEL_CONFIG_FILE):
-        print(f"Error: Model configuration file '{MODEL_CONFIG_FILE}' not found.")
+    if not os.path.exists(args.config):
+        print(f"Error: Model configuration file '{args.config}' not found.")
         sys.exit(1)
     
     # Validate parallel parameter
@@ -2406,7 +2407,8 @@ Examples:
                     args.verbose,
                     args.parallel,
                     extract_only=True,
-                    sample_size=args.sample
+                    sample_size=args.sample,
+                    config_file=args.config
                 )
             else:
                 # Single file processing in extract-only mode
@@ -2414,7 +2416,8 @@ Examples:
                     args.input_file,
                     args.model,
                     args.output_dir,
-                    args.verbose
+                    args.verbose,
+                    config_file=args.config
                 )
         except Exception as e:
             print(f"Error: {e}")
@@ -2444,7 +2447,8 @@ Examples:
                     args.verbose,
                     args.parallel,
                     extract_only=False,
-                    sample_size=args.sample
+                    sample_size=args.sample,
+                    config_file=args.config
                 )
             else:
                 # Single PDF processing
@@ -2454,7 +2458,8 @@ Examples:
                     args.output_dir,
                     ss_api_key,
                     args.verbose,
-                    args.parallel
+                    args.parallel,
+                    config_file=args.config
                 )
         else:
             # Text file processing (exact/fuzzy modes)
@@ -2466,7 +2471,8 @@ Examples:
                 ss_api_key,
                 args.max_papers,
                 args.verbose,
-                args.parallel
+                args.parallel,
+                config_file=args.config
             )
     except Exception as e:
         print(f"Error: {e}")
