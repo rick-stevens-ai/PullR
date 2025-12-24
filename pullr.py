@@ -21,6 +21,20 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from openai import OpenAI, OpenAIError
 import requests
 
+# Multi-API support imports
+try:
+    import feedparser
+    FEEDPARSER_SUPPORT = True
+except ImportError:
+    FEEDPARSER_SUPPORT = False
+
+try:
+    from api_adapters import get_api_adapter, BaseAPIAdapter
+    from domain_classifier import classify_reference_domain, get_api_priority_for_domain
+    MULTI_API_SUPPORT = True
+except ImportError:
+    MULTI_API_SUPPORT = False
+
 try:
     import PyPDF2
     PDF_SUPPORT = True
@@ -551,6 +565,44 @@ def get_openai_client(model_config):
     except Exception as e:
         raise ValueError(f"Error initializing OpenAI client: {e}")
 
+def load_api_config(config_file="api_config.yaml", verbose=False):
+    """
+    Load API configuration from YAML file
+
+    Args:
+        config_file: Path to API configuration file
+        verbose: Enable verbose logging
+
+    Returns:
+        Dictionary with API configuration or None if file not found
+    """
+    if not os.path.exists(config_file):
+        if verbose:
+            print(f"Info: API config file '{config_file}' not found. Using Semantic Scholar only.")
+        return None
+
+    try:
+        with open(config_file, 'r') as f:
+            config = yaml.safe_load(f)
+
+        # Expand environment variables in API keys
+        if 'apis' in config:
+            for api_name, api_config in config['apis'].items():
+                if api_config.get('api_key'):
+                    api_config['api_key'] = os.path.expandvars(api_config['api_key'])
+                if api_config.get('email'):
+                    api_config['email'] = os.path.expandvars(api_config['email'])
+
+        if verbose:
+            enabled_apis = [name for name, cfg in config.get('apis', {}).items() if cfg.get('enabled')]
+            print(f"Info: Loaded API config with {len(enabled_apis)} enabled APIs: {', '.join(enabled_apis)}")
+
+        return config
+    except Exception as e:
+        if verbose:
+            print(f"Warning: Failed to load API config: {e}")
+        return None
+
 def extract_reference_info(reference_text, client, openai_model, mode='fuzzy'):
     """Use OpenAI to extract information from academic references"""
     
@@ -776,11 +828,11 @@ def download_pdf(pdf_url, save_path, max_retries=2):
     
     return False
 
-def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None, verbose=False, output_dir=None):
-    """Try multiple search strategies to find a paper for a reference with 3 attempts each"""
+def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None, verbose=False, output_dir=None, api_config=None):
+    """Try multiple search strategies to find a paper for a reference with multi-API support"""
     if verbose:
         print(f"    Attempting multiple search strategies...")
-    
+
     # Strategy 0: Check for URLs and try web scraping first
     urls = detect_and_extract_urls(reference_text)
     if urls and output_dir:
@@ -791,90 +843,124 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
             if verbose:
                 print(f"    ✅ Success with web scraping: {scraped_paper['title'][:60]}...")
             return [scraped_paper], "web_scraping"
-    
-    strategies = []
-    
+
+    # Multi-API support: Classify domain and get API priority
+    apis_to_try = ['semantic_scholar']  # Default fallback
+    domain = 'general'
+
+    if MULTI_API_SUPPORT and api_config:
+        try:
+            domain = classify_reference_domain(reference_text, api_config)
+            apis_to_try = get_api_priority_for_domain(domain, api_config)
+            if verbose:
+                print(f"    Domain: {domain}, APIs: {apis_to_try[:2]}")
+        except Exception as e:
+            if verbose:
+                print(f"    Warning: Domain classification failed: {e}")
+            apis_to_try = ['semantic_scholar']
+
     # Extract bibliographic info once
     ref_info = extract_reference_info(reference_text, client, openai_model, mode='exact')
-    
-    # Strategy 1: Exact search using bibliographic info
-    if ref_info:
-        strategies.append(("exact", lambda: search_papers_exact(ref_info, ss_api_key, limit=5)))
-    
-    # Strategy 2: Title-only search (if we have a title)
-    if ref_info and ref_info.get('title'):
-        title = ref_info['title']
-        strategies.append(("title", lambda: search_papers_fuzzy(title, ss_api_key, limit=5)))
-        # More relaxed title search (remove quotes, punctuation)
-        clean_title = re.sub(r'[^\w\s]', ' ', title).strip()
-        if clean_title != title:
-            strategies.append(("title_clean", lambda: search_papers_fuzzy(clean_title, ss_api_key, limit=5)))
-    
-    # Strategy 3: First author + year search
-    if ref_info and ref_info.get('author') and ref_info.get('year'):
-        author_year_query = f"author:{ref_info['author']} year:{ref_info['year']}"
-        strategies.append(("author_year", lambda: search_papers_fuzzy(author_year_query, ss_api_key, limit=5)))
-    
-    # Strategy 4: Author only (more relaxed)
-    if ref_info and ref_info.get('author'):
-        author_query = f"author:{ref_info['author']}"
-        strategies.append(("author", lambda: search_papers_fuzzy(author_query, ss_api_key, limit=5)))
-    
-    # Strategy 5: Year only (if specific year)
-    if ref_info and ref_info.get('year'):
-        try:
-            year = int(ref_info['year'])
-            if 1900 <= year <= 2030:  # Reasonable year range
-                year_query = f"year:{year}"
-                strategies.append(("year", lambda: search_papers_fuzzy(year_query, ss_api_key, limit=10)))
-        except (ValueError, TypeError):
-            pass
-    
-    # Strategy 6: Keyword extraction and search
-    keywords = extract_reference_info(reference_text, client, openai_model, mode='fuzzy')
-    if keywords:
-        for i, keyword in enumerate(keywords[:3]):  # Try top 3 keywords
-            strategies.append((f"keyword_{i+1}", lambda k=keyword: search_papers_fuzzy(k, ss_api_key, limit=5)))
-    
-    # Strategy 7: Simple text searches with varying lengths
-    words = reference_text.split()
-    for word_count in [15, 10, 5]:  # Try different lengths
-        if len(words) >= word_count:
-            simple_query = ' '.join(words[:word_count])
-            strategies.append((f"text_{word_count}w", lambda q=simple_query: search_papers_fuzzy(q, ss_api_key, limit=5)))
-    
-    # Strategy 8: Just first author's last name + key terms
-    if ref_info and ref_info.get('author'):
-        author_last = ref_info['author'].split()[-1] if ref_info['author'] else ""
-        if author_last and keywords:
-            combined_query = f"{author_last} {keywords[0]}"
-            strategies.append(("author_keyword", lambda: search_papers_fuzzy(combined_query, ss_api_key, limit=5)))
-    
-    # Try each strategy with up to 3 attempts
-    for strategy_name, search_func in strategies:
-        for attempt in range(3):
+
+    # Try each API in priority order
+    for api_name in apis_to_try:
+        # Get API adapter
+        adapter = None
+        use_adapter = False
+
+        if MULTI_API_SUPPORT and api_config and api_name in api_config.get('apis', {}):
             try:
-                if verbose:
-                    attempt_str = f" (attempt {attempt+1})" if attempt > 0 else ""
-                    print(f"    Strategy: {strategy_name}{attempt_str}")
-                
-                papers_data = search_func()
-                if papers_data and papers_data.get('data') and len(papers_data['data']) > 0:
+                api_cfg = api_config['apis'][api_name]
+                if not api_cfg.get('enabled', True):
+                    continue
+                adapter = get_api_adapter(api_name, api_cfg, verbose=False)
+                if adapter:
+                    use_adapter = True
                     if verbose:
-                        print(f"    ✅ Success with {strategy_name}: {len(papers_data['data'])} papers found")
-                    return papers_data['data'], strategy_name
-                
-                if attempt < 2:  # Don't sleep after last attempt
-                    time.sleep(1)  # Rate limiting between attempts
-                    
+                        print(f"    Trying API: {api_name}")
             except Exception as e:
                 if verbose:
-                    print(f"    Error in {strategy_name} attempt {attempt+1}: {e}")
-                if attempt < 2:
-                    time.sleep(2)  # Longer delay on error
-    
+                    print(f"    Skipping {api_name}: {e}")
+                continue
+
+        # Try searches with this API
+        if use_adapter and adapter:
+            # Use adapter-based search
+            try:
+                # Try exact search first
+                if ref_info:
+                    papers = adapter.search_exact(ref_info, limit=5)
+                    if papers and len(papers) > 0:
+                        if verbose:
+                            print(f"    ✅ Found {len(papers)} papers with {api_name}")
+                        return papers, f"{api_name}_exact"
+
+                # Try title search
+                if ref_info and ref_info.get('title'):
+                    papers = adapter.search(ref_info['title'], limit=5)
+                    if papers and len(papers) > 0:
+                        if verbose:
+                            print(f"    ✅ Found {len(papers)} papers with {api_name}")
+                        return papers, f"{api_name}_title"
+
+                # Try general search with first few words
+                words = reference_text.split()[:10]
+                query = ' '.join(words)
+                papers = adapter.search(query, limit=5)
+                if papers and len(papers) > 0:
+                    if verbose:
+                        print(f"    ✅ Found {len(papers)} papers with {api_name}")
+                    return papers, f"{api_name}_text"
+
+            except Exception as e:
+                if verbose:
+                    print(f"    {api_name} search failed: {e}")
+                continue
+
+        elif api_name == 'semantic_scholar':
+            # Fallback to original Semantic Scholar code
+            strategies = []
+
+            if ref_info:
+                strategies.append(("exact", lambda: search_papers_exact(ref_info, ss_api_key, limit=5)))
+
+            if ref_info and ref_info.get('title'):
+                title = ref_info['title']
+                strategies.append(("title", lambda: search_papers_fuzzy(title, ss_api_key, limit=5)))
+
+            if ref_info and ref_info.get('author'):
+                author_query = f"author:{ref_info['author']}"
+                strategies.append(("author", lambda: search_papers_fuzzy(author_query, ss_api_key, limit=5)))
+
+            # Try keyword search
+            keywords = extract_reference_info(reference_text, client, openai_model, mode='fuzzy')
+            if keywords and len(keywords) > 0:
+                strategies.append(("keyword", lambda: search_papers_fuzzy(keywords[0], ss_api_key, limit=5)))
+
+            # Try each strategy
+            for strategy_name, search_func in strategies:
+                for attempt in range(2):  # Reduced attempts for faster fallback
+                    try:
+                        if verbose and attempt == 0:
+                            print(f"    Strategy: {strategy_name}")
+
+                        papers_data = search_func()
+                        if papers_data and papers_data.get('data') and len(papers_data['data']) > 0:
+                            if verbose:
+                                print(f"    ✅ Found {len(papers_data['data'])} papers")
+                            return papers_data['data'], strategy_name
+
+                        if attempt < 1:
+                            time.sleep(0.5)
+
+                    except Exception as e:
+                        if verbose:
+                            print(f"    Error: {e}")
+                        if attempt < 1:
+                            time.sleep(1)
+
     if verbose:
-        print(f"    ❌ All strategies failed")
+        print(f"    ❌ All APIs failed")
     return [], "failed"
 
 class ThreadSafeCounter:
@@ -895,9 +981,9 @@ class ThreadSafeCounter:
 
 def process_single_reference(args):
     """Process a single reference - designed for parallel execution"""
-    (reference, index, total_refs, client, openai_model, ss_api_key, 
-     output_dir, mode, max_papers_per_ref, verbose, counters) = args
-    
+    (reference, index, total_refs, client, openai_model, ss_api_key,
+     output_dir, mode, max_papers_per_ref, verbose, counters, api_config) = args
+
     result = {
         'index': index,
         'reference': reference[:100] + '...' if len(reference) > 100 else reference,
@@ -908,14 +994,14 @@ def process_single_reference(args):
         'pdfs_downloaded': 0,
         'error': None
     }
-    
+
     try:
         if verbose:
             print(f"[{index+1}/{total_refs}] Processing reference: {result['reference']}")
-        
+
         if mode == 'exact':
             # Use fallback strategies for exact mode
-            papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, output_dir)
+            papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, output_dir, api_config)
             if papers:
                 result['success'] = True
                 result['strategy'] = strategy
@@ -2070,12 +2156,24 @@ def process_pdf_directory(directory_path, model_shortname, output_dir, ss_api_ke
 
 def process_references(references_file, model_shortname, output_dir, mode='exact', ss_api_key=None, max_papers_per_ref=5, verbose=False, parallel_threads=1, config_file="model_servers.yaml"):
     """Process references file and download papers"""
-    
+
     # Load model configuration
     model_config = load_model_config(model_shortname, config_file)
     client = get_openai_client(model_config)
     openai_model = model_config.get('openai_model')
-    
+
+    # Load API configuration for multi-API support
+    api_config = None
+    if MULTI_API_SUPPORT:
+        try:
+            api_config = load_api_config("api_config.yaml", verbose=verbose)
+        except FileNotFoundError:
+            if verbose:
+                print("Info: api_config.yaml not found, using Semantic Scholar only")
+        except Exception as e:
+            if verbose:
+                print(f"Warning: Failed to load API config: {e}, using Semantic Scholar only")
+
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
     
@@ -2118,7 +2216,7 @@ def process_references(references_file, model_shortname, output_dir, mode='exact
         for i, reference in enumerate(references):
             args_list.append((
                 reference, i, len(references), client, openai_model, ss_api_key,
-                output_dir, mode, max_papers_per_ref, verbose, counters
+                output_dir, mode, max_papers_per_ref, verbose, counters, api_config
             ))
         
         # Progress bars for parallel processing
@@ -2173,7 +2271,7 @@ def process_references(references_file, model_shortname, output_dir, mode='exact
             
             if mode == 'exact':
                 # Use fallback strategies for exact mode
-                papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, output_dir)
+                papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, output_dir, api_config)
                 if papers:
                     papers_data = {'data': papers}
                     successful_searches += 1

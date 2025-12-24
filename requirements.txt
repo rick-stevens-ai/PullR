@@ -14,6 +14,7 @@ lxml>=4.9.0              # Faster XML/HTML parsing for BeautifulSoup
 html5lib>=1.1            # Better HTML parsing
 chardet>=5.0.0           # Character encoding detection
 urllib3>=1.26.0          # HTTP library (usually included with requests)
+feedparser>=6.0.10       # XML/Atom parsing for ArXiv API
 
 # Development dependencies (optional)
 pytest>=7.0.0            # For testing
