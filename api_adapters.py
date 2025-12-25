@@ -465,8 +465,10 @@ class PubMedAdapter(BaseAPIAdapter):
             'sort': 'relevance'
         }
 
-        if self.config.get('api_key'):
-            esearch_params['api_key'] = self.config['api_key']
+        # Only add API key if it's set and not a placeholder
+        api_key = self.config.get('api_key')
+        if api_key and not api_key.startswith('${'):
+            esearch_params['api_key'] = api_key
 
         search_response = self._make_request(esearch_url, params=esearch_params)
         if not search_response:
@@ -489,8 +491,9 @@ class PubMedAdapter(BaseAPIAdapter):
                 'retmode': 'xml'
             }
 
-            if self.config.get('api_key'):
-                efetch_params['api_key'] = self.config['api_key']
+            # Only add API key if it's set and not a placeholder
+            if api_key and not api_key.startswith('${'):
+                efetch_params['api_key'] = api_key
 
             fetch_response = self._make_request(efetch_url, params=efetch_params)
             if not fetch_response:
@@ -784,7 +787,7 @@ class EuropePMCAdapter(BaseAPIAdapter):
             'query': query,
             'format': 'json',
             'pageSize': min(limit, 100),  # Max 100
-            'sort': 'relevance'
+            'resultType': 'core'  # Required for full results
         }
 
         response = self._make_request(self.config['endpoint'], params=params)
@@ -1072,6 +1075,232 @@ class COREAdapter(BaseAPIAdapter):
         }
 
 
+class DOAJAdapter(BaseAPIAdapter):
+    """Adapter for DOAJ API - 21,480+ open access journals, 11M+ articles"""
+
+    def search(self, query: str, limit: int = 10) -> List[Dict]:
+        """Search DOAJ by keyword"""
+        # DOAJ API v4 search endpoint
+        endpoint = f"{self.config['endpoint']}search/articles/{query}"
+
+        params = {
+            'page': 1,
+            'pageSize': min(limit, 100)
+        }
+
+        response = self._make_request(endpoint, params=params)
+        if not response:
+            return []
+
+        try:
+            data = response.json()
+            results = data.get('results', [])
+
+            if not results:
+                if self.verbose:
+                    print(f"  {self.api_name}: No results found")
+                return []
+
+            papers = []
+            for result in results:
+                try:
+                    paper = self.normalize_paper(result)
+                    papers.append(paper)
+                except Exception as e:
+                    if self.verbose:
+                        print(f"  {self.api_name}: Error normalizing result - {e}")
+                    continue
+
+            return papers
+        except Exception as e:
+            if self.verbose:
+                print(f"  {self.api_name}: Failed to parse response - {e}")
+            return []
+
+    def normalize_paper(self, raw_paper: Dict) -> Dict:
+        """Normalize DOAJ article to standard format"""
+        bibjson = raw_paper.get('bibjson', {})
+
+        # Extract DOI
+        identifiers = bibjson.get('identifier', [])
+        doi = None
+        for ident in identifiers:
+            if ident.get('type') == 'doi':
+                doi = ident.get('id')
+                break
+
+        # Use DOI or DOAJ ID
+        doaj_id = raw_paper.get('id', 'unknown')
+        paper_id = doi if doi else f"DOAJ:{doaj_id}"
+
+        # Title
+        title = bibjson.get('title', 'No Title')
+
+        # Abstract
+        abstract = bibjson.get('abstract', '')
+
+        # Year
+        year = 'N/A'
+        year_str = bibjson.get('year')
+        if year_str:
+            try:
+                year = int(year_str)
+            except (ValueError, TypeError):
+                year = 'N/A'
+
+        # Authors
+        authors = []
+        for author in bibjson.get('author', []):
+            name = author.get('name', '')
+            if name:
+                authors.append({'name': name})
+
+        # Journal
+        journal = bibjson.get('journal', {})
+        venue = journal.get('title', 'N/A')
+
+        # Links - look for fulltext
+        pdf_url = None
+        for link in bibjson.get('link', []):
+            link_type = link.get('type', '')
+            if link_type == 'fulltext':
+                pdf_url = link.get('url')
+                break
+
+        # URL - prefer DOI link
+        url = f"https://doi.org/{doi}" if doi else f"https://doaj.org/article/{doaj_id}"
+
+        return {
+            'paperId': paper_id,
+            'title': title,
+            'abstract': abstract,
+            'year': year,
+            'authors': authors,
+            'url': url,
+            'venue': venue,
+            'openAccessPdf': {'url': pdf_url} if pdf_url else None,
+            'externalIds': {
+                'DOI': doi,
+                'DOAJ': doaj_id
+            },
+            'api_source': 'doaj'
+        }
+
+
+class UnpaywallAdapter(BaseAPIAdapter):
+    """Adapter for Unpaywall API - Free access to 50,000+ publishers"""
+
+    def search(self, query: str, limit: int = 10) -> List[Dict]:
+        """Search Unpaywall by title/keyword"""
+        # Email is required for Unpaywall API
+        email = self.config.get('email', '')
+
+        # Check if email is set and not a placeholder
+        if not email or email.startswith('${'):
+            if self.verbose:
+                print(f"  {self.api_name}: Email required (set USER_EMAIL environment variable)")
+            return []
+
+        # Unpaywall search endpoint
+        endpoint = f"{self.config['endpoint']}search/"
+
+        params = {
+            'query': query,
+            'is_oa': 'true',  # Only open access
+            'email': email
+        }
+
+        response = self._make_request(endpoint, params=params)
+        if not response:
+            return []
+
+        try:
+            data = response.json()
+            results = data.get('results', [])
+
+            if not results:
+                if self.verbose:
+                    print(f"  {self.api_name}: No results found")
+                return []
+
+            # Limit results
+            results = results[:limit]
+
+            papers = []
+            for result in results:
+                try:
+                    paper = self.normalize_paper(result)
+                    papers.append(paper)
+                except Exception as e:
+                    if self.verbose:
+                        print(f"  {self.api_name}: Error normalizing result - {e}")
+                    continue
+
+            return papers
+        except Exception as e:
+            if self.verbose:
+                print(f"  {self.api_name}: Failed to parse response - {e}")
+            return []
+
+    def normalize_paper(self, raw_paper: Dict) -> Dict:
+        """Normalize Unpaywall result to standard format"""
+        # DOI is the primary identifier
+        doi = raw_paper.get('doi', 'unknown')
+
+        # Title
+        title = raw_paper.get('title', 'No Title')
+
+        # Abstract (may not be available in Unpaywall)
+        abstract = raw_paper.get('abstract', '')
+
+        # Year
+        year = 'N/A'
+        published_date = raw_paper.get('published_date')
+        if published_date:
+            try:
+                year = int(published_date.split('-')[0])
+            except (ValueError, TypeError, IndexError, AttributeError):
+                year = 'N/A'
+
+        # Authors (z_authors field)
+        authors = []
+        z_authors = raw_paper.get('z_authors', [])
+        for author in z_authors:
+            if isinstance(author, dict):
+                given = author.get('given', '')
+                family = author.get('family', '')
+                name = f"{given} {family}".strip()
+                if name:
+                    authors.append({'name': name})
+            elif isinstance(author, str):
+                authors.append({'name': author})
+
+        # Journal
+        venue = raw_paper.get('journal_name', 'N/A')
+
+        # Best OA Location - Unpaywall's key feature
+        best_oa = raw_paper.get('best_oa_location', {})
+        pdf_url = best_oa.get('url_for_pdf') if best_oa else None
+
+        # URL
+        url = f"https://doi.org/{doi}"
+
+        return {
+            'paperId': f"DOI:{doi}",
+            'title': title,
+            'abstract': abstract,
+            'year': year,
+            'authors': authors,
+            'url': url,
+            'venue': venue,
+            'openAccessPdf': {'url': pdf_url} if pdf_url else None,
+            'externalIds': {
+                'DOI': doi
+            },
+            'api_source': 'unpaywall'
+        }
+
+
 def get_api_adapter(api_name: str, config: Dict, verbose: bool = False) -> Optional[BaseAPIAdapter]:
     """
     Factory function to get API adapter by name
@@ -1091,7 +1320,9 @@ def get_api_adapter(api_name: str, config: Dict, verbose: bool = False) -> Optio
         'openalex': OpenAlexAdapter,
         'europepmc': EuropePMCAdapter,
         'crossref': CrossRefAdapter,
-        'core': COREAdapter
+        'core': COREAdapter,
+        'doaj': DOAJAdapter,
+        'unpaywall': UnpaywallAdapter
     }
 
     adapter_class = adapters.get(api_name.lower())
