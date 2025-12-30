@@ -1,0 +1,48 @@
+A. Inverse Design & Hamiltonian Control (Core Theory)
+	1.	“inverse design quantum Hamiltonian molecular systems”
+	2.	“quantum control landscapes molecular dynamics”
+	3.	“Hamiltonian engineering molecular chemistry”
+	4.	“inverse quantum scattering molecular design”
+	5.	“time-dependent potential control chemical reactions”
+
+⸻
+
+B. Protein / Biological Quantum Scaffolds
+	6.	“de novo enzyme design transition state stabilization”
+	7.	“protein electrostatic preorganization quantum effects”
+	8.	“quantum tunneling in enzyme catalysis”
+	9.	“protein conformational gating quantum dynamics”
+	10.	“biological scaffolds quantum coherence energy transfer”
+
+⸻
+
+C. DNA Origami & Programmable Nanostructures
+	11.	“DNA origami quantum optics exciton coupling”
+	12.	“DNA scaffold single photon emitter”
+	13.	“programmable nanoscale scaffold energy transfer”
+	14.	“DNA origami plasmonic quantum control”
+
+⸻
+
+D. Catalysis & Active-Site Engineering (Beyond Biology)
+	15.	“inverse catalyst design generative models”
+	16.	“transition state targeted catalyst design AI”
+	17.	“active site electrostatic field catalysis”
+
+⸻
+
+E. AI-Native Molecular & Materials Design
+	18.	“foundation models chemistry inverse design”
+	19.	“generative diffusion models molecular design quantum properties”
+	20.	“self-driving laboratory catalysis reinforcement learning”
+
+⸻
+
+Optional High-Yield Variants (if you want to go deeper)
+
+If you want alternates that sometimes surface different communities:
+	•	“quantum enzymology”
+	•	“molecular quantum control via environment”
+	•	“AI-driven Hamiltonian design chemistry”
+	•	“QM/MM inverse design catalysis”
+	•	“spin-dependent chemical reactions biological systems”

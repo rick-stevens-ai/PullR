@@ -77,4 +77,17 @@ sample_*.pdf
 
 # Backup files
 *.bak
-*.backupDLS-papers/
+*.backup
+
+# Large data directories
+DLS-papers/
+MQE/
+MQE_markdown/
+TEST/
+expanded_search_200/
+fuzzy_papers/
+pullr_output/
+quantum_papers/
+
+# Artifacts
+=6.0.10
