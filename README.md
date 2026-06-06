@@ -19,6 +19,7 @@ PullR is an intelligent academic paper processing tool that extracts references 
 
 ### Data Sources
 - **Semantic Scholar API**: Primary source for academic papers
+- **Unpaywall API**: Free, keyless lookup of ~50 million open-access papers by DOI (enabled by default)
 - **Web Scraping**: Fallback for URLs (arXiv, DOI, ResearchGate, etc.)
 - **Open Access PDFs**: Automatic download when available
 - **Multiple Formats**: Handles various citation styles and formats
@@ -50,6 +51,33 @@ servers:
 ```bash
 export OPENAI_API_KEY="your-openai-key"
 export SEMANTIC_SCHOLAR_API_KEY="your-ss-key"  # Optional but recommended
+export UNPAYWALL_EMAIL="you@example.org"       # Optional; overrides default
+```
+
+### Unpaywall integration
+
+PullR queries [Unpaywall](https://unpaywall.org) by DOI as one of its search
+strategies. Unpaywall is a free, keyless database of ~50 million open-access
+papers; it requires only a contact email per their terms of use.
+
+The Unpaywall lookup runs **after** Semantic Scholar's exact-bibliographic
+search and **before** the title-fuzzy fallbacks, so it catches papers that S2
+knows about but lists as non-OA, plus papers S2 does not have at all. When a
+DOI can be parsed from the reference text (or returned from `extract_reference_info`),
+PullR will:
+
+1. Hit `https://api.unpaywall.org/v2/{doi}?email=...`
+2. If `is_oa=true`, pick the best PDF URL (`best_oa_location.url_for_pdf`,
+   falling back to landing URLs and other `oa_locations`)
+3. Wrap the response in a Semantic-Scholar-shaped paper dict so the rest of
+   the pipeline (abstract save, PDF download) runs unchanged
+
+Flags:
+
+```bash
+--no-unpaywall                     # disable the strategy (default: enabled)
+--unpaywall-email you@example.org  # contact email (default: stevens@anl.gov,
+                                   # env: UNPAYWALL_EMAIL)
 ```
 
 ## 🎯 Usage

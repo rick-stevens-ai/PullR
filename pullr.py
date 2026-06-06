@@ -62,6 +62,21 @@ try:
 except ImportError:
     WEB_SCRAPING_SUPPORT = False
 
+# Unpaywall integration (~50M open-access papers, keyless API, email required).
+# See unpaywall.py for the module. Globals are set from CLI flags in main().
+try:
+    from unpaywall import query_unpaywall_by_doi, extract_doi_from_ref
+    UNPAYWALL_SUPPORT = True
+except ImportError:
+    UNPAYWALL_SUPPORT = False
+    def query_unpaywall_by_doi(*args, **kwargs):  # type: ignore[no-redef]
+        return None
+    def extract_doi_from_ref(*args, **kwargs):  # type: ignore[no-redef]
+        return None
+
+_USE_UNPAYWALL = True   # on by default; flip to False via --no-unpaywall
+_UNPAYWALL_EMAIL = ""   # set in main() from --unpaywall-email (default stevens@anl.gov)
+
 BASE_URL = "https://api.semanticscholar.org/graph/v1/paper/search"
 FIELDS = 'title,authors,year,externalIds,url,venue,openAccessPdf,abstract,paperId'
 
@@ -800,7 +815,26 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
     # Strategy 1: Exact search using bibliographic info
     if ref_info:
         strategies.append(("exact", lambda: search_papers_exact(ref_info, ss_api_key, limit=5)))
-    
+
+    # Strategy 1.5: Unpaywall lookup by DOI (free, no key, ~50M OA papers).
+    # Inserted between S2 exact and S2 title-fuzzy so we get OA-known papers
+    # without burning S2 quota or hitting paywalled hits.
+    if _USE_UNPAYWALL and _UNPAYWALL_EMAIL:
+        doi = None
+        if ref_info and isinstance(ref_info, dict):
+            doi = (ref_info.get("doi") or "").strip() or None
+        if not doi:
+            doi = extract_doi_from_ref(reference_text)
+        if doi:
+            def _unpaywall_strategy(d=doi):
+                paper = query_unpaywall_by_doi(d, _UNPAYWALL_EMAIL, verbose=verbose)
+                if paper:
+                    # Wrap in S2 search-response shape so the strategy-loop
+                    # parser at line ~862 (papers_data['data']) works unchanged.
+                    return {"data": [paper], "total": 1}
+                return {"data": [], "total": 0}
+            strategies.append(("unpaywall_doi", _unpaywall_strategy))
+
     # Strategy 2: Title-only search (if we have a title)
     if ref_info and ref_info.get('title'):
         title = ref_info['title']
@@ -2339,6 +2373,10 @@ Examples:
                         help='Extract and clean references only, do not download papers or search databases')
     parser.add_argument('--sample', type=int, metavar='N',
                         help='When processing a directory, randomly sample N PDFs instead of processing all')
+    parser.add_argument('--no-unpaywall', dest='use_unpaywall', action='store_false', default=True,
+                        help='Disable Unpaywall DOI lookup (on by default; queries ~50M OA papers)')
+    parser.add_argument('--unpaywall-email', default=os.environ.get('UNPAYWALL_EMAIL', 'stevens@anl.gov'),
+                        help='Contact email for Unpaywall API (required by their TOS; default: stevens@anl.gov, env: UNPAYWALL_EMAIL)')
     
     args = parser.parse_args()
     
@@ -2392,6 +2430,19 @@ Examples:
     ss_api_key = args.ss_api_key or os.environ.get('SS-API-KEY') or os.environ.get('SEMANTIC_SCHOLAR_API_KEY')
     if not ss_api_key:
         print("Warning: No Semantic Scholar API key provided. Rate limits may apply.")
+
+    # Wire Unpaywall config into module-level globals so search_with_fallbacks
+    # can read them without threading new args through every callsite.
+    global _USE_UNPAYWALL, _UNPAYWALL_EMAIL
+    _USE_UNPAYWALL = bool(args.use_unpaywall) and UNPAYWALL_SUPPORT
+    _UNPAYWALL_EMAIL = (args.unpaywall_email or "").strip()
+    if args.use_unpaywall and not UNPAYWALL_SUPPORT:
+        print("Warning: --use-unpaywall requested but unpaywall.py module not importable. Disabling.")
+    elif _USE_UNPAYWALL and not _UNPAYWALL_EMAIL:
+        print("Warning: Unpaywall enabled but no email set (required by TOS). Disabling.")
+        _USE_UNPAYWALL = False
+    elif _USE_UNPAYWALL and args.verbose:
+        print(f"Unpaywall lookup enabled (email: {_UNPAYWALL_EMAIL})")
     
     # Check for extract-only mode
     if args.extract_only:
