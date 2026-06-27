@@ -313,6 +313,18 @@ def upsert_paper(con, row, path_rel):
     return True
 
 
+def _subdir_for(path, root):
+    """Get the corpus-tag-friendly subdir name for `path` relative to `root`.
+    Files directly in root return 'root'; otherwise the first subdir component."""
+    try:
+        parts = path.relative_to(root).parts
+    except ValueError:
+        return "root"
+    if len(parts) <= 1:
+        return "root"  # file lives directly under root, no subdir
+    return parts[0].lower()
+
+
 def add_corpus_label(con, paper_id, corpus_value, source="pullr_ingest"):
     """Add (or refresh) a corpus label for a PullR-sourced paper."""
     existing = con.execute(
@@ -350,19 +362,46 @@ def main():
         print(f"ERROR: SCOUT db {args.db} does not exist", file=sys.stderr); sys.exit(2)
 
     t0 = time.time()
-    # Walk
+    # Walk: include both PDFs and PullR's abstract-only .txt outputs
+    # (oa_W*.txt and uw_*.txt are saved when the PDF was paywalled but
+    # we still resolved the paper via OpenAlex/Unpaywall metadata).
     pdfs = []
     for p in root.rglob("*.pdf"):
         if p.is_file() and p.stat().st_size > 1000:
             pdfs.append(p)
-    print(f"Found {len(pdfs):,} PDFs under {root}", flush=True)
+    abstract_only = []
+    pdf_stems = {p.stem for p in pdfs}
+    for p in root.rglob("*.txt"):
+        if not p.is_file(): continue
+        # PullR abstract files are named like oa_W123_Title_words.txt or
+        # uw_<id>_Title_words.txt or <sha1>_Title_words.txt. Extract the ID prefix.
+        stem = p.stem
+        m = re.match(r"^(oa_W\d+|uw_[A-Za-z0-9._\-]+|[0-9a-f]{40}|ax_[A-Za-z0-9._\-]+)_", stem)
+        if not m: continue
+        id_part = m.group(1)
+        if id_part in pdf_stems: continue  # PDF already covers it
+        # Synthesize a fake "path" object with the right stem so classify_filename works
+        fake_path = p.with_name(id_part + ".pdf")
+        abstract_only.append((p, fake_path))
+    print(f"Found {len(pdfs):,} PDFs and {len(abstract_only):,} abstract-only .txt records under {root}", flush=True)
 
     # Classify
     classes = {"s2_sha1": [], "openalex": [], "unpaywall": [], "arxiv": [], "unknown": []}
     for p in pdfs:
         info = classify_filename(p)
         info["path"] = p
+        info["_has_pdf"] = True
         classes[info["kind"]].append(info)
+    for real_txt, fake_pdf_name in abstract_only:
+        info = classify_filename(fake_pdf_name)
+        # Use the real .txt path for SCOUT path-tracking (so the user can find the file)
+        info["path"] = real_txt
+        info["_has_pdf"] = False
+        classes[info["kind"]].append(info)
+    # Now skip the original for-loop body since we already populated classes
+    if False:
+            info["path"] = p
+            classes[info["kind"]].append(info)
     print(f"  s2_sha1:   {len(classes['s2_sha1']):,}", flush=True)
     print(f"  openalex:  {len(classes['openalex']):,}", flush=True)
     print(f"  unpaywall: {len(classes['unpaywall']):,}", flush=True)
@@ -420,8 +459,7 @@ def main():
             if upsert_paper(con, row, rel_path(info["path"])):
                 new_count += 1
         # Corpus label
-        subdir = info["path"].relative_to(root).parts[0] if info["path"].is_relative_to(root) else "root"
-        add_corpus_label(con, pid, f"{args.corpus_prefix}-{subdir.lower()}")
+        add_corpus_label(con, pid, f"{args.corpus_prefix}-{_subdir_for(info['path'], root)}")
     con.commit()
     print(f"After s2_sha1: new={new_count}, updated={updated_count}", flush=True)
 
@@ -438,8 +476,7 @@ def main():
             row = heur_record_for_unknown(info["paper_id"], None, None, source_kind="openalex_unresolved")
         if upsert_paper(con, row, rel_path(info["path"])):
             new_count += 1
-        subdir = info["path"].relative_to(root).parts[0] if info["path"].is_relative_to(root) else "root"
-        add_corpus_label(con, info["paper_id"], f"{args.corpus_prefix}-{subdir.lower()}")
+        add_corpus_label(con, info["paper_id"], f"{args.corpus_prefix}-{_subdir_for(info['path'], root)}")
         time.sleep(0.15)  # polite spacing
     # Also: existing oa_ papers that show up again -> add new path
     for info in classes["openalex"]:
@@ -463,10 +500,7 @@ def main():
         ).fetchone()
         if existing_by_path:
             pid = existing_by_path[0]
-            # Make sure it has a corpus label
-            subdir = path.relative_to(root).parts[0] if path.is_relative_to(root) else "root"
-            corpus_val = f"{args.corpus_prefix}-{subdir.lower()}" if subdir != path.name else f"{args.corpus_prefix}-root"
-            add_corpus_label(con, pid, corpus_val)
+            add_corpus_label(con, pid, f"{args.corpus_prefix}-{_subdir_for(path, root)}")
             updated_count += 1
             continue
         # Hash to detect content-level dup
@@ -494,9 +528,7 @@ def main():
             row = heur_record_for_unknown(pid, title, None, source_kind="pullr_pdf_heuristic")
         if upsert_paper(con, row, rel_path(path)):
             new_count += 1
-        subdir = path.relative_to(root).parts[0] if path.is_relative_to(root) else "root"
-        corpus_val = f"{args.corpus_prefix}-{subdir.lower()}" if subdir != path.name else f"{args.corpus_prefix}-root"
-        add_corpus_label(con, pid, corpus_val)
+        add_corpus_label(con, pid, f"{args.corpus_prefix}-{_subdir_for(path, root)}")
     con.commit()
 
     # arxiv group: lookup via OpenAlex by arxiv DOI
@@ -521,8 +553,7 @@ def main():
             row["arxiv_id"] = arxiv
         if upsert_paper(con, row, rel_path(info["path"])):
             new_count += 1
-        subdir = info["path"].relative_to(root).parts[0] if info["path"].is_relative_to(root) else "root"
-        add_corpus_label(con, pid, f"{args.corpus_prefix}-{subdir.lower()}")
+        add_corpus_label(con, pid, f"{args.corpus_prefix}-{_subdir_for(info['path'], root)}")
         time.sleep(0.15)
     con.commit()
 
