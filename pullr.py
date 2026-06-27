@@ -77,6 +77,26 @@ except ImportError:
 _USE_UNPAYWALL = True   # on by default; flip to False via --no-unpaywall
 _UNPAYWALL_EMAIL = ""   # set in main() from --unpaywall-email (default stevens@anl.gov)
 
+# OpenAlex integration (>250M works, keyless API; email used for "polite pool").
+try:
+    from openalex import (
+        query_openalex_by_doi,
+        search_openalex_by_title,
+        search_openalex_full_text,
+    )
+    OPENALEX_SUPPORT = True
+except ImportError:
+    OPENALEX_SUPPORT = False
+    def query_openalex_by_doi(*a, **kw):  # type: ignore[no-redef]
+        return None
+    def search_openalex_by_title(*a, **kw):  # type: ignore[no-redef]
+        return []
+    def search_openalex_full_text(*a, **kw):  # type: ignore[no-redef]
+        return []
+
+_USE_OPENALEX = True   # on by default; flip to False via --no-openalex
+_OPENALEX_EMAIL = ""   # set in main() from --openalex-email
+
 BASE_URL = "https://api.semanticscholar.org/graph/v1/paper/search"
 FIELDS = 'title,authors,year,externalIds,url,venue,openAccessPdf,abstract,paperId'
 
@@ -438,35 +458,48 @@ def preprocess_references(references, client, openai_model, verbose=False, sourc
         print(f"Preprocessing {len(references)} references with LLM...")
     
     # Enhanced system prompt based on source
+    _PRESERVE_BLOCK = (
+        "CRITICAL — PRESERVE EXACTLY (do not rephrase, summarize, drop, or paraphrase):\n"
+        "  - DOIs (e.g. 10.NNNN/anything) including any \"doi:\" prefix\n"
+        "  - arXiv IDs (e.g. arXiv:2305.12345 or 2305.12345)\n"
+        "  - PubMed IDs (PMID:NNNNNNN), PMCIDs (PMC1234567)\n"
+        "  - URLs (http://, https://, doi.org/...)\n"
+        "  - Page numbers, volume/issue numbers, ISBN/ISSN\n"
+        "  - Author names exactly as given\n"
+        "  - The full paper title exactly as given\n\n"
+        "OUTPUT FORMAT (strict):\n"
+        "  - Return ONE cleaned reference per line, in the same order as input.\n"
+        "  - Do NOT add any preamble, header, footer, summary, or commentary.\n"
+        "  - Do NOT add markdown formatting, code fences, or bullet points.\n"
+        "  - Do NOT renumber the references (numbering will be stripped).\n"
+        "  - The first character of your response must be the first character of the first reference.\n"
+    )
     if source == "pdf":
-        system_prompt = """You are an AI assistant that cleans and normalizes academic references extracted from PDF files.
-
-PDF-extracted references often have issues like:
-- Text split across lines inappropriately
-- OCR errors and character misrecognition
-- Merged references on single lines
-- Missing or garbled text
-
-Clean each reference by:
-1. Ensuring each reference is on one line
-2. Standardizing format (Author. Title. Journal/Conference. Year.)
-3. Removing extra spaces, line breaks, and formatting issues
-4. Fixing common OCR errors (e.g., "1" instead of "l", "0" instead of "O")
-5. Ensuring completeness of bibliographic information
-6. Fixing any truncated or incomplete references
-
-Return one cleaned reference per line, maintaining the same order as input."""
+        system_prompt = (
+            "You are an AI assistant that cleans and normalizes academic references extracted from PDF files.\n\n"
+            "PDF-extracted references often have issues like:\n"
+            "- Text split across lines inappropriately\n"
+            "- OCR errors and character misrecognition\n"
+            "- Merged references on single lines\n"
+            "- Missing or garbled text\n\n"
+            "Clean each reference by:\n"
+            "1. Joining lines so each reference fits on one line\n"
+            "2. Standardizing format (Author. Title. Journal/Conference. Year. Volume:Pages. doi:NNN)\n"
+            "3. Removing extra whitespace and stray line breaks\n"
+            "4. Fixing obvious OCR errors only (e.g. l/1, O/0, rn/m) — do NOT touch DOIs/URLs/IDs\n"
+            "5. Filling in completeness ONLY from what is already present (do not invent fields)\n\n"
+            + _PRESERVE_BLOCK
+        )
     else:
-        system_prompt = """You are an AI assistant that cleans and normalizes academic references for better database searching.
-
-Given a list of academic references, clean each one by:
-1. Ensuring each reference is on one line
-2. Standardizing format (Author. Title. Journal/Conference. Year.)
-3. Removing extra spaces, line breaks, and formatting issues
-4. Fixing common formatting inconsistencies
-5. Ensuring completeness of bibliographic information
-
-Return one cleaned reference per line, maintaining the same order as input."""
+        system_prompt = (
+            "You are an AI assistant that cleans and normalizes academic references for better database searching.\n\n"
+            "For each reference:\n"
+            "1. Put it on a single line\n"
+            "2. Standardize format to: Author. Title. Journal. Year. Volume:Pages. doi:NNN\n"
+            "3. Remove stray whitespace and line breaks\n"
+            "4. Do NOT invent missing fields\n\n"
+            + _PRESERVE_BLOCK
+        )
     
     # Process references in batches to avoid token limits
     batch_size = 10
@@ -493,14 +526,45 @@ Return one cleaned reference per line, maintaining the same order as input."""
                 
                 cleaned_text = response.choices[0].message.content
                 if cleaned_text:
-                    # Parse cleaned references
+                    # Patterns that indicate conversational LLM preamble/postamble
+                    # (handles cases where the LLM ignores the "no commentary" rule).
+                    _PREAMBLE_RE = re.compile(
+                        r"^(here\s+(are|is)|sure|certainly|i('?ll|\s+have|\s+will)|"
+                        r"the\s+(cleaned|normalized|following)|below\s+(are|is)|"
+                        r"these\s+are|cleaned\s+references?|normalized\s+references?)",
+                        re.I,
+                    )
+                    _MARKDOWN_FENCE_RE = re.compile(r"^```")
+                    parsed = []
                     for line in cleaned_text.split('\n'):
                         line = line.strip()
-                        if line and not line.startswith('#'):
-                            # Remove numbering at the beginning
-                            cleaned_ref = re.sub(r'^\d+\.\s*', '', line)
-                            if cleaned_ref:
-                                cleaned_references.append(cleaned_ref)
+                        if not line or line.startswith('#'):
+                            continue
+                        if _MARKDOWN_FENCE_RE.match(line):
+                            continue
+                        if _PREAMBLE_RE.match(line):
+                            continue
+                        # Remove numbering at the beginning ("1. ", "1) ", "[1] ")
+                        cleaned_ref = re.sub(r'^(\d+[\.\):]\s*|\[\d+\]\s*)', '', line)
+                        cleaned_ref = cleaned_ref.strip()
+                        if not cleaned_ref:
+                            continue
+                        # Sanity: an actual reference should be at least 30 chars
+                        # and contain at least one digit (year) OR a DOI/URL/PMID.
+                        if len(cleaned_ref) < 30:
+                            continue
+                        if not re.search(r"\d|doi|http|pmid|arxiv", cleaned_ref, re.I):
+                            continue
+                        parsed.append(cleaned_ref)
+                    # Defensive: if the LLM "helpfully" merged or split, fall
+                    # back to the original batch when counts differ wildly.
+                    if 0 < len(parsed) < len(batch) // 2:
+                        if verbose:
+                            print(f"    [preprocess] batch produced only {len(parsed)} of {len(batch)} refs; "
+                                  f"using originals to be safe")
+                        cleaned_references.extend(batch)
+                    else:
+                        cleaned_references.extend(parsed)
                 
                 pbar.update(len(batch))
                 time.sleep(1)  # Rate limiting
@@ -571,12 +635,13 @@ def extract_reference_info(reference_text, client, openai_model, mode='fuzzy'):
     
     if mode == 'exact':
         system_prompt = """You are an AI assistant that extracts bibliographic information from academic references.
-        Given a reference citation, extract the title, first author's last name, and publication year.
-        Return the information in JSON format: {"title": "extracted title", "author": "last name", "year": "year"}
-        If any information is unclear or missing, use null for that field."""
-        
+        Given a reference citation, extract: the title, first author's last name, publication year, and DOI if present.
+        Return ONLY a JSON object (no prose, no markdown, no code fences):
+        {"title": "...", "author": "...", "year": "...", "doi": "..."}
+        Use null for any field that is unclear or missing. The DOI looks like 10.NNNN/something."""
+
         user_prompt = f"Extract bibliographic information from this reference: {reference_text}"
-        
+
         try:
             response = client.chat.completions.create(
                 model=openai_model,
@@ -584,20 +649,38 @@ def extract_reference_info(reference_text, client, openai_model, mode='fuzzy'):
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt},
                 ],
-                temperature=0.1,
-                max_tokens=150,
+                temperature=0.0,
+                max_tokens=300,
             )
-            
+
             result_text = response.choices[0].message.content
-            if result_text:
-                # Try to parse JSON response
-                import json
+            if not result_text:
+                return None
+            import json, re as _re
+            txt = result_text.strip()
+            # Strip markdown code fences if present
+            if txt.startswith("```"):
+                lines = txt.split("\n")
+                if lines and lines[0].startswith("```"):
+                    lines = lines[1:]
+                if lines and lines[-1].startswith("```"):
+                    lines = lines[:-1]
+                txt = "\n".join(lines).strip()
+                if txt.lower().startswith("json"):
+                    txt = txt[4:].lstrip(":").strip()
+            # Try direct parse first
+            try:
+                return json.loads(txt)
+            except json.JSONDecodeError:
+                pass
+            # Try extracting the first {...} block
+            m = _re.search(r"\{[^{}]*(?:\{[^{}]*\}[^{}]*)*\}", txt, _re.DOTALL)
+            if m:
                 try:
-                    info = json.loads(result_text)
-                    return info
+                    return json.loads(m.group())
                 except json.JSONDecodeError:
-                    print(f"Failed to parse JSON response: {result_text}")
-                    return None
+                    pass
+            print(f"Failed to parse JSON response: {result_text[:200]}")
             return None
         except Exception as e:
             print(f"Error extracting reference info with OpenAI: {e}")
@@ -796,11 +879,15 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
     if verbose:
         print(f"    Attempting multiple search strategies...")
     
-    # Strategy 0: Check for URLs and try web scraping first
+    # Strategy 0: Check for URLs and try web scraping first — BUT skip when
+    # the only URLs are bare DOIs (doi.org/...) or arXiv IDs, because the
+    # DOI-based strategies below resolve those far more reliably than scraping
+    # a doi.org landing page.
     urls = detect_and_extract_urls(reference_text)
-    if urls and output_dir:
+    non_doi_urls = [u for u in urls if not re.search(r"(doi\.org/|arxiv\.org/abs/|arxiv:)", u, re.I)]
+    if non_doi_urls and output_dir:
         if verbose:
-            print(f"    Found URLs in reference: {urls}")
+            print(f"    Found non-DOI URLs in reference: {non_doi_urls}")
         scraped_paper = process_url_reference(reference_text, output_dir, verbose, client, openai_model)
         if scraped_paper:
             if verbose:
@@ -808,32 +895,41 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
             return [scraped_paper], "web_scraping"
     
     strategies = []
-    
+
     # Extract bibliographic info once
     ref_info = extract_reference_info(reference_text, client, openai_model, mode='exact')
-    
-    # Strategy 1: Exact search using bibliographic info
+
+    # ---- DOI-based strategies first (free/keyless, ~99% precise when a DOI is known) ----
+    doi = None
+    if ref_info and isinstance(ref_info, dict):
+        doi = (ref_info.get("doi") or "").strip() or None
+    if not doi:
+        doi = extract_doi_from_ref(reference_text)
+
+    # Strategy 0.5: OpenAlex by DOI — runs before S2 because DOI lookup is
+    # essentially guaranteed correct when a DOI is known, and avoids burning
+    # S2 quota on something we can resolve instantly.
+    if _USE_OPENALEX and OPENALEX_SUPPORT and doi:
+        def _openalex_doi_strategy(d=doi):
+            paper = query_openalex_by_doi(d, _OPENALEX_EMAIL, verbose=verbose)
+            if paper:
+                return {"data": [paper], "total": 1}
+            return {"data": [], "total": 0}
+        strategies.append(("openalex_doi", _openalex_doi_strategy))
+
+    # Strategy 0.6: Unpaywall by DOI — also runs before S2 search. Complements
+    # OpenAlex with better OA-link coverage for some publishers.
+    if _USE_UNPAYWALL and _UNPAYWALL_EMAIL and doi:
+        def _unpaywall_strategy(d=doi):
+            paper = query_unpaywall_by_doi(d, _UNPAYWALL_EMAIL, verbose=verbose)
+            if paper:
+                return {"data": [paper], "total": 1}
+            return {"data": [], "total": 0}
+        strategies.append(("unpaywall_doi", _unpaywall_strategy))
+
+    # Strategy 1: Semantic Scholar exact search using bibliographic info
     if ref_info:
         strategies.append(("exact", lambda: search_papers_exact(ref_info, ss_api_key, limit=5)))
-
-    # Strategy 1.5: Unpaywall lookup by DOI (free, no key, ~50M OA papers).
-    # Inserted between S2 exact and S2 title-fuzzy so we get OA-known papers
-    # without burning S2 quota or hitting paywalled hits.
-    if _USE_UNPAYWALL and _UNPAYWALL_EMAIL:
-        doi = None
-        if ref_info and isinstance(ref_info, dict):
-            doi = (ref_info.get("doi") or "").strip() or None
-        if not doi:
-            doi = extract_doi_from_ref(reference_text)
-        if doi:
-            def _unpaywall_strategy(d=doi):
-                paper = query_unpaywall_by_doi(d, _UNPAYWALL_EMAIL, verbose=verbose)
-                if paper:
-                    # Wrap in S2 search-response shape so the strategy-loop
-                    # parser at line ~862 (papers_data['data']) works unchanged.
-                    return {"data": [paper], "total": 1}
-                return {"data": [], "total": 0}
-            strategies.append(("unpaywall_doi", _unpaywall_strategy))
 
     # Strategy 2: Title-only search (if we have a title)
     if ref_info and ref_info.get('title'):
@@ -843,6 +939,17 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
         clean_title = re.sub(r'[^\w\s]', ' ', title).strip()
         if clean_title != title:
             strategies.append(("title_clean", lambda: search_papers_fuzzy(clean_title, ss_api_key, limit=5)))
+
+        # Strategy 2.5: OpenAlex title.search (with year/author re-ranking)
+        if _USE_OPENALEX and OPENALEX_SUPPORT:
+            def _openalex_title_strategy(t=title, ri=ref_info):
+                hits = search_openalex_by_title(
+                    t, _OPENALEX_EMAIL,
+                    year=ri.get('year'), author=ri.get('author'),
+                    limit=5, verbose=verbose,
+                )
+                return {"data": hits, "total": len(hits)}
+            strategies.append(("openalex_title", _openalex_title_strategy))
     
     # Strategy 3: First author + year search
     if ref_info and ref_info.get('author') and ref_info.get('year'):
@@ -2377,6 +2484,11 @@ Examples:
                         help='Disable Unpaywall DOI lookup (on by default; queries ~50M OA papers)')
     parser.add_argument('--unpaywall-email', default=os.environ.get('UNPAYWALL_EMAIL', 'stevens@anl.gov'),
                         help='Contact email for Unpaywall API (required by their TOS; default: stevens@anl.gov, env: UNPAYWALL_EMAIL)')
+    parser.add_argument('--no-openalex', dest='use_openalex', action='store_false', default=True,
+                        help='Disable OpenAlex DOI/title lookups (on by default; queries >250M works)')
+    parser.add_argument('--openalex-email', default=os.environ.get('OPENALEX_EMAIL',
+                                                                    os.environ.get('UNPAYWALL_EMAIL', 'stevens@anl.gov')),
+                        help='Contact email for OpenAlex "polite pool" (default: $OPENALEX_EMAIL or $UNPAYWALL_EMAIL or stevens@anl.gov)')
     
     args = parser.parse_args()
     
@@ -2443,6 +2555,18 @@ Examples:
         _USE_UNPAYWALL = False
     elif _USE_UNPAYWALL and args.verbose:
         print(f"Unpaywall lookup enabled (email: {_UNPAYWALL_EMAIL})")
+
+    # Wire OpenAlex config similarly.
+    global _USE_OPENALEX, _OPENALEX_EMAIL
+    _USE_OPENALEX = bool(args.use_openalex) and OPENALEX_SUPPORT
+    _OPENALEX_EMAIL = (args.openalex_email or "").strip()
+    if args.use_openalex and not OPENALEX_SUPPORT:
+        print("Warning: --use-openalex requested but openalex.py module not importable. Disabling.")
+    elif _USE_OPENALEX and not _OPENALEX_EMAIL:
+        if args.verbose:
+            print("Note: OpenAlex enabled without email (using anonymous pool, lower rate limit).")
+    elif _USE_OPENALEX and args.verbose:
+        print(f"OpenAlex lookup enabled (email: {_OPENALEX_EMAIL})")
     
     # Check for extract-only mode
     if args.extract_only:
