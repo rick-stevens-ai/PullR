@@ -19,10 +19,19 @@ PullR is an intelligent academic paper processing tool that extracts references 
 
 ### Data Sources
 - **Semantic Scholar API**: Primary source for academic papers
+- **OpenAlex API**: >250M works including titles, authors, abstracts, OA links (keyless; enabled by default)
 - **Unpaywall API**: Free, keyless lookup of ~50 million open-access papers by DOI (enabled by default)
-- **Web Scraping**: Fallback for URLs (arXiv, DOI, ResearchGate, etc.)
+- **Web Scraping**: Fallback for non-DOI URLs (arXiv landing pages, ResearchGate, etc.)
 - **Open Access PDFs**: Automatic download when available
 - **Multiple Formats**: Handles various citation styles and formats
+
+Search strategy order (per reference, exact mode):
+  1. `openalex_doi`  — DOI → OpenAlex (instant, ~99% precise; provides abstract)
+  2. `unpaywall_doi` — DOI → Unpaywall (best OA-link coverage at some publishers)
+  3. `exact`         — S2 exact title + author + year search
+  4. `title`         — S2 title-only search
+  5. `openalex_title`— OpenAlex title.search filter with year/author re-rank
+  6. (... S2 fuzzy fallbacks: author_year, year, keyword_*, text_*, etc.)
 
 ## 📋 Requirements
 
@@ -75,10 +84,54 @@ PullR will:
 Flags:
 
 ```bash
---no-unpaywall                     # disable the strategy (default: enabled)
+--no-unpaywall                     # disable Unpaywall (default: enabled)
 --unpaywall-email you@example.org  # contact email (default: stevens@anl.gov,
                                    # env: UNPAYWALL_EMAIL)
+--no-openalex                      # disable OpenAlex (default: enabled)
+--openalex-email you@example.org   # "polite pool" email (env: OPENALEX_EMAIL,
+                                   # falls back to UNPAYWALL_EMAIL)
 ```
+
+### OpenAlex integration
+
+[OpenAlex](https://openalex.org) is a free, keyless catalog of >250M works.
+Where Unpaywall is DOI-only and returns no abstracts, OpenAlex returns:
+
+- Full bibliographic record (title, authors, year, venue, journal)
+- Reconstructed abstract from an inverted index
+- Multiple OA-location options (best_oa_location, oa_locations[], primary)
+- External IDs: DOI, PMID, PMCID, MAG, ArXiv (when known)
+- Citation count and reference count
+
+PullR uses OpenAlex two ways:
+
+1. **DOI lookup** (`openalex_doi` strategy) — instant and high-precision; runs
+   first in the strategy ladder when any DOI is detected (LLM-extracted or
+   regex-matched) in the reference text.
+
+2. **Title search** (`openalex_title` strategy) — uses `filter=title.search:…`
+   with `cited_by_count` sort, then re-ranks locally by title-token overlap
+   plus year and author bonuses. Useful when no DOI is available.
+
+### Adding PullR output to SCOUT
+
+After pulling papers, you can fold them into the SCOUT paper-index DB at
+`~/paper-index/data/papers.sqlite`:
+
+```bash
+python ingest_to_scout.py              # scan ~/Dropbox/PullR (default)
+python ingest_to_scout.py /custom/dir  # scan a different root
+python ingest_to_scout.py --dry-run    # report only, no DB writes
+```
+
+Ingest handles four filename conventions:
+  - `<sha1>.pdf`        — Semantic Scholar paper IDs (bulk batch lookup)
+  - `oa_W<digits>.pdf`  — OpenAlex (resolved via OpenAlex REST)
+  - `arxiv_NNNN.NNNNN.pdf` — arXiv (resolved via OpenAlex DOI)
+  - other names         — sha256 content de-dup + pdftotext title/DOI extract
+
+Every ingested paper gets a `corpus = pullr-<subdir>` label in SCOUT so you
+can filter by source collection in the Datasette UI.
 
 ## 🎯 Usage
 
