@@ -362,19 +362,59 @@ Return each complete reference on a separate line."""
             print("Processing extracted references in groups of 10 for cleaning...")
         
         cleaned_references = preprocess_references(all_references, client, openai_model, verbose, source="pdf")
-        
+
+        # Quality filter: drop LLM commentary / non-reference text that
+        # snuck through the chunk extraction step.  A real reference must
+        # have at least one 4-digit year between 1900-2099 AND either a
+        # DOI/arXiv/URL marker OR at least two comma-separated tokens
+        # (author list style).  Also reject lines that begin with obvious
+        # commentary phrasing.
+        _BAD_PREFIX_RE = re.compile(
+            r"^\s*(no\s+(complete\s+)?references?|none\s+of\s+the|here\s+(are|is)|"
+            r"the\s+(text|chunk|document|passage)\s+(does\s+not|contains?)|"
+            r"this\s+(text|chunk|section)\s+(does\s+not|appears\s+to|is)|"
+            r"i\s+(could\s+not|cannot|did\s+not|was\s+unable|do\s+not)|"
+            r"unfortunately|sorry|sure[,!\.]|certainly|note:|n/a|none\b)",
+            re.I,
+        )
+        _YEAR_RE = re.compile(r"\b(?:19[0-9]{2}|20[0-9]{2})\b")
+        _DOI_OR_URL_RE = re.compile(r"(10\.\d{4,9}/|arxiv|http|doi\.org|pmid|pmc\d)", re.I)
+
+        def _looks_like_real_ref(s):
+            s = s.strip()
+            if len(s) < 30 or len(s) > 1500: return False
+            if _BAD_PREFIX_RE.match(s): return False
+            # Lines starting with a quoted partial-bracket like "1] is not"
+            if re.match(r"^\d{1,3}\]\s+(is|are|appears|does|seems)\b", s, re.I):
+                return False
+            if not _YEAR_RE.search(s): return False
+            # Either a structured ID OR a comma/period-separated author-list pattern
+            if _DOI_OR_URL_RE.search(s): return True
+            # crude author-list detector: at least two commas and a period before year
+            if s.count(",") >= 2 or s.count(".") >= 2:
+                return True
+            return False
+
         # Remove duplicates while preserving order
         seen = set()
         unique_references = []
+        n_dropped_quality = 0
         for ref in cleaned_references:
             ref_normalized = re.sub(r'\s+', ' ', ref.lower().strip())
-            if ref_normalized not in seen and len(ref) > 30:
-                seen.add(ref_normalized)
-                unique_references.append(ref)
-        
+            if ref_normalized in seen:
+                continue
+            if not _looks_like_real_ref(ref):
+                n_dropped_quality += 1
+                if verbose and n_dropped_quality <= 5:
+                    print(f"  [quality-filter] dropping: {ref[:90]!r}")
+                continue
+            seen.add(ref_normalized)
+            unique_references.append(ref)
+
         if verbose:
-            print(f"Final cleaned and deduplicated references: {len(unique_references)}")
-        
+            print(f"Final cleaned and deduplicated references: {len(unique_references)} "
+                  f"(dropped {n_dropped_quality} non-reference lines)")
+
         return unique_references
     
     # Fallback if no references found
@@ -454,6 +494,13 @@ def preprocess_references(references, client, openai_model, verbose=False, sourc
         verbose: Whether to print detailed progress
         source: Source type ("txt", "pdf", "general") for context-specific prompts
     """
+    # Allow callers to skip the whole step. When the input is already a curated
+    # bibliography (e.g. arxiv survey references), the LLM clean step adds time
+    # without improving recall, since DOI/title strategies work on raw text.
+    if os.environ.get("PULLR_SKIP_PREPROCESS", "").lower() in ("1", "true", "yes"):
+        if verbose:
+            print(f"Skipping preprocessing (PULLR_SKIP_PREPROCESS set); using {len(references)} raw refs")
+        return list(references)
     if verbose:
         print(f"Preprocessing {len(references)} references with LLM...")
     
@@ -521,7 +568,7 @@ def preprocess_references(references, client, openai_model, verbose=False, sourc
                         {"role": "user", "content": user_prompt},
                     ],
                     temperature=0.1,
-                    max_tokens=2000,
+                    max_tokens=4000,  # dense refs can take ~300+ tokens each
                 )
                 
                 cleaned_text = response.choices[0].message.content
@@ -567,7 +614,10 @@ def preprocess_references(references, client, openai_model, verbose=False, sourc
                         cleaned_references.extend(parsed)
                 
                 pbar.update(len(batch))
-                time.sleep(1)  # Rate limiting
+                # Rate limit only when talking to a public API; local/CELS
+                # endpoints don't need a 1s sleep between batches.
+                if "openai.com" in str(getattr(client, "base_url", "")):
+                    time.sleep(1)
                 
             except Exception as e:
                 if verbose:
@@ -713,6 +763,26 @@ def extract_reference_info(reference_text, client, openai_model, mode='fuzzy'):
             print(f"Error processing reference with OpenAI: {e}")
             return []
 
+# Global S2 circuit-breaker state. After N consecutive 429s we stop pestering
+# S2 for the rest of the run -- OpenAlex/Unpaywall strategies are more than
+# enough and don't get throttled.
+_S2_CONSECUTIVE_429S = 0
+_S2_CIRCUIT_OPEN = False
+_S2_CIRCUIT_THRESHOLD = 6
+
+def _s2_record_outcome(rate_limited):
+    global _S2_CONSECUTIVE_429S, _S2_CIRCUIT_OPEN
+    if rate_limited:
+        _S2_CONSECUTIVE_429S += 1
+        if _S2_CONSECUTIVE_429S >= _S2_CIRCUIT_THRESHOLD and not _S2_CIRCUIT_OPEN:
+            _S2_CIRCUIT_OPEN = True
+            print(f"  [s2-circuit] {_S2_CONSECUTIVE_429S} consecutive 429s; "
+                  f"suppressing further S2 calls for this run (OpenAlex/Unpaywall "
+                  f"will continue to be used)")
+    else:
+        _S2_CONSECUTIVE_429S = 0
+
+
 def search_papers_fuzzy(keyword, api_key=None, limit=10, max_retries=3):
     """Search papers using Semantic Scholar API with keyword search and retry logic"""
     url = BASE_URL
@@ -725,15 +795,21 @@ def search_papers_fuzzy(keyword, api_key=None, limit=10, max_retries=3):
     if api_key:
         headers['x-api-key'] = api_key
 
+    if _S2_CIRCUIT_OPEN and not api_key:
+        return None  # circuit open, skip S2 entirely
     for attempt in range(max_retries):
         try:
             wait_for_rate_limit()  # Global rate limiting
             response = requests.get(url, params=params, headers=headers, timeout=30)
             
             if response.status_code == 200:
+                _s2_record_outcome(False)
                 return response.json()
             elif response.status_code == 429:
                 # Rate limited - wait and retry
+                _s2_record_outcome(True)
+                if _S2_CIRCUIT_OPEN:
+                    return None
                 wait_time = (2 ** attempt) * 2  # Exponential backoff: 2, 4, 8 seconds
                 print(f"Rate limited (429) on attempt {attempt + 1}, waiting {wait_time}s...")
                 time.sleep(wait_time)
@@ -797,15 +873,21 @@ def search_papers_exact(ref_info, api_key=None, limit=10, max_retries=3):
     if api_key:
         headers['x-api-key'] = api_key
 
+    if _S2_CIRCUIT_OPEN and not api_key:
+        return None  # circuit open, skip S2 entirely
     for attempt in range(max_retries):
         try:
             wait_for_rate_limit()  # Global rate limiting
             response = requests.get(url, params=params, headers=headers, timeout=30)
             
             if response.status_code == 200:
+                _s2_record_outcome(False)
                 return response.json()
             elif response.status_code == 429:
                 # Rate limited - wait and retry
+                _s2_record_outcome(True)
+                if _S2_CIRCUIT_OPEN:
+                    return None
                 wait_time = (2 ** attempt) * 2  # Exponential backoff: 2, 4, 8 seconds
                 print(f"Rate limited (429) on exact search attempt {attempt + 1}, waiting {wait_time}s...")
                 time.sleep(wait_time)
@@ -906,6 +988,19 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
     if not doi:
         doi = extract_doi_from_ref(reference_text)
 
+    # Fall back to arXiv-ID -> DOI bridge: OpenAlex indexes most arXiv
+    # preprints under the canonical DOI 10.48550/arXiv.NNNN.NNNNN.
+    arxiv_id = None
+    if not doi:
+        m = re.search(r"arxiv[:\s/]+(\d{4}\.\d{4,5})(v\d+)?", reference_text, re.I)
+        if not m:
+            m = re.search(r"arxiv[:\s/]+([a-z\-]+/\d{7})(v\d+)?", reference_text, re.I)
+        if m:
+            arxiv_id = m.group(1)
+            doi = f"10.48550/arXiv.{arxiv_id}"
+            if verbose:
+                print(f"    [arxiv-bridge] {arxiv_id} -> {doi}")
+
     # Strategy 0.5: OpenAlex by DOI — runs before S2 because DOI lookup is
     # essentially guaranteed correct when a DOI is known, and avoids burning
     # S2 quota on something we can resolve instantly.
@@ -927,6 +1022,21 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
             return {"data": [], "total": 0}
         strategies.append(("unpaywall_doi", _unpaywall_strategy))
 
+    # Strategy 0.7: OpenAlex title.search runs BEFORE S2 search because
+    # (a) it has no aggressive rate limit, (b) it has equally good title
+    # coverage, (c) S2 unauthenticated rate-limits cripple bulk runs.
+    # If OpenAlex finds nothing, we still fall through to S2.
+    if _USE_OPENALEX and OPENALEX_SUPPORT and ref_info and ref_info.get('title'):
+        title = ref_info['title']
+        def _openalex_title_strategy(t=title, ri=ref_info):
+            hits = search_openalex_by_title(
+                t, _OPENALEX_EMAIL,
+                year=ri.get('year'), author=ri.get('author'),
+                limit=5, verbose=verbose,
+            )
+            return {"data": hits, "total": len(hits)}
+        strategies.append(("openalex_title", _openalex_title_strategy))
+
     # Strategy 1: Semantic Scholar exact search using bibliographic info
     if ref_info:
         strategies.append(("exact", lambda: search_papers_exact(ref_info, ss_api_key, limit=5)))
@@ -939,17 +1049,6 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
         clean_title = re.sub(r'[^\w\s]', ' ', title).strip()
         if clean_title != title:
             strategies.append(("title_clean", lambda: search_papers_fuzzy(clean_title, ss_api_key, limit=5)))
-
-        # Strategy 2.5: OpenAlex title.search (with year/author re-ranking)
-        if _USE_OPENALEX and OPENALEX_SUPPORT:
-            def _openalex_title_strategy(t=title, ri=ref_info):
-                hits = search_openalex_by_title(
-                    t, _OPENALEX_EMAIL,
-                    year=ri.get('year'), author=ri.get('author'),
-                    limit=5, verbose=verbose,
-                )
-                return {"data": hits, "total": len(hits)}
-            strategies.append(("openalex_title", _openalex_title_strategy))
     
     # Strategy 3: First author + year search
     if ref_info and ref_info.get('author') and ref_info.get('year'):
@@ -991,28 +1090,22 @@ def search_with_fallbacks(reference_text, client, openai_model, ss_api_key=None,
             combined_query = f"{author_last} {keywords[0]}"
             strategies.append(("author_keyword", lambda: search_papers_fuzzy(combined_query, ss_api_key, limit=5)))
     
-    # Try each strategy with up to 3 attempts
+    # Try each strategy ONCE. The underlying functions (S2 search, OpenAlex,
+    # Unpaywall) already do their own retries with exponential backoff, so an
+    # outer retry loop just multiplies wasted time when an endpoint is
+    # rate-limited or down. If a strategy returns no data, move to the next.
     for strategy_name, search_func in strategies:
-        for attempt in range(3):
-            try:
+        try:
+            if verbose:
+                print(f"    Strategy: {strategy_name}")
+            papers_data = search_func()
+            if papers_data and papers_data.get('data') and len(papers_data['data']) > 0:
                 if verbose:
-                    attempt_str = f" (attempt {attempt+1})" if attempt > 0 else ""
-                    print(f"    Strategy: {strategy_name}{attempt_str}")
-                
-                papers_data = search_func()
-                if papers_data and papers_data.get('data') and len(papers_data['data']) > 0:
-                    if verbose:
-                        print(f"    ✅ Success with {strategy_name}: {len(papers_data['data'])} papers found")
-                    return papers_data['data'], strategy_name
-                
-                if attempt < 2:  # Don't sleep after last attempt
-                    time.sleep(1)  # Rate limiting between attempts
-                    
-            except Exception as e:
-                if verbose:
-                    print(f"    Error in {strategy_name} attempt {attempt+1}: {e}")
-                if attempt < 2:
-                    time.sleep(2)  # Longer delay on error
+                    print(f"    ✅ Success with {strategy_name}: {len(papers_data['data'])} papers found")
+                return papers_data['data'], strategy_name
+        except Exception as e:
+            if verbose:
+                print(f"    Error in {strategy_name}: {e}")
     
     if verbose:
         print(f"    ❌ All strategies failed")

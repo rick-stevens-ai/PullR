@@ -171,10 +171,53 @@ def _to_s2_shape(work):
     }
 
 
+# Module-level circuit breaker. If we get many consecutive 429s, the OpenAlex
+# polite pool is throttling us heavily; further calls in this process should
+# fail fast for a cooldown period rather than waste minutes on retries.
+#
+# Two-state machine:
+#   closed: normal operation, request fires
+#   open:   request returns None immediately until time.time() >= _open_until,
+#           after which the counter resets and we re-probe
+_OA_CONSECUTIVE_429S = 0
+_OA_CIRCUIT_OPEN_UNTIL = 0.0
+_OA_CIRCUIT_THRESHOLD = 5
+_OA_CIRCUIT_COOLDOWN = 15      # seconds; short enough that recovery is quick
+
+
+def _oa_circuit_check():
+    """Return True if the circuit is currently open (skip the call).
+    When the cooldown has expired, also reset the counter so we get one
+    fresh probe attempt before potentially re-opening."""
+    global _OA_CONSECUTIVE_429S, _OA_CIRCUIT_OPEN_UNTIL
+    if time.time() < _OA_CIRCUIT_OPEN_UNTIL:
+        return True
+    if _OA_CIRCUIT_OPEN_UNTIL != 0.0:
+        # Cooldown just expired; clear state for a clean probe.
+        _OA_CIRCUIT_OPEN_UNTIL = 0.0
+        _OA_CONSECUTIVE_429S = 0
+    return False
+
+
+def _oa_record(rate_limited, verbose=False):
+    global _OA_CONSECUTIVE_429S, _OA_CIRCUIT_OPEN_UNTIL
+    if rate_limited:
+        _OA_CONSECUTIVE_429S += 1
+        if _OA_CONSECUTIVE_429S >= _OA_CIRCUIT_THRESHOLD and _OA_CIRCUIT_OPEN_UNTIL == 0.0:
+            _OA_CIRCUIT_OPEN_UNTIL = time.time() + _OA_CIRCUIT_COOLDOWN
+            if verbose:
+                print(f"    [openalex] circuit OPEN: {_OA_CONSECUTIVE_429S} consecutive 429s, "
+                      f"cooling down for {_OA_CIRCUIT_COOLDOWN}s")
+    else:
+        _OA_CONSECUTIVE_429S = 0
+
+
 def _request(url, email, timeout=DEFAULT_TIMEOUT, max_retries=3, verbose=False):
     """Wrapper around requests.get with retries on 429/5xx."""
     if not _HAS_REQUESTS:
         return None
+    if _oa_circuit_check():
+        return None  # fail fast during cooldown
     headers = {"User-Agent": _ua(email), "Accept": "application/json"}
     for attempt in range(max_retries):
         try:
@@ -187,6 +230,7 @@ def _request(url, email, timeout=DEFAULT_TIMEOUT, max_retries=3, verbose=False):
                 continue
             return None
         if r.status_code == 200:
+            _oa_record(False, verbose)
             try:
                 return r.json()
             except (ValueError, json.JSONDecodeError) as e:
@@ -194,8 +238,12 @@ def _request(url, email, timeout=DEFAULT_TIMEOUT, max_retries=3, verbose=False):
                     print(f"    [openalex] bad JSON: {e}")
                 return None
         if r.status_code == 404:
+            _oa_record(False, verbose)  # 404 is a clean miss, not throttle
             return None
         if r.status_code in (429,) or 500 <= r.status_code < 600:
+            _oa_record(True, verbose)
+            if _oa_circuit_check():
+                return None
             wait = (attempt + 1) * 3
             if verbose:
                 print(f"    [openalex] HTTP {r.status_code} attempt {attempt+1}, waiting {wait}s")
