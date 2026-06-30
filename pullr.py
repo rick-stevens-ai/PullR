@@ -938,14 +938,62 @@ def search_papers_exact(ref_info, api_key=None, limit=10, max_retries=3):
     return None
 
 def download_pdf(pdf_url, save_path, max_retries=2):
-    """Download a PDF from URL with retry logic"""
+    """Download a PDF from URL with retry logic.
+
+    Also validates that the response is actually a PDF: many publishers
+    (CaltechTHESIS, ResearchGate, paywalled APS pages) serve an HTML
+    landing page even at the OA-PDF link. We check the Content-Type
+    header and then sniff the first 1024 bytes for the '%PDF-' magic.
+    If the response is not a PDF, the partial file is deleted and the
+    function returns False with an informative message.
+    """
+    UA = (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0 Safari/537.36"
+    )
     for attempt in range(max_retries):
         try:
-            response = requests.get(pdf_url, stream=True, timeout=60)
+            response = requests.get(
+                pdf_url, stream=True, timeout=60,
+                headers={"User-Agent": UA, "Accept": "application/pdf,*/*"},
+                allow_redirects=True,
+            )
             if response.status_code == 200:
+                ctype = (response.headers.get("Content-Type") or "").lower()
+                # Fast-fail on obvious HTML content-type before writing.
+                if ("text/html" in ctype or "application/xhtml" in ctype) \
+                        and "pdf" not in ctype:
+                    print(f"Failed to download PDF - server returned HTML "
+                          f"(Content-Type: {ctype.split(';')[0]}) at {pdf_url}")
+                    return False
+                # Write the body, then sniff magic bytes from the file.
                 with open(save_path, 'wb') as f:
                     for chunk in response.iter_content(chunk_size=8192):
                         f.write(chunk)
+                try:
+                    with open(save_path, 'rb') as f:
+                        head = f.read(1024)
+                except Exception:
+                    head = b""
+                # Real PDFs start with '%PDF-' (sometimes after a few stray
+                # bytes from servers, hence the 'in head' rather than ==).
+                if b"%PDF-" not in head:
+                    # Try to identify what we actually got, for the log.
+                    looks_like = "unknown"
+                    if head.lstrip().startswith((b"<!doctype html", b"<!DOCTYPE html",
+                                                  b"<html", b"<HTML")):
+                        looks_like = "HTML landing page"
+                    elif head.startswith(b"{") or head.startswith(b"["):
+                        looks_like = "JSON"
+                    elif b"<?xml" in head[:200]:
+                        looks_like = "XML"
+                    try:
+                        Path(save_path).unlink()
+                    except Exception:
+                        pass
+                    print(f"Failed to download PDF - response was {looks_like}, "
+                          f"not a real PDF (url: {pdf_url})")
+                    return False
                 return True
             elif response.status_code == 403:
                 print(f"PDF access forbidden (403) - likely requires subscription or login")
