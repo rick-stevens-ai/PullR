@@ -91,3 +91,6 @@ quantum_papers/
 
 # Artifacts
 =6.0.10
+
+# secrets
+.env
