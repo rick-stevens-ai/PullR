@@ -21,6 +21,27 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from openai import OpenAI, OpenAIError
 import requests
 
+# Auto-load environment variables from a local .env (no hard dependency on
+# python-dotenv; we ship a tiny parser so things just work).
+def _autoload_dotenv():
+    here = Path(__file__).resolve().parent
+    for candidate in (here / ".env", Path.cwd() / ".env"):
+        if not candidate.is_file():
+            continue
+        try:
+            for line in candidate.read_text().splitlines():
+                line = line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                k, v = line.split("=", 1)
+                k = k.strip()
+                v = v.strip().strip('"').strip("'")
+                # Don't clobber values the caller already set explicitly.
+                os.environ.setdefault(k, v)
+        except Exception:
+            pass
+_autoload_dotenv()
+
 try:
     import PyPDF2
     PDF_SUPPORT = True
@@ -2631,9 +2652,18 @@ Examples:
                 print(f"Warning: Requested sample size ({args.sample}) is larger than available PDFs ({len(pdf_files)}). Processing all PDFs.")
                 args.sample = None
     
-    # Get Semantic Scholar API key from environment if not provided
-    ss_api_key = args.ss_api_key or os.environ.get('SS-API-KEY') or os.environ.get('SEMANTIC_SCHOLAR_API_KEY')
-    if not ss_api_key:
+    # Get Semantic Scholar API key from environment if not provided.
+    # Accept the common naming variants people use.
+    ss_api_key = (
+        args.ss_api_key
+        or os.environ.get('SS-API-KEY')
+        or os.environ.get('SS_API_KEY')
+        or os.environ.get('S2_API_KEY')
+        or os.environ.get('SEMANTIC_SCHOLAR_API_KEY')
+    )
+    if ss_api_key:
+        print(f"Using Semantic Scholar API key ({ss_api_key[:6]}…, len={len(ss_api_key)})")
+    else:
         print("Warning: No Semantic Scholar API key provided. Rate limits may apply.")
 
     # Wire Unpaywall config into module-level globals so search_with_fallbacks

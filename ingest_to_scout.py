@@ -33,6 +33,26 @@ import os, sys, re, sqlite3, hashlib, time, subprocess, json, argparse
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+# Auto-load .env so an S2 API key set there is visible without `export`.
+def _autoload_dotenv():
+    for candidate in (
+        Path(__file__).resolve().parent.parent / ".env",   # ~/paper-index/.env
+        Path.home() / "Dropbox" / "PullR" / ".env",
+        Path.cwd() / ".env",
+    ):
+        if not candidate.is_file():
+            continue
+        try:
+            for line in candidate.read_text().splitlines():
+                line = line.strip()
+                if not line or line.startswith("#") or "=" not in line:
+                    continue
+                k, v = line.split("=", 1)
+                os.environ.setdefault(k.strip(), v.strip().strip('"').strip("'"))
+        except Exception:
+            pass
+_autoload_dotenv()
+
 DROPBOX = Path.home() / "Dropbox"
 SCOUT_DB = Path.home() / "paper-index" / "data" / "papers.sqlite"
 
@@ -107,9 +127,21 @@ def extract_pdf_meta(path, timeout=15):
     return title, doi
 
 
+def _get_s2_api_key():
+    """Return an S2 API key from any of the common env-var names, or None."""
+    for name in ("SS_API_KEY", "S2_API_KEY", "SEMANTIC_SCHOLAR_API_KEY", "SS-API-KEY"):
+        v = os.environ.get(name)
+        if v: return v
+    return None
+
+
 def s2_batch_lookup(sha1s, fields="title,abstract,year,venue,authors,externalIds,fieldsOfStudy,s2FieldsOfStudy,publicationTypes,publicationDate,referenceCount,citationCount,influentialCitationCount,openAccessPdf,journal", batch=400, verbose=False):
     """Bulk lookup of S2 paper IDs (SHA1 hex). Returns dict sha1 -> S2 record or None."""
     import requests
+    api_key = _get_s2_api_key()
+    headers = {"x-api-key": api_key} if api_key else {}
+    if verbose and api_key:
+        print(f"  [s2] using API key ({api_key[:6]}…)")
     out = {}
     for i in range(0, len(sha1s), batch):
         chunk = sha1s[i:i+batch]
@@ -118,6 +150,7 @@ def s2_batch_lookup(sha1s, fields="title,abstract,year,venue,authors,externalIds
                 r = requests.post(
                     "https://api.semanticscholar.org/graph/v1/paper/batch",
                     params={"fields": fields},
+                    headers=headers,
                     json={"ids": chunk}, timeout=60,
                 )
                 if r.status_code == 200:
@@ -133,7 +166,8 @@ def s2_batch_lookup(sha1s, fields="title,abstract,year,venue,authors,externalIds
             except Exception as e:
                 if verbose: print(f"  [s2] err {e}")
                 time.sleep(3)
-        time.sleep(1.2)  # polite spacing between batches
+        # With an API key we don't need a polite pause between batches.
+        time.sleep(0.2 if api_key else 1.2)
         if verbose: print(f"  [s2] processed {min(i+batch, len(sha1s)):,}/{len(sha1s):,}")
     return out
 
