@@ -1302,7 +1302,10 @@ def process_single_reference(args):
 
         if mode == 'exact':
             # Use fallback strategies for exact mode
-            papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, output_dir, api_config, adapter_cache)
+            # NOTE: adapter_cache is local to process_references() and is not threaded
+            # into this parallel worker's args tuple; pass None (search_with_fallbacks
+            # handles None) to avoid a NameError in the --parallel path.
+            papers, strategy = search_with_fallbacks(reference, client, openai_model, ss_api_key, verbose, output_dir, api_config, None)
             if papers:
                 result['success'] = True
                 result['strategy'] = strategy
@@ -1875,6 +1878,18 @@ def process_pdf_references(pdf_file, model_shortname, output_dir, ss_api_key=Non
     model_config = load_model_config(model_shortname, config_file)
     client = get_openai_client(model_config)
     openai_model = model_config.get('openai_model')
+
+    # Load API configuration for multi-API support (parallel worker unpacks api_config)
+    api_config = None
+    if MULTI_API_SUPPORT:
+        try:
+            api_config = load_api_config("api_config.yaml", verbose=verbose)
+        except FileNotFoundError:
+            if verbose:
+                print("Info: api_config.yaml not found, using Semantic Scholar only")
+        except Exception as e:
+            if verbose:
+                print(f"Warning: could not load api_config.yaml: {e}")
     
     # Create output directory
     os.makedirs(output_dir, exist_ok=True)
@@ -1929,7 +1944,7 @@ def process_pdf_references(pdf_file, model_shortname, output_dir, ss_api_key=Non
         for i, reference in enumerate(references):
             args_list.append((
                 reference, i, len(references), client, openai_model, ss_api_key,
-                output_dir, 'exact', 1, verbose, counters  # PDF mode always uses exact mode
+                output_dir, 'exact', 1, verbose, counters, api_config  # PDF mode always uses exact mode
             ))
         
         # Progress bars for parallel processing
@@ -2939,6 +2954,17 @@ Examples:
     except Exception as e:
         print(f"Error: {e}")
         sys.exit(1)
+
+    # Clean, prompt shutdown. On large batches the accumulated HTTP connection
+    # pools (OpenAI client / requests sessions) can keep the interpreter alive
+    # for a long time during normal teardown, which looks like a post-batch hang.
+    # All results are already flushed to disk by this point, so force a fast exit.
+    try:
+        sys.stdout.flush()
+        sys.stderr.flush()
+    except Exception:
+        pass
+    os._exit(0)
 
 if __name__ == "__main__":
     main()
