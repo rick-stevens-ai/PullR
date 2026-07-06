@@ -94,3 +94,8 @@ quantum_papers/
 
 # secrets
 .env
+
+# added by cross-machine reconcile
+MoE/
+runs/
+*.bak-*
