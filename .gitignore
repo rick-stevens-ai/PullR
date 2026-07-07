@@ -92,10 +92,11 @@ quantum_papers/
 # Artifacts
 =6.0.10
 
-# secrets
-.env
-
-# added by cross-machine reconcile
-MoE/
-runs/
-*.bak-*
+# Per-topic paper collections and analysis outputs
+T1E-*
+stellarator_*
+tritium_*
+vqe_*
+Type-One-Energy-*
+test-papers/
+test-refs.txt
