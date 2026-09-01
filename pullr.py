@@ -23,6 +23,53 @@ import requests
 
 
 # ---------------------------------------------------------------------------
+# Reasoning-model compatibility shim.
+# Newer OpenAI-family reasoning models (gpt-5*, o1/o3/o4*) reject a custom
+# `temperature` (only the default value 1 is supported) and use
+# `max_completion_tokens` instead of `max_tokens`. This helper routes every
+# chat call so callers can keep passing temperature/max_tokens uniformly and
+# the unsupported params are transparently dropped/renamed per model.
+# ---------------------------------------------------------------------------
+def _model_is_reasoning(openai_model):
+    m = (openai_model or "").lower()
+    # strip provider prefix like "argo:"
+    if ":" in m:
+        m = m.split(":", 1)[1]
+    return (
+        m.startswith("gpt-5")
+        or m.startswith("o1")
+        or m.startswith("o3")
+        or m.startswith("o4")
+    )
+
+
+def chat_create(client, openai_model, **kwargs):
+    """Wrapper around client.chat.completions.create that adapts params for
+    reasoning models (drops unsupported `temperature`, maps `max_tokens` ->
+    `max_completion_tokens`). Falls back gracefully if the server still
+    rejects a param."""
+    if _model_is_reasoning(openai_model):
+        kwargs.pop("temperature", None)
+        if "max_tokens" in kwargs:
+            kwargs["max_completion_tokens"] = kwargs.pop("max_tokens")
+    try:
+        return client.chat.completions.create(model=openai_model, **kwargs)
+    except OpenAIError as e:
+        msg = str(e).lower()
+        # Adaptive fallback: strip whatever param the server complains about.
+        changed = False
+        if "temperature" in msg and "temperature" in kwargs:
+            kwargs.pop("temperature", None); changed = True
+        if "max_tokens" in msg and "max_tokens" in kwargs:
+            kwargs["max_completion_tokens"] = kwargs.pop("max_tokens"); changed = True
+        elif "max_completion_tokens" in msg and "max_completion_tokens" in kwargs:
+            kwargs["max_tokens"] = kwargs.pop("max_completion_tokens"); changed = True
+        if not changed:
+            raise
+        return client.chat.completions.create(model=openai_model, **kwargs)
+
+
+# ---------------------------------------------------------------------------
 # Auto-load environment variables from a local .env (no hard dependency on
 # python-dotenv; we ship a tiny parser so things just work).
 # ---------------------------------------------------------------------------
@@ -293,8 +340,7 @@ Respond with ONLY "YES" if this chunk appears to contain references/bibliography
 
 {chunk_data['text'][:3000]}"""  # Use first 3000 chars to stay within limits
             
-            response_scan = client.chat.completions.create(
-                model=openai_model,
+            response_scan = chat_create(client, openai_model,
                 messages=[
                     {"role": "system", "content": system_prompt_scan},
                     {"role": "user", "content": user_prompt_scan},
@@ -355,8 +401,7 @@ Return each complete reference on its own line without numbering."""
 
 Return each complete reference on a separate line."""
             
-            response_extract = client.chat.completions.create(
-                model=openai_model,
+            response_extract = chat_create(client, openai_model,
                 messages=[
                     {"role": "system", "content": system_prompt_extract},
                     {"role": "user", "content": user_prompt_extract},
@@ -598,8 +643,7 @@ def preprocess_references(references, client, openai_model, verbose=False, sourc
             user_prompt = f"Clean and normalize these academic references:\n\n{batch_text}"
             
             try:
-                response = client.chat.completions.create(
-                    model=openai_model,
+                response = chat_create(client, openai_model,
                     messages=[
                         {"role": "system", "content": system_prompt},
                         {"role": "user", "content": user_prompt},
@@ -767,8 +811,7 @@ def extract_reference_info(reference_text, client, openai_model, mode='fuzzy'):
         user_prompt = f"Extract bibliographic information from this reference: {reference_text}"
         
         try:
-            response = client.chat.completions.create(
-                model=openai_model,
+            response = chat_create(client, openai_model,
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt},
@@ -800,8 +843,7 @@ def extract_reference_info(reference_text, client, openai_model, mode='fuzzy'):
         user_prompt = f"Extract search keywords from this reference: {reference_text}"
         
         try:
-            response = client.chat.completions.create(
-                model=openai_model,
+            response = chat_create(client, openai_model,
                 messages=[
                     {"role": "system", "content": system_prompt},
                     {"role": "user", "content": user_prompt},
@@ -1652,8 +1694,7 @@ URL: {scraped_data.get('url', 'No URL')}
 Content:
 {content}"""
         
-        response = client.chat.completions.create(
-            model=openai_model,
+        response = chat_create(client, openai_model,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
@@ -1744,8 +1785,7 @@ CURRENT ABSTRACT/CONTENT:
 
 Please optimize the title, clean up the formatting, and ensure everything is consistent and professional."""
         
-        response = client.chat.completions.create(
-            model=openai_model,
+        response = chat_create(client, openai_model,
             messages=[
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
